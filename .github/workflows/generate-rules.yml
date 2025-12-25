@@ -1,0 +1,98 @@
+name: Generate Rules
+
+on:
+  # push:
+  #   branches:
+  #     - '**'
+  schedule:
+    - cron: '00 22 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      TARGET_BRANCH: rules
+      CONFIG_FILE: "config.yaml"
+      CONFIG_FILE_GITHUB_PATH: "/tmp/config.github.yaml"
+      OUTPUT_RULES_GIT_COMMIT_PATH: "./rules/"
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Setup rules branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 检查分支是否存在
+          if git ls-remote --heads origin ${{ env.TARGET_BRANCH }} | grep -q refs/heads/${{ env.TARGET_BRANCH }}; then
+            echo "${{ env.TARGET_BRANCH }} 分支已存在，切换到 ${{ env.TARGET_BRANCH }} 分支..."
+            git checkout ${{ env.TARGET_BRANCH }}
+          else
+            echo "创建新的 ${{ env.TARGET_BRANCH }} 分支..."
+            git checkout --orphan ${{ env.TARGET_BRANCH }}
+            git rm -rf .
+          fi
+          
+          # 删除指定的输出目录
+          echo "删除旧的规则目录: ${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}"
+          rm -rf ${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}
+          
+          # 创建输出目录
+          mkdir -p ${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}
+          chmod -R 777 ${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}
+      
+      - name: Install yq
+        run: |
+          sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64
+          sudo chmod +x /usr/local/bin/yq
+
+      - name: Generate rules with Docker
+        run: |
+          # 从主分支获取配置文件
+          git show origin/master:${{ env.CONFIG_FILE }} > ${{ env.CONFIG_FILE_GITHUB_PATH }}
+          
+          echo "GitHub Action 专用配置文件路径: ${{ env.CONFIG_FILE_GITHUB_PATH }}"
+          
+          echo "设置 GitHub Action 专用配置文件内容..."
+          yq '
+            .proxy.enabled = false
+            | .["rule-sources"].github.token = "${{ secrets.GH_TOKEN_BAMZEST }}"
+            | .ai_classify_rules.enabled = false
+            | .generate_rules.enabled = true
+            | .logging.level = "info"
+          ' -i ${{ env.CONFIG_FILE_GITHUB_PATH }}
+          echo "GitHub Action 专用配置文件内容设置完成。"
+
+          # 从主分支获取 rule_config 目录
+          mkdir -p rule_config
+          git archive origin/master rule_config | tar -x
+
+          echo "读取输出规则路径..."
+          OUTPUT_RULES_DIR=$(yq '.generate_rules.output_rules_path' ${{ env.CONFIG_FILE_GITHUB_PATH }} | xargs dirname)
+          echo "输出规则路径: $OUTPUT_RULES_DIR"
+          
+          echo "使用 Docker 生成规则集..."
+          docker run --rm \
+            -v ${{ env.CONFIG_FILE_GITHUB_PATH }}:/app/config.yaml \
+            -v ${{ github.workspace }}/${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}:/app/${OUTPUT_RULES_DIR}/ \
+            -v ${{ github.workspace }}/rule_config/:/app/rule_config/ \
+            ghcr.io/bamzest/rulerefinery:latest || { echo "Docker 生成规则失败"; exit 1; }
+          
+          echo "添加规则文件..."
+          git add -A -f -- ${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}/
+
+          # 没变更就退出
+          if git diff --cached --quiet; then
+            echo "No changes in ${{ env.OUTPUT_RULES_GIT_COMMIT_PATH }}/, exiting..."
+            exit 0
+          fi
+
+          git commit -m "auto update rules - $(date +'%Y-%m-%d %H:%M:%S')"
+          git push origin ${{ env.TARGET_BRANCH }}
