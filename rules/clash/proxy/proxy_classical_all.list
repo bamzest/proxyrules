@@ -35,7 +35,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17470 rules)
+# DOMAIN-SUFFIX (17471 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -8225,6 +8225,7 @@ DOMAIN-SUFFIX,nanopool.org
 DOMAIN-SUFFIX,naoconto.com
 DOMAIN-SUFFIX,napiszex.com
 DOMAIN-SUFFIX,nenitas.club
+DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,nepusoku.com
 DOMAIN-SUFFIX,nesaporn.com
 DOMAIN-SUFFIX,neswangy.net
