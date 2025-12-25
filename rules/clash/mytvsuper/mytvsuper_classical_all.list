@@ -1,0 +1,15 @@
+# mytvsuper - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (2 rules)
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+
+# DOMAIN-SUFFIX (2 rules)
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,mytvsuper.com
+
+# DOMAIN-KEYWORD (2 rules)
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive

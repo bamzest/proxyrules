@@ -1,0 +1,14 @@
+# netflix - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (4 rules)
+  - 'DOMAIN-KEYWORD,netflixdnstest'
+  - 'DOMAIN-KEYWORD,dualstack.apiproxy-'
+  - 'DOMAIN-KEYWORD,dualstack.ichnaea-web-'
+  - 'DOMAIN-KEYWORD,apiproxy-device-prod-nlb-'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.netflix.mediaclient'

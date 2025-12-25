@@ -1,0 +1,9 @@
+# disifanshi - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,4paradigm.com
+DOMAIN-SUFFIX,aihero100.com
+DOMAIN-SUFFIX,v1zhushou.com
+DOMAIN-SUFFIX,tuijianxitong.cn

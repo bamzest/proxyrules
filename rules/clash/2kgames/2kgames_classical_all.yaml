@@ -1,0 +1,10 @@
+# 2kgames - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,2k.com'
+  - 'DOMAIN-SUFFIX,2kgames.com'
+  - 'DOMAIN-SUFFIX,take2games.com'
+  - 'DOMAIN-SUFFIX,2kcoretech.online'

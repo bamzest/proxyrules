@@ -1,0 +1,8 @@
+# atomdata - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,atom-data.io
+DOMAIN-SUFFIX,ironbeast.io
+DOMAIN-SUFFIX,analytics-data.io

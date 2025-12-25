@@ -1,0 +1,16 @@
+# cwseed - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (2 rules)
+DOMAIN,cwtv-amd-akamai.akamaized.net
+DOMAIN,edge.cwtv-vod-ext.top.comcast.net
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,cwtv.com
+DOMAIN-SUFFIX,cwseed.com
+DOMAIN-SUFFIX,thecwvideo.com
+
+# PROCESS-NAME (2 rules)
+PROCESS-NAME,com.cw.seed.android
+PROCESS-NAME,com.cw.fullepisodes.android

@@ -1,0 +1,19 @@
+# localareanetwork - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # PROCESS-NAME (12 rules)
+  - 'PROCESS-NAME,v2ctl.exe'
+  - 'PROCESS-NAME,v2ray.exe'
+  - 'PROCESS-NAME,trojan.exe'
+  - 'PROCESS-NAME,ss-local.exe'
+  - 'PROCESS-NAME,ssr-local.exe'
+  - 'PROCESS-NAME,simple-obfs.exe'
+  - 'PROCESS-NAME,v2ray-plugin.exe'
+  - 'PROCESS-NAME,verge-mihomo.exe'
+  - 'PROCESS-NAME,stairspeedtest.exe'
+  - 'PROCESS-NAME,shadowsocks-win.exe'
+  - 'PROCESS-NAME,shadowsocksr-win.exe'
+  - 'PROCESS-NAME,verge-mihomo-alpha.exe'

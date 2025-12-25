@@ -1,0 +1,11 @@
+# keep - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,keep.com'
+  - 'DOMAIN-SUFFIX,keep.com.cn'
+  - 'DOMAIN-SUFFIX,keepcdn.com'
+  - 'DOMAIN-SUFFIX,gotokeep.com'
+  - 'DOMAIN-SUFFIX,calorietech.com'

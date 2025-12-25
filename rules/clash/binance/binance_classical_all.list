@@ -1,0 +1,17 @@
+# binance - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (12 rules)
+DOMAIN-SUFFIX,bnbzh.ac
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,bnappzh.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancefuture.com

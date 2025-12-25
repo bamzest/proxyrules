@@ -1,0 +1,11 @@
+# yizhibo - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,yzbo.tv'
+  - 'DOMAIN-SUFFIX,sndks.com'
+  - 'DOMAIN-SUFFIX,yizhibo.com'
+  - 'DOMAIN-SUFFIX,hifengli.com'
+  - 'DOMAIN-SUFFIX,liexiulive.com'

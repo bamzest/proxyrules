@@ -1,0 +1,17 @@
+# ku6 - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (11 rules)
+  - 'DOMAIN-SUFFIX,ku6.cn'
+  - 'DOMAIN-SUFFIX,ku6.com'
+  - 'DOMAIN-SUFFIX,ku6.net'
+  - 'DOMAIN-SUFFIX,feedsp.com'
+  - 'DOMAIN-SUFFIX,juchang.cn'
+  - 'DOMAIN-SUFFIX,ku6.com.cn'
+  - 'DOMAIN-SUFFIX,ku6cdn.com'
+  - 'DOMAIN-SUFFIX,ku6img.com'
+  - 'DOMAIN-SUFFIX,ku6vms.com'
+  - 'DOMAIN-SUFFIX,weiguan.com'
+  - 'DOMAIN-SUFFIX,juchang.com.cn'

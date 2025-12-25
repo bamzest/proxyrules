@@ -1,0 +1,11 @@
+# protonmail - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,pm.me'
+  - 'DOMAIN-SUFFIX,proton.me'
+  - 'DOMAIN-SUFFIX,protonmail.ch'
+  - 'DOMAIN-SUFFIX,protonmail.com'
+  - 'DOMAIN-SUFFIX,protonstatus.com'

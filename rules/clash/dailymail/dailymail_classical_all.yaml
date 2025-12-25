@@ -1,0 +1,23 @@
+# dailymail - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (17 rules)
+  - 'DOMAIN-SUFFIX,mol.im'
+  - 'DOMAIN-SUFFIX,anm.co.uk'
+  - 'DOMAIN-SUFFIX,dailym.ai'
+  - 'DOMAIN-SUFFIX,thismon.ee'
+  - 'DOMAIN-SUFFIX,metro.co.uk'
+  - 'DOMAIN-SUFFIX,dailymail.dk'
+  - 'DOMAIN-SUFFIX,dailymail.com'
+  - 'DOMAIN-SUFFIX,mailhealth.com'
+  - 'DOMAIN-SUFFIX,mailonline.com'
+  - 'DOMAIN-SUFFIX,dailymail.co.uk'
+  - 'DOMAIN-SUFFIX,mailonsunday.ie'
+  - 'DOMAIN-SUFFIX,dailymail.com.au'
+  - 'DOMAIN-SUFFIX,mailonline.co.uk'
+  - 'DOMAIN-SUFFIX,thisismoney.co.uk'
+  - 'DOMAIN-SUFFIX,mailonsunday.co.uk'
+  - 'DOMAIN-SUFFIX,dailymailonline.com'
+  - 'DOMAIN-SUFFIX,dmgmediaprivacy.co.uk'

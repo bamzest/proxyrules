@@ -1,0 +1,8 @@
+# xiaomi - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+
+# PROCESS-NAME (2 rules)
+PROCESS-NAME,小米云服务.exe
+PROCESS-NAME,com.xiaomi.mibrain.speech

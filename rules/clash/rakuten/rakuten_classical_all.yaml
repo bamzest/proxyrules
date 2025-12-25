@@ -1,0 +1,24 @@
+# rakuten - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (18 rules)
+  - 'DOMAIN-SUFFIX,o50.jp'
+  - 'DOMAIN-SUFFIX,r10.to'
+  - 'DOMAIN-SUFFIX,r10s.jp'
+  - 'DOMAIN-SUFFIX,r10s.com'
+  - 'DOMAIN-SUFFIX,rclon.com'
+  - 'DOMAIN-SUFFIX,viber.com'
+  - 'DOMAIN-SUFFIX,ebates.com'
+  - 'DOMAIN-SUFFIX,rakuten.ca'
+  - 'DOMAIN-SUFFIX,rakuten.tw'
+  - 'DOMAIN-SUFFIX,rebates.jp'
+  - 'DOMAIN-SUFFIX,rakuten.com'
+  - 'DOMAIN-SUFFIX,viber.co.jp'
+  - 'DOMAIN-SUFFIX,rakuten.co.jp'
+  - 'DOMAIN-SUFFIX,rakuten.ne.jp'
+  - 'DOMAIN-SUFFIX,infoseek.co.jp'
+  - 'DOMAIN-SUFFIX,rakuten.com.tw'
+  - 'DOMAIN-SUFFIX,showtime.co.jp'
+  - 'DOMAIN-SUFFIX,rakuten-static.com'

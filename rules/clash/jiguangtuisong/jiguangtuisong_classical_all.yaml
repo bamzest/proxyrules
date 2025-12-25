@@ -1,0 +1,24 @@
+# jiguangtuisong - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (18 rules)
+  - 'DOMAIN-SUFFIX,42r.cn'
+  - 'DOMAIN-SUFFIX,e0n.cn'
+  - 'DOMAIN-SUFFIX,kc9.cn'
+  - 'DOMAIN-SUFFIX,n0q.cn'
+  - 'DOMAIN-SUFFIX,s0n.cn'
+  - 'DOMAIN-SUFFIX,jmlk.co'
+  - 'DOMAIN-SUFFIX,japps.cn'
+  - 'DOMAIN-SUFFIX,jchat.io'
+  - 'DOMAIN-SUFFIX,jpush.cn'
+  - 'DOMAIN-SUFFIX,jpush.io'
+  - 'DOMAIN-SUFFIX,jvoice.cn'
+  - 'DOMAIN-SUFFIX,5566ua.com'
+  - 'DOMAIN-SUFFIX,jiguang.cn'
+  - 'DOMAIN-SUFFIX,jsurvey.cn'
+  - 'DOMAIN-SUFFIX,jpushoa.com'
+  - 'DOMAIN-SUFFIX,pushcfg.com'
+  - 'DOMAIN-SUFFIX,aurorapush.cn'
+  - 'DOMAIN-SUFFIX,easytomessage.com'

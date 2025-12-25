@@ -1,0 +1,44 @@
+# chinamobile - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (35 rules)
+  - 'DOMAIN-SUFFIX,139.com'
+  - 'DOMAIN-SUFFIX,migu.cn'
+  - 'DOMAIN-SUFFIX,10086.cn'
+  - 'DOMAIN-SUFFIX,andfx.cn'
+  - 'DOMAIN-SUFFIX,cmdcl.cn'
+  - 'DOMAIN-SUFFIX,lovev.cn'
+  - 'DOMAIN-SUFFIX,12530.com'
+  - 'DOMAIN-SUFFIX,andfx.net'
+  - 'DOMAIN-SUFFIX,lovev.com'
+  - 'DOMAIN-SUFFIX,migucc.cn'
+  - 'DOMAIN-SUFFIX,zdsdp.com'
+  - 'DOMAIN-SUFFIX,cmicrwx.cn'
+  - 'DOMAIN-SUFFIX,cmvideo.cn'
+  - 'DOMAIN-SUFFIX,migucdn.cn'
+  - 'DOMAIN-SUFFIX,migufm.com'
+  - 'DOMAIN-SUFFIX,migugk.com'
+  - 'DOMAIN-SUFFIX,migutv.com'
+  - 'DOMAIN-SUFFIX,cmccb2b.com'
+  - 'DOMAIN-SUFFIX,cmdcxls.com'
+  - 'DOMAIN-SUFFIX,fxltsbl.com'
+  - 'DOMAIN-SUFFIX,mmarket.com'
+  - 'DOMAIN-SUFFIX,cxzx10086.cn'
+  - 'DOMAIN-SUFFIX,mmarket6.com'
+  - 'DOMAIN-SUFFIX,fetionpic.com'
+  - 'DOMAIN-SUFFIX,migucloud.com'
+  - 'DOMAIN-SUFFIX,miguvideo.com'
+  - 'DOMAIN-SUFFIX,monternet.com'
+  - 'DOMAIN-SUFFIX,cmpassport.com'
+  - 'DOMAIN-SUFFIX,chinamobile.com'
+  - 'DOMAIN-SUFFIX,10086kuaixiu.com'
+  - 'DOMAIN-SUFFIX,miguvideo.com.cn'
+  - 'DOMAIN-SUFFIX,warmchina121.com'
+  - 'DOMAIN-SUFFIX,fetion-portal.com'
+  - 'DOMAIN-SUFFIX,chinamobileltd.com'
+  - 'DOMAIN-SUFFIX,chinamobiledevice.com'
+
+  # IP-CIDR (1 rules)
+  - 'IP-CIDR,117.161.2.5/32'

@@ -1,0 +1,18 @@
+# appletv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (6 rules)
+  - 'DOMAIN,tv.applemusic.com'
+  - 'DOMAIN,hls.itunes.apple.com'
+  - 'DOMAIN,hls-amt.itunes.apple.com'
+  - 'DOMAIN,np-edge.itunes.apple.com'
+  - 'DOMAIN,uts-api.itunes.apple.com'
+  - 'DOMAIN,play-edge.itunes.apple.com'
+
+  # DOMAIN-SUFFIX (1 rules)
+  - 'DOMAIN-SUFFIX,tv.apple.com'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,TV'

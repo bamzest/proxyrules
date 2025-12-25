@@ -1,0 +1,12 @@
+# italkbb - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,italkbb.com'
+  - 'DOMAIN-SUFFIX,italkbbtv.com'
+  - 'DOMAIN-SUFFIX,api.tv.colnv.com'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.italkbbtv.phone'

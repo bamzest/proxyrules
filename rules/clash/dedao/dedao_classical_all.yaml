@@ -1,0 +1,14 @@
+# dedao - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (8 rules)
+  - 'DOMAIN-SUFFIX,sao.cn'
+  - 'DOMAIN-SUFFIX,biji.com'
+  - 'DOMAIN-SUFFIX,mogoo.com'
+  - 'DOMAIN-SUFFIX,ddmogo.com'
+  - 'DOMAIN-SUFFIX,igetget.cn'
+  - 'DOMAIN-SUFFIX,igetget.com'
+  - 'DOMAIN-SUFFIX,saolife.com'
+  - 'DOMAIN-SUFFIX,luojilab.com'

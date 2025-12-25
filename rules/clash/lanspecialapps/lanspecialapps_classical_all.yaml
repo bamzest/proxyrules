@@ -1,0 +1,28 @@
+# lanspecialapps - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # IP-CIDR (1 rules)
+  - 'IP-CIDR,224.0.0.251/24'
+
+  # PROCESS-NAME (19 rules)
+  - 'PROCESS-NAME,MAFSvr.exe'
+  - 'PROCESS-NAME,devcon.exe'
+  - 'PROCESS-NAME,distfile.exe'
+  - 'PROCESS-NAME,MiPCAudio.exe'
+  - 'PROCESS-NAME,com.xiaomi.mis'
+  - 'PROCESS-NAME,PcClipboard.exe'
+  - 'PROCESS-NAME,dist_service.exe'
+  - 'PROCESS-NAME,MiScreenShare.exe'
+  - 'PROCESS-NAME,com.milink.service'
+  - 'PROCESS-NAME,micont_service.exe'
+  - 'PROCESS-NAME,MiHygieneBroker.exe'
+  - 'PROCESS-NAME,MiPlayCastService.exe'
+  - 'PROCESS-NAME,DistributedService.exe'
+  - 'PROCESS-NAME,MiSmartShareDevice.exe'
+  - 'PROCESS-NAME,MiSmartShareHandoff.exe'
+  - 'PROCESS-NAME,ScreenShareLauncher.exe'
+  - 'PROCESS-NAME,MiDistributedCameraBroker.exe'
+  - 'PROCESS-NAME,com.xiaomi.mi_connect_service'
+  - 'PROCESS-NAME,MiDistributedCameraBroker32.exe'

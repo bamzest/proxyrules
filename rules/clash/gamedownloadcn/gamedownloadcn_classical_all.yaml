@@ -1,0 +1,24 @@
+# gamedownloadcn - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (15 rules)
+  - 'DOMAIN,st.dl.eccdnx.com'
+  - 'DOMAIN,assets1.xboxlive.cn'
+  - 'DOMAIN,assets2.xboxlive.cn'
+  - 'DOMAIN,dl.steam.clngaa.com'
+  - 'DOMAIN,trts.baishancdnx.cn'
+  - 'DOMAIN,st.dl.bscstorage.net'
+  - 'DOMAIN,xz.pphimalayanrt.com'
+  - 'DOMAIN,dl.delivery.mp.microsoft.com'
+  - 'DOMAIN,cdn-qc.content.steamchina.com'
+  - 'DOMAIN,cdn-ws.content.steamchina.com'
+  - 'DOMAIN,cdn-ali.content.steamchina.com'
+  - 'DOMAIN,tlu.dl.delivery.mp.microsoft.com'
+  - 'DOMAIN,steampipe.steamcontent.tnkjmec.com'
+  - 'DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn'
+  - 'DOMAIN,epicgames-download1-1251447533.file.myqcloud.com'
+
+  # DOMAIN-SUFFIX (1 rules)
+  - 'DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn'

@@ -1,0 +1,10 @@
+# vipshop - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,vip.com'
+  - 'DOMAIN-SUFFIX,appsimg.com'
+  - 'DOMAIN-SUFFIX,vipstatic.com'
+  - 'DOMAIN-SUFFIX,appvipshop.com'

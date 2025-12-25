@@ -1,0 +1,35 @@
+# proxylite - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (28 rules)
+  - 'DOMAIN-KEYWORD,1drv'
+  - 'DOMAIN-KEYWORD,avtb'
+  - 'DOMAIN-KEYWORD,porn'
+  - 'DOMAIN-KEYWORD,1e100'
+  - 'DOMAIN-KEYWORD,abema'
+  - 'DOMAIN-KEYWORD,fbcdn'
+  - 'DOMAIN-KEYWORD,gmail'
+  - 'DOMAIN-KEYWORD,ttvnw'
+  - 'DOMAIN-KEYWORD,github'
+  - 'DOMAIN-KEYWORD,google'
+  - 'DOMAIN-KEYWORD,paypal'
+  - 'DOMAIN-KEYWORD,beetalk'
+  - 'DOMAIN-KEYWORD,dropbox'
+  - 'DOMAIN-KEYWORD,sci-hub'
+  - 'DOMAIN-KEYWORD,spotify'
+  - 'DOMAIN-KEYWORD,twitter'
+  - 'DOMAIN-KEYWORD,uk-live'
+  - 'DOMAIN-KEYWORD,youtube'
+  - 'DOMAIN-KEYWORD,blogspot'
+  - 'DOMAIN-KEYWORD,facebook'
+  - 'DOMAIN-KEYWORD,onedrive'
+  - 'DOMAIN-KEYWORD,skydrive'
+  - 'DOMAIN-KEYWORD,telegram'
+  - 'DOMAIN-KEYWORD,whatsapp'
+  - 'DOMAIN-KEYWORD,dlercloud'
+  - 'DOMAIN-KEYWORD,instagram'
+  - 'DOMAIN-KEYWORD,appledaily'
+  - 'DOMAIN-KEYWORD,.pinterest.'

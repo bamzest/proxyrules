@@ -1,0 +1,9 @@
+# anaconda - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,conda.io
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,anaconda.cloud

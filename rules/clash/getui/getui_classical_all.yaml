@@ -1,0 +1,29 @@
+# getui - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (23 rules)
+  - 'DOMAIN-SUFFIX,ge.cn'
+  - 'DOMAIN-SUFFIX,applk.cn'
+  - 'DOMAIN-SUFFIX,getui.cn'
+  - 'DOMAIN-SUFFIX,fangyi.cn'
+  - 'DOMAIN-SUFFIX,getui.com'
+  - 'DOMAIN-SUFFIX,getui.net'
+  - 'DOMAIN-SUFFIX,huadan.in'
+  - 'DOMAIN-SUFFIX,abeacon.cn'
+  - 'DOMAIN-SUFFIX,acloud.com'
+  - 'DOMAIN-SUFFIX,baywest.ac'
+  - 'DOMAIN-SUFFIX,gepush.com'
+  - 'DOMAIN-SUFFIX,geseek.com'
+  - 'DOMAIN-SUFFIX,igehuo.com'
+  - 'DOMAIN-SUFFIX,igetui.com'
+  - 'DOMAIN-SUFFIX,igexin.com'
+  - 'DOMAIN-SUFFIX,pusure.com'
+  - 'DOMAIN-SUFFIX,abeacon.com'
+  - 'DOMAIN-SUFFIX,cooltui.com'
+  - 'DOMAIN-SUFFIX,geatmap.com'
+  - 'DOMAIN-SUFFIX,geindex.com'
+  - 'DOMAIN-SUFFIX,12322app.com'
+  - 'DOMAIN-SUFFIX,lmmindex.com'
+  - 'DOMAIN-SUFFIX,viyouhui.com'

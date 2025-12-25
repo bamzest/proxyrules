@@ -1,0 +1,11 @@
+# picsee - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,pse.is
+DOMAIN-SUFFIX,pics.ee
+DOMAIN-SUFFIX,pise.pw
+DOMAIN-SUFFIX,pros.ee
+DOMAIN-SUFFIX,picsee.co
+DOMAIN-SUFFIX,picsee.pro

@@ -1,0 +1,11 @@
+# 8btc - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,8btc.com'
+  - 'DOMAIN-SUFFIX,bystack.com'
+  - 'DOMAIN-SUFFIX,matpool.com'
+  - 'DOMAIN-SUFFIX,matpool.net'
+  - 'DOMAIN-SUFFIX,chainnode.com'

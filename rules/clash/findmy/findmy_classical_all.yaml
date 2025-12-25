@@ -1,0 +1,9 @@
+# findmy - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (3 rules)
+  - 'DOMAIN,statici.icloud.com'
+  - 'DOMAIN,fmfmobile.icloud.com'
+  - 'DOMAIN,fmipmobile.icloud.com'

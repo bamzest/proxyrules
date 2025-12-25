@@ -1,0 +1,13 @@
+# entrust - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,atos.net'
+  - 'DOMAIN-SUFFIX,myatos.net'
+  - 'DOMAIN-SUFFIX,entrust.net'
+  - 'DOMAIN-SUFFIX,trendmicro.com'
+  - 'DOMAIN-SUFFIX,affirmtrust.com'
+  - 'DOMAIN-SUFFIX,certificat2.com'
+  - 'DOMAIN-SUFFIX,entrustdatacard.com'

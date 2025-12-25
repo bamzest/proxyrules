@@ -1,0 +1,14 @@
+# notion - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,http-inputs-notion.splunkcloud.com'
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,notion.so'
+  - 'DOMAIN-SUFFIX,notion.com'
+  - 'DOMAIN-SUFFIX,notion.new'
+  - 'DOMAIN-SUFFIX,notion.site'
+  - 'DOMAIN-SUFFIX,notion-static.com'

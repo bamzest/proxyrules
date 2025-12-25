@@ -1,0 +1,11 @@
+# tver - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,tver.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,edge.api.brightcove.com

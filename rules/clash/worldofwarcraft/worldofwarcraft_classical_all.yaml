@@ -1,0 +1,14 @@
+# worldofwarcraft - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # IP-CIDR (8 rules)
+  - 'IP-CIDR,103.4.115.248/32'
+  - 'IP-CIDR,137.221.105.2/32'
+  - 'IP-CIDR,185.60.112.157/32'
+  - 'IP-CIDR,185.60.112.158/32'
+  - 'IP-CIDR,185.60.114.159/32'
+  - 'IP-CIDR,210.71.148.11/32'
+  - 'IP-CIDR,211.115.104.1/32'
+  - 'IP-CIDR,24.105.62.129/32'

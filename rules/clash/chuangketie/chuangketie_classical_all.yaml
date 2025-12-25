@@ -1,0 +1,11 @@
+# chuangketie - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,ckt.cn'
+  - 'DOMAIN-SUFFIX,byfan.cn'
+  - 'DOMAIN-SUFFIX,huoziyin.cn'
+  - 'DOMAIN-SUFFIX,huoziyin.com'
+  - 'DOMAIN-SUFFIX,chuangkit.com'

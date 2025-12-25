@@ -1,0 +1,12 @@
+# copilot - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (1 rules)
+  - 'DOMAIN-KEYWORD,openaicom-api'
+
+  # IP-ASN (2 rules)
+  - 'IP-ASN,14061,no-resolve'
+  - 'IP-ASN,20473,no-resolve'

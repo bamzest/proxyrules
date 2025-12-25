@@ -1,0 +1,7 @@
+# wetype - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,wetype.weixin.qq.com'

@@ -1,0 +1,14 @@
+# remotedesktop - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# PROCESS-NAME (9 rules)
+PROCESS-NAME,mstsc.exe
+PROCESS-NAME,ToDesk.exe
+PROCESS-NAME,devcon.exe
+PROCESS-NAME,CrashReport.exe
+PROCESS-NAME,ToDesk_Setup.exe
+PROCESS-NAME,SunloginClient.exe
+PROCESS-NAME,ToDesk_Service.exe
+PROCESS-NAME,ToDesk_Session.exe
+PROCESS-NAME,DriverInstaller.exe

@@ -1,0 +1,16 @@
+# googledrive - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,www.googleapis.com'
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,docs.google.com'
+  - 'DOMAIN-SUFFIX,googledrive.com'
+  - 'DOMAIN-SUFFIX,drive.google.com'
+  - 'DOMAIN-SUFFIX,googleusercontent.com'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,BackupandSync'

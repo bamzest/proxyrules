@@ -1,0 +1,13 @@
+# hunantv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,imgo.tv'
+  - 'DOMAIN-SUFFIX,hitv.com'
+  - 'DOMAIN-SUFFIX,mgtv.com'
+  - 'DOMAIN-SUFFIX,tazai.com'
+  - 'DOMAIN-SUFFIX,hifuntv.com'
+  - 'DOMAIN-SUFFIX,hunantv.com'
+  - 'DOMAIN-SUFFIX,hunaniptv.com'

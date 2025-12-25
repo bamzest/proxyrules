@@ -1,0 +1,10 @@
+# iqiyihmt - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,cache.video.iqiyi.com'
+
+  # DOMAIN-SUFFIX (1 rules)
+  - 'DOMAIN-SUFFIX,iq.com'

@@ -1,0 +1,11 @@
+# teams - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,teams.events.data.microsoft.com
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,teams.live.com
+DOMAIN-SUFFIX,teams.cdn.live.net
+DOMAIN-SUFFIX,teams.microsoft.com

@@ -1,0 +1,10 @@
+# shanghaijuxiao - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,mvad.com
+DOMAIN-SUFFIX,mdvdns.com
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,bubuying.net
+DOMAIN-SUFFIX,kuaishuru.net

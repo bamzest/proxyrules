@@ -1,0 +1,9 @@
+payload:
+  - '+.consul.io'
+  - '+.packer.io'
+  - '+.terraform.io'
+  - '+.hashicorp.com'
+  - '+.vagrantup.com'
+  - '+.nomadproject.io'
+  - '+.vaultproject.io'
+  - '+.vagrantcloud.com'

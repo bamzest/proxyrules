@@ -1,0 +1,11 @@
+# twitch - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (1 rules)
+  - 'DOMAIN-KEYWORD,ttvnw'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,tv.twitch.android.app'

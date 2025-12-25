@@ -1,0 +1,10 @@
+# spark - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,readdle.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,hockeyapp.net
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,smartmailcloud.com

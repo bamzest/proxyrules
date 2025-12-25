@@ -1,0 +1,23 @@
+# dropbox - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (17 rules)
+  - 'DOMAIN-SUFFIX,db.tt'
+  - 'DOMAIN-SUFFIX,dropbox.com'
+  - 'DOMAIN-SUFFIX,dropbox.tech'
+  - 'DOMAIN-SUFFIX,dropboxapi.com'
+  - 'DOMAIN-SUFFIX,getdropbox.com'
+  - 'DOMAIN-SUFFIX,dropbox-dns.com'
+  - 'DOMAIN-SUFFIX,dropboxmail.com'
+  - 'DOMAIN-SUFFIX,dropboxforum.com'
+  - 'DOMAIN-SUFFIX,dropboxforums.com'
+  - 'DOMAIN-SUFFIX,dropboxstatic.com'
+  - 'DOMAIN-SUFFIX,dropboxcaptcha.com'
+  - 'DOMAIN-SUFFIX,dropbox.zendesk.com'
+  - 'DOMAIN-SUFFIX,dropboxbusiness.com'
+  - 'DOMAIN-SUFFIX,dropboxinsiders.com'
+  - 'DOMAIN-SUFFIX,dropboxpartners.com'
+  - 'DOMAIN-SUFFIX,dropboxusercontent.com'
+  - 'DOMAIN-SUFFIX,paper-attachments.s3.amazonaws.com'

@@ -1,0 +1,11 @@
+# python - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org

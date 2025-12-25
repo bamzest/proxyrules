@@ -1,0 +1,29 @@
+# apple - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (7 rules)
+  - 'DOMAIN-KEYWORD,smp-device'
+  - 'DOMAIN-KEYWORD,testflight'
+  - 'DOMAIN-KEYWORD,apple.com.akadns.net'
+  - 'DOMAIN-KEYWORD,buy.itunes.apple.com'
+  - 'DOMAIN-KEYWORD,apple.com.edgekey.net'
+  - 'DOMAIN-KEYWORD,icloud.com.akadns.net'
+  - 'DOMAIN-KEYWORD,apple-support.akadns.net'
+
+  # PROCESS-NAME (13 rules)
+  - 'PROCESS-NAME,TV'
+  - 'PROCESS-NAME,apsd'
+  - 'PROCESS-NAME,fmfd'
+  - 'PROCESS-NAME,Music'
+  - 'PROCESS-NAME,trustd'
+  - 'PROCESS-NAME,netbiosd'
+  - 'PROCESS-NAME,mapspushd'
+  - 'PROCESS-NAME,WeatherWidget'
+  - 'PROCESS-NAME,com.apple.Maps'
+  - 'PROCESS-NAME,com.apple.geod'
+  - 'PROCESS-NAME,CoreLocationAgent'
+  - 'PROCESS-NAME,LookupViewService'
+  - 'PROCESS-NAME,findmydevice-user-agent'

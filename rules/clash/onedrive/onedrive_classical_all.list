@@ -1,0 +1,27 @@
+# onedrive - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (13 rules)
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,oneclient.sfx.ms
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+
+# DOMAIN-KEYWORD (3 rules)
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+
+# PROCESS-NAME (2 rules)
+PROCESS-NAME,OneDrive
+PROCESS-NAME,OneDriveUpdater

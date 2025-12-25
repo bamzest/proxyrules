@@ -1,0 +1,12 @@
+# meituan - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,dianping.com

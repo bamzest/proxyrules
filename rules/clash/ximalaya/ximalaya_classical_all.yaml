@@ -1,0 +1,22 @@
+# ximalaya - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (16 rules)
+  - 'DOMAIN-SUFFIX,xima.tv'
+  - 'DOMAIN-SUFFIX,9nali.com'
+  - 'DOMAIN-SUFFIX,xmcdn.com'
+  - 'DOMAIN-SUFFIX,ximalaya.fm'
+  - 'DOMAIN-SUFFIX,ximalaya.tv'
+  - 'DOMAIN-SUFFIX,zhishif.com'
+  - 'DOMAIN-SUFFIX,zhishiu.com'
+  - 'DOMAIN-SUFFIX,zhishiv.com'
+  - 'DOMAIN-SUFFIX,ximalaya.com'
+  - 'DOMAIN-SUFFIX,zhishinn.com'
+  - 'DOMAIN-SUFFIX,conchdate.com'
+  - 'DOMAIN-SUFFIX,himalaya.cool'
+  - 'DOMAIN-SUFFIX,soundconch.com'
+  - 'DOMAIN-SUFFIX,qingxuetang.com'
+  - 'DOMAIN-SUFFIX,tableauxmly.com'
+  - 'DOMAIN-SUFFIX,ximalayadata.com'

@@ -1,0 +1,24 @@
+# telegram - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (2 rules)
+  - 'DOMAIN-KEYWORD,nicegram'
+  - 'DOMAIN-KEYWORD,telegram'
+
+  # IP-ASN (5 rules)
+  - 'IP-ASN,211157,no-resolve'
+  - 'IP-ASN,44907,no-resolve'
+  - 'IP-ASN,59930,no-resolve'
+  - 'IP-ASN,62014,no-resolve'
+  - 'IP-ASN,62041,no-resolve'
+
+  # PROCESS-NAME (6 rules)
+  - 'PROCESS-NAME,Telegram.exe'
+  - 'PROCESS-NAME,nekox.messenger'
+  - 'PROCESS-NAME,telegram-desktop'
+  - 'PROCESS-NAME,tw.nekomimi.nekogram'
+  - 'PROCESS-NAME,xyz.nextalone.nagram'
+  - 'PROCESS-NAME,org.telegram.messenger'

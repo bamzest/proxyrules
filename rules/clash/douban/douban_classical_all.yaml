@@ -1,0 +1,9 @@
+# douban - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,douban.fm'
+  - 'DOMAIN-SUFFIX,douban.com'
+  - 'DOMAIN-SUFFIX,doubanio.com'

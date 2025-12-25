@@ -1,0 +1,19 @@
+# salesforce - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (13 rules)
+  - 'DOMAIN-SUFFIX,force.com'
+  - 'DOMAIN-SUFFIX,heroku.com'
+  - 'DOMAIN-SUFFIX,tableau.com'
+  - 'DOMAIN-SUFFIX,mulesoft.com'
+  - 'DOMAIN-SUFFIX,herokuapp.com'
+  - 'DOMAIN-SUFFIX,herokucdn.com'
+  - 'DOMAIN-SUFFIX,trailhead.com'
+  - 'DOMAIN-SUFFIX,salesforce.com'
+  - 'DOMAIN-SUFFIX,salesforce.org'
+  - 'DOMAIN-SUFFIX,sfdcstatic.com'
+  - 'DOMAIN-SUFFIX,trailblazer.me'
+  - 'DOMAIN-SUFFIX,sfdcdigital.com'
+  - 'DOMAIN-SUFFIX,salesforceliveagent.com'

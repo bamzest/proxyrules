@@ -1,0 +1,12 @@
+# redhat - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,jboss.org
+DOMAIN-SUFFIX,noobaa.io
+DOMAIN-SUFFIX,3scale.net
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,ansible.com
+DOMAIN-SUFFIX,stackrox.io
+DOMAIN-SUFFIX,feedhenry.org

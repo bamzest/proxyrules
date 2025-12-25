@@ -1,0 +1,9 @@
+# steam - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-KEYWORD (3 rules)
+DOMAIN-KEYWORD,steamstore
+DOMAIN-KEYWORD,steambroadcast
+DOMAIN-KEYWORD,steamuserimages

@@ -1,0 +1,10 @@
+# litv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
+
+  # DOMAIN-SUFFIX (1 rules)
+  - 'DOMAIN-SUFFIX,litv.tv'

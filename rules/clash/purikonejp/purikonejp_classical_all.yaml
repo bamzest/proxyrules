@@ -1,0 +1,9 @@
+# purikonejp - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,omotenashi.cygames.jp'
+  - 'DOMAIN-SUFFIX,api-priconne-redive.cygames.jp'
+  - 'DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net'

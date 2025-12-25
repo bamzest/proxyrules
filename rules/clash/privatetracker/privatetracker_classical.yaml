@@ -1,0 +1,12 @@
+# privatetracker - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (5 rules)
+  - 'DOMAIN-KEYWORD,m-team'
+  - 'DOMAIN-KEYWORD,chdbits'
+  - 'DOMAIN-KEYWORD,torrent'
+  - 'DOMAIN-KEYWORD,tracker'
+  - 'DOMAIN-KEYWORD,announce'

@@ -1,0 +1,10 @@
+# chengtongwangpan - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,n802.com'
+  - 'DOMAIN-SUFFIX,tv002.com'
+  - 'DOMAIN-SUFFIX,ctfile.com'
+  - 'DOMAIN-SUFFIX,ctfile.net'

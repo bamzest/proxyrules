@@ -1,0 +1,9 @@
+# duyoukeji - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,dyp365.com
+DOMAIN-SUFFIX,antpcdn.com
+DOMAIN-SUFFIX,pan-ics.com
+DOMAIN-SUFFIX,wangpan.com

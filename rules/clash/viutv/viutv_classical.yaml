@@ -1,0 +1,10 @@
+# viutv - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # PROCESS-NAME (3 rules)
+  - 'PROCESS-NAME,com.viu.pad'
+  - 'PROCESS-NAME,com.viu.phone'
+  - 'PROCESS-NAME,com.vuclip.viu'

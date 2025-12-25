@@ -1,0 +1,8 @@
+# liveperson - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,lpsnmedia.net
+DOMAIN-SUFFIX,liveperson.com
+DOMAIN-SUFFIX,liveperson.net

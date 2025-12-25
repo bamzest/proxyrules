@@ -1,0 +1,13 @@
+# jd - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (8 rules)
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jdpay.com
+DOMAIN-SUFFIX,360buy.com
+DOMAIN-SUFFIX,paipai.com
+DOMAIN-SUFFIX,jdcloud.com
+DOMAIN-SUFFIX,jcloudcs.com
+DOMAIN-SUFFIX,360buyimg.com

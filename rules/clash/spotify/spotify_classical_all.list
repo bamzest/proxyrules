@@ -1,0 +1,46 @@
+# spotify - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (6 rules)
+DOMAIN,spotify.map.fastly.net
+DOMAIN,spotify.map.fastlylb.net
+DOMAIN,spotify.com.edgesuite.net
+DOMAIN,heads-ak-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,cdn-spotify-experiments.conductrics.com
+
+# DOMAIN-SUFFIX (20 rules)
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotilocal.com
+DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotify.app.link
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,spotifynewsroom.jp
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify-com.akamaized.net
+DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+
+# DOMAIN-KEYWORD (4 rules)
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,-spotify-
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+
+# IP-CIDR (2 rules)
+IP-CIDR,104.154.127.126/32
+IP-CIDR,35.186.224.47/32
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.spotify.music

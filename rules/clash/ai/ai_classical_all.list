@@ -1,0 +1,62 @@
+# ai - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (12 rules)
+DOMAIN,api.groq.com
+DOMAIN,ai.google.dev
+DOMAIN,bard.google.com
+DOMAIN,sydney.bing.com
+DOMAIN,api.together.xyz
+DOMAIN,console.groq.com
+DOMAIN,gemini.google.com
+DOMAIN,aistudio.google.com
+DOMAIN,api.githubcopilot.com
+DOMAIN,notebooklm.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,copilot-proxy.githubusercontent.com
+
+# DOMAIN-SUFFIX (33 rules)
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,ai.azure.com
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,ai.jetbrains.com
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,copilot.cloud.microsoft
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+# DOMAIN-KEYWORD (8 rules)
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,grazie.ai
+DOMAIN-KEYWORD,monica.im
+DOMAIN-KEYWORD,openart.ai
+DOMAIN-KEYWORD,huggingface
+DOMAIN-KEYWORD,grazie.aws.intellij.net

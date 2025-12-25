@@ -1,0 +1,11 @@
+# chinadns - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,doh.360.cn
+DOMAIN-SUFFIX,dns.alidns.com
+
+# IP-CIDR (1 rules)
+IP-CIDR,1.12.12.12/32

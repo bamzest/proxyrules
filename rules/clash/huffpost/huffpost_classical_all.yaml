@@ -1,0 +1,24 @@
+# huffpost - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (18 rules)
+  - 'DOMAIN-SUFFIX,huffpost.com'
+  - 'DOMAIN-SUFFIX,huffingtonpost.ca'
+  - 'DOMAIN-SUFFIX,huffingtonpost.de'
+  - 'DOMAIN-SUFFIX,huffingtonpost.es'
+  - 'DOMAIN-SUFFIX,huffingtonpost.fr'
+  - 'DOMAIN-SUFFIX,huffingtonpost.gr'
+  - 'DOMAIN-SUFFIX,huffingtonpost.in'
+  - 'DOMAIN-SUFFIX,huffingtonpost.it'
+  - 'DOMAIN-SUFFIX,huffingtonpost.jp'
+  - 'DOMAIN-SUFFIX,huffingtonpost.kr'
+  - 'DOMAIN-SUFFIX,huffpostarabi.com'
+  - 'DOMAIN-SUFFIX,huffingtonpost.com'
+  - 'DOMAIN-SUFFIX,huffpostbrasil.com'
+  - 'DOMAIN-SUFFIX,huffpostmaghreb.com'
+  - 'DOMAIN-SUFFIX,huffingtonpost.co.uk'
+  - 'DOMAIN-SUFFIX,huffingtonpost.co.za'
+  - 'DOMAIN-SUFFIX,huffingtonpost.com.au'
+  - 'DOMAIN-SUFFIX,huffingtonpost.com.mx'

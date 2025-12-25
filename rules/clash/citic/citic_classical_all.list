@@ -1,0 +1,33 @@
+# citic - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (28 rules)
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,csci.hk
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,citic.com
+DOMAIN-SUFFIX,nic.citic
+DOMAIN-SUFFIX,citics.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,ecitic.net
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,group.citic
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,citicbank.cn
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citicbank.net
+DOMAIN-SUFFIX,citicbank.org
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,集团.中信
+DOMAIN-SUFFIX,citicbank.com.cn
+DOMAIN-SUFFIX,citicbank.net.cn
+DOMAIN-SUFFIX,citicbank.org.cn
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citicgroup.com.cn
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,citic-prudential.com.cn

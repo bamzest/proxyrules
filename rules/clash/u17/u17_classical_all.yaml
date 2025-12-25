@@ -1,0 +1,9 @@
+# u17 - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,u17.com'
+  - 'DOMAIN-SUFFIX,u17i.com'
+  - 'DOMAIN-SUFFIX,u17t.com'

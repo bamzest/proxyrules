@@ -1,0 +1,12 @@
+# cnn - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,cnn.io'
+  - 'DOMAIN-SUFFIX,cnn.it'
+  - 'DOMAIN-SUFFIX,cnn.com'
+  - 'DOMAIN-SUFFIX,cnnlabs.com'
+  - 'DOMAIN-SUFFIX,cnnmoney.ch'
+  - 'DOMAIN-SUFFIX,cnnarabic.com'

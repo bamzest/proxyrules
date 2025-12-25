@@ -1,0 +1,15 @@
+# cake - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (4 rules)
+  - 'DOMAIN,static-mycake.pstatic.net'
+  - 'DOMAIN,vstatic-mycake.pstatic.net'
+  - 'DOMAIN,d1koerlbtsmkf8.cloudfront.net'
+  - 'DOMAIN,d31wl6mro6753i.cloudfront.net'
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,cake.day'
+  - 'DOMAIN-SUFFIX,mycake.me'
+  - 'DOMAIN-SUFFIX,cakeapp.me'

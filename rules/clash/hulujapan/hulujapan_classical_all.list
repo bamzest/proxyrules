@@ -1,0 +1,11 @@
+# hulujapan - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,streaks.jp
+DOMAIN-SUFFIX,yb.uncn.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,prod.hjholdings.tv

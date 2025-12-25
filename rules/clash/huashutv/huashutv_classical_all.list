@@ -1,0 +1,11 @@
+# huashutv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,wasu.cn
+DOMAIN-SUFFIX,wasu.tv
+DOMAIN-SUFFIX,hzdtv.tv
+DOMAIN-SUFFIX,hzcnc.com
+DOMAIN-SUFFIX,hzman.net
+DOMAIN-SUFFIX,wasumedia.cn

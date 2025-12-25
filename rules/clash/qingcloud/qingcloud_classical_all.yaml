@@ -1,0 +1,18 @@
+# qingcloud - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (12 rules)
+  - 'DOMAIN-SUFFIX,anybox.com'
+  - 'DOMAIN-SUFFIX,yunify.com'
+  - 'DOMAIN-SUFFIX,qingcloud.cn'
+  - 'DOMAIN-SUFFIX,qingstor.com'
+  - 'DOMAIN-SUFFIX,frontwize.com'
+  - 'DOMAIN-SUFFIX,qingcache.com'
+  - 'DOMAIN-SUFFIX,qingcloud.com'
+  - 'DOMAIN-SUFFIX,routewize.com'
+  - 'DOMAIN-SUFFIX,qingstorage.com'
+  - 'DOMAIN-SUFFIX,qingcloud.com.cn'
+  - 'DOMAIN-SUFFIX,quanxiangyun.com'
+  - 'DOMAIN-SUFFIX,kubesphere.com.cn'

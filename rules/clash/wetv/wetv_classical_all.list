@@ -1,0 +1,22 @@
+# wetv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,wetv.qq.com
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,iflix.com
+DOMAIN-SUFFIX,wetvinfo.com
+DOMAIN-SUFFIX,v.smtcdns.com
+DOMAIN-SUFFIX,v.smtcdns.net
+DOMAIN-SUFFIX,vv.video.qq.com
+DOMAIN-SUFFIX,iflix-images.akamaized.net
+
+# IP-CIDR (1 rules)
+IP-CIDR,150.109.28.51/32
+
+# PROCESS-NAME (2 rules)
+PROCESS-NAME,com.tencent.qqlivei18n
+PROCESS-NAME,com.tencent.qqlivei18n.us

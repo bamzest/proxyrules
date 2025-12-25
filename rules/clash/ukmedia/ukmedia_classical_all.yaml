@@ -1,0 +1,40 @@
+# ukmedia - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (6 rules)
+  - 'DOMAIN,itvpnp.live.ott.irdeto.com'
+  - 'DOMAIN,itvpnp.stage.ott.irdeto.com'
+  - 'DOMAIN,itvpnpmobile-a.akamaihd.net'
+  - 'DOMAIN,vod-dash-ww-live.akamaized.net'
+  - 'DOMAIN,vod-thumb-ww-live.akamaized.net'
+  - 'DOMAIN,vs-cmaf-pushb-ww-live.akamaized.net'
+
+  # DOMAIN-SUFFIX (22 rules)
+  - 'DOMAIN-SUFFIX,bbc'
+  - 'DOMAIN-SUFFIX,bbc.co'
+  - 'DOMAIN-SUFFIX,bbc.in'
+  - 'DOMAIN-SUFFIX,bbc.com'
+  - 'DOMAIN-SUFFIX,bbci.co'
+  - 'DOMAIN-SUFFIX,itv.com'
+  - 'DOMAIN-SUFFIX,bbc.co.uk'
+  - 'DOMAIN-SUFFIX,bbc.net.uk'
+  - 'DOMAIN-SUFFIX,bbci.co.uk'
+  - 'DOMAIN-SUFFIX,bidi.net.uk'
+  - 'DOMAIN-SUFFIX,britbox.com'
+  - 'DOMAIN-SUFFIX,c4assets.com'
+  - 'DOMAIN-SUFFIX,channel4.com'
+  - 'DOMAIN-SUFFIX,bb-static.com'
+  - 'DOMAIN-SUFFIX,britbox.co.uk'
+  - 'DOMAIN-SUFFIX,itvstatic.com'
+  - 'DOMAIN-SUFFIX,bbcchinese.com'
+  - 'DOMAIN-SUFFIX,bbcmedia.co.uk'
+  - 'DOMAIN-SUFFIX,bbcpersian.com'
+  - 'DOMAIN-SUFFIX,massive-itv.com'
+  - 'DOMAIN-SUFFIX,bbcverticals.com'
+  - 'DOMAIN-SUFFIX,bbc-reporting-api.app'
+
+  # DOMAIN-KEYWORD (2 rules)
+  - 'DOMAIN-KEYWORD,bbcfmt'
+  - 'DOMAIN-KEYWORD,uk-live'

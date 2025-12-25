@@ -1,0 +1,10 @@
+# rockstar - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,media-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,videos-rockstargames-com.akamaized.net
+DOMAIN-SUFFIX,gamedownloads-rockstargames-com.akamaized.net

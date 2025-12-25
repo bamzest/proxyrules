@@ -1,0 +1,15 @@
+# privacy - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-KEYWORD (9 rules)
+DOMAIN-KEYWORD,fzlm
+DOMAIN-KEYWORD,pclog.
+DOMAIN-KEYWORD,applog.
+DOMAIN-KEYWORD,ioslog.
+DOMAIN-KEYWORD,pc-log.
+DOMAIN-KEYWORD,app-log.
+DOMAIN-KEYWORD,ios-log.
+DOMAIN-KEYWORD,analytics.
+DOMAIN-KEYWORD,app-analytics

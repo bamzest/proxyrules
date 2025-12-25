@@ -1,0 +1,20 @@
+# hbousa - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,wmff.warnermediacdn.com
+
+# DOMAIN-SUFFIX (9 rules)
+DOMAIN-SUFFIX,h264.io
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.hbo.hbonow

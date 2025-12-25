@@ -1,0 +1,13 @@
+# viki - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (8 rules)
+DOMAIN-SUFFIX,viki.io
+DOMAIN-SUFFIX,viki.com
+DOMAIN-SUFFIX,viki.net
+DOMAIN-SUFFIX,vikiplatform.com
+DOMAIN-SUFFIX,twemoji.maxcdn.com
+DOMAIN-SUFFIX,vikidash.akamaized.net
+DOMAIN-SUFFIX,kalhlspd-a.akamaihd.net
+DOMAIN-SUFFIX,m-content-viki.s.llnwi.net

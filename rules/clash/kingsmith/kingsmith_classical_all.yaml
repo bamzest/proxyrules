@@ -1,0 +1,10 @@
+# kingsmith - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,kingsmith.cn'
+  - 'DOMAIN-SUFFIX,walkingpad.cn'
+  - 'DOMAIN-SUFFIX,walkingpad.com'
+  - 'DOMAIN-SUFFIX,kingsmith.com.cn'

@@ -1,0 +1,12 @@
+# aljazeera - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,ajplus.net
+DOMAIN-SUFFIX,syhacked.com
+DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
+DOMAIN-SUFFIX,srebrenica360.com
+DOMAIN-SUFFIX,palestineremix.com
+DOMAIN-SUFFIX,sarajevopodopsadom.com

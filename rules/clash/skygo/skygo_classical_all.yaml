@@ -1,0 +1,26 @@
+# skygo - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (4 rules)
+  - 'DOMAIN,sky.com'
+  - 'DOMAIN,sky.com.ssl.d1.sc.omtrdc.net'
+  - 'DOMAIN,clientstream.launchdarkly.com'
+  - 'DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com'
+
+  # DOMAIN-SUFFIX (9 rules)
+  - 'DOMAIN-SUFFIX,sky.com'
+  - 'DOMAIN-SUFFIX,2cnt.net'
+  - 'DOMAIN-SUFFIX,epgsky.com'
+  - 'DOMAIN-SUFFIX,skycdp.com'
+  - 'DOMAIN-SUFFIX,skygo.co.nz'
+  - 'DOMAIN-SUFFIX,eu-1.xcal.tv'
+  - 'DOMAIN-SUFFIX,skysports.com'
+  - 'DOMAIN-SUFFIX,skyanywhere.com'
+  - 'DOMAIN-SUFFIX,xmidt-eu.comcast.net'
+
+  # DOMAIN-KEYWORD (3 rules)
+  - 'DOMAIN-KEYWORD,bskyb'
+  - 'DOMAIN-KEYWORD,skygo'
+  - 'DOMAIN-KEYWORD,skyliveuk'

@@ -1,0 +1,16 @@
+# baifendian - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (10 rules)
+  - 'DOMAIN-SUFFIX,bfdcdn.com'
+  - 'DOMAIN-SUFFIX,percent.cn'
+  - 'DOMAIN-SUFFIX,pertalk.cn'
+  - 'DOMAIN-SUFFIX,marimall.cn'
+  - 'DOMAIN-SUFFIX,bfdcloud.com'
+  - 'DOMAIN-SUFFIX,mediaforce.cn'
+  - 'DOMAIN-SUFFIX,xworld.net.cn'
+  - 'DOMAIN-SUFFIX,baifendian.com'
+  - 'DOMAIN-SUFFIX,blingoffice.com'
+  - 'DOMAIN-SUFFIX,pdeepmatrix.com'

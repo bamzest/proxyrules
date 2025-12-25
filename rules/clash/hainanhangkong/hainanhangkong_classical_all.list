@@ -1,0 +1,13 @@
+# hainanhangkong - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,10044.cn
+DOMAIN-SUFFIX,hnair.com
+DOMAIN-SUFFIX,hnair.net
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hainanairlines.com
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,hnagroup

@@ -1,0 +1,15 @@
+# nikke - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,iegcom.com'
+  - 'DOMAIN-SUFFIX,gamepass.com'
+  - 'DOMAIN-SUFFIX,intlgame.com'
+  - 'DOMAIN-SUFFIX,nikke-kr.com'
+  - 'DOMAIN-SUFFIX,centauriglobal.com'
+  - 'DOMAIN-SUFFIX,anticheatexpert.com'
+
+  # IP-CIDR (1 rules)
+  - 'IP-CIDR,43.152.114.31/32'

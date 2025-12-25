@@ -1,0 +1,23 @@
+# mihoyo - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (18 rules)
+DOMAIN-SUFFIX,bhsr.com
+DOMAIN-SUFFIX,hoyo.link
+DOMAIN-SUFFIX,mihayo.com
+DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,hoyolab.com
+DOMAIN-SUFFIX,hygxbgd.com
+DOMAIN-SUFFIX,mihoyocg.com
+DOMAIN-SUFFIX,hoyoverse.com
+DOMAIN-SUFFIX,juequling.com
+DOMAIN-SUFFIX,mhystatic.com
+DOMAIN-SUFFIX,starrails.com
+DOMAIN-SUFFIX,mihoyomall.com
+DOMAIN-SUFFIX,mihoyocloud.com
+DOMAIN-SUFFIX,n0vadesktop.com
+DOMAIN-SUFFIX,themisweeps.com
+DOMAIN-SUFFIX,genshinimpact.com
+DOMAIN-SUFFIX,honkaiimpact3.com
+DOMAIN-SUFFIX,honkaistarrail.com

@@ -1,0 +1,9 @@
+# 36kr - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,36kr.com
+DOMAIN-SUFFIX,36krcdn.com
+DOMAIN-SUFFIX,36krcnd.com
+DOMAIN-SUFFIX,36dianping.com

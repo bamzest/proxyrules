@@ -1,0 +1,13 @@
+# embl - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,embl.de'
+  - 'DOMAIN-SUFFIX,embl.fr'
+  - 'DOMAIN-SUFFIX,embl.it'
+  - 'DOMAIN-SUFFIX,embl.org'
+  - 'DOMAIN-SUFFIX,ebi.ac.uk'
+  - 'DOMAIN-SUFFIX,emblstatic.net'
+  - 'DOMAIN-SUFFIX,embl-hamburg.de'

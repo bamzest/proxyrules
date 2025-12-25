@@ -1,0 +1,7 @@
+payload:
+  - 'http-inputs-notion.splunkcloud.com'
+  - '+.notion.so'
+  - '+.notion.com'
+  - '+.notion.new'
+  - '+.notion.site'
+  - '+.notion-static.com'

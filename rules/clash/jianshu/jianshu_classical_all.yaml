@@ -1,0 +1,11 @@
+# jianshu - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,baijii.com'
+  - 'DOMAIN-SUFFIX,jianshu.io'
+  - 'DOMAIN-SUFFIX,jianshu.com'
+  - 'DOMAIN-SUFFIX,jianshuapi.com'
+  - 'DOMAIN-SUFFIX,shengmingfa.com'

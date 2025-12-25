@@ -1,0 +1,33 @@
+# vercel - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (27 rules)
+  - 'DOMAIN-SUFFIX,err.sh'
+  - 'DOMAIN-SUFFIX,now.sh'
+  - 'DOMAIN-SUFFIX,zeit.co'
+  - 'DOMAIN-SUFFIX,zeit.sh'
+  - 'DOMAIN-SUFFIX,hyper.is'
+  - 'DOMAIN-SUFFIX,title.sh'
+  - 'DOMAIN-SUFFIX,vercel.sh'
+  - 'DOMAIN-SUFFIX,nextjs.org'
+  - 'DOMAIN-SUFFIX,static.fun'
+  - 'DOMAIN-SUFFIX,vercel.app'
+  - 'DOMAIN-SUFFIX,vercel.com'
+  - 'DOMAIN-SUFFIX,vercel.pub'
+  - 'DOMAIN-SUFFIX,vercel.blog'
+  - 'DOMAIN-SUFFIX,vercel.link'
+  - 'DOMAIN-SUFFIX,vercel.live'
+  - 'DOMAIN-SUFFIX,vercel.store'
+  - 'DOMAIN-SUFFIX,turborepo.org'
+  - 'DOMAIN-SUFFIX,vercel.events'
+  - 'DOMAIN-SUFFIX,zeitworld.com'
+  - 'DOMAIN-SUFFIX,vercel-dns.com'
+  - 'DOMAIN-SUFFIX,zeit-world.com'
+  - 'DOMAIN-SUFFIX,zeit-world.net'
+  - 'DOMAIN-SUFFIX,zeit-world.org'
+  - 'DOMAIN-SUFFIX,zeit-world.co.uk'
+  - 'DOMAIN-SUFFIX,vercel-status.com'
+  - 'DOMAIN-SUFFIX,vercel-insights.com'
+  - 'DOMAIN-SUFFIX,vercel-analytics.com'

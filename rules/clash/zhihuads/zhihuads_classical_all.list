@@ -1,0 +1,14 @@
+# zhihuads - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (3 rules)
+DOMAIN,mqtt.zhihu.com
+DOMAIN,sugar.zhihu.com
+DOMAIN,appcloud2.in.zhihu.com
+
+# IP-CIDR (1 rules)
+IP-CIDR,118.89.204.198/32
+
+# IP-CIDR6 (1 rules)
+IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128

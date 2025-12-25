@@ -1,0 +1,23 @@
+# cnki - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (17 rules)
+  - 'DOMAIN-SUFFIX,cnki.net'
+  - 'DOMAIN-SUFFIX,chndoi.cn'
+  - 'DOMAIN-SUFFIX,bbf.org.cn'
+  - 'DOMAIN-SUFFIX,chndoi.com'
+  - 'DOMAIN-SUFFIX,chndoi.net'
+  - 'DOMAIN-SUFFIX,chndoi.org'
+  - 'DOMAIN-SUFFIX,cnkidoi.cn'
+  - 'DOMAIN-SUFFIX,bjsbnet.com'
+  - 'DOMAIN-SUFFIX,cnkidoi.com'
+  - 'DOMAIN-SUFFIX,cnkidoi.net'
+  - 'DOMAIN-SUFFIX,cnkidoi.org'
+  - 'DOMAIN-SUFFIX,wuxizazhi.cn'
+  - 'DOMAIN-SUFFIX,chndoi.com.cn'
+  - 'DOMAIN-SUFFIX,wuxizazhi.com'
+  - 'DOMAIN-SUFFIX,wuxizazhi.net'
+  - 'DOMAIN-SUFFIX,wuxizazhi.com.cn'
+  - 'DOMAIN-SUFFIX,wuxizazhi.net.cn'

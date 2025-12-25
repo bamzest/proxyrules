@@ -1,0 +1,10 @@
+# buypass - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,minid.no
+DOMAIN-SUFFIX,buypass.no
+DOMAIN-SUFFIX,buypass.se
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,buypass-ssl.com

@@ -1,0 +1,12 @@
+# sectigo - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,instantssl.com
+DOMAIN-SUFFIX,optimumssl.com
+DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,enterprisessl.com
+DOMAIN-SUFFIX,hackerguardian.com

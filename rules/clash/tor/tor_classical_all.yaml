@@ -1,0 +1,11 @@
+# tor - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # PROCESS-NAME (2 rules)
+  - 'PROCESS-NAME,tor'
+  - 'PROCESS-NAME,tor.exe'
+
+  # PROCESS-NAME-REGEX (1 rules)
+  - 'PROCESS-NAME-REGEX,(?i)torproject'

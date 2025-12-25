@@ -1,0 +1,11 @@
+# atlassian - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,trello.com'
+  - 'DOMAIN-SUFFIX,atlassian.com'
+  - 'DOMAIN-SUFFIX,bitbucket.org'
+  - 'DOMAIN-SUFFIX,statuspage.io'
+  - 'DOMAIN-SUFFIX,trellocdn.com'

@@ -1,0 +1,37 @@
+# synology - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,d2f0395ykn6hxb.cloudfront.net
+
+# DOMAIN-SUFFIX (26 rules)
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,myds.com
+DOMAIN-SUFFIX,gofile.me
+DOMAIN-SUFFIX,synosh.cn
+DOMAIN-SUFFIX,synozh.cn
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dsmunas.com
+DOMAIN-SUFFIX,dsmunas.net
+DOMAIN-SUFFIX,dsmunas.org
+DOMAIN-SUFFIX,synodns.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,synologyssb.cn
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synologycare.cn
+DOMAIN-SUFFIX,synologyssb.com
+DOMAIN-SUFFIX,synologyupdate.com
+DOMAIN-SUFFIX,synologydownload.com
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,synology

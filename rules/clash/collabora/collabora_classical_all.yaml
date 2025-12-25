@@ -1,0 +1,10 @@
+# collabora - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,collabora.com'
+  - 'DOMAIN-SUFFIX,collabora.org'
+  - 'DOMAIN-SUFFIX,collabora.co.uk'
+  - 'DOMAIN-SUFFIX,collaboraoffice.com'

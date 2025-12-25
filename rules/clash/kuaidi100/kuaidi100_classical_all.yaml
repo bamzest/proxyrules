@@ -1,0 +1,12 @@
+# kuaidi100 - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,ckd.im'
+  - 'DOMAIN-SUFFIX,kd100.com'
+  - 'DOMAIN-SUFFIX,baidiapp.com'
+  - 'DOMAIN-SUFFIX,baidinet.com'
+  - 'DOMAIN-SUFFIX,kuaidi100.com'
+  - 'DOMAIN-SUFFIX,kuaidilab.com'

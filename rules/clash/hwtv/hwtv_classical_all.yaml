@@ -1,0 +1,8 @@
+# hwtv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (2 rules)
+  - 'DOMAIN-SUFFIX,5itv.tv'
+  - 'DOMAIN-SUFFIX,ocnttv.com'

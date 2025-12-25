@@ -1,0 +1,15 @@
+# asahi - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,asahishimbun.sc.omtrdc.net'
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,asahi.com'
+  - 'DOMAIN-SUFFIX,aiasahi.jp'
+  - 'DOMAIN-SUFFIX,asagaku.com'
+  - 'DOMAIN-SUFFIX,asahicom.jp'
+  - 'DOMAIN-SUFFIX,asakonet.co.jp'
+  - 'DOMAIN-SUFFIX,nikkansports.com'

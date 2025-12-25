@@ -1,0 +1,28 @@
+# dmcasensitive - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (2 rules)
+  - 'DOMAIN-KEYWORD,torrent'
+  - 'DOMAIN-KEYWORD,announce'
+
+  # PROCESS-NAME (17 rules)
+  - 'PROCESS-NAME,Folx'
+  - 'PROCESS-NAME,aria2c'
+  - 'PROCESS-NAME,Thunder'
+  - 'PROCESS-NAME,fdm.exe'
+  - 'PROCESS-NAME,uTorrent'
+  - 'PROCESS-NAME,UUBooster'
+  - 'PROCESS-NAME,WebTorrent'
+  - 'PROCESS-NAME,aria2c.exe'
+  - 'PROCESS-NAME,Thunder.exe'
+  - 'PROCESS-NAME,NetTransport'
+  - 'PROCESS-NAME,Transmission'
+  - 'PROCESS-NAME,uTorrent.exe'
+  - 'PROCESS-NAME,WebTorrent.exe'
+  - 'PROCESS-NAME,qbittorrent.exe'
+  - 'PROCESS-NAME,WebTorrent Helper'
+  - 'PROCESS-NAME,DownloadSDKServer.exe'
+  - 'PROCESS-NAME,com.xunlei.downloadprovider'

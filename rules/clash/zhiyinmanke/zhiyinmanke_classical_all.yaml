@@ -1,0 +1,23 @@
+# zhiyinmanke - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (17 rules)
+  - 'DOMAIN-SUFFIX,zymk.cn'
+  - 'DOMAIN-SUFFIX,mkzhan.cn'
+  - 'DOMAIN-SUFFIX,mkdata.top'
+  - 'DOMAIN-SUFFIX,mkpush.com'
+  - 'DOMAIN-SUFFIX,mkzcdn.com'
+  - 'DOMAIN-SUFFIX,mkzhan.com'
+  - 'DOMAIN-SUFFIX,mkzhan.net'
+  - 'DOMAIN-SUFFIX,zymkcdn.com'
+  - 'DOMAIN-SUFFIX,mkzhan.com.cn'
+  - 'DOMAIN-SUFFIX,51kanmanhua.com'
+  - 'DOMAIN-SUFFIX,xiaoshuohui.net'
+  - 'DOMAIN-SUFFIX,xiaomingtaiji.cc'
+  - 'DOMAIN-SUFFIX,xiaomingtaiji.cn'
+  - 'DOMAIN-SUFFIX,xiaomingtaiji.com'
+  - 'DOMAIN-SUFFIX,xiaomingtaiji.net'
+  - 'DOMAIN-SUFFIX,xiaoshuohui.com.cn'
+  - 'DOMAIN-SUFFIX,xiaomingtaiji.com.cn'

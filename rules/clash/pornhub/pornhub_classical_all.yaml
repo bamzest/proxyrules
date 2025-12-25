@@ -1,0 +1,18 @@
+# pornhub - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (9 rules)
+  - 'DOMAIN-SUFFIX,phncdn.com'
+  - 'DOMAIN-SUFFIX,porhub.com'
+  - 'DOMAIN-SUFFIX,phprcdn.com'
+  - 'DOMAIN-SUFFIX,porngub.com'
+  - 'DOMAIN-SUFFIX,pornhub.com'
+  - 'DOMAIN-SUFFIX,pronstore.com'
+  - 'DOMAIN-SUFFIX,pornhubapparel.com'
+  - 'DOMAIN-SUFFIX,pornhubpremium.com'
+  - 'DOMAIN-SUFFIX,pornhub-deutsch.net'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.app.pornhub'

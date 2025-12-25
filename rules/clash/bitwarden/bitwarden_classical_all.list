@@ -1,0 +1,9 @@
+# bitwarden - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,btwrdn.com
+DOMAIN-SUFFIX,bitwarden.eu
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.net

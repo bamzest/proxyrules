@@ -1,0 +1,27 @@
+# bloomberg - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (22 rules)
+DOMAIN-SUFFIX,bwbx.io
+DOMAIN-SUFFIX,bmia.org
+DOMAIN-SUFFIX,bnef.com
+DOMAIN-SUFFIX,citylab.com
+DOMAIN-SUFFIX,bloomberg.fm
+DOMAIN-SUFFIX,bloomberg.tv
+DOMAIN-SUFFIX,tictoc.video
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,gotraffic.net
+DOMAIN-SUFFIX,bloomberg.co.kr
+DOMAIN-SUFFIX,quicktake.video
+DOMAIN-SUFFIX,bloomberg.com.br
+DOMAIN-SUFFIX,businessweek.com
+DOMAIN-SUFFIX,bloombergapps.com
+DOMAIN-SUFFIX,bloombergbeta.com
+DOMAIN-SUFFIX,bloombergarcade.com
+DOMAIN-SUFFIX,blpprofessional.com
+DOMAIN-SUFFIX,businessweekmag.com
+DOMAIN-SUFFIX,londonmithraeum.com
+DOMAIN-SUFFIX,neweconomyforum.com
+DOMAIN-SUFFIX,techatbloomberg.com
+DOMAIN-SUFFIX,newenergyfinance.com

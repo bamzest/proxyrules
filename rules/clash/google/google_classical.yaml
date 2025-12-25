@@ -1,0 +1,22 @@
+# google - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (5 rules)
+  - 'DOMAIN-KEYWORD,gmail'
+  - 'DOMAIN-KEYWORD,google'
+  - 'DOMAIN-KEYWORD,appspot'
+  - 'DOMAIN-KEYWORD,blogspot'
+  - 'DOMAIN-KEYWORD,recaptcha'
+
+  # PROCESS-NAME (8 rules)
+  - 'PROCESS-NAME,BackupandSync'
+  - 'PROCESS-NAME,GoogleDriveFS.exe'
+  - 'PROCESS-NAME,com.android.vending'
+  - 'PROCESS-NAME,com.google.android.gms'
+  - 'PROCESS-NAME,com.google.android.gsf'
+  - 'PROCESS-NAME,com.google.android.youtube'
+  - 'PROCESS-NAME,com.google.android.play.games'
+  - 'PROCESS-NAME,com.google.android.apps.youtube.music'

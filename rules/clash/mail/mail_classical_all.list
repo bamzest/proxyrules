@@ -1,0 +1,19 @@
+# mail - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (9 rules)
+DOMAIN,pop.gmail.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,smtp.office365.com
+DOMAIN,imap-mail.outlook.com
+DOMAIN,outlook.office365.com
+DOMAIN,smtp-mail.outlook.com
+DOMAIN,apple.imap.mail.yahoo.com
+DOMAIN,apple.smtp.mail.yahoo.com
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,m.hotmail.com
+DOMAIN-SUFFIX,imap.yandex.com
+DOMAIN-SUFFIX,smtp.yandex.com

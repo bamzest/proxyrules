@@ -1,0 +1,11 @@
+# itv - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,itvpnpmobile-a.akamaihd.net'
+
+  # DOMAIN-SUFFIX (2 rules)
+  - 'DOMAIN-SUFFIX,itv.com'
+  - 'DOMAIN-SUFFIX,itvstatic.com'

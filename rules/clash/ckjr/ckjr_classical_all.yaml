@@ -1,0 +1,19 @@
+# ckjr - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (13 rules)
+  - 'DOMAIN-SUFFIX,myckjr.cn'
+  - 'DOMAIN-SUFFIX,51ckjr.com'
+  - 'DOMAIN-SUFFIX,ckjr001.cn'
+  - 'DOMAIN-SUFFIX,ckjryy.com'
+  - 'DOMAIN-SUFFIX,myckjr.com'
+  - 'DOMAIN-SUFFIX,qxckjr.com'
+  - 'DOMAIN-SUFFIX,tjckjr.com'
+  - 'DOMAIN-SUFFIX,tkckjr.com'
+  - 'DOMAIN-SUFFIX,ckjr001.com'
+  - 'DOMAIN-SUFFIX,meituo.shop'
+  - 'DOMAIN-SUFFIX,sxyckjr.com'
+  - 'DOMAIN-SUFFIX,tengkaxx.com'
+  - 'DOMAIN-SUFFIX,tengkackjr.com'

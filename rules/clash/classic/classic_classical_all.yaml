@@ -1,0 +1,10 @@
+# classic - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (4 rules)
+  - 'DOMAIN,asia.battle.net'
+  - 'DOMAIN,europe.battle.net'
+  - 'DOMAIN,useast.battle.net'
+  - 'DOMAIN,uswest.battle.net'

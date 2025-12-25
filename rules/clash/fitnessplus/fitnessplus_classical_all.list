@@ -1,0 +1,7 @@
+# fitnessplus - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (2 rules)
+DOMAIN,amp-api.fitness.apple.com
+DOMAIN,hls-svod.itunes.apple.com

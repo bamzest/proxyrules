@@ -1,0 +1,16 @@
+# slack - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (11 rules)
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slackhq.com
+DOMAIN-SUFFIX,slackdemo.com
+DOMAIN-SUFFIX,slack-core.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-redir.net
+DOMAIN-SUFFIX,slackcertified.com

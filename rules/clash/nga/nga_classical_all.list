@@ -1,0 +1,9 @@
+# nga - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,nga.cn
+DOMAIN-SUFFIX,178.com
+DOMAIN-SUFFIX,ngacn.cc
+DOMAIN-SUFFIX,ngabbs.com

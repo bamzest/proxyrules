@@ -1,0 +1,15 @@
+# foxplus - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (6 rules)
+  - 'DOMAIN,foxsports01-i.akamaihd.net'
+  - 'DOMAIN,foxsports02-i.akamaihd.net'
+  - 'DOMAIN,foxsports03-i.akamaihd.net'
+  - 'DOMAIN,staticasiafox.akamaized.net'
+  - 'DOMAIN,d3cv4a9a9wh0bt.cloudfront.net'
+  - 'DOMAIN,cdn-fox-networks-group-green.akamaized.net'
+
+  # DOMAIN-SUFFIX (1 rules)
+  - 'DOMAIN-SUFFIX,foxplus.com'

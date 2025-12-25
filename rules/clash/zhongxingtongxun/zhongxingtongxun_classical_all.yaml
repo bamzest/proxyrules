@@ -1,0 +1,26 @@
+# zhongxingtongxun - Classical Format (All Rules)
+# Includes all rule types
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (20 rules)
+  - 'DOMAIN-SUFFIX,zte.net'
+  - 'DOMAIN-SUFFIX,nubia.cc'
+  - 'DOMAIN-SUFFIX,nubia.cn'
+  - 'DOMAIN-SUFFIX,3gcare.cn'
+  - 'DOMAIN-SUFFIX,nubia.com'
+  - 'DOMAIN-SUFFIX,ztems.com'
+  - 'DOMAIN-SUFFIX,nubia.mobi'
+  - 'DOMAIN-SUFFIX,zte.com.cn'
+  - 'DOMAIN-SUFFIX,ztemall.com'
+  - 'DOMAIN-SUFFIX,nubia.com.cn'
+  - 'DOMAIN-SUFFIX,nubia.net.cn'
+  - 'DOMAIN-SUFFIX,redmagic.com'
+  - 'DOMAIN-SUFFIX,ztehotel.com'
+  - 'DOMAIN-SUFFIX,ztehotel.net'
+  - 'DOMAIN-SUFFIX,zxingyun.com'
+  - 'DOMAIN-SUFFIX,ztedevice.com'
+  - 'DOMAIN-SUFFIX,ztedevices.com'
+  - 'DOMAIN-SUFFIX,ztehotel.com.cn'
+  - 'DOMAIN-SUFFIX,shouhubao.com.cn'
+  - 'DOMAIN-SUFFIX,ztedevice.com.cn'
