@@ -1,2 +1,2 @@
 payload:
-  - '150.109.28.51/32,no-resolve'
+  - 'IP-CIDR,150.109.28.51/32,no-resolve'

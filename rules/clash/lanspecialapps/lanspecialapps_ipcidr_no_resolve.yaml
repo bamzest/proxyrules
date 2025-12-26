@@ -1,2 +1,2 @@
 payload:
-  - '224.0.0.251/24,no-resolve'
+  - 'IP-CIDR,224.0.0.251/24,no-resolve'
