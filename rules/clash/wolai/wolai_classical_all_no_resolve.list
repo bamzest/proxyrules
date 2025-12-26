@@ -1,0 +1,11 @@
+# wolai - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,wol.tv
+DOMAIN-SUFFIX,wolai.com
+DOMAIN-SUFFIX,wolai.ren
+DOMAIN-SUFFIX,woyun.work
+DOMAIN-SUFFIX,wostatic.cn

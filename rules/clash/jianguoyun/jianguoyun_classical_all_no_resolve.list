@@ -1,0 +1,11 @@
+# jianguoyun - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,gdfgq.club
+DOMAIN-SUFFIX,nutstore.net
+DOMAIN-SUFFIX,jianguoyun.com
+DOMAIN-SUFFIX,nutstorehq.com
+DOMAIN-SUFFIX,jianguopuzi.com

@@ -1,0 +1,10 @@
+# atomdata - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,atom-data.io'
+  - 'DOMAIN-SUFFIX,ironbeast.io'
+  - 'DOMAIN-SUFFIX,analytics-data.io'

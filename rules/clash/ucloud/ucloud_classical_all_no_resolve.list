@@ -1,0 +1,43 @@
+# ucloud - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (37 rules)
+DOMAIN-SUFFIX,ugslb.cn
+DOMAIN-SUFFIX,urome.cn
+DOMAIN-SUFFIX,cdndo.com
+DOMAIN-SUFFIX,fshark.cn
+DOMAIN-SUFFIX,ibusre.cn
+DOMAIN-SUFFIX,ipssh.net
+DOMAIN-SUFFIX,u-cdn.com
+DOMAIN-SUFFIX,u-cdn.net
+DOMAIN-SUFFIX,ucgslb.cn
+DOMAIN-SUFFIX,ucloud.cn
+DOMAIN-SUFFIX,uewaf.com
+DOMAIN-SUFFIX,ugslb.com
+DOMAIN-SUFFIX,ugslb.net
+DOMAIN-SUFFIX,ugslb.top
+DOMAIN-SUFFIX,ucgslb.com
+DOMAIN-SUFFIX,ucgslb.net
+DOMAIN-SUFFIX,ucgslb.top
+DOMAIN-SUFFIX,ugslb.info
+DOMAIN-SUFFIX,ugslb2.net
+DOMAIN-SUFFIX,ipbaohe.com
+DOMAIN-SUFFIX,ucgslb.info
+DOMAIN-SUFFIX,ufileos.com
+DOMAIN-SUFFIX,unaming.net
+DOMAIN-SUFFIX,urtc.com.cn
+DOMAIN-SUFFIX,ucloud.com.cn
+DOMAIN-SUFFIX,ucloud365.com
+DOMAIN-SUFFIX,ucloudapi.com
+DOMAIN-SUFFIX,ucloudgda.com
+DOMAIN-SUFFIX,ucloudoss.com
+DOMAIN-SUFFIX,uhasadmin.com
+DOMAIN-SUFFIX,ecloud-gdu.com
+DOMAIN-SUFFIX,ucloudstack.cn
+DOMAIN-SUFFIX,ucloudadmin.com
+DOMAIN-SUFFIX,ucloudstack.com
+DOMAIN-SUFFIX,ucloudstack.net
+DOMAIN-SUFFIX,uclouduewaf.com
+DOMAIN-SUFFIX,ucloudufile.com

@@ -1,0 +1,17 @@
+# picacg - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (10 rules)
+  - 'DOMAIN-SUFFIX,bikaa.xyz'
+  - 'DOMAIN-SUFFIX,bikac.xyz'
+  - 'DOMAIN-SUFFIX,picacn.xyz'
+  - 'DOMAIN-SUFFIX,bikaios.xyz'
+  - 'DOMAIN-SUFFIX,picacgp.com'
+  - 'DOMAIN-SUFFIX,picacgy.com'
+  - 'DOMAIN-SUFFIX,wikawika.xyz'
+  - 'DOMAIN-SUFFIX,picacomic.com'
+  - 'DOMAIN-SUFFIX,picacomic.xyz'
+  - 'DOMAIN-SUFFIX,manhuabika.com'

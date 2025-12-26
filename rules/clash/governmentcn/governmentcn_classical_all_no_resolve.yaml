@@ -1,0 +1,23 @@
+# governmentcn - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (16 rules)
+  - 'DOMAIN-SUFFIX,gov.cn'
+  - 'DOMAIN-SUFFIX,huayi.cn'
+  - 'DOMAIN-SUFFIX,sqpx.org'
+  - 'DOMAIN-SUFFIX,wsglw.com'
+  - 'DOMAIN-SUFFIX,wsglw.net'
+  - 'DOMAIN-SUFFIX,91huayi.cn'
+  - 'DOMAIN-SUFFIX,scncrc.com'
+  - 'DOMAIN-SUFFIX,91huayi.com'
+  - 'DOMAIN-SUFFIX,91huayi.net'
+  - 'DOMAIN-SUFFIX,heart301.cn'
+  - 'DOMAIN-SUFFIX,henancme.net'
+  - 'DOMAIN-SUFFIX,robot301.net'
+  - 'DOMAIN-SUFFIX,huayiyuan.com'
+  - 'DOMAIN-SUFFIX,huayiweibo.com'
+  - 'DOMAIN-SUFFIX,shiyanma.org.cn'
+  - 'DOMAIN-SUFFIX,roboticsurg301.net'

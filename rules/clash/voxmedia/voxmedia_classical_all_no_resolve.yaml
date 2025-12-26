@@ -1,0 +1,23 @@
+# voxmedia - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (16 rules)
+  - 'DOMAIN-SUFFIX,vox.com'
+  - 'DOMAIN-SUFFIX,eater.com'
+  - 'DOMAIN-SUFFIX,curbed.com'
+  - 'DOMAIN-SUFFIX,racked.com'
+  - 'DOMAIN-SUFFIX,recode.net'
+  - 'DOMAIN-SUFFIX,voxops.net'
+  - 'DOMAIN-SUFFIX,cstatic.net'
+  - 'DOMAIN-SUFFIX,polygon.com'
+  - 'DOMAIN-SUFFIX,vox-cdn.com'
+  - 'DOMAIN-SUFFIX,meridian.net'
+  - 'DOMAIN-SUFFIX,sbnation.com'
+  - 'DOMAIN-SUFFIX,theverge.com'
+  - 'DOMAIN-SUFFIX,voxmedia.com'
+  - 'DOMAIN-SUFFIX,funnyordie.com'
+  - 'DOMAIN-SUFFIX,voxcreative.com'
+  - 'DOMAIN-SUFFIX,voxfieldguide.com'

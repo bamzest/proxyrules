@@ -1,0 +1,27 @@
+# stackexchange - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (20 rules)
+  - 'DOMAIN-SUFFIX,sstatic.net'
+  - 'DOMAIN-SUFFIX,tex-talk.net'
+  - 'DOMAIN-SUFFIX,askubuntu.com'
+  - 'DOMAIN-SUFFIX,stackapps.com'
+  - 'DOMAIN-SUFFIX,stackauth.com'
+  - 'DOMAIN-SUFFIX,stackmod.blog'
+  - 'DOMAIN-SUFFIX,superuser.com'
+  - 'DOMAIN-SUFFIX,thesffblog.com'
+  - 'DOMAIN-SUFFIX,serverfault.com'
+  - 'DOMAIN-SUFFIX,blogoverflow.com'
+  - 'DOMAIN-SUFFIX,mathoverflow.net'
+  - 'DOMAIN-SUFFIX,stackoverflow.co'
+  - 'DOMAIN-SUFFIX,codeforaliving.io'
+  - 'DOMAIN-SUFFIX,stackexchange.com'
+  - 'DOMAIN-SUFFIX,stackoverflow.com'
+  - 'DOMAIN-SUFFIX,stacksnippets.net'
+  - 'DOMAIN-SUFFIX,stackoverflow.blog'
+  - 'DOMAIN-SUFFIX,stackoverflow.email'
+  - 'DOMAIN-SUFFIX,stackoverflowcareers.com'
+  - 'DOMAIN-SUFFIX,stackoverflowbusiness.com'

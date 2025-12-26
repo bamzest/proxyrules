@@ -1,0 +1,14 @@
+# dandanzan - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,fjhps.com'
+  - 'DOMAIN-SUFFIX,343480.com'
+  - 'DOMAIN-SUFFIX,czybjz.com'
+  - 'DOMAIN-SUFFIX,kuyunbo.club'
+  - 'DOMAIN-SUFFIX,dandanzan.com'
+  - 'DOMAIN-SUFFIX,baduziyuan.com'
+  - 'DOMAIN-SUFFIX,com-hs-hkdy.com'

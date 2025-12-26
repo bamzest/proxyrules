@@ -1,5 +1,6 @@
 # chinaipbgp - Classical Format (All Rules)
 # Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
 # IP-CIDR (3824 rules)

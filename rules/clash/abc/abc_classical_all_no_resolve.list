@@ -1,0 +1,14 @@
+# abc - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (8 rules)
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,95599.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,openaboc.cn
+DOMAIN-SUFFIX,bscabank.com
+DOMAIN-SUFFIX,edgedatg.com
+DOMAIN-SUFFIX,openaboc.com
+DOMAIN-SUFFIX,openaboc.com.cn

@@ -1,0 +1,9 @@
+# op - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (2 rules)
+  - 'DOMAIN-SUFFIX,op.gg'
+  - 'DOMAIN-SUFFIX,opgg-static.akamaized.net'

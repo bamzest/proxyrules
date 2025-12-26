@@ -1,0 +1,50 @@
+# hbohk - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (16 rules)
+DOMAIN,hbolb.onwardsmg.com
+DOMAIN,players.brightcove.net
+DOMAIN,hboasia1-i.akamaihd.net
+DOMAIN,hboasia2-i.akamaihd.net
+DOMAIN,hboasia3-i.akamaihd.net
+DOMAIN,hboasia4-i.akamaihd.net
+DOMAIN,hboasia5-i.akamaihd.net
+DOMAIN,wmff.warnermediacdn.com
+DOMAIN,bcbolthboa-a.akamaihd.net
+DOMAIN,hboasialive.akamaized.net
+DOMAIN,hbounify-prod.evergent.com
+DOMAIN,hbogoprod-vod.akamaized.net
+DOMAIN,dai3fd1oh325y.cloudfront.net
+DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+
+# DOMAIN-SUFFIX (23 rules)
+DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,hbogo.eu
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hbogo.co.th
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.id
+DOMAIN-SUFFIX,hbogoasia.ph
+DOMAIN-SUFFIX,hbogoasia.sg
+DOMAIN-SUFFIX,hbogoasia.tw
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,now-ashare.com
+DOMAIN-SUFFIX,hboasia1-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia2-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia3-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia4-i.akamaihd.net
+DOMAIN-SUFFIX,hboasia5-i.akamaihd.net
+DOMAIN-SUFFIX,hboasialive.akamaized.net
+DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,hbogoasia

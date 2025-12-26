@@ -1,0 +1,18 @@
+# bing - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (11 rules)
+  - 'DOMAIN-SUFFIX,bing.com'
+  - 'DOMAIN-SUFFIX,bing.net'
+  - 'DOMAIN-SUFFIX,bing.com.cn'
+  - 'DOMAIN-SUFFIX,bingads.com'
+  - 'DOMAIN-SUFFIX,bingworld.com'
+  - 'DOMAIN-SUFFIX,bingsandbox.com'
+  - 'DOMAIN-SUFFIX,bingagencyawards.com'
+  - 'DOMAIN-SUFFIX,bingvisualsearch.com'
+  - 'DOMAIN-SUFFIX,bingapistatistics.com'
+  - 'DOMAIN-SUFFIX,copilot.microsoft.com'
+  - 'DOMAIN-SUFFIX,copilot.cloud.microsoft'

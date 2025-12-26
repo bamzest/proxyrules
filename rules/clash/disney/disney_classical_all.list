@@ -1,5 +1,6 @@
 # disney - Classical Format (All Rules)
 # Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
 # DOMAIN-SUFFIX (176 rules)

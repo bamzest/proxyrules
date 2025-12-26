@@ -1,0 +1,18 @@
+# paramountplus - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (4 rules)
+  - 'DOMAIN,link.theplatform.com'
+  - 'DOMAIN,cbsi.live.ott.irdeto.com'
+  - 'DOMAIN,cbsservice.aws.syncbak.com'
+  - 'DOMAIN,cbsplaylistserver.aws.syncbak.com'
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,cbsi.com'
+  - 'DOMAIN-SUFFIX,cbsivideo.com'
+  - 'DOMAIN-SUFFIX,cbsaavideo.com'
+  - 'DOMAIN-SUFFIX,pplusstatic.com'
+  - 'DOMAIN-SUFFIX,paramountplus.com'

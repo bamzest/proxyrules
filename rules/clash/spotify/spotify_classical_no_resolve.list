@@ -1,0 +1,18 @@
+# spotify - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-KEYWORD (4 rules)
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,-spotify-
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
+
+# IP-CIDR (2 rules)
+IP-CIDR,104.154.127.126/32,no-resolve
+IP-CIDR,35.186.224.47/32,no-resolve
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.spotify.music

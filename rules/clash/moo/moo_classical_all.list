@@ -1,4 +1,5 @@
 # moo - Classical Format (All Rules)
 # Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 # 无规则内容，自动生成占位

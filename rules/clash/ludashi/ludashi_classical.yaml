@@ -1,6 +1,7 @@
 # ludashi - Classical Format (Other Rules)
 # Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
 # and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
   # 无规则内容，自动生成占位

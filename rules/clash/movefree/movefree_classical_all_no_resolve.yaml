@@ -1,0 +1,14 @@
+# movefree - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,movefree.cn'
+  - 'DOMAIN-SUFFIX,move-free.net'
+  - 'DOMAIN-SUFFIX,movefrees.com'
+  - 'DOMAIN-SUFFIX,movefreeoffers.com'
+  - 'DOMAIN-SUFFIX,schiffvitamins.com'
+  - 'DOMAIN-SUFFIX,movefreerewards.com'
+  - 'DOMAIN-SUFFIX,keepmovingwithmovefree.com'

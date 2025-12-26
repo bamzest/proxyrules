@@ -1,0 +1,15 @@
+# diancewangke - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (8 rules)
+  - 'DOMAIN-SUFFIX,pgyer.cc'
+  - 'DOMAIN-SUFFIX,pgyer.im'
+  - 'DOMAIN-SUFFIX,pgyer.com'
+  - 'DOMAIN-SUFFIX,qcers.com'
+  - 'DOMAIN-SUFFIX,qcers.net'
+  - 'DOMAIN-SUFFIX,testin.im'
+  - 'DOMAIN-SUFFIX,xcxwo.com'
+  - 'DOMAIN-SUFFIX,tracup.com'

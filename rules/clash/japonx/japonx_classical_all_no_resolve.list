@@ -1,0 +1,18 @@
+# japonx - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (8 rules)
+DOMAIN-SUFFIX,japonx.tv
+DOMAIN-SUFFIX,japonx.com
+DOMAIN-SUFFIX,japonx.net
+DOMAIN-SUFFIX,japonx.vip
+DOMAIN-SUFFIX,japronx.tv
+DOMAIN-SUFFIX,japronx.com
+DOMAIN-SUFFIX,japronx.net
+DOMAIN-SUFFIX,japronx.vip
+
+# DOMAIN-KEYWORD (2 rules)
+DOMAIN-KEYWORD,japonx
+DOMAIN-KEYWORD,japronx

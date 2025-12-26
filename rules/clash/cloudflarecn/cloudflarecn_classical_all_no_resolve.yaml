@@ -1,0 +1,21 @@
+# cloudflarecn - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (14 rules)
+  - 'DOMAIN-SUFFIX,cf-ns.com'
+  - 'DOMAIN-SUFFIX,cf-ns.net'
+  - 'DOMAIN-SUFFIX,cf-ns.site'
+  - 'DOMAIN-SUFFIX,cf-ns.tech'
+  - 'DOMAIN-SUFFIX,cftest5.cn'
+  - 'DOMAIN-SUFFIX,cftest6.cn'
+  - 'DOMAIN-SUFFIX,cftest7.com'
+  - 'DOMAIN-SUFFIX,cftest8.com'
+  - 'DOMAIN-SUFFIX,cloudflarecn.net'
+  - 'DOMAIN-SUFFIX,cloudflare-cn.com'
+  - 'DOMAIN-SUFFIX,cloudflareprod.com'
+  - 'DOMAIN-SUFFIX,cloudflarestaging.com'
+  - 'DOMAIN-SUFFIX,cloudflarestoragegw.com'
+  - 'DOMAIN-SUFFIX,cloudflareinsights-cn.com'

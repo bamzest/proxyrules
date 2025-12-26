@@ -1,0 +1,17 @@
+# funshion - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (10 rules)
+  - 'DOMAIN-SUFFIX,fun.tv'
+  - 'DOMAIN-SUFFIX,fspcdn.com'
+  - 'DOMAIN-SUFFIX,funshion.tv'
+  - 'DOMAIN-SUFFIX,ibidian.com'
+  - 'DOMAIN-SUFFIX,jvcsmart.cn'
+  - 'DOMAIN-SUFFIX,9iwanwan.com'
+  - 'DOMAIN-SUFFIX,9ixiuxiu.com'
+  - 'DOMAIN-SUFFIX,funshion.com'
+  - 'DOMAIN-SUFFIX,funshion.net'
+  - 'DOMAIN-SUFFIX,jvcsmart.com.cn'

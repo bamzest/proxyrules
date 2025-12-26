@@ -1,0 +1,12 @@
+# snap - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,snapkit.co
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,snapchat.com

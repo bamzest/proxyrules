@@ -1,0 +1,31 @@
+# banad - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-KEYWORD (24 rules)
+DOMAIN-KEYWORD,domob
+DOMAIN-KEYWORD,openx
+DOMAIN-KEYWORD,socdm
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,omgmta
+DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,adsensor
+DOMAIN-KEYWORD,adsystem
+DOMAIN-KEYWORD,applovin
+DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,omniture
+DOMAIN-KEYWORD,pingfore
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,wlmonitor
+DOMAIN-KEYWORD,zjtoolbar
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,supersonicads

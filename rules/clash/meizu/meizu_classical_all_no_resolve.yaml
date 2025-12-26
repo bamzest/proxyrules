@@ -1,0 +1,22 @@
+# meizu - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (15 rules)
+  - 'DOMAIN-SUFFIX,flyme.cn'
+  - 'DOMAIN-SUFFIX,mblu.com'
+  - 'DOMAIN-SUFFIX,meizu.cn'
+  - 'DOMAIN-SUFFIX,mzssp.cn'
+  - 'DOMAIN-SUFFIX,flyme.com'
+  - 'DOMAIN-SUFFIX,flyme.net'
+  - 'DOMAIN-SUFFIX,lipro.com'
+  - 'DOMAIN-SUFFIX,lipro.net'
+  - 'DOMAIN-SUFFIX,meizu.com'
+  - 'DOMAIN-SUFFIX,mzres.com'
+  - 'DOMAIN-SUFFIX,meiklife.cn'
+  - 'DOMAIN-SUFFIX,meizu.com.hk'
+  - 'DOMAIN-SUFFIX,meizuapi.com'
+  - 'DOMAIN-SUFFIX,flymeauto.com'
+  - 'DOMAIN-SUFFIX,mklink.com.cn'

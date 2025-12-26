@@ -1,0 +1,65 @@
+# emby - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (3 rules)
+  - 'DOMAIN,emby.lcloud.wiki'
+  - 'DOMAIN,notnetflix.cos.cat'
+  - 'DOMAIN,emby.enjoyit.eu.org'
+
+  # DOMAIN-SUFFIX (45 rules)
+  - 'DOMAIN-SUFFIX,emby.wtf'
+  - 'DOMAIN-SUFFIX,xmsl.org'
+  - 'DOMAIN-SUFFIX,123456.al'
+  - 'DOMAIN-SUFFIX,embymv.tk'
+  - 'DOMAIN-SUFFIX,ohhhh.org'
+  - 'DOMAIN-SUFFIX,285286.xyz'
+  - 'DOMAIN-SUFFIX,peachmv.me'
+  - 'DOMAIN-SUFFIX,imetyou.top'
+  - 'DOMAIN-SUFFIX,emby.cjpc.cc'
+  - 'DOMAIN-SUFFIX,emby.cjpc.tv'
+  - 'DOMAIN-SUFFIX,emby.mcwy.me'
+  - 'DOMAIN-SUFFIX,emby.ytoo.li'
+  - 'DOMAIN-SUFFIX,embyplus.org'
+  - 'DOMAIN-SUFFIX,poloemby.xyz'
+  - 'DOMAIN-SUFFIX,cristiamo.xyz'
+  - 'DOMAIN-SUFFIX,emby.cjpc.xyz'
+  - 'DOMAIN-SUFFIX,embyserver.ga'
+  - 'DOMAIN-SUFFIX,jellyfin.asia'
+  - 'DOMAIN-SUFFIX,line.emby.men'
+  - 'DOMAIN-SUFFIX,pornemby.club'
+  - 'DOMAIN-SUFFIX,aws.jmsooo.com'
+  - 'DOMAIN-SUFFIX,cf1.jmsooo.com'
+  - 'DOMAIN-SUFFIX,emby.ok.edu.hk'
+  - 'DOMAIN-SUFFIX,emby.xeton.dev'
+  - 'DOMAIN-SUFFIX,plusmedia.site'
+  - 'DOMAIN-SUFFIX,emby.immtel.com'
+  - 'DOMAIN-SUFFIX,emby.mdss.cloud'
+  - 'DOMAIN-SUFFIX,emby.paoche.ooo'
+  - 'DOMAIN-SUFFIX,mickeycloud.com'
+  - 'DOMAIN-SUFFIX,movie.xeton.dev'
+  - 'DOMAIN-SUFFIX,ntt1.jmsooo.com'
+  - 'DOMAIN-SUFFIX,emby.maying.club'
+  - 'DOMAIN-SUFFIX,emby.neko.edu.rs'
+  - 'DOMAIN-SUFFIX,emby.nyancat.net'
+  - 'DOMAIN-SUFFIX,hinet.jmsooo.com'
+  - 'DOMAIN-SUFFIX,agahk1.jmsooo.com'
+  - 'DOMAIN-SUFFIX,agajp1.jmsooo.com'
+  - 'DOMAIN-SUFFIX,agasg1.jmsooo.com'
+  - 'DOMAIN-SUFFIX,pilipiliultra.com'
+  - 'DOMAIN-SUFFIX,servers.xeton.dev'
+  - 'DOMAIN-SUFFIX,emby.cristiamo.top'
+  - 'DOMAIN-SUFFIX,emby.nexitally.com'
+  - 'DOMAIN-SUFFIX,emby.prprcloud.com'
+  - 'DOMAIN-SUFFIX,jellyfin.xeton.dev'
+  - 'DOMAIN-SUFFIX,emby.flowercloud.yt'
+
+  # DOMAIN-KEYWORD (3 rules)
+  - 'DOMAIN-KEYWORD,jmsooo'
+  - 'DOMAIN-KEYWORD,emby.wtf'
+  - 'DOMAIN-KEYWORD,odysseyplus'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.mb.android'

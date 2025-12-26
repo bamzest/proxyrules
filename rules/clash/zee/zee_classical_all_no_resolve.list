@@ -1,0 +1,28 @@
+# zee - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (22 rules)
+DOMAIN-SUFFIX,bgr.in
+DOMAIN-SUFFIX,ind.sh
+DOMAIN-SUFFIX,dnai.in
+DOMAIN-SUFFIX,zee.com
+DOMAIN-SUFFIX,india.com
+DOMAIN-SUFFIX,oncars.in
+DOMAIN-SUFFIX,zeebiz.com
+DOMAIN-SUFFIX,ekhindi.com
+DOMAIN-SUFFIX,itripto.com
+DOMAIN-SUFFIX,wionews.com
+DOMAIN-SUFFIX,zeenews.com
+DOMAIN-SUFFIX,dnaindia.com
+DOMAIN-SUFFIX,earngeek.com
+DOMAIN-SUFFIX,prepsure.com
+DOMAIN-SUFFIX,yo1health.com
+DOMAIN-SUFFIX,careerfundas.com
+DOMAIN-SUFFIX,bollywoodlife.com
+DOMAIN-SUFFIX,thehealthsite.com
+DOMAIN-SUFFIX,cricketcountry.com
+DOMAIN-SUFFIX,indiancolleges.com
+DOMAIN-SUFFIX,zeeentertainment.com
+DOMAIN-SUFFIX,zeenews-fonts.s3.amazonaws.com

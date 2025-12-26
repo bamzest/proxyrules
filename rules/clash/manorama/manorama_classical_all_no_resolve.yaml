@@ -1,0 +1,19 @@
+# manorama - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (12 rules)
+  - 'DOMAIN-SUFFIX,theman.in'
+  - 'DOMAIN-SUFFIX,theweek.in'
+  - 'DOMAIN-SUFFIX,vanitha.in'
+  - 'DOMAIN-SUFFIX,manorama.com'
+  - 'DOMAIN-SUFFIX,radiomango.fm'
+  - 'DOMAIN-SUFFIX,onmanorama.com'
+  - 'DOMAIN-SUFFIX,manoramanews.com'
+  - 'DOMAIN-SUFFIX,vanitaonline.com'
+  - 'DOMAIN-SUFFIX,vanithaveedu.com'
+  - 'DOMAIN-SUFFIX,manoramaonline.com'
+  - 'DOMAIN-SUFFIX,manoramayearbook.in'
+  - 'DOMAIN-SUFFIX,malayalamanorama.com'

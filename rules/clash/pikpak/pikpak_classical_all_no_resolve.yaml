@@ -1,0 +1,24 @@
+# pikpak - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (6 rules)
+  - 'DOMAIN,mypikpak.com'
+  - 'DOMAIN,user.mypikpak.com'
+  - 'DOMAIN,access.mypikpak.com'
+  - 'DOMAIN,config.mypikpak.com'
+  - 'DOMAIN,static.mypikpak.com'
+  - 'DOMAIN,api-drive.mypikpak.com'
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,hub5pnc.sandai.net'
+  - 'DOMAIN-SUFFIX,hub5pn.wap.sandai.net'
+  - 'DOMAIN-SUFFIX,hubciddata.sandai.net'
+  - 'DOMAIN-SUFFIX,dlandroid.rcv.sandai.net'
+  - 'DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net'
+  - 'DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net'
+
+  # DOMAIN-KEYWORD (1 rules)
+  - 'DOMAIN-KEYWORD,mypikpak'

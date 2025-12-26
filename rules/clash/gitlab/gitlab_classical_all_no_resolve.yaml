@@ -1,0 +1,13 @@
+# gitlab - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,gitter.im'
+  - 'DOMAIN-SUFFIX,gitlab.com'
+  - 'DOMAIN-SUFFIX,gitlab.net'
+  - 'DOMAIN-SUFFIX,gitlab-static.net'
+  - 'DOMAIN-SUFFIX,gitter-static.net'
+  - 'DOMAIN-SUFFIX,gitlab-assets.oss-cn-hongkong.aliyuncs.com'

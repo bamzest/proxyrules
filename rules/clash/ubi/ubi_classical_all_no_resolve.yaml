@@ -1,0 +1,13 @@
+# ubi - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,ubi.com'
+  - 'DOMAIN-SUFFIX,uplay.com'
+  - 'DOMAIN-SUFFIX,ubisoft.com'
+  - 'DOMAIN-SUFFIX,uplaypc-s-ubisoft.cdn.ubi.com'
+  - 'DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com'
+  - 'DOMAIN-SUFFIX,ubisoft-uplay-savegames.s3.amazonaws.com'

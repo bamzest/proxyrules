@@ -1,0 +1,12 @@
+# comodo - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,comodo.com'
+  - 'DOMAIN-SUFFIX,comodoca.com'
+  - 'DOMAIN-SUFFIX,comodoca2.com'
+  - 'DOMAIN-SUFFIX,comodoca3.com'
+  - 'DOMAIN-SUFFIX,comodoca4.com'

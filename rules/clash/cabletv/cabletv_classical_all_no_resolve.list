@@ -1,0 +1,8 @@
+# cabletv - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (2 rules)
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,cabletv.com.hk

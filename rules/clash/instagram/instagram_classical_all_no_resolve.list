@@ -1,0 +1,12 @@
+# instagram - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,instagram

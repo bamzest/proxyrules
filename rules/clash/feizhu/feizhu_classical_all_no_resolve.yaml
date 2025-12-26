@@ -1,0 +1,27 @@
+# feizhu - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (20 rules)
+  - 'DOMAIN-SUFFIX,bcvbw.com'
+  - 'DOMAIN-SUFFIX,fdfgdf.cn'
+  - 'DOMAIN-SUFFIX,feizhu.cn'
+  - 'DOMAIN-SUFFIX,fliggy.hk'
+  - 'DOMAIN-SUFFIX,ujmjk.com'
+  - 'DOMAIN-SUFFIX,vfvdf.com'
+  - 'DOMAIN-SUFFIX,xcvvs.com'
+  - 'DOMAIN-SUFFIX,zxczw.com'
+  - 'DOMAIN-SUFFIX,zzxca.com'
+  - 'DOMAIN-SUFFIX,asczwa.com'
+  - 'DOMAIN-SUFFIX,dfkhgj.com'
+  - 'DOMAIN-SUFFIX,edcdfg.com'
+  - 'DOMAIN-SUFFIX,feizhu.com'
+  - 'DOMAIN-SUFFIX,fliggy.com'
+  - 'DOMAIN-SUFFIX,iuynfg.com'
+  - 'DOMAIN-SUFFIX,jhgtgb.com'
+  - 'DOMAIN-SUFFIX,alitrip.com'
+  - 'DOMAIN-SUFFIX,ereuiib.com'
+  - 'DOMAIN-SUFFIX,mnbvbqw.com'
+  - 'DOMAIN-SUFFIX,asczxcefsv.com'

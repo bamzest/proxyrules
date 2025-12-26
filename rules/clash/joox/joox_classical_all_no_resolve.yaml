@@ -1,0 +1,20 @@
+# joox - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,joox.com'
+  - 'DOMAIN-SUFFIX,i-joox.com'
+  - 'DOMAIN-SUFFIX,sanook.com'
+
+  # DOMAIN-KEYWORD (1 rules)
+  - 'DOMAIN-KEYWORD,jooxweb-api'
+
+  # IP-CIDR (2 rules)
+  - 'IP-CIDR,119.28.182.0/23,no-resolve'
+  - 'IP-CIDR,203.205.234.0/23,no-resolve'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.tencent.ibg.joox'

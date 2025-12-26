@@ -1,0 +1,12 @@
+# pchome - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,ecimg.tw'
+  - 'DOMAIN-SUFFIX,pcloud.tw'
+  - 'DOMAIN-SUFFIX,pchome.com.tw'
+  - 'DOMAIN-SUFFIX,pchomepay.com.tw'
+  - 'DOMAIN-SUFFIX,ecapi-pchome.cdn.hinet.net'

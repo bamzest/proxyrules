@@ -1,0 +1,42 @@
+# samsung - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (33 rules)
+DOMAIN-SUFFIX,yogiio.cn
+DOMAIN-SUFFIX,bixbyai.cn
+DOMAIN-SUFFIX,mdc-dev.cn
+DOMAIN-SUFFIX,mdc-prd.cn
+DOMAIN-SUFFIX,mdc-stg.cn
+DOMAIN-SUFFIX,stadmin.cn
+DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,srcgsre.com
+DOMAIN-SUFFIX,streleng.cn
+DOMAIN-SUFFIX,aspserver.cn
+DOMAIN-SUFFIX,cspserver.cn
+DOMAIN-SUFFIX,sreminder.cn
+DOMAIN-SUFFIX,anrdoezrs.net
+DOMAIN-SUFFIX,galaxyclub.cn
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,secb2b.com.cn
+DOMAIN-SUFFIX,aibixby.com.cn
+DOMAIN-SUFFIX,samsungqbe.com
+DOMAIN-SUFFIX,srcbeijing.com
+DOMAIN-SUFFIX,bixbyllm.com.cn
+DOMAIN-SUFFIX,cloudpifarms.cn
+DOMAIN-SUFFIX,coapciserver.cn
+DOMAIN-SUFFIX,galaxymobile.jp
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,game-platform.net
+DOMAIN-SUFFIX,smartthingstlm.cn
+DOMAIN-SUFFIX,bixbydevelopers.cn
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunggalaxyfriends.com
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,samsung

@@ -1,0 +1,12 @@
+# baneasylistchina - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# IP-CIDR (5 rules)
+IP-CIDR,154.7.80.158/32,no-resolve
+IP-CIDR,194.59.220.161/32,no-resolve
+IP-CIDR,205.209.138.102/32,no-resolve
+IP-CIDR,23.231.151.252/32,no-resolve
+IP-CIDR,60.190.139.164/32,no-resolve

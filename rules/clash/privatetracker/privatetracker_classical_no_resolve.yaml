@@ -1,0 +1,19 @@
+# privatetracker - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (5 rules)
+  - 'DOMAIN-KEYWORD,m-team'
+  - 'DOMAIN-KEYWORD,chdbits'
+  - 'DOMAIN-KEYWORD,torrent'
+  - 'DOMAIN-KEYWORD,tracker'
+  - 'DOMAIN-KEYWORD,announce'
+
+  # IP-CIDR (4 rules)
+  - 'IP-CIDR,207.241.226.111/32,no-resolve'
+  - 'IP-CIDR,207.241.231.226/32,no-resolve'
+  - 'IP-CIDR,52.58.128.163/32,no-resolve'
+  - 'IP-CIDR,89.110.76.229/32,no-resolve'

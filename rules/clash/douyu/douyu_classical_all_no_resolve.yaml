@@ -1,0 +1,20 @@
+# douyu - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (13 rules)
+  - 'DOMAIN-SUFFIX,douyu.tv'
+  - 'DOMAIN-SUFFIX,douyu.com'
+  - 'DOMAIN-SUFFIX,oywtv.com'
+  - 'DOMAIN-SUFFIX,douyuba.cn'
+  - 'DOMAIN-SUFFIX,douyucdn.cn'
+  - 'DOMAIN-SUFFIX,douyutv.com'
+  - 'DOMAIN-SUFFIX,doyonoc.com'
+  - 'DOMAIN-SUFFIX,edgesrv.com'
+  - 'DOMAIN-SUFFIX,douyucdn2.cn'
+  - 'DOMAIN-SUFFIX,douyupcdn.cn'
+  - 'DOMAIN-SUFFIX,douyuscdn.com'
+  - 'DOMAIN-SUFFIX,guguyuyin.com'
+  - 'DOMAIN-SUFFIX,bytefcdnrd.com'

@@ -1,0 +1,10 @@
+# usmedia - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# PROCESS-NAME (3 rules)
+PROCESS-NAME,com.cbs.app
+PROCESS-NAME,com.hulu.plus
+PROCESS-NAME,com.showtime.standalone

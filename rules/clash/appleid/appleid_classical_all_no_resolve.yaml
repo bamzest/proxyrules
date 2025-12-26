@@ -1,0 +1,11 @@
+# appleid - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (4 rules)
+  - 'DOMAIN,gsa.apple.com'
+  - 'DOMAIN,idmsa.apple.com'
+  - 'DOMAIN,appleid.apple.com'
+  - 'DOMAIN,appleid.cdn-apple.com'

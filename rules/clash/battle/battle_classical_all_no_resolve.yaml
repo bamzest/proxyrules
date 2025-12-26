@@ -1,0 +1,17 @@
+# battle - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (5 rules)
+  - 'DOMAIN,blzddist1-a.akamaihd.net'
+  - 'DOMAIN,cdn.blz-contentstack.com'
+  - 'DOMAIN,blizzard.nefficient.co.kr'
+  - 'DOMAIN,blzddistkr1-a.akamaihd.net'
+  - 'DOMAIN,bnetproduct-a.akamaihd.net'
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,battle.net'
+  - 'DOMAIN-SUFFIX,blizzard.com'
+  - 'DOMAIN-SUFFIX,battlenet.com.cn'

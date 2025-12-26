@@ -1,0 +1,9 @@
+# identrust - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.net
+DOMAIN-SUFFIX,identrust.co.uk

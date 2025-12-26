@@ -1,0 +1,11 @@
+# tor - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# PROCESS-NAME (2 rules)
+PROCESS-NAME,tor
+PROCESS-NAME,tor.exe
+
+# PROCESS-NAME-REGEX (1 rules)
+PROCESS-NAME-REGEX,(?i)torproject

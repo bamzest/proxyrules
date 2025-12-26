@@ -1,0 +1,19 @@
+# hamivideo - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,hls-hichannel.cdn.hinet.net
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,ott.hinet.net
+DOMAIN-SUFFIX,scc.ott.hinet.net
+DOMAIN-SUFFIX,hamivideo.hinet.net
+DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,hamivideo.cdn.hinet.net

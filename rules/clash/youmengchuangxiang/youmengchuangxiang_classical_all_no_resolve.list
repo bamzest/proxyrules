@@ -1,0 +1,27 @@
+# youmengchuangxiang - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (21 rules)
+DOMAIN-SUFFIX,fldvz.cn
+DOMAIN-SUFFIX,ljnvb.cn
+DOMAIN-SUFFIX,smmdn.cn
+DOMAIN-SUFFIX,xcmy0.cn
+DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,jyjqdn.cn
+DOMAIN-SUFFIX,lccnxn.cn
+DOMAIN-SUFFIX,sylqmn.cn
+DOMAIN-SUFFIX,yblxyp.cn
+DOMAIN-SUFFIX,hj-dog.com
+DOMAIN-SUFFIX,lzcmm9x.cn
+DOMAIN-SUFFIX,shsyfzq.cn
+DOMAIN-SUFFIX,carrydj.com
+DOMAIN-SUFFIX,maozhuar.cn
+DOMAIN-SUFFIX,97973.com.cn
+DOMAIN-SUFFIX,maozhuar.com
+DOMAIN-SUFFIX,xuanyaodang.cn
+DOMAIN-SUFFIX,maozhuar.com.cn
+DOMAIN-SUFFIX,xuanyaodang.com
+DOMAIN-SUFFIX,xuanyaodang.net
+DOMAIN-SUFFIX,youmengchuangxiang.com

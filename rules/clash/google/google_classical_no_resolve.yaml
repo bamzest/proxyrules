@@ -1,0 +1,32 @@
+# google - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-KEYWORD (5 rules)
+  - 'DOMAIN-KEYWORD,gmail'
+  - 'DOMAIN-KEYWORD,google'
+  - 'DOMAIN-KEYWORD,appspot'
+  - 'DOMAIN-KEYWORD,blogspot'
+  - 'DOMAIN-KEYWORD,recaptcha'
+
+  # IP-CIDR (4 rules)
+  - 'IP-CIDR,172.110.32.0/21,no-resolve'
+  - 'IP-CIDR,216.73.80.0/20,no-resolve'
+  - 'IP-CIDR,173.194.0.0/16,no-resolve'
+  - 'IP-CIDR,74.125.0.0/16,no-resolve'
+
+  # IP-CIDR6 (1 rules)
+  - 'IP-CIDR6,2620:120:e000::/40,no-resolve'
+
+  # PROCESS-NAME (8 rules)
+  - 'PROCESS-NAME,BackupandSync'
+  - 'PROCESS-NAME,GoogleDriveFS.exe'
+  - 'PROCESS-NAME,com.android.vending'
+  - 'PROCESS-NAME,com.google.android.gms'
+  - 'PROCESS-NAME,com.google.android.gsf'
+  - 'PROCESS-NAME,com.google.android.youtube'
+  - 'PROCESS-NAME,com.google.android.play.games'
+  - 'PROCESS-NAME,com.google.android.apps.youtube.music'

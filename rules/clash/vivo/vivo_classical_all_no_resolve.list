@@ -1,0 +1,20 @@
+# vivo - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (14 rules)
+DOMAIN-SUFFIX,bbk.com
+DOMAIN-SUFFIX,vivo.cn
+DOMAIN-SUFFIX,iqoo.com
+DOMAIN-SUFFIX,vivo.com
+DOMAIN-SUFFIX,vivo.xyz
+DOMAIN-SUFFIX,vmic.xyz
+DOMAIN-SUFFIX,gdbbk.com
+DOMAIN-SUFFIX,vivotc.com
+DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,vivosjpt.com
+DOMAIN-SUFFIX,vsearch.club
+DOMAIN-SUFFIX,bbktel.com.cn
+DOMAIN-SUFFIX,funtouchos.com
+DOMAIN-SUFFIX,vivoglobal.com

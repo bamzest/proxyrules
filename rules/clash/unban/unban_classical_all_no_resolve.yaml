@@ -1,0 +1,40 @@
+# unban - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (12 rules)
+  - 'DOMAIN,vd.l.qq.com'
+  - 'DOMAIN,dl.google.com'
+  - 'DOMAIN,msg.umeng.com'
+  - 'DOMAIN,app.adjust.com'
+  - 'DOMAIN,bdtj.tagtic.cn'
+  - 'DOMAIN,livew.l.qq.com'
+  - 'DOMAIN,errlog.umeng.com'
+  - 'DOMAIN,fairplay.l.qq.com'
+  - 'DOMAIN,tracking.miui.com'
+  - 'DOMAIN,msg.umengcloud.com'
+  - 'DOMAIN,rewards.hypixel.net'
+  - 'DOMAIN,origin-a.akamaihd.net'
+
+  # DOMAIN-SUFFIX (19 rules)
+  - 'DOMAIN-SUFFIX,i234.me'
+  - 'DOMAIN-SUFFIX,myDS.me'
+  - 'DOMAIN-SUFFIX,DSCloud.me'
+  - 'DOMAIN-SUFFIX,DSCloud.biz'
+  - 'DOMAIN-SUFFIX,DSmyNAS.com'
+  - 'DOMAIN-SUFFIX,DSmyNAS.net'
+  - 'DOMAIN-SUFFIX,DSmyNAS.org'
+  - 'DOMAIN-SUFFIX,synology.me'
+  - 'DOMAIN-SUFFIX,DSCloud.mobi'
+  - 'DOMAIN-SUFFIX,FamilyDS.com'
+  - 'DOMAIN-SUFFIX,FamilyDS.net'
+  - 'DOMAIN-SUFFIX,FamilyDS.org'
+  - 'DOMAIN-SUFFIX,DiskStation.me'
+  - 'DOMAIN-SUFFIX,koodomobile.ca'
+  - 'DOMAIN-SUFFIX,koodomobile.com'
+  - 'DOMAIN-SUFFIX,ol.epicgames.com'
+  - 'DOMAIN-SUFFIX,dizhensubao.getui.com'
+  - 'DOMAIN-SUFFIX,googletraveladservices.com'
+  - 'DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net'

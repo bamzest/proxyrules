@@ -1,0 +1,11 @@
+# 6park - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (4 rules)
+  - 'DOMAIN-SUFFIX,6park.com'
+  - 'DOMAIN-SUFFIX,cool18.com'
+  - 'DOMAIN-SUFFIX,6parkbbs.com'
+  - 'DOMAIN-SUFFIX,6parknews.com'

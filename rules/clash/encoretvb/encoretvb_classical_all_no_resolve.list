@@ -1,0 +1,13 @@
+# encoretvb - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (4 rules)
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+
+# DOMAIN-SUFFIX (1 rules)
+DOMAIN-SUFFIX,encoretvb.com

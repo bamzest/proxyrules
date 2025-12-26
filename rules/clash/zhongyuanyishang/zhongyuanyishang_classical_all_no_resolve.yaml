@@ -1,0 +1,17 @@
+# zhongyuanyishang - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (10 rules)
+  - 'DOMAIN-SUFFIX,esound.cn'
+  - 'DOMAIN-SUFFIX,esound.vip'
+  - 'DOMAIN-SUFFIX,iotboss.cn'
+  - 'DOMAIN-SUFFIX,flymodem.cn'
+  - 'DOMAIN-SUFFIX,bjesound.com'
+  - 'DOMAIN-SUFFIX,flymodem.net'
+  - 'DOMAIN-SUFFIX,esound.net.cn'
+  - 'DOMAIN-SUFFIX,早行客.com'
+  - 'DOMAIN-SUFFIX,earlymen.com.cn'
+  - 'DOMAIN-SUFFIX,flymodem.com.cn'

@@ -1,0 +1,22 @@
+# dingxiangyuan - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (16 rules)
+DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,dxy.me
+DOMAIN-SUFFIX,0dxy.cn
+DOMAIN-SUFFIX,crou.cn
+DOMAIN-SUFFIX,dxy.com
+DOMAIN-SUFFIX,dxy.net
+DOMAIN-SUFFIX,dxyer.cn
+DOMAIN-SUFFIX,jobmd.cn
+DOMAIN-SUFFIX,dxyer.com
+DOMAIN-SUFFIX,mdnews.cn
+DOMAIN-SUFFIX,pubmed.cn
+DOMAIN-SUFFIX,biomart.cn
+DOMAIN-SUFFIX,dxycdn.com
+DOMAIN-SUFFIX,centerwatch.cn
+DOMAIN-SUFFIX,guanlannet.com
+DOMAIN-SUFFIX,linkmed.com.cn

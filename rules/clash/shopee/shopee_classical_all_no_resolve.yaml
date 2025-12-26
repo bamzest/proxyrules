@@ -1,0 +1,28 @@
+# shopee - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (21 rules)
+  - 'DOMAIN-SUFFIX,shp.ee'
+  - 'DOMAIN-SUFFIX,shopee.cl'
+  - 'DOMAIN-SUFFIX,shopee.cn'
+  - 'DOMAIN-SUFFIX,shopee.es'
+  - 'DOMAIN-SUFFIX,shopee.fr'
+  - 'DOMAIN-SUFFIX,shopee.id'
+  - 'DOMAIN-SUFFIX,shopee.in'
+  - 'DOMAIN-SUFFIX,shopee.io'
+  - 'DOMAIN-SUFFIX,shopee.ph'
+  - 'DOMAIN-SUFFIX,shopee.sg'
+  - 'DOMAIN-SUFFIX,shopee.tw'
+  - 'DOMAIN-SUFFIX,shopee.vn'
+  - 'DOMAIN-SUFFIX,shopee.com'
+  - 'DOMAIN-SUFFIX,shopee.co.id'
+  - 'DOMAIN-SUFFIX,shopee.co.th'
+  - 'DOMAIN-SUFFIX,shopeesz.com'
+  - 'DOMAIN-SUFFIX,shopee.com.br'
+  - 'DOMAIN-SUFFIX,shopee.com.co'
+  - 'DOMAIN-SUFFIX,shopee.com.mx'
+  - 'DOMAIN-SUFFIX,shopee.com.my'
+  - 'DOMAIN-SUFFIX,shopeemobile.com'

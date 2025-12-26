@@ -1,0 +1,23 @@
+# cht - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (1 rules)
+  - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
+
+  # DOMAIN-SUFFIX (13 rules)
+  - 'DOMAIN-SUFFIX,litv.tv'
+  - 'DOMAIN-SUFFIX,emome.net'
+  - 'DOMAIN-SUFFIX,hinet.net'
+  - 'DOMAIN-SUFFIX,xuite.net'
+  - 'DOMAIN-SUFFIX,cht.com.tw'
+  - 'DOMAIN-SUFFIX,chtf.org.tw'
+  - 'DOMAIN-SUFFIX,gtlsca.nat.gov.tw'
+  - 'DOMAIN-SUFFIX,scc.ott.hinet.net'
+  - 'DOMAIN-SUFFIX,hamivideo.hinet.net'
+  - 'DOMAIN-SUFFIX,apl-hamivideo.cdn.hinet.net'
+  - 'DOMAIN-SUFFIX,static-hamivideo.cdn.hinet.net'
+  - 'DOMAIN-SUFFIX,weblive-hamivideo.cdn.hinet.net'
+  - 'DOMAIN-SUFFIX,mobilelive-hamivideo.cdn.hinet.net'

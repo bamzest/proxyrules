@@ -1,0 +1,42 @@
+# amazonprimevideo - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (9 rules)
+DOMAIN,www.amazon.com
+DOMAIN,atv-ps.amazon.com
+DOMAIN,fls-na.amazon.com
+DOMAIN,avodmp4s3ww-a.akamaihd.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+
+# DOMAIN-SUFFIX (19 rules)
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,pv-cdn.net
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,aiv-delivery.net
+DOMAIN-SUFFIX,media-amazon.com
+DOMAIN-SUFFIX,atv-ps.amazon.com
+DOMAIN-SUFFIX,fls-na.amazon.com
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,avoddashs
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.amazon.avod.thirdpartyclient

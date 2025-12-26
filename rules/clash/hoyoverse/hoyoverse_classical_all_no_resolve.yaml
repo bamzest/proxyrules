@@ -1,0 +1,18 @@
+# hoyoverse - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (11 rules)
+  - 'DOMAIN-SUFFIX,hoyo.link'
+  - 'DOMAIN-SUFFIX,hoyolab.com'
+  - 'DOMAIN-SUFFIX,yuanshen.com'
+  - 'DOMAIN-SUFFIX,hoyoverse.com'
+  - 'DOMAIN-SUFFIX,juequling.com'
+  - 'DOMAIN-SUFFIX,starrails.com'
+  - 'DOMAIN-SUFFIX,n0vadesktop.com'
+  - 'DOMAIN-SUFFIX,themisweeps.com'
+  - 'DOMAIN-SUFFIX,genshinimpact.com'
+  - 'DOMAIN-SUFFIX,honkaiimpact3.com'
+  - 'DOMAIN-SUFFIX,honkaistarrail.com'

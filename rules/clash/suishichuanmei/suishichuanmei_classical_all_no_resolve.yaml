@@ -1,0 +1,21 @@
+# suishichuanmei - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (14 rules)
+  - 'DOMAIN-SUFFIX,adsit.cn'
+  - 'DOMAIN-SUFFIX,mobhui.cn'
+  - 'DOMAIN-SUFFIX,mipujia.cn'
+  - 'DOMAIN-SUFFIX,mobhui.com'
+  - 'DOMAIN-SUFFIX,quyaoya.cn'
+  - 'DOMAIN-SUFFIX,mipujia.com'
+  - 'DOMAIN-SUFFIX,quyaoya.com'
+  - 'DOMAIN-SUFFIX,91friend.com'
+  - 'DOMAIN-SUFFIX,ebaidutv.com'
+  - 'DOMAIN-SUFFIX,weibopie.com'
+  - 'DOMAIN-SUFFIX,socialjia.com'
+  - 'DOMAIN-SUFFIX,socialpls.com'
+  - 'DOMAIN-SUFFIX,aojiamarly.com'
+  - 'DOMAIN-SUFFIX,smartsocial.cn'

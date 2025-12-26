@@ -1,0 +1,18 @@
+# moonshot - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (11 rules)
+  - 'DOMAIN-SUFFIX,kimi.cn'
+  - 'DOMAIN-SUFFIX,kimi.com'
+  - 'DOMAIN-SUFFIX,msdev.cc'
+  - 'DOMAIN-SUFFIX,msh.team'
+  - 'DOMAIN-SUFFIX,kimi.com.cn'
+  - 'DOMAIN-SUFFIX,moonshot.cn'
+  - 'DOMAIN-SUFFIX,kimi-bot.com'
+  - 'DOMAIN-SUFFIX,kimi-chat.com'
+  - 'DOMAIN-SUFFIX,kimistatus.cn'
+  - 'DOMAIN-SUFFIX,moonshotstatus.cn'
+  - 'DOMAIN-SUFFIX,moonshotstatus.com'
