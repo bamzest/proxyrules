@@ -1,0 +1,13 @@
+# hongkong - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (6 rules)
+  - 'DOMAIN,rbwm-api.hsbc.com.hk'
+  - 'DOMAIN,csl.prod.ondemandconnectivity.com'
+  - 'DOMAIN,hhk.prod.ondemandconnectivity.com'
+  - 'DOMAIN,epdg.epc.mnc000.mcc454.pub.3gppnetwork.org'
+  - 'DOMAIN,ss.epdg.epc.mnc000.mcc454.pub.3gppnetwork.org'
+  - 'DOMAIN,ss.epdg.epc.geo.mnc000.mcc454.pub.3gppnetwork.org'

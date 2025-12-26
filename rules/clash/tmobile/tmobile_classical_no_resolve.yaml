@@ -1,0 +1,11 @@
+# tmobile - Classical Format (Other Rules)
+# Excludes rules that can use domain.list (DOMAIN/DOMAIN-SUFFIX)
+# and ipcidr.list (IP-CIDR/IP-CIDR6)
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # IP-CIDR (3 rules)
+  - 'IP-CIDR,206.29.177.36/32,no-resolve'
+  - 'IP-CIDR,66.94.0.0/19,no-resolve'
+  - 'IP-CIDR,208.54.0.0/16,no-resolve'

@@ -4,5 +4,6 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# PROCESS-NAME (1 rules)
+# PROCESS-NAME (2 rules)
 PROCESS-NAME,LookupViewService
+PROCESS-NAME,lookupviewservice

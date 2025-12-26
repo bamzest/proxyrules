@@ -13,7 +13,7 @@ DOMAIN-KEYWORD,apple.com.edgekey.net
 DOMAIN-KEYWORD,icloud.com.akadns.net
 DOMAIN-KEYWORD,apple-support.akadns.net
 
-# PROCESS-NAME (13 rules)
+# PROCESS-NAME (14 rules)
 PROCESS-NAME,TV
 PROCESS-NAME,apsd
 PROCESS-NAME,fmfd
@@ -24,6 +24,7 @@ PROCESS-NAME,mapspushd
 PROCESS-NAME,WeatherWidget
 PROCESS-NAME,com.apple.Maps
 PROCESS-NAME,com.apple.geod
+PROCESS-NAME,storedownloadd
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,findmydevice-user-agent

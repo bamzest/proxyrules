@@ -3,4 +3,17 @@
 # and ipcidr.list (IP-CIDR/IP-CIDR6)
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
-# 无规则内容，自动生成占位
+
+# DOMAIN-KEYWORD (9 rules)
+DOMAIN-KEYWORD,zjcdn
+DOMAIN-KEYWORD,zjurl
+DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,toutiao
+DOMAIN-KEYWORD,zijieapi
+DOMAIN-KEYWORD,douyinpic
+DOMAIN-KEYWORD,douyinvod
+DOMAIN-KEYWORD,ecombdapi
+DOMAIN-KEYWORD,douyinstatic
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.zhiliaoapp.musically

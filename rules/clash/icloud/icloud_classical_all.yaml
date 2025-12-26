@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (58 rules)
+  # DOMAIN-SUFFIX (61 rules)
   - 'DOMAIN-SUFFIX,me.com'
   - 'DOMAIN-SUFFIX,icloud.ch'
   - 'DOMAIN-SUFFIX,icloud.de'
@@ -63,6 +63,10 @@ payload:
   - 'DOMAIN-SUFFIX,icloud-isupport.com'
   - 'DOMAIN-SUFFIX,apple-livephotoskit.com'
   - 'DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net'
+  - 'DOMAIN-SUFFIX,gcs-content-storage-upload.googleapis.com'
+  - 'DOMAIN-SUFFIX,gcs-content-storage-download.googleapis.com'
+  - 'DOMAIN-SUFFIX,us-ore-00001.s3.dualstack.us-west-2.amazonaws.com'
 
-  # DOMAIN-KEYWORD (1 rules)
+  # DOMAIN-KEYWORD (2 rules)
+  - 'DOMAIN-KEYWORD,content.icloud'
   - 'DOMAIN-KEYWORD,icloud.com.akadns.net'

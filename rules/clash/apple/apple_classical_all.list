@@ -3,20 +3,31 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (11 rules)
+# DOMAIN (22 rules)
 DOMAIN,edge.apple
+DOMAIN,swcdn.apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,updates.cdn-apple.com
 DOMAIN,e16991.b.akamaiedge.net
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,supportdownload.apple.com
 DOMAIN,apple-events.akamaized.net
 DOMAIN,apple.comscoreresearch.com
+DOMAIN,gspe19-cn-ssl.ls.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,icons.axm-usercontent-apple.com
 DOMAIN,p-events-delivery.akamaized.net
 DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
+DOMAIN,aod.itunes.apple.com // Apple Music
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,gspe1-ssl.ls.apple.com // Country Code
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 
-# DOMAIN-SUFFIX (1600 rules)
+# DOMAIN-SUFFIX (1601 rules)
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,mac.eu
 DOMAIN-SUFFIX,mac.rs
@@ -1613,6 +1624,7 @@ DOMAIN-SUFFIX,usa-beatsbydreheadphonesonsale.net
 DOMAIN-SUFFIX,beatsbydresalesonline-australia.com
 DOMAIN-SUFFIX,monsterbeatsbydreaustraliacheap.com
 DOMAIN-SUFFIX,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN-SUFFIX,store.apple.com // Apple Store Online
 DOMAIN-SUFFIX,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN-SUFFIX,apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,notary-submissions-prod.s3.us-west-2.amazonaws.com
@@ -2581,7 +2593,7 @@ IP-CIDR,17.0.0.0/9
 IP-CIDR,17.128.0.0/9
 IP-CIDR,17.0.0.0/8
 
-# PROCESS-NAME (13 rules)
+# PROCESS-NAME (14 rules)
 PROCESS-NAME,TV
 PROCESS-NAME,apsd
 PROCESS-NAME,fmfd
@@ -2592,6 +2604,7 @@ PROCESS-NAME,mapspushd
 PROCESS-NAME,WeatherWidget
 PROCESS-NAME,com.apple.Maps
 PROCESS-NAME,com.apple.geod
+PROCESS-NAME,storedownloadd
 PROCESS-NAME,CoreLocationAgent
 PROCESS-NAME,LookupViewService
 PROCESS-NAME,findmydevice-user-agent

@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (8 rules)
+  # DOMAIN-KEYWORD (9 rules)
   - 'DOMAIN-KEYWORD,claude'
   - 'DOMAIN-KEYWORD,openai'
   - 'DOMAIN-KEYWORD,anthropic'
@@ -14,3 +14,4 @@ payload:
   - 'DOMAIN-KEYWORD,openart.ai'
   - 'DOMAIN-KEYWORD,huggingface'
   - 'DOMAIN-KEYWORD,grazie.aws.intellij.net'
+  - 'DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com'

@@ -7,7 +7,7 @@
 DOMAIN,api.imem.app
 DOMAIN,api.swiftgram.app
 
-# DOMAIN-SUFFIX (22 rules)
+# DOMAIN-SUFFIX (23 rules)
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,tg.dev
@@ -30,15 +30,20 @@ DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,telegram-cdn.org
 DOMAIN-SUFFIX,telegramdownload.com
+DOMAIN-SUFFIX,comments.app // 🆕comments.app
 
 # DOMAIN-KEYWORD (2 rules)
 DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,telegram
 
-# IP-CIDR (16 rules)
+# IP-CIDR (21 rules)
 IP-CIDR,139.59.210.98/32,no-resolve
 IP-CIDR,196.55.216.167/32,no-resolve
+IP-CIDR,5.28.195.163/32,no-resolve //Germany - Hesse - Frankfurt am Main / AS1273
+IP-CIDR,5.28.195.205/32,no-resolve // IPFFM - Internet Provider Frankfurt GmbH
+IP-CIDR,5.28.195.37/32,no-resolve //Germany - Hesse - Frankfurt am Main / AS1273
 IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve // Telegram Messenger LLP
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,149.154.172.0/22,no-resolve
@@ -52,6 +57,7 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,95.161.64.0/20,no-resolve
 IP-CIDR,5.28.192.0/18,no-resolve
 IP-CIDR,91.108.0.0/16,no-resolve
+IP-CIDR,91.108.0.0/16,no-resolve // eTelecom_Customers_NAT_Network
 
 # IP-CIDR6 (8 rules)
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
@@ -63,17 +69,24 @@ IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
 IP-CIDR6,2a0a:f280::/29,no-resolve
 
-# IP-ASN (5 rules)
+# IP-ASN (10 rules)
 IP-ASN,211157,no-resolve
+IP-ASN,211157,no-resolve // Telegram Messenger Inc
 IP-ASN,44907,no-resolve
+IP-ASN,44907,no-resolve // Telegram Messenger Inc
 IP-ASN,59930,no-resolve
+IP-ASN,59930,no-resolve // Telegram Messenger Inc
 IP-ASN,62014,no-resolve
+IP-ASN,62014,no-resolve // Telegram Messenger Inc
 IP-ASN,62041,no-resolve
+IP-ASN,62041,no-resolve // Telegram Messenger Inc
 
-# PROCESS-NAME (6 rules)
+# PROCESS-NAME (8 rules)
+PROCESS-NAME,Telegram
 PROCESS-NAME,Telegram.exe
 PROCESS-NAME,nekox.messenger
 PROCESS-NAME,telegram-desktop
 PROCESS-NAME,tw.nekomimi.nekogram
 PROCESS-NAME,xyz.nextalone.nagram
 PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,org.telegram.messenger //🆕

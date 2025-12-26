@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (36 rules)
+  # DOMAIN-KEYWORD (39 rules)
   - 'DOMAIN-KEYWORD,jav'
   - 'DOMAIN-KEYWORD,1drv'
   - 'DOMAIN-KEYWORD,avtb'
@@ -40,8 +40,11 @@ payload:
   - 'DOMAIN-KEYWORD,instagram'
   - 'DOMAIN-KEYWORD,pinterest'
   - 'DOMAIN-KEYWORD,wikileaks'
+  - 'DOMAIN-KEYWORD,.blogspot.'
+  - 'DOMAIN-KEYWORD,.facebook.'
   - 'DOMAIN-KEYWORD,appledaily'
   - 'DOMAIN-KEYWORD,musical.ly'
+  - 'DOMAIN-KEYWORD,.pinterest.'
 
   # IP-CIDR (112 rules)
   - 'IP-CIDR,120.232.181.162/32,no-resolve'

@@ -1,13 +1,24 @@
 edge.apple
+swcdn.apple.com
+appldnld.apple.com
+updates.cdn-apple.com
 e16991.b.akamaiedge.net
+iosapps.itunes.apple.com
+osxapps.itunes.apple.com
+supportdownload.apple.com
 apple-events.akamaized.net
 apple.comscoreresearch.com
+gspe19-cn-ssl.ls.apple.com
+updates-http.cdn-apple.com
+apptrailers.itunes.apple.com
 icons.axm-usercontent-apple.com
 p-events-delivery.akamaized.net
 appldnld.apple.com.edgesuite.net
 lookup-api.apple.com.edgekey.net
 beatselectronicsllc.tt.omtrdc.net
+aod.itunes.apple.com // Apple Music
 appleworldwidedeveloper.sc.omtrdc.net
+gspe1-ssl.ls.apple.com // Country Code
 appleworldwidedeveloper.hb-api.omtrdc.net
 +.apple
 +.mac.eu
@@ -1605,6 +1616,7 @@ appleworldwidedeveloper.hb-api.omtrdc.net
 +.beatsbydresalesonline-australia.com
 +.monsterbeatsbydreaustraliacheap.com
 +.appleworldwidedeveloper.sc.omtrdc.net
++.store.apple.com // Apple Store Online
 +.appleworldwidedeveloper.hb-api.omtrdc.net
 +.apple.com.edgekey.net.globalredir.akadns.net
 +.notary-submissions-prod.s3.us-west-2.amazonaws.com

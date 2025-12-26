@@ -1,0 +1,18 @@
+# tmobile - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (4 rules)
+DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org //通过UDP 4500端口实现VoWifi
+
+# DOMAIN-SUFFIX (1 rules)
+DOMAIN-SUFFIX,t-mobile.com
+
+# IP-CIDR (3 rules)
+IP-CIDR,206.29.177.36/32
+IP-CIDR,66.94.0.0/19
+IP-CIDR,208.54.0.0/16

@@ -4,9 +4,10 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (3 rules)
+# DOMAIN-KEYWORD (4 rules)
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,jmsooo.com
 DOMAIN-KEYWORD,odysseyplus
 
 # PROCESS-NAME (1 rules)

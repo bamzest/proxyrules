@@ -4,4 +4,21 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-  # 无规则内容，自动生成占位
+
+  # DOMAIN-KEYWORD (9 rules)
+  - 'DOMAIN-KEYWORD,zjcdn'
+  - 'DOMAIN-KEYWORD,zjurl'
+  - 'DOMAIN-KEYWORD,douyin'
+  - 'DOMAIN-KEYWORD,toutiao'
+  - 'DOMAIN-KEYWORD,zijieapi'
+  - 'DOMAIN-KEYWORD,douyinpic'
+  - 'DOMAIN-KEYWORD,douyinvod'
+  - 'DOMAIN-KEYWORD,ecombdapi'
+  - 'DOMAIN-KEYWORD,douyinstatic'
+
+  # IP-CIDR (2 rules)
+  - 'IP-CIDR,114.246.10.65/32,no-resolve'
+  - 'IP-CIDR,58.20.141.67/32,no-resolve # >>新增🆕'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.zhiliaoapp.musically'

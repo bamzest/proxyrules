@@ -4,5 +4,8 @@
 # Rules are optimized and sorted for best performance
 payload:
 
+  # DOMAIN (1 rules)
+  - 'DOMAIN,bard.google.com'
+
   # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,www.google.'

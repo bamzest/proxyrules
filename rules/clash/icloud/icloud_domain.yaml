@@ -57,3 +57,6 @@ payload:
   - '+.icloud-isupport.com'
   - '+.apple-livephotoskit.com'
   - '+.www-cdn.icloud.com.akadns.net'
+  - '+.gcs-content-storage-upload.googleapis.com'
+  - '+.gcs-content-storage-download.googleapis.com'
+  - '+.us-ore-00001.s3.dualstack.us-west-2.amazonaws.com'

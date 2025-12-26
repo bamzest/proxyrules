@@ -3,5 +3,8 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN (1 rules)
+DOMAIN,bard.google.com
+
 # DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,www.google.

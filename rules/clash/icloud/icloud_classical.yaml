@@ -5,5 +5,6 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (1 rules)
+  # DOMAIN-KEYWORD (2 rules)
+  - 'DOMAIN-KEYWORD,content.icloud'
   - 'DOMAIN-KEYWORD,icloud.com.akadns.net'

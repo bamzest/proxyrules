@@ -1,0 +1,31 @@
+# parallels - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (24 rules)
+  - 'DOMAIN,parallels.cn'
+  - 'DOMAIN,parallels.de'
+  - 'DOMAIN,parallels.es'
+  - 'DOMAIN,parallels.fr'
+  - 'DOMAIN,parallels.nl'
+  - 'DOMAIN,parallels.pt'
+  - 'DOMAIN,parallels.ru'
+  - 'DOMAIN,parallels.com'
+  - 'DOMAIN,myparallels.com'
+  - 'DOMAIN,my.parallels.com'
+  - 'DOMAIN,www.parallels.cn'
+  - 'DOMAIN,www.parallels.de'
+  - 'DOMAIN,www.parallels.es'
+  - 'DOMAIN,www.parallels.fr'
+  - 'DOMAIN,www.parallels.nl'
+  - 'DOMAIN,www.parallels.pt'
+  - 'DOMAIN,www.parallels.ru'
+  - 'DOMAIN,www.parallels.com'
+  - 'DOMAIN,parallelskorea.com'
+  - 'DOMAIN,update.parallels.com'
+  - 'DOMAIN,reportus.parallels.com'
+  - 'DOMAIN,www.parallelskorea.com'
+  - 'DOMAIN,pax-manager.myparallels.com'
+  - 'DOMAIN,update.parallels.com.cdn.cloudflare.net'

@@ -1,0 +1,14 @@
+# taiwan - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,hamifans.emome.net
+
+# DOMAIN-SUFFIX (2 rules)
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,skyking.com.tw
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,gov.tw

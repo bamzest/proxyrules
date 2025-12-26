@@ -4,7 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (8 rules)
+# DOMAIN-KEYWORD (9 rules)
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
@@ -13,3 +13,4 @@ DOMAIN-KEYWORD,monica.im
 DOMAIN-KEYWORD,openart.ai
 DOMAIN-KEYWORD,huggingface
 DOMAIN-KEYWORD,grazie.aws.intellij.net
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com

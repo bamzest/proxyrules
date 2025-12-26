@@ -6,6 +6,7 @@ payload:
   - 'developer.apple.com'
   - 'mask-api.icloud.com'
   - 'news-edge.apple.com'
+  - 'hls.itunes.apple.com'
   - 'lookup-api.apple.com'
   - 'testflight.apple.com'
   - 'news-assets.apple.com'

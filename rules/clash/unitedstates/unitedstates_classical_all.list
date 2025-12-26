@@ -1,0 +1,33 @@
+# unitedstates - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (5 rules)
+DOMAIN,epdg.epc.mnc240.mcc310.pub.3gppnetwork.org
+DOMAIN,play.google.com // Enable Google AI Search
+DOMAIN,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+DOMAIN,epdg.epc.mnc260.mcc310.pub.3gppnetwork.org // [UDP]Port:4500
+
+# DOMAIN-SUFFIX (9 rules)
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,t-mobile.com
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,peacocktv.com
+DOMAIN-SUFFIX,ultramobile.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,www.google. // Google Search
+
+# IP-CIDR (3 rules)
+IP-CIDR,206.29.177.36/32
+IP-CIDR,66.94.0.0/19
+IP-CIDR,208.54.0.0/16
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.hbo.hbonow
