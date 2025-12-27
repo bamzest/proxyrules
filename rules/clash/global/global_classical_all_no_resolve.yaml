@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32372 rules)
+  # DOMAIN-SUFFIX (32373 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -4235,6 +4235,7 @@ payload:
   - 'DOMAIN-SUFFIX,lon.ac.uk'
   - 'DOMAIN-SUFFIX,looti.net'
   - 'DOMAIN-SUFFIX,lou.ac.uk'
+  - 'DOMAIN-SUFFIX,lovart.ai'
   - 'DOMAIN-SUFFIX,love7.xyz'
   - 'DOMAIN-SUFFIX,lpc.ac.uk'
   - 'DOMAIN-SUFFIX,lsa.ac.uk'

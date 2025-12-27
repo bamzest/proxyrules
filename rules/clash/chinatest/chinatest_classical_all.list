@@ -136,7 +136,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (115388 rules)
+# DOMAIN-SUFFIX (115391 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1.cc
@@ -37084,6 +37084,7 @@ DOMAIN-SUFFIX,hii-go.com
 DOMAIN-SUFFIX,hiiyun.com
 DOMAIN-SUFFIX,hijoys.com
 DOMAIN-SUFFIX,hikihj.com
+DOMAIN-SUFFIX,hikiot.com
 DOMAIN-SUFFIX,hikoon.com
 DOMAIN-SUFFIX,hikops.com
 DOMAIN-SUFFIX,hikyun.com
@@ -69075,6 +69076,7 @@ DOMAIN-SUFFIX,chinaoly.com
 DOMAIN-SUFFIX,chinaomp.com
 DOMAIN-SUFFIX,chinaopc.org
 DOMAIN-SUFFIX,chinaore.com
+DOMAIN-SUFFIX,chinaott.com
 DOMAIN-SUFFIX,chinaott.net
 DOMAIN-SUFFIX,chinapag.com
 DOMAIN-SUFFIX,chinapay.com
@@ -102016,6 +102018,7 @@ DOMAIN-SUFFIX,hiersun-hdp.com
 DOMAIN-SUFFIX,hiersun-ido.com
 DOMAIN-SUFFIX,high-genius.com
 DOMAIN-SUFFIX,higoldgroup.net
+DOMAIN-SUFFIX,hik-express.com
 DOMAIN-SUFFIX,hikrobotics.com
 DOMAIN-SUFFIX,hiksemitech.com
 DOMAIN-SUFFIX,hiloletswin.com
