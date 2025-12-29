@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17472 rules)
+# DOMAIN-SUFFIX (17474 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -3960,6 +3960,7 @@ DOMAIN-SUFFIX,gfpics.com
 DOMAIN-SUFFIX,gfsale.com
 DOMAIN-SUFFIX,gfw.org.ua
 DOMAIN-SUFFIX,gfw.report
+DOMAIN-SUFFIX,gfwbao.com
 DOMAIN-SUFFIX,gfysex.com
 DOMAIN-SUFFIX,ggdiao.com
 DOMAIN-SUFFIX,ghanely.me
@@ -9073,6 +9074,7 @@ DOMAIN-SUFFIX,aliveitsm.com
 DOMAIN-SUFFIX,alivertsm.com
 DOMAIN-SUFFIX,alivevmax.com
 DOMAIN-SUFFIX,aljazeera.com
+DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,allhen.online
 DOMAIN-SUFFIX,allmomsex.com
 DOMAIN-SUFFIX,allover30.com

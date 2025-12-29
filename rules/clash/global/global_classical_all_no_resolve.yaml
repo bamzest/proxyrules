@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32373 rules)
+  # DOMAIN-SUFFIX (32377 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -6531,6 +6531,7 @@ payload:
   - 'DOMAIN-SUFFIX,gfsale.com'
   - 'DOMAIN-SUFFIX,gfw.org.ua'
   - 'DOMAIN-SUFFIX,gfw.report'
+  - 'DOMAIN-SUFFIX,gfwbao.com'
   - 'DOMAIN-SUFFIX,gfycat.com'
   - 'DOMAIN-SUFFIX,gfysex.com'
   - 'DOMAIN-SUFFIX,ggdiao.com'
@@ -9940,6 +9941,7 @@ payload:
   - 'DOMAIN-SUFFIX,goagent.biz'
   - 'DOMAIN-SUFFIX,goals.ac.uk'
   - 'DOMAIN-SUFFIX,godaddy.com'
+  - 'DOMAIN-SUFFIX,godbolt.org'
   - 'DOMAIN-SUFFIX,gofit.ac.uk'
   - 'DOMAIN-SUFFIX,gogeo.ac.uk'
   - 'DOMAIN-SUFFIX,gogocdn.net'
@@ -20004,6 +20006,7 @@ payload:
   - 'DOMAIN-SUFFIX,salesforce.com'
   - 'DOMAIN-SUFFIX,salesforce.org'
   - 'DOMAIN-SUFFIX,sambaporno.com'
+  - 'DOMAIN-SUFFIX,samsungosp.com'
   - 'DOMAIN-SUFFIX,samsungqbe.com'
   - 'DOMAIN-SUFFIX,sandisk.com.au'
   - 'DOMAIN-SUFFIX,sandisk.com.br'
@@ -20891,6 +20894,7 @@ payload:
   - 'DOMAIN-SUFFIX,arabidopsis.org'
   - 'DOMAIN-SUFFIX,archangel.ac.uk'
   - 'DOMAIN-SUFFIX,archives.gov.tw'
+  - 'DOMAIN-SUFFIX,archlinuxcn.org'
   - 'DOMAIN-SUFFIX,aries-dtp.ac.uk'
   - 'DOMAIN-SUFFIX,arstechnica.net'
   - 'DOMAIN-SUFFIX,arvanstorage.ir'
