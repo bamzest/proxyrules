@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (132 rules)
+# DOMAIN (129 rules)
 DOMAIN,rss.owo.nz
 DOMAIN,i.jeded.com
 DOMAIN,lab.skk.moe
@@ -101,7 +101,6 @@ DOMAIN,github-api.arkoselabs.com
 DOMAIN,lgelectronics.122.2o7.net
 DOMAIN,login.microsoftonline.com
 DOMAIN,push-apple.com.akadns.net
-DOMAIN,tmdb-image-prod.b-cdn.net
 DOMAIN,vscode.search.windows.net
 DOMAIN,asahishimbun.sc.omtrdc.net
 DOMAIN,cbsservice.aws.syncbak.com
@@ -109,7 +108,6 @@ DOMAIN,wrds-www.wharton.upenn.edu
 DOMAIN,hpstore.corpmerchandise.com
 DOMAIN,medone-education.thieme.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
-DOMAIN,anime-rule34-world.b-cdn.net
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 DOMAIN,github.global.ssl.fastly.net
 DOMAIN,vsmarketplacebadge.apphb.com
@@ -126,7 +124,6 @@ DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,courier-push-apple.com.akadns.net
-DOMAIN,servd-anthropic-website.b-cdn.net
 DOMAIN,nationalaustraliaban.tt.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,live-patreon-marketing.pantheonsite.io
@@ -137,7 +134,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32379 rules)
+# DOMAIN-SUFFIX (32382 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -3080,6 +3077,7 @@ DOMAIN-SUFFIX,awwcn.xyz
 DOMAIN-SUFFIX,axios.com
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,b-ok.asia
 DOMAIN-SUFFIX,b6b33.com
 DOMAIN-SUFFIX,baa.ac.uk
@@ -3194,6 +3192,7 @@ DOMAIN-SUFFIX,btc98.com
 DOMAIN-SUFFIX,btdig.com
 DOMAIN-SUFFIX,btwrdn.co
 DOMAIN-SUFFIX,bui.ac.uk
+DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bwh81.net
 DOMAIN-SUFFIX,bwh88.net
 DOMAIN-SUFFIX,bwh89.net
@@ -12480,6 +12479,7 @@ DOMAIN-SUFFIX,buffered.com
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,bukkake.link
 DOMAIN-SUFFIX,bunbunhk.com
+DOMAIN-SUFFIX,bunnycdn.com
 DOMAIN-SUFFIX,burton.ac.uk
 DOMAIN-SUFFIX,busayari.com
 DOMAIN-SUFFIX,buyitnow.com
