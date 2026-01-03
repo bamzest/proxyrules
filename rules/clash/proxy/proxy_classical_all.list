@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17474 rules)
+# DOMAIN-SUFFIX (17476 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -877,6 +877,7 @@ DOMAIN-SUFFIX,oxid.it
 DOMAIN-SUFFIX,page.tl
 DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pdf.new
+DOMAIN-SUFFIX,pdst.fm
 DOMAIN-SUFFIX,pics.ee
 DOMAIN-SUFFIX,pics.vc
 DOMAIN-SUFFIX,pimg.tw
@@ -1875,6 +1876,7 @@ DOMAIN-SUFFIX,ulop.net
 DOMAIN-SUFFIX,unity.cn
 DOMAIN-SUFFIX,unpo.org
 DOMAIN-SUFFIX,uocn.org
+DOMAIN-SUFFIX,up.audio
 DOMAIN-SUFFIX,upjav.cc
 DOMAIN-SUFFIX,ur7s.com
 DOMAIN-SUFFIX,usaip.eu
