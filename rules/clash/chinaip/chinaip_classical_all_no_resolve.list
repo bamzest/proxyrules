@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (18057 rules)
+# IP-CIDR (18060 rules)
 IP-CIDR,1.34.0.0/32,no-resolve
 IP-CIDR,1.46.60.1/32,no-resolve
 IP-CIDR,101.230.253.139/32,no-resolve
@@ -2278,6 +2278,7 @@ IP-CIDR,103.23.166.0/24,no-resolve
 IP-CIDR,103.231.16.0/24,no-resolve
 IP-CIDR,103.231.186.0/24,no-resolve
 IP-CIDR,103.232.214.0/24,no-resolve
+IP-CIDR,103.234.131.0/24,no-resolve
 IP-CIDR,103.235.144.0/24,no-resolve
 IP-CIDR,103.235.85.0/24,no-resolve
 IP-CIDR,103.235.87.0/24,no-resolve
@@ -4342,6 +4343,7 @@ IP-CIDR,211.160.46.0/24,no-resolve
 IP-CIDR,211.160.62.0/24,no-resolve
 IP-CIDR,211.160.9.0/24,no-resolve
 IP-CIDR,211.161.101.0/24,no-resolve
+IP-CIDR,211.161.110.0/24,no-resolve
 IP-CIDR,211.161.203.0/24,no-resolve
 IP-CIDR,211.161.209.0/24,no-resolve
 IP-CIDR,211.161.221.0/24,no-resolve
@@ -5654,6 +5656,8 @@ IP-CIDR,118.26.134.0/23,no-resolve
 IP-CIDR,118.26.144.0/23,no-resolve
 IP-CIDR,118.26.150.0/23,no-resolve
 IP-CIDR,118.26.194.0/23,no-resolve
+IP-CIDR,118.26.64.0/23,no-resolve
+IP-CIDR,118.26.68.0/23,no-resolve
 IP-CIDR,118.66.112.0/23,no-resolve
 IP-CIDR,118.84.2.0/23,no-resolve
 IP-CIDR,118.84.6.0/23,no-resolve
@@ -6457,6 +6461,7 @@ IP-CIDR,211.160.246.0/23,no-resolve
 IP-CIDR,211.160.28.0/23,no-resolve
 IP-CIDR,211.160.36.0/23,no-resolve
 IP-CIDR,211.161.102.0/23,no-resolve
+IP-CIDR,211.161.108.0/23,no-resolve
 IP-CIDR,211.161.60.0/23,no-resolve
 IP-CIDR,211.93.200.0/23,no-resolve
 IP-CIDR,211.93.212.0/23,no-resolve
@@ -12855,7 +12860,6 @@ IP-CIDR,118.26.144.0/21,no-resolve
 IP-CIDR,118.26.40.0/21,no-resolve
 IP-CIDR,118.26.48.0/21,no-resolve
 IP-CIDR,118.26.56.0/21,no-resolve
-IP-CIDR,118.26.64.0/21,no-resolve
 IP-CIDR,118.26.96.0/21,no-resolve
 IP-CIDR,118.30.16.0/21,no-resolve
 IP-CIDR,118.64.0.0/21,no-resolve
@@ -15593,7 +15597,6 @@ IP-CIDR,124.173.64.0/18,no-resolve
 IP-CIDR,124.175.128.0/18,no-resolve
 IP-CIDR,124.175.192.0/18,no-resolve
 IP-CIDR,124.20.64.0/18,no-resolve
-IP-CIDR,124.203.192.0/18,no-resolve
 IP-CIDR,124.21.0.0/18,no-resolve
 IP-CIDR,124.21.64.0/18,no-resolve
 IP-CIDR,124.240.128.0/18,no-resolve
