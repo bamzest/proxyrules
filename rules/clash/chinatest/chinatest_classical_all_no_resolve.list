@@ -137,7 +137,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (114392 rules)
+# DOMAIN-SUFFIX (114393 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1.cc
@@ -31264,6 +31264,7 @@ DOMAIN-SUFFIX,ceyige.com
 DOMAIN-SUFFIX,cf-ns.site
 DOMAIN-SUFFIX,cf-ns.tech
 DOMAIN-SUFFIX,cfbond.com
+DOMAIN-SUFFIX,cfc108.com
 DOMAIN-SUFFIX,cfc365.com
 DOMAIN-SUFFIX,cfca-c.org
 DOMAIN-SUFFIX,cfchem.com

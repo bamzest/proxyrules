@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17476 rules)
+  # DOMAIN-SUFFIX (17481 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -870,6 +870,7 @@ payload:
   - 'DOMAIN-SUFFIX,on2.com'
   - 'DOMAIN-SUFFIX,one.one'
   - 'DOMAIN-SUFFIX,oojj.de'
+  - 'DOMAIN-SUFFIX,ooni.io'
   - 'DOMAIN-SUFFIX,otto.de'
   - 'DOMAIN-SUFFIX,otvs.tv'
   - 'DOMAIN-SUFFIX,oup.com'
@@ -1298,6 +1299,7 @@ payload:
   - 'DOMAIN-SUFFIX,d100.net'
   - 'DOMAIN-SUFFIX,dart.dev'
   - 'DOMAIN-SUFFIX,daum.net'
+  - 'DOMAIN-SUFFIX,dazn.com'
   - 'DOMAIN-SUFFIX,dcard.tw'
   - 'DOMAIN-SUFFIX,ddns.net'
   - 'DOMAIN-SUFFIX,deck.new'
@@ -1716,6 +1718,7 @@ payload:
   - 'DOMAIN-SUFFIX,omg.blog'
   - 'DOMAIN-SUFFIX,omni7.jp'
   - 'DOMAIN-SUFFIX,onion.ly'
+  - 'DOMAIN-SUFFIX,ooni.org'
   - 'DOMAIN-SUFFIX,oreil.ly'
   - 'DOMAIN-SUFFIX,orsm.net'
   - 'DOMAIN-SUFFIX,osha.gov'
@@ -2146,6 +2149,7 @@ payload:
   - 'DOMAIN-SUFFIX,agzy1.com'
   - 'DOMAIN-SUFFIX,ah-me.com'
   - 'DOMAIN-SUFFIX,ahcdn.com'
+  - 'DOMAIN-SUFFIX,ai.studio'
   - 'DOMAIN-SUFFIX,aisex.com'
   - 'DOMAIN-SUFFIX,ajsjx.com'
   - 'DOMAIN-SUFFIX,alarab.qa'
@@ -6996,6 +7000,7 @@ payload:
   - 'DOMAIN-SUFFIX,x-berry.com'
   - 'DOMAIN-SUFFIX,x3guide.com'
   - 'DOMAIN-SUFFIX,xbookcn.com'
+  - 'DOMAIN-SUFFIX,xcancel.com'
   - 'DOMAIN-SUFFIX,xcritic.com'
   - 'DOMAIN-SUFFIX,xda-cdn.com'
   - 'DOMAIN-SUFFIX,xemales.com'
