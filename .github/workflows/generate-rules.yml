@@ -5,7 +5,8 @@ on:
   #   branches:
   #     - '**'
   schedule:
-    - cron: '00 22 * * *'
+    # Runs every 6 hours Beijing time starting at 00:00 (UTC 04/10/16/22)
+    - cron: '0 4,10,16,22 * * *'
   workflow_dispatch:
 
 permissions:
@@ -19,12 +20,27 @@ jobs:
       CONFIG_FILE: "config.yaml"
       CONFIG_FILE_GITHUB_PATH: "/tmp/config.github.yaml"
       OUTPUT_RULES_GIT_COMMIT_PATH: "./rules/"
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
-      
+
+      - name: Generate GitHub rules list
+        run: ./scripts/update_github_rules.sh
+
+      - name: Save GitHub rules file for later
+        run: |
+          TMP_GH_LIST="$(mktemp)"
+          echo "TMP_GH_LIST=$TMP_GH_LIST" >> "$GITHUB_ENV"
+          cp -f rule_config/custom/github.list "$TMP_GH_LIST"
+
+      - name: Clean working tree before switching branch
+        run: |
+          git reset --hard HEAD
+          git clean -fd
+
       - name: Setup rules branch
         run: |
           git config user.name "github-actions[bot]"
@@ -73,6 +89,8 @@ jobs:
           # 从主分支获取 rule_config 目录
           mkdir -p rule_config
           git archive origin/master rule_config | tar -x
+          mkdir -p rule_config/custom
+          cp -f "$TMP_GH_LIST" rule_config/custom/github.list
 
           echo "读取输出规则路径..."
           OUTPUT_RULES_DIR=$(yq '.generate_rules.output_rules_path' ${{ env.CONFIG_FILE_GITHUB_PATH }} | xargs dirname)
