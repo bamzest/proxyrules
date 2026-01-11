@@ -21,12 +21,10 @@ payload:
   # IP-CIDR6 (1 rules)
   - 'IP-CIDR6,2620:120:e000::/40,no-resolve'
 
-  # PROCESS-NAME (8 rules)
+  # PROCESS-NAME (6 rules)
   - 'PROCESS-NAME,BackupandSync'
   - 'PROCESS-NAME,GoogleDriveFS.exe'
   - 'PROCESS-NAME,com.android.vending'
   - 'PROCESS-NAME,com.google.android.gms'
   - 'PROCESS-NAME,com.google.android.gsf'
-  - 'PROCESS-NAME,com.google.android.youtube'
   - 'PROCESS-NAME,com.google.android.play.games'
-  - 'PROCESS-NAME,com.google.android.apps.youtube.music'
