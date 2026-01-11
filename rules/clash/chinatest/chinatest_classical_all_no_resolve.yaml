@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (114395 rules)
+  # DOMAIN-SUFFIX (114399 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -59541,6 +59541,7 @@ payload:
   - 'DOMAIN-SUFFIX,mobo168.com'
   - 'DOMAIN-SUFFIX,moboage.com'
   - 'DOMAIN-SUFFIX,mobotap.com'
+  - 'DOMAIN-SUFFIX,mobsdks.com'
   - 'DOMAIN-SUFFIX,mobsurl.com'
   - 'DOMAIN-SUFFIX,mocache.com'
   - 'DOMAIN-SUFFIX,mochouu.com'
@@ -76208,6 +76209,7 @@ payload:
   - 'DOMAIN-SUFFIX,schengle.com'
   - 'DOMAIN-SUFFIX,school51.com'
   - 'DOMAIN-SUFFIX,schoolpi.net'
+  - 'DOMAIN-SUFFIX,schoopia.com'
   - 'DOMAIN-SUFFIX,sci-hub.shop'
   - 'DOMAIN-SUFFIX,scialyze.com'
   - 'DOMAIN-SUFFIX,scichina.com'
@@ -97577,6 +97579,7 @@ payload:
   - 'DOMAIN-SUFFIX,tongxiehui.net'
   - 'DOMAIN-SUFFIX,tongxinmao.com'
   - 'DOMAIN-SUFFIX,tongxue365.com'
+  - 'DOMAIN-SUFFIX,tongxuepie.com'
   - 'DOMAIN-SUFFIX,tongyavisa.com'
   - 'DOMAIN-SUFFIX,tongyongpe.net'
   - 'DOMAIN-SUFFIX,tongyongts.com'
@@ -109024,6 +109027,7 @@ payload:
   - 'DOMAIN-SUFFIX,eastchinafair.com'
   - 'DOMAIN-SUFFIX,eastcom-group.com'
   - 'DOMAIN-SUFFIX,eastwudpharma.com'
+  - 'DOMAIN-SUFFIX,easytomessage.com'
   - 'DOMAIN-SUFFIX,eazytec-cloud.com'
   - 'DOMAIN-SUFFIX,echinacareers.com'
   - 'DOMAIN-SUFFIX,echinatobacco.com'
