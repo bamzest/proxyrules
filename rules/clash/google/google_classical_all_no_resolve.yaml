@@ -7,7 +7,7 @@ payload:
   # DOMAIN (1 rules)
   - 'DOMAIN,voice.telephony.goog'
 
-  # DOMAIN-SUFFIX (823 rules)
+  # DOMAIN-SUFFIX (822 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -589,7 +589,6 @@ payload:
   - 'DOMAIN-SUFFIX,googlefiber.com'
   - 'DOMAIN-SUFFIX,googlefiber.net'
   - 'DOMAIN-SUFFIX,googlestore.com'
-  - 'DOMAIN-SUFFIX,googlevideo.com'
   - 'DOMAIN-SUFFIX,hdrplusdata.org'
   - 'DOMAIN-SUFFIX,itasoftware.com'
   - 'DOMAIN-SUFFIX,mobileview.page'
