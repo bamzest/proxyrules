@@ -2077,8 +2077,8 @@ classified_rules:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Google.list
             - https://raw.githubusercontent.com/LM-Firefly/Rules/master/PROXY/Google.list
         files: []
-        rules: ['DOMAIN-REGEX,^(?!.*\.googlevideo\.com$).*google.*']
-        excludes: ['**youtube**', '**video**', 'DOMAIN-KEYWORD,google']
+        rules: []
+        excludes: ['**youtube**', '**video**']
     googlecn:
         description: Google 中国服务域名规则
         urls:
