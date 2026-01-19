@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (129 rules)
+# DOMAIN (130 rules)
 DOMAIN,rss.owo.nz
 DOMAIN,i.jeded.com
 DOMAIN,lab.skk.moe
@@ -41,6 +41,7 @@ DOMAIN,dl.begellhouse.com
 DOMAIN,elib.maruzen.co.jp
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,ntp-c.colorado.edu
+DOMAIN,pubg1.battleye.com
 DOMAIN,rss.wudifeixue.com
 DOMAIN,rsshub.asailor.org
 DOMAIN,search.yahoo.co.jp
@@ -134,7 +135,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32608 rules)
+# DOMAIN-SUFFIX (32614 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -2453,6 +2454,7 @@ DOMAIN-SUFFIX,ppp91.cc
 DOMAIN-SUFFIX,predb.me
 DOMAIN-SUFFIX,prfct.co
 DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,pubg.com
 DOMAIN-SUFFIX,pvt.sexy
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,pypl.com
@@ -16886,6 +16888,7 @@ DOMAIN-SUFFIX,kk-whys.co.jp
 DOMAIN-SUFFIX,kkff2484.live
 DOMAIN-SUFFIX,koalaporn.com
 DOMAIN-SUFFIX,kobobooks.com
+DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,ksnews.com.tw
 DOMAIN-SUFFIX,kuaichedao.co
 DOMAIN-SUFFIX,kuanrenxs.com
@@ -23109,6 +23112,9 @@ DOMAIN-SUFFIX,angela-merkel.de
 DOMAIN-SUFFIX,animalforsex.com
 DOMAIN-SUFFIX,animalpornxxx.me
 DOMAIN-SUFFIX,anistreaming.xyz
+DOMAIN-SUFFIX,annas-archive.in
+DOMAIN-SUFFIX,annas-archive.li
+DOMAIN-SUFFIX,annas-archive.pm
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,anniesland.ac.uk
 DOMAIN-SUFFIX,antarctica.ac.uk
@@ -30141,6 +30147,7 @@ DOMAIN-SUFFIX,pharmacyschools.ac.uk
 DOMAIN-SUFFIX,pinterest.engineering
 DOMAIN-SUFFIX,pivotalinitiative.com
 DOMAIN-SUFFIX,plant-phenomics.ac.uk
+DOMAIN-SUFFIX,playbattlegrounds.com
 DOMAIN-SUFFIX,pokemonblackwhite.com
 DOMAIN-SUFFIX,pokemongoldsilver.com
 DOMAIN-SUFFIX,powerbeatsbydrdre.com
