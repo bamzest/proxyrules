@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17486 rules)
+# DOMAIN-SUFFIX (17488 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -6965,6 +6965,7 @@ DOMAIN-SUFFIX,webs-tv.net
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,webupd8.org
+DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,westkit.net
 DOMAIN-SUFFIX,westlaw.com
 DOMAIN-SUFFIX,whatsapp.cc
@@ -7083,6 +7084,7 @@ DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,youjism.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youjizz.sex
+DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,youporn.com
 DOMAIN-SUFFIX,youskbe.com
 DOMAIN-SUFFIX,youtube.cat

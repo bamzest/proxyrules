@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (130 rules)
+# DOMAIN (132 rules)
 DOMAIN,rss.owo.nz
 DOMAIN,i.jeded.com
 DOMAIN,lab.skk.moe
@@ -111,6 +111,8 @@ DOMAIN,medone-education.thieme.com
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,d3c33hcgiwev3.cloudfront.net
 DOMAIN,github.global.ssl.fastly.net
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN,roovza.inapps.appsflyersdk.com
@@ -135,7 +137,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32614 rules)
+# DOMAIN-SUFFIX (32586 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -484,6 +486,7 @@ DOMAIN-SUFFIX,rwb.ru
 DOMAIN-SUFFIX,rzr.to
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sa.com
+DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,sf.net
 DOMAIN-SUFFIX,sfx.ms
 DOMAIN-SUFFIX,shp.ee
@@ -1832,7 +1835,6 @@ DOMAIN-SUFFIX,ctan.org
 DOMAIN-SUFFIX,ctao.org
 DOMAIN-SUFFIX,cuinc.tw
 DOMAIN-SUFFIX,cum4k.cc
-DOMAIN-SUFFIX,cuniq.sg
 DOMAIN-SUFFIX,cups.org
 DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,d100.net
@@ -4583,6 +4585,7 @@ DOMAIN-SUFFIX,onmypc.us
 DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,origin.tv
 DOMAIN-SUFFIX,orkut.com
+DOMAIN-SUFFIX,osano.com
 DOMAIN-SUFFIX,osc.ac.uk
 DOMAIN-SUFFIX,ovc.ac.uk
 DOMAIN-SUFFIX,owind.com
@@ -5538,7 +5541,6 @@ DOMAIN-SUFFIX,adrn.ac.uk
 DOMAIN-SUFFIX,adtidy.net
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,adulto.vip
-DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aecc.ac.uk
 DOMAIN-SUFFIX,afao.ac.uk
 DOMAIN-SUFFIX,afkv28.com
@@ -8631,6 +8633,7 @@ DOMAIN-SUFFIX,yogify.com
 DOMAIN-SUFFIX,york.ac.uk
 DOMAIN-SUFFIX,yorkbbs.ca
 DOMAIN-SUFFIX,youflix.is
+DOMAIN-SUFFIX,youmind.ai
 DOMAIN-SUFFIX,youpai.org
 DOMAIN-SUFFIX,youtube.ae
 DOMAIN-SUFFIX,youtube.al
@@ -9337,7 +9340,6 @@ DOMAIN-SUFFIX,bvdinfo.com
 DOMAIN-SUFFIX,byabcde.com
 DOMAIN-SUFFIX,bybit.cloud
 DOMAIN-SUFFIX,bynet.co.il
-DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,c4slive.com
 DOMAIN-SUFFIX,caban.ac.uk
 DOMAIN-SUFFIX,cableav.xyz
@@ -11230,8 +11232,6 @@ DOMAIN-SUFFIX,rugby.ac.uk
 DOMAIN-SUFFIX,rugit.ac.uk
 DOMAIN-SUFFIX,rule34h.com
 DOMAIN-SUFFIX,rumporn.com
-DOMAIN-SUFFIX,rumt-sg.com
-DOMAIN-SUFFIX,rumt-us.com
 DOMAIN-SUFFIX,runnike.com
 DOMAIN-SUFFIX,runporn.com
 DOMAIN-SUFFIX,rupress.org
@@ -11885,6 +11885,7 @@ DOMAIN-SUFFIX,webrush.net
 DOMAIN-SUFFIX,webs-tv.net
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,webtype.com
+DOMAIN-SUFFIX,weights.com
 DOMAIN-SUFFIX,westkit.net
 DOMAIN-SUFFIX,whatsapp.cc
 DOMAIN-SUFFIX,whatsapp.tv
@@ -12057,6 +12058,7 @@ DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,youjism.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youjizz.sex
+DOMAIN-SUFFIX,youmind.com
 DOMAIN-SUFFIX,youporn.com
 DOMAIN-SUFFIX,youskbe.com
 DOMAIN-SUFFIX,youtube.cat
@@ -12215,7 +12217,6 @@ DOMAIN-SUFFIX,adulters.org
 DOMAIN-SUFFIX,adulti01.com
 DOMAIN-SUFFIX,adultism.com
 DOMAIN-SUFFIX,aerisapi.com
-DOMAIN-SUFFIX,aestatic.net
 DOMAIN-SUFFIX,aflamsex.net
 DOMAIN-SUFFIX,afpforum.com
 DOMAIN-SUFFIX,afriboyz.com
@@ -12621,6 +12622,7 @@ DOMAIN-SUFFIX,capitalg.com
 DOMAIN-SUFFIX,carmel.ac.uk
 DOMAIN-SUFFIX,carmer.ac.uk
 DOMAIN-SUFFIX,castle.ac.uk
+DOMAIN-SUFFIX,cataboom.com
 DOMAIN-SUFFIX,catchgod.com
 DOMAIN-SUFFIX,catmiimi.com
 DOMAIN-SUFFIX,caxton.ac.uk
@@ -12731,7 +12733,6 @@ DOMAIN-SUFFIX,ctksfc.ac.uk
 DOMAIN-SUFFIX,ctotires.com
 DOMAIN-SUFFIX,cuckporn.com
 DOMAIN-SUFFIX,cuckwimp.com
-DOMAIN-SUFFIX,cuguplus.com
 DOMAIN-SUFFIX,cuinc.oen.tw
 DOMAIN-SUFFIX,culham.ac.uk
 DOMAIN-SUFFIX,cuntwars.com
@@ -14866,7 +14867,6 @@ DOMAIN-SUFFIX,thehots.info
 DOMAIN-SUFFIX,themis.ac.uk
 DOMAIN-SUFFIX,theoca.ac.uk
 DOMAIN-SUFFIX,thepervs.com
-DOMAIN-SUFFIX,thepoizon.ru
 DOMAIN-SUFFIX,theporny.com
 DOMAIN-SUFFIX,thesims3.com
 DOMAIN-SUFFIX,thesims4.com
@@ -15325,6 +15325,7 @@ DOMAIN-SUFFIX,yomilogi.com
 DOMAIN-SUFFIX,yorksj.ac.uk
 DOMAIN-SUFFIX,youlucky.com
 DOMAIN-SUFFIX,youmaker.com
+DOMAIN-SUFFIX,youmind.site
 DOMAIN-SUFFIX,youngtube.me
 DOMAIN-SUFFIX,youporner.eu
 DOMAIN-SUFFIX,yourdoll.com
@@ -16968,6 +16969,7 @@ DOMAIN-SUFFIX,loveavvip.com
 DOMAIN-SUFFIX,lovegirls.cam
 DOMAIN-SUFFIX,lovemarca.com
 DOMAIN-SUFFIX,loverslab.com
+DOMAIN-SUFFIX,lpsnmedia.net
 DOMAIN-SUFFIX,lsmkorean.org
 DOMAIN-SUFFIX,ltsn-01.ac.uk
 DOMAIN-SUFFIX,ltsneng.ac.uk
@@ -18774,6 +18776,7 @@ DOMAIN-SUFFIX,comm-verse.com
 DOMAIN-SUFFIX,commentshk.com
 DOMAIN-SUFFIX,commerceos.com
 DOMAIN-SUFFIX,confetti.ac.uk
+DOMAIN-SUFFIX,consentpro.com
 DOMAIN-SUFFIX,contentful.com
 DOMAIN-SUFFIX,coolsexnew.com
 DOMAIN-SUFFIX,copy-manga.com
@@ -19580,6 +19583,7 @@ DOMAIN-SUFFIX,liv-coll.ac.uk
 DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,livehdcams.com
 DOMAIN-SUFFIX,livejasmin.com
+DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,livewell.ac.uk
 DOMAIN-SUFFIX,liwangyang.com
@@ -21247,7 +21251,6 @@ DOMAIN-SUFFIX,byam-shaw.ac.uk
 DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN-SUFFIX,bygpp1207.world
 DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,byzantium.ac.uk
 DOMAIN-SUFFIX,c-spanvideo.org
 DOMAIN-SUFFIX,caacentre.ac.uk
@@ -22825,6 +22828,7 @@ DOMAIN-SUFFIX,uniswales.ac.uk
 DOMAIN-SUFFIX,unusualporn.net
 DOMAIN-SUFFIX,uscardforum.com
 DOMAIN-SUFFIX,uselessjunk.com
+DOMAIN-SUFFIX,usercentrics.eu
 DOMAIN-SUFFIX,usercontent.dev
 DOMAIN-SUFFIX,uyghurpress.com
 DOMAIN-SUFFIX,valoryirene.com
@@ -23069,8 +23073,6 @@ DOMAIN-SUFFIX,airgunstudio.com
 DOMAIN-SUFFIX,airport.brussels
 DOMAIN-SUFFIX,aiv-delivery.net
 DOMAIN-SUFFIX,aiweiweiblog.com
-DOMAIN-SUFFIX,ak-p.tripcdn.com
-DOMAIN-SUFFIX,ak-s.tripcdn.com
 DOMAIN-SUFFIX,akamai-sucks.net
 DOMAIN-SUFFIX,akamaistream.net
 DOMAIN-SUFFIX,akiba-online.com
@@ -23176,9 +23178,6 @@ DOMAIN-SUFFIX,autodeskcave.com
 DOMAIN-SUFFIX,autodeskhelp.com
 DOMAIN-SUFFIX,autodesknews.com
 DOMAIN-SUFFIX,autodeskseek.com
-DOMAIN-SUFFIX,aw-d.tripcdn.com
-DOMAIN-SUFFIX,aw-p.tripcdn.com
-DOMAIN-SUFFIX,aw-s.tripcdn.com
 DOMAIN-SUFFIX,awesomeent.co.kr
 DOMAIN-SUFFIX,awsapprunner.com
 DOMAIN-SUFFIX,awsautopilot.com
@@ -27726,13 +27725,11 @@ DOMAIN-SUFFIX,adultpornvideos.net
 DOMAIN-SUFFIX,afewmomentswith.com
 DOMAIN-SUFFIX,africanplants.ac.uk
 DOMAIN-SUFFIX,airwatchexpress.com
-DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
 DOMAIN-SUFFIX,akamai-platform.net
 DOMAIN-SUFFIX,akamai-thailand.com
 DOMAIN-SUFFIX,akamai-thailand.net
 DOMAIN-SUFFIX,akamaimagicmath.net
 DOMAIN-SUFFIX,akamaisingapore.net
-DOMAIN-SUFFIX,akatest.tripcdn.com
 DOMAIN-SUFFIX,alexanderstreet.com
 DOMAIN-SUFFIX,aliassketchbook.com
 DOMAIN-SUFFIX,alldrawingshere.com
@@ -30219,6 +30216,7 @@ DOMAIN-SUFFIX,soulcaliburhentai.net
 DOMAIN-SUFFIX,southendcollege.ac.uk
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,stackoverflowjobs.com
+DOMAIN-SUFFIX,standardchartered.com
 DOMAIN-SUFFIX,statueofdemocracy.org
 DOMAIN-SUFFIX,stdavidscollege.ac.uk
 DOMAIN-SUFFIX,stmarys-belfast.ac.uk
@@ -32096,7 +32094,6 @@ DOMAIN-SUFFIX,ebaylocationsdevacances.com
 DOMAIN-SUFFIX,electricalmachineshub.ac.uk
 DOMAIN-SUFFIX,eu-consumer-empowerment.com
 DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com
-DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com
 DOMAIN-SUFFIX,facebookdevelopergarage.com
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,fundraisingwithfacebook.com
@@ -32134,7 +32131,6 @@ DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
 DOMAIN-SUFFIX,monster-beats-by-dr-dre.com
 DOMAIN-SUFFIX,monsterbeats8beatsbydre.com
 DOMAIN-SUFFIX,monsterbeatsbydrdre-usa.com
-DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com
 DOMAIN-SUFFIX,nationalskillsacademy.ac.uk
 DOMAIN-SUFFIX,needforspeedstreetkings.com
 DOMAIN-SUFFIX,newbattleabbeycollege.ac.uk
@@ -32196,7 +32192,6 @@ DOMAIN-SUFFIX,trinitycollegebristol.ac.uk
 DOMAIN-SUFFIX,universities-scotland.ac.uk
 DOMAIN-SUFFIX,universityofcambridge.ac.uk
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
-DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com
 DOMAIN-SUFFIX,uwchgyfrifiaduracymru.ac.uk
 DOMAIN-SUFFIX,victoriacountyhistory.ac.uk
 DOMAIN-SUFFIX,videosdepornografia.blog.br
@@ -32220,7 +32215,6 @@ DOMAIN-SUFFIX,aliasvisualizationstudio.com
 DOMAIN-SUFFIX,appleoriginalproductions.com
 DOMAIN-SUFFIX,applepremiumresellers.com.au
 DOMAIN-SUFFIX,archaeologydataservice.ac.uk
-DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com
 DOMAIN-SUFFIX,barkingdagenhamcollege.ac.uk
 DOMAIN-SUFFIX,beatsbydreaustralia-sale.com
 DOMAIN-SUFFIX,beatsbydreaustraliasales.com
@@ -32344,8 +32338,6 @@ DOMAIN-SUFFIX,acasadasbrasileirinhas.com.br
 DOMAIN-SUFFIX,accesstohighereducation.ac.uk
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheterfollowersinstagram.com
-DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com
-DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com
 DOMAIN-SUFFIX,amazonliterarypartnership.com
 DOMAIN-SUFFIX,applepaymerchantsupplies.info
 DOMAIN-SUFFIX,autodesk360solutionforbim.com
@@ -32367,7 +32359,6 @@ DOMAIN-SUFFIX,bmw-motorrad-now-or-never.com
 DOMAIN-SUFFIX,bournemouthandpoole-cfe.ac.uk
 DOMAIN-SUFFIX,bradforduni-recruitment.ac.uk
 DOMAIN-SUFFIX,braintreepaymentsolutions.com
-DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com
 DOMAIN-SUFFIX,cambridgeislamiccollege.ac.uk
 DOMAIN-SUFFIX,centreformacroeconomics.ac.uk
 DOMAIN-SUFFIX,cheapmonsterbeatsheadsets.com
@@ -32383,7 +32374,6 @@ DOMAIN-SUFFIX,dunstaffnage-marine-lab.ac.uk
 DOMAIN-SUFFIX,elizabethmontagunetwork.ac.uk
 DOMAIN-SUFFIX,engineeringnonlinearity.ac.uk
 DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com
-DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com
 DOMAIN-SUFFIX,europeansustainabledesign.com
 DOMAIN-SUFFIX,europeansustainabledesign.net
 DOMAIN-SUFFIX,exetermathematicsschool.ac.uk
@@ -32403,9 +32393,6 @@ DOMAIN-SUFFIX,lighthouselearningtrust.ac.uk
 DOMAIN-SUFFIX,manchestermedicalschool.ac.uk
 DOMAIN-SUFFIX,manchesternursingschool.ac.uk
 DOMAIN-SUFFIX,mastercardbusinessnetwork.com
-DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com
-DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com
-DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com
 DOMAIN-SUFFIX,microsoftpartnercommunity.com
 DOMAIN-SUFFIX,microsoftpartnersolutions.com
 DOMAIN-SUFFIX,midatlanticbmwmotorcycles.com
@@ -32460,9 +32447,6 @@ DOMAIN-SUFFIX,advancedtherapeutics-cdt.ac.uk
 DOMAIN-SUFFIX,advantagenottinghamshire.ac.uk
 DOMAIN-SUFFIX,aerospace-training-wales.ac.uk
 DOMAIN-SUFFIX,affinity.api.serifservices.com
-DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com
-DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com
-DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com
 DOMAIN-SUFFIX,autodeskdesigncompetitions.com
 DOMAIN-SUFFIX,autodesksketchbookdesigner.com
 DOMAIN-SUFFIX,bangor-university-london.ac.uk
@@ -32490,7 +32474,6 @@ DOMAIN-SUFFIX,cityuniversitybirmingham.ac.uk
 DOMAIN-SUFFIX,cymdeithasddysgedigcymru.ac.uk
 DOMAIN-SUFFIX,edinburghstelfordcollege.ac.uk
 DOMAIN-SUFFIX,encuentroscasualesoecuador.com
-DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,fairfieldopportunityfarm.ac.uk
 DOMAIN-SUFFIX,fashioningtheearlymodern.ac.uk
@@ -32502,7 +32485,6 @@ DOMAIN-SUFFIX,googleacquisitionmigration.com
 DOMAIN-SUFFIX,hartpuryuniversitycentre.ac.uk
 DOMAIN-SUFFIX,hentai-top100.supertop-100.com
 DOMAIN-SUFFIX,institutionofelectronics.ac.uk
-DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com
 DOMAIN-SUFFIX,lancasterbeijingjiaotong.ac.uk
 DOMAIN-SUFFIX,lewishamsouthwarkcollege.ac.uk
 DOMAIN-SUFFIX,manchesterbusinessschool.ac.uk
@@ -32593,7 +32575,6 @@ DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
 DOMAIN-SUFFIX,aimhighergreatermerseyside.ac.uk
 DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com
-DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com
 DOMAIN-SUFFIX,autodeskmanufacturingacademy.com
 DOMAIN-SUFFIX,belfastmetropolitancollege.ac.uk
 DOMAIN-SUFFIX,britishwittgensteinsociety.ac.uk
@@ -32602,8 +32583,6 @@ DOMAIN-SUFFIX,charteredcollegeofteaching.ac.uk
 DOMAIN-SUFFIX,cheapbeatsbydrestudioedition.com
 DOMAIN-SUFFIX,councilofhealthcarescience.ac.uk
 DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
-DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com
-DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com
 DOMAIN-SUFFIX,famousinternetgirlsgalleries.com
 DOMAIN-SUFFIX,futureofbritishmanufacturing.com
 DOMAIN-SUFFIX,glasgowsequencingsolutions.ac.uk
@@ -32662,10 +32641,6 @@ DOMAIN-SUFFIX,universitiesnorthernireland.ac.uk
 DOMAIN-SUFFIX,universitycampusscarborough.ac.uk
 DOMAIN-SUFFIX,xn--r8jwklh769h2mc880dk1o431a.com
 DOMAIN-SUFFIX,xn--r8jwklh769hk43amcfoyl3z3a.com
-DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com
-DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com
-DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com
-DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com
 DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.com
 DOMAIN-SUFFIX,beatsbydrecybermondaydeals2013.net
 DOMAIN-SUFFIX,bmw-motorrad-service-inclusive.com
@@ -32685,7 +32660,6 @@ DOMAIN-SUFFIX,nationalandacademiclibraries.ac.uk
 DOMAIN-SUFFIX,ravensbourneuniversitylondon.ac.uk
 DOMAIN-SUFFIX,revenue-performance-management.com
 DOMAIN-SUFFIX,richardtaunton6thformcollege.ac.uk
-DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com
 DOMAIN-SUFFIX,scarboroughuniversitycollege.ac.uk
 DOMAIN-SUFFIX,scottishuniversitygovernance.ac.uk
 DOMAIN-SUFFIX,societyofjewelleryhistorians.ac.uk
