@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (280 rules)
+  # DOMAIN-KEYWORD (289 rules)
   - 'DOMAIN-KEYWORD,dat8'
   - 'DOMAIN-KEYWORD,fzlm'
   - 'DOMAIN-KEYWORD,jads'
@@ -84,6 +84,8 @@ payload:
   - 'DOMAIN-KEYWORD,mighbest'
   - 'DOMAIN-KEYWORD,mobaders'
   - 'DOMAIN-KEYWORD,omniture'
+  - 'DOMAIN-KEYWORD,pangolin'
+  - 'DOMAIN-KEYWORD,pglstatp'
   - 'DOMAIN-KEYWORD,pingfore'
   - 'DOMAIN-KEYWORD,sunnimiq'
   - 'DOMAIN-KEYWORD,toateeli'
@@ -139,6 +141,7 @@ payload:
   - 'DOMAIN-KEYWORD,r1.ykimg.com'
   - 'DOMAIN-KEYWORD,rich.kuwo.cn'
   - 'DOMAIN-KEYWORD,securepubads'
+  - 'DOMAIN-KEYWORD,trace.qq.com'
   - 'DOMAIN-KEYWORD,www.qmlog.cn'
   - 'DOMAIN-KEYWORD,.freecontent.'
   - 'DOMAIN-KEYWORD,a3.bytecdn.cn'
@@ -210,6 +213,7 @@ payload:
   - 'DOMAIN-KEYWORD,uploadMobileData'
   - 'DOMAIN-KEYWORD,adp.atm.youku.com'
   - 'DOMAIN-KEYWORD,adtrack.ucweb.com'
+  - 'DOMAIN-KEYWORD,bjimp.voiceads.cn'
   - 'DOMAIN-KEYWORD,c-hzgt2.getui.com'
   - 'DOMAIN-KEYWORD,caclick.baidu.com'
   - 'DOMAIN-KEYWORD,extlog.snssdk.com'
@@ -236,6 +240,8 @@ payload:
   - 'DOMAIN-KEYWORD,rescn.u3.ucweb.com'
   - 'DOMAIN-KEYWORD,rtmretry.kugou.com'
   - 'DOMAIN-KEYWORD,tosv.boe.byted.org'
+  - 'DOMAIN-KEYWORD,trace.video.qq.com'
+  - 'DOMAIN-KEYWORD,-ad.byteoversea.com'
   - 'DOMAIN-KEYWORD,adshare.toutiao.com'
   - 'DOMAIN-KEYWORD,c1img.ali.kugou.com'
   - 'DOMAIN-KEYWORD,cm-10-134.getui.com'
@@ -247,6 +253,8 @@ payload:
   - 'DOMAIN-KEYWORD,nbcollect.kugou.com'
   - 'DOMAIN-KEYWORD,p3-pack.byteimg.com'
   - 'DOMAIN-KEYWORD,p6-pack.byteimg.com'
+  - 'DOMAIN-KEYWORD,panplayable-toutiao'
+  - 'DOMAIN-KEYWORD,-ad-sign.byteimg.com'
   - 'DOMAIN-KEYWORD,-tracker.biliapi.net'
   - 'DOMAIN-KEYWORD,adproxy.autohome.com'
   - 'DOMAIN-KEYWORD,android.bugly.qq.com'
@@ -262,6 +270,7 @@ payload:
   - 'DOMAIN-KEYWORD,trkgbm.business.hsbc.'
   - 'DOMAIN-KEYWORD,trksvg.business.hsbc.'
   - 'DOMAIN-KEYWORD,-logging.nextmedia.com'
+  - 'DOMAIN-KEYWORD,ad.hunyuan.tencent.com'
   - 'DOMAIN-KEYWORD,adash.man.aliyuncs.com'
   - 'DOMAIN-KEYWORD,applogapi.autohome.com'
   - 'DOMAIN-KEYWORD,fb-community-standards'
