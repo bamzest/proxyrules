@@ -137,7 +137,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32586 rules)
+# DOMAIN-SUFFIX (32591 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -1201,6 +1201,7 @@ DOMAIN-SUFFIX,ocul.us
 DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,oex.com
 DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okx.cab
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,omny.fm
 DOMAIN-SUFFIX,on.here
@@ -1448,6 +1449,7 @@ DOMAIN-SUFFIX,welt.de
 DOMAIN-SUFFIX,wfm.com
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,whvn.cc
+DOMAIN-SUFFIX,wiki.gg
 DOMAIN-SUFFIX,wink.ru
 DOMAIN-SUFFIX,wix.com
 DOMAIN-SUFFIX,wkap.nl
@@ -3577,6 +3579,7 @@ DOMAIN-SUFFIX,emory.edu
 DOMAIN-SUFFIX,emr.ac.uk
 DOMAIN-SUFFIX,ems.ac.uk
 DOMAIN-SUFFIX,enbank.ir
+DOMAIN-SUFFIX,eneba.com
 DOMAIN-SUFFIX,enpass.io
 DOMAIN-SUFFIX,entnt.com
 DOMAIN-SUFFIX,epc.ac.uk
@@ -9757,6 +9760,7 @@ DOMAIN-SUFFIX,empflix.com
 DOMAIN-SUFFIX,emttp.ac.uk
 DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,enbit.ac.uk
+DOMAIN-SUFFIX,eneba.games
 DOMAIN-SUFFIX,enfa.com.vn
 DOMAIN-SUFFIX,enfamil.com
 DOMAIN-SUFFIX,engsc.ac.uk
@@ -13207,6 +13211,7 @@ DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,genshinh.com
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,geocities.jp
+DOMAIN-SUFFIX,geogebra.org
 DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,getboxer.com
 DOMAIN-SUFFIX,getcloak.com
