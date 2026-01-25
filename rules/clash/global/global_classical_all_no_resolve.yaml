@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32591 rules)
+  # DOMAIN-SUFFIX (32592 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -15685,6 +15685,7 @@ payload:
   - 'DOMAIN-SUFFIX,bimseeker.com'
   - 'DOMAIN-SUFFIX,bimsource.com'
   - 'DOMAIN-SUFFIX,binance.cloud'
+  - 'DOMAIN-SUFFIX,binanceru.net'
   - 'DOMAIN-SUFFIX,binancezh.biz'
   - 'DOMAIN-SUFFIX,binancezh.com'
   - 'DOMAIN-SUFFIX,binancezh.ink'
