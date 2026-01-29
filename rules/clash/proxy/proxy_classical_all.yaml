@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17488 rules)
+  # DOMAIN-SUFFIX (17489 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -16627,6 +16627,7 @@ payload:
   - 'DOMAIN-SUFFIX,atscaleconference.com'
   - 'DOMAIN-SUFFIX,aws-iot-hackathon.com'
   - 'DOMAIN-SUFFIX,awsloft-stockholm.com'
+  - 'DOMAIN-SUFFIX,backend-v2.crixet.com'
   - 'DOMAIN-SUFFIX,beautifulandbusty.com'
   - 'DOMAIN-SUFFIX,berlintwitterwall.com'
   - 'DOMAIN-SUFFIX,bestbuy-giftcard.info'

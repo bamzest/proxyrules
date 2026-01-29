@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (132 rules)
+# DOMAIN (131 rules)
 DOMAIN,rss.owo.nz
 DOMAIN,i.jeded.com
 DOMAIN,lab.skk.moe
@@ -41,7 +41,6 @@ DOMAIN,dl.begellhouse.com
 DOMAIN,elib.maruzen.co.jp
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,ntp-c.colorado.edu
-DOMAIN,pubg1.battleye.com
 DOMAIN,rss.wudifeixue.com
 DOMAIN,rsshub.asailor.org
 DOMAIN,search.yahoo.co.jp
@@ -137,7 +136,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32592 rules)
+# DOMAIN-SUFFIX (32608 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -1846,6 +1845,7 @@ DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,data.com
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,day24.ir
+DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dcard.cc
 DOMAIN-SUFFIX,dcard.io
@@ -3083,6 +3083,7 @@ DOMAIN-SUFFIX,arc.ac.uk
 DOMAIN-SUFFIX,area51.to
 DOMAIN-SUFFIX,ark.ac.uk
 DOMAIN-SUFFIX,arm.ac.uk
+DOMAIN-SUFFIX,arma3.com
 DOMAIN-SUFFIX,ars.ac.uk
 DOMAIN-SUFFIX,artsy.net
 DOMAIN-SUFFIX,aru.ac.uk
@@ -6141,6 +6142,7 @@ DOMAIN-SUFFIX,crew.ac.uk
 DOMAIN-SUFFIX,crfr.ac.uk
 DOMAIN-SUFFIX,cric.ac.uk
 DOMAIN-SUFFIX,crisp.chat
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,cros.ac.uk
 DOMAIN-SUFFIX,crsp.ac.uk
 DOMAIN-SUFFIX,crypto.com
@@ -8630,6 +8632,7 @@ DOMAIN-SUFFIX,yigeni.com
 DOMAIN-SUFFIX,yinac5.top
 DOMAIN-SUFFIX,yinlei.org
 DOMAIN-SUFFIX,yinya.shop
+DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ymca.ac.uk
 DOMAIN-SUFFIX,ymhsf1.top
 DOMAIN-SUFFIX,yogify.com
@@ -9283,6 +9286,7 @@ DOMAIN-SUFFIX,bmwworld.tv
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bocici.buzz
 DOMAIN-SUFFIX,bodog88.com
+DOMAIN-SUFFIX,bohemia.net
 DOMAIN-SUFFIX,boltdns.net
 DOMAIN-SUFFIX,boodigo.com
 DOMAIN-SUFFIX,book.com.tw
@@ -12430,6 +12434,7 @@ DOMAIN-SUFFIX,barelist.com
 DOMAIN-SUFFIX,barnet.ac.uk
 DOMAIN-SUFFIX,barony.ac.uk
 DOMAIN-SUFFIX,barton.ac.uk
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,baxsound.com
 DOMAIN-SUFFIX,bayvoice.net
 DOMAIN-SUFFIX,baywords.com
@@ -12485,6 +12490,7 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,bioinf.ac.uk
 DOMAIN-SUFFIX,bioporno.com
 DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bistudio.com
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitfinex.com
@@ -17363,6 +17369,7 @@ DOMAIN-SUFFIX,oracleimg.com
 DOMAIN-SUFFIX,orchidbbs.com
 DOMAIN-SUFFIX,originlab.com
 DOMAIN-SUFFIX,osmosis.ac.uk
+DOMAIN-SUFFIX,ospserver.net
 DOMAIN-SUFFIX,otaku-168.com
 DOMAIN-SUFFIX,otaku18a.info
 DOMAIN-SUFFIX,over-blog.com
@@ -18036,6 +18043,7 @@ DOMAIN-SUFFIX,vgcareers.net
 DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,video-jav.net
 DOMAIN-SUFFIX,video-one.com
+DOMAIN-SUFFIX,vigorgame.com
 DOMAIN-SUFFIX,vip-beats.com
 DOMAIN-SUFFIX,vipergirls.to
 DOMAIN-SUFFIX,vipshoes2.com
@@ -20263,6 +20271,7 @@ DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,shwchurch3.com
 DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,sikh-uni.ac.uk
+DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,silkengirl.com
 DOMAIN-SUFFIX,simplenote.com
 DOMAIN-SUFFIX,simplyipod.com
@@ -20917,6 +20926,7 @@ DOMAIN-SUFFIX,zooyouporn.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN-SUFFIX,101tubeporn.com
+DOMAIN-SUFFIX,1024terabox.com
 DOMAIN-SUFFIX,123dappipad.com
 DOMAIN-SUFFIX,123dartisan.com
 DOMAIN-SUFFIX,123ddoodler.com
@@ -21612,6 +21622,7 @@ DOMAIN-SUFFIX,freekazakhs.org
 DOMAIN-SUFFIX,freeopenvpn.com
 DOMAIN-SUFFIX,freesexgames.ws
 DOMAIN-SUFFIX,freesitexxx.com
+DOMAIN-SUFFIX,freeterabox.com
 DOMAIN-SUFFIX,freeuseporn.com
 DOMAIN-SUFFIX,freexvideos.org
 DOMAIN-SUFFIX,freexxxporn.org
@@ -22715,6 +22726,7 @@ DOMAIN-SUFFIX,tegrazone.co.kr
 DOMAIN-SUFFIX,tehrantimes.com
 DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,tenzinpalmo.com
+DOMAIN-SUFFIX,terabox1024.com
 DOMAIN-SUFFIX,terapeak.com.hk
 DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,tettediferro.it
@@ -23165,6 +23177,7 @@ DOMAIN-SUFFIX,arcgisonline.com
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,areca-backup.org
 DOMAIN-SUFFIX,arirangmeari.com
+DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,ashemaletube.com
 DOMAIN-SUFFIX,asianfanfics.com
 DOMAIN-SUFFIX,asianpornjav.com
@@ -26565,6 +26578,7 @@ DOMAIN-SUFFIX,berlinerbericht.de
 DOMAIN-SUFFIX,best-sex-games.com
 DOMAIN-SUFFIX,bestbuyrewards.com
 DOMAIN-SUFFIX,bestbuytradein.com
+DOMAIN-SUFFIX,bestclouddrive.com
 DOMAIN-SUFFIX,bestescortgirls.nl
 DOMAIN-SUFFIX,bestgames-2022.com
 DOMAIN-SUFFIX,besthentaitube.com
@@ -27159,6 +27173,7 @@ DOMAIN-SUFFIX,lse-research.ac.uk
 DOMAIN-SUFFIX,lse-students.ac.uk
 DOMAIN-SUFFIX,macclesfield.ac.uk
 DOMAIN-SUFFIX,mailonsunday.co.uk
+DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,manoramaonline.com
 DOMAIN-SUFFIX,mappingwales.ac.uk
