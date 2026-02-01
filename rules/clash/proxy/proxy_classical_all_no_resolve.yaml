@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17492 rules)
+  # DOMAIN-SUFFIX (17493 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -17300,6 +17300,7 @@ payload:
   - 'DOMAIN-SUFFIX,adobecreativityawards.com'
   - 'DOMAIN-SUFFIX,adobeexperienceawards.com'
   - 'DOMAIN-SUFFIX,adobetechcommcallback.com'
+  - 'DOMAIN-SUFFIX,bbc.pdn.tritondigital.com'
   - 'DOMAIN-SUFFIX,bcsecure01-a.akamaihd.net'
   - 'DOMAIN-SUFFIX,bestbuycharityclassic.com'
   - 'DOMAIN-SUFFIX,bestjapanesepornsites.com'
