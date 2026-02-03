@@ -136,7 +136,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32616 rules)
+# DOMAIN-SUFFIX (32620 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -4958,6 +4958,7 @@ DOMAIN-SUFFIX,szbbs.net
 DOMAIN-SUFFIX,tacem.org
 DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,tailf.com
+DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,takens.tw
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptap.tw
@@ -12573,6 +12574,7 @@ DOMAIN-SUFFIX,bronch.ac.uk
 DOMAIN-SUFFIX,brooks.ac.uk
 DOMAIN-SUFFIX,brunel.ac.uk
 DOMAIN-SUFFIX,bs-awh.ne.jp
+DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsxm1213.pro
 DOMAIN-SUFFIX,btcbank.bank
@@ -22353,6 +22355,7 @@ DOMAIN-SUFFIX,pinterest.co.uk
 DOMAIN-SUFFIX,pirbright.ac.uk
 DOMAIN-SUFFIX,pixivsketch.net
 DOMAIN-SUFFIX,pixlromatic.com
+DOMAIN-SUFFIX,pjsekai.sega.jp
 DOMAIN-SUFFIX,plasticlabs.com
 DOMAIN-SUFFIX,play-bmmer.buzz
 DOMAIN-SUFFIX,playboyplus.com
@@ -29461,6 +29464,7 @@ DOMAIN-SUFFIX,runshawcollege.ac.uk
 DOMAIN-SUFFIX,rutlandcollege.ac.uk
 DOMAIN-SUFFIX,safepodnetwork.ac.uk
 DOMAIN-SUFFIX,saitama-resona.co.jp
+DOMAIN-SUFFIX,salesforce-setup.com
 DOMAIN-SUFFIX,sankei-digital.co.jp
 DOMAIN-SUFFIX,sbishinseibank.co.jp
 DOMAIN-SUFFIX,scarboroughtec.ac.uk

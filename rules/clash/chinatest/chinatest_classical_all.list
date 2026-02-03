@@ -138,7 +138,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (114884 rules)
+# DOMAIN-SUFFIX (114900 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1.cc
@@ -4285,6 +4285,7 @@ DOMAIN-SUFFIX,92zc.com
 DOMAIN-SUFFIX,9312.net
 DOMAIN-SUFFIX,936u.com
 DOMAIN-SUFFIX,9377.com
+DOMAIN-SUFFIX,9378.com
 DOMAIN-SUFFIX,93eu.com
 DOMAIN-SUFFIX,93jx.net
 DOMAIN-SUFFIX,93kk.com
@@ -9370,6 +9371,7 @@ DOMAIN-SUFFIX,xhsf.com
 DOMAIN-SUFFIX,xhtw.com
 DOMAIN-SUFFIX,xhu2.com
 DOMAIN-SUFFIX,xhyd.com
+DOMAIN-SUFFIX,xi-9.com
 DOMAIN-SUFFIX,xiaa.net
 DOMAIN-SUFFIX,xiami.fm
 DOMAIN-SUFFIX,xian.com
@@ -14586,6 +14588,7 @@ DOMAIN-SUFFIX,cry33.com
 DOMAIN-SUFFIX,cs-xf.com
 DOMAIN-SUFFIX,cs090.com
 DOMAIN-SUFFIX,cs12d.com
+DOMAIN-SUFFIX,cs2pw.com
 DOMAIN-SUFFIX,cs451.com
 DOMAIN-SUFFIX,cs528.com
 DOMAIN-SUFFIX,csair.com
@@ -21666,6 +21669,7 @@ DOMAIN-SUFFIX,pediy.com
 DOMAIN-SUFFIX,pedli.com
 DOMAIN-SUFFIX,peidu.com
 DOMAIN-SUFFIX,peise.net
+DOMAIN-SUFFIX,peiwan.tv
 DOMAIN-SUFFIX,peizi.com
 DOMAIN-SUFFIX,pejdw.com
 DOMAIN-SUFFIX,pemap.com
@@ -23755,6 +23759,7 @@ DOMAIN-SUFFIX,td776.com
 DOMAIN-SUFFIX,tdasz.com
 DOMAIN-SUFFIX,tdbbj.com
 DOMAIN-SUFFIX,tddmp.com
+DOMAIN-SUFFIX,tdfsm.com
 DOMAIN-SUFFIX,tdgdy.org
 DOMAIN-SUFFIX,tdgod.com
 DOMAIN-SUFFIX,tdiac.com
@@ -32186,6 +32191,7 @@ DOMAIN-SUFFIX,cpatrk.net
 DOMAIN-SUFFIX,cpcell.com
 DOMAIN-SUFFIX,cpciei.org
 DOMAIN-SUFFIX,cpepgc.com
+DOMAIN-SUFFIX,cpfwzs.com
 DOMAIN-SUFFIX,cphfgg.com
 DOMAIN-SUFFIX,cphiic.com
 DOMAIN-SUFFIX,cphoto.net
@@ -39857,6 +39863,7 @@ DOMAIN-SUFFIX,kv-kva.com
 DOMAIN-SUFFIX,kvps85.com
 DOMAIN-SUFFIX,kwaitv.com
 DOMAIN-SUFFIX,kwaizt.com
+DOMAIN-SUFFIX,kwicdn.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,kws123.com
 DOMAIN-SUFFIX,kwudor.com
@@ -57109,6 +57116,7 @@ DOMAIN-SUFFIX,ibossay.com
 DOMAIN-SUFFIX,iboxpay.com
 DOMAIN-SUFFIX,ibruce.info
 DOMAIN-SUFFIX,ic-king.com
+DOMAIN-SUFFIX,ic-spic.com
 DOMAIN-SUFFIX,ic9cube.com
 DOMAIN-SUFFIX,icaidao.com
 DOMAIN-SUFFIX,ican365.net
@@ -75227,6 +75235,7 @@ DOMAIN-SUFFIX,pabulika.com
 DOMAIN-SUFFIX,paibaohy.com
 DOMAIN-SUFFIX,paihang8.com
 DOMAIN-SUFFIX,paihotels.cc
+DOMAIN-SUFFIX,paihuisy.com
 DOMAIN-SUFFIX,pailitao.com
 DOMAIN-SUFFIX,paivideo.com
 DOMAIN-SUFFIX,paiyidan.net
@@ -75300,6 +75309,7 @@ DOMAIN-SUFFIX,peijian8.net
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,peipusci.com
 DOMAIN-SUFFIX,peiwanlu.com
+DOMAIN-SUFFIX,peiwantv.com
 DOMAIN-SUFFIX,peixiang.com
 DOMAIN-SUFFIX,peixinkj.com
 DOMAIN-SUFFIX,peixunla.com
@@ -79734,6 +79744,7 @@ DOMAIN-SUFFIX,yourdream.cc
 DOMAIN-SUFFIX,yourtion.com
 DOMAIN-SUFFIX,youshang.com
 DOMAIN-SUFFIX,youshifu.com
+DOMAIN-SUFFIX,youshihui.cc
 DOMAIN-SUFFIX,youshuge.com
 DOMAIN-SUFFIX,youstong.com
 DOMAIN-SUFFIX,youtaidu.com
@@ -82865,6 +82876,7 @@ DOMAIN-SUFFIX,ddyylczzs.com
 DOMAIN-SUFFIX,deafchina.com
 DOMAIN-SUFFIX,dealsbank.com
 DOMAIN-SUFFIX,dealsmake.com
+DOMAIN-SUFFIX,dearclick.com
 DOMAIN-SUFFIX,debugdump.com
 DOMAIN-SUFFIX,dedeadmin.com
 DOMAIN-SUFFIX,dedezhuji.com
@@ -83363,6 +83375,7 @@ DOMAIN-SUFFIX,exc-resin.com
 DOMAIN-SUFFIX,excegroup.com
 DOMAIN-SUFFIX,excelhome.net
 DOMAIN-SUFFIX,excellbio.com
+DOMAIN-SUFFIX,exedus.com.co
 DOMAIN-SUFFIX,exeedcars.com
 DOMAIN-SUFFIX,expiredns.net
 DOMAIN-SUFFIX,explorexd.com
@@ -89393,6 +89406,7 @@ DOMAIN-SUFFIX,tuxiaobei.com
 DOMAIN-SUFFIX,tuxingren.com
 DOMAIN-SUFFIX,tuyougame.com
 DOMAIN-SUFFIX,tuzhongit.com
+DOMAIN-SUFFIX,tv2-zuqiu.com
 DOMAIN-SUFFIX,tweakcube.com
 DOMAIN-SUFFIX,twinkstar.com
 DOMAIN-SUFFIX,twscholar.com
@@ -106565,6 +106579,7 @@ DOMAIN-SUFFIX,hongyimarine.com
 DOMAIN-SUFFIX,honorofkings.com
 DOMAIN-SUFFIX,honson-china.com
 DOMAIN-SUFFIX,horizonsanya.com
+DOMAIN-SUFFIX,horsebrowser.com
 DOMAIN-SUFFIX,hortor-comic.com
 DOMAIN-SUFFIX,hospitalstar.com
 DOMAIN-SUFFIX,hotchenghong.com
@@ -111587,6 +111602,7 @@ DOMAIN-SUFFIX,chinesehongker.com
 DOMAIN-SUFFIX,chinesemedical.net
 DOMAIN-SUFFIX,chintautoparts.com
 DOMAIN-SUFFIX,chitudexiaozhi.com
+DOMAIN-SUFFIX,chn-new-9sport.com
 DOMAIN-SUFFIX,chongjiyashiji.com
 DOMAIN-SUFFIX,chongmingzhuce.com
 DOMAIN-SUFFIX,chongnengjihua.com

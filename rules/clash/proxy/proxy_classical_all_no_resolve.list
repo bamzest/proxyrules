@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17493 rules)
+# DOMAIN-SUFFIX (17494 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -3140,6 +3140,7 @@ DOMAIN-SUFFIX,szbbs.net
 DOMAIN-SUFFIX,tacem.org
 DOMAIN-SUFFIX,taiav.com
 DOMAIN-SUFFIX,tailf.com
+DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptap.tw
 DOMAIN-SUFFIX,tbicn.org
