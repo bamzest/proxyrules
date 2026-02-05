@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17494 rules)
+  # DOMAIN-SUFFIX (17495 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -4656,6 +4656,7 @@ payload:
   - 'DOMAIN-SUFFIX,search.xxx'
   - 'DOMAIN-SUFFIX,seehua.com'
   - 'DOMAIN-SUFFIX,seevpn.com'
+  - 'DOMAIN-SUFFIX,sef.org.tw'
   - 'DOMAIN-SUFFIX,seksmet.nl'
   - 'DOMAIN-SUFFIX,seqing.one'
   - 'DOMAIN-SUFFIX,sesawe.net'
