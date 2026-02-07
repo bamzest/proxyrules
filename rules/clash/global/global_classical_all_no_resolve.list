@@ -136,7 +136,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32622 rules)
+# DOMAIN-SUFFIX (32631 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -2307,6 +2307,7 @@ DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,madou.la
 DOMAIN-SUFFIX,madou.tv
 DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,md-t.org
 DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,medow.ru
@@ -4882,6 +4883,7 @@ DOMAIN-SUFFIX,six9dy.pw
 DOMAIN-SUFFIX,sixth.biz
 DOMAIN-SUFFIX,sjd.ac.uk
 DOMAIN-SUFFIX,sjr.ac.uk
+DOMAIN-SUFFIX,skills.sh
 DOMAIN-SUFFIX,skynet.be
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skype.net
@@ -6702,6 +6704,7 @@ DOMAIN-SUFFIX,heep.ac.uk
 DOMAIN-SUFFIX,heia.ac.uk
 DOMAIN-SUFFIX,helf.ac.uk
 DOMAIN-SUFFIX,helloss.pw
+DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,hentai.pro
 DOMAIN-SUFFIX,hentaix.me
 DOMAIN-SUFFIX,hentaiz.cc
@@ -13836,6 +13839,7 @@ DOMAIN-SUFFIX,mangahasu.se
 DOMAIN-SUFFIX,mangmang.run
 DOMAIN-SUFFIX,manorama.com
 DOMAIN-SUFFIX,manototv.com
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,manytoon.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,mapguide.com
@@ -17561,6 +17565,7 @@ DOMAIN-SUFFIX,quicktime.com
 DOMAIN-SUFFIX,quicktime.net
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,rad-sat.ac.uk
+DOMAIN-SUFFIX,radiko-cf.com
 DOMAIN-SUFFIX,radiomango.fm
 DOMAIN-SUFFIX,radiotime.com
 DOMAIN-SUFFIX,radiovncr.com
@@ -18618,6 +18623,7 @@ DOMAIN-SUFFIX,birkbeck.ac.uk
 DOMAIN-SUFFIX,bitballoon.com
 DOMAIN-SUFFIX,bitinka.com.ar
 DOMAIN-SUFFIX,bitnamiapp.com
+DOMAIN-SUFFIX,bittorrent.com
 DOMAIN-SUFFIX,blacklogic.com
 DOMAIN-SUFFIX,blend-ed.ac.uk
 DOMAIN-SUFFIX,blinkload.zone
@@ -19233,6 +19239,7 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,greatgame.asia
 DOMAIN-SUFFIX,greenpeace.org
 DOMAIN-SUFFIX,gregynog.ac.uk
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,gs-discuss.com
 DOMAIN-SUFFIX,gstatic-cn.com
 DOMAIN-SUFFIX,gu-chu-sum.org
@@ -26163,6 +26170,7 @@ DOMAIN-SUFFIX,slidesharecdn.com
 DOMAIN-SUFFIX,slobodnaevropa.mk
 DOMAIN-SUFFIX,small-angle.ac.uk
 DOMAIN-SUFFIX,smartdnsproxy.com
+DOMAIN-SUFFIX,smartstream.ne.jp
 DOMAIN-SUFFIX,snap-telemetry.io
 DOMAIN-SUFFIX,soccerfanz.com.my
 DOMAIN-SUFFIX,socialcammail.com
@@ -28724,6 +28732,7 @@ DOMAIN-SUFFIX,uclanresearch.ac.uk
 DOMAIN-SUFFIX,ukdataservice.ac.uk
 DOMAIN-SUFFIX,up.gcp.googlers.com
 DOMAIN-SUFFIX,urbandictionary.com
+DOMAIN-SUFFIX,v2.hysteria.network
 DOMAIN-SUFFIX,vanishstains.com.au
 DOMAIN-SUFFIX,vecchiescopate.casa
 DOMAIN-SUFFIX,verizonwireless.com
