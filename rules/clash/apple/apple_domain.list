@@ -13,7 +13,6 @@ updates-http.cdn-apple.com
 apptrailers.itunes.apple.com
 icons.axm-usercontent-apple.com
 p-events-delivery.akamaized.net
-appldnld.apple.com.edgesuite.net
 lookup-api.apple.com.edgekey.net
 beatselectronicsllc.tt.omtrdc.net
 aod.itunes.apple.com // Apple Music
@@ -1605,6 +1604,7 @@ appleworldwidedeveloper.hb-api.omtrdc.net
 +.monsterbeatssydneyaustralia.com
 +.p-events-delivery.akamaized.net
 +.streamingaudio.itunes.apple.com
++.appldnld.apple.com.edgesuite.net
 +.cheapbeatsbydrestudioedition.com
 +.gsp4-cn.ls.apple.com.edgekey.net
 +.beatsbydresolohdonline-canada.com

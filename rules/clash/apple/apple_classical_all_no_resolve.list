@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (22 rules)
+# DOMAIN (21 rules)
 DOMAIN,edge.apple
 DOMAIN,swcdn.apple.com
 DOMAIN,appldnld.apple.com
@@ -19,7 +19,6 @@ DOMAIN,updates-http.cdn-apple.com
 DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,icons.axm-usercontent-apple.com
 DOMAIN,p-events-delivery.akamaized.net
-DOMAIN,appldnld.apple.com.edgesuite.net
 DOMAIN,lookup-api.apple.com.edgekey.net
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 DOMAIN,aod.itunes.apple.com // Apple Music
@@ -27,7 +26,7 @@ DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,gspe1-ssl.ls.apple.com // Country Code
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 
-# DOMAIN-SUFFIX (1601 rules)
+# DOMAIN-SUFFIX (1602 rules)
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,mac.eu
 DOMAIN-SUFFIX,mac.rs
@@ -1613,6 +1612,7 @@ DOMAIN-SUFFIX,drebeatssolocybermondaysale.com
 DOMAIN-SUFFIX,monsterbeatssydneyaustralia.com
 DOMAIN-SUFFIX,p-events-delivery.akamaized.net
 DOMAIN-SUFFIX,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com.edgesuite.net
 DOMAIN-SUFFIX,cheapbeatsbydrestudioedition.com
 DOMAIN-SUFFIX,gsp4-cn.ls.apple.com.edgekey.net
 DOMAIN-SUFFIX,beatsbydresolohdonline-canada.com
@@ -2592,6 +2592,11 @@ IP-CIDR,17.160.0.0/12,no-resolve
 IP-CIDR,17.0.0.0/9,no-resolve
 IP-CIDR,17.128.0.0/9,no-resolve
 IP-CIDR,17.0.0.0/8,no-resolve
+
+# IP-CIDR6 (3 rules)
+IP-CIDR6,2403:300::/32,no-resolve
+IP-CIDR6,2620:149::/32,no-resolve
+IP-CIDR6,2a01:b740::/32,no-resolve
 
 # PROCESS-NAME (14 rules)
 PROCESS-NAME,TV
