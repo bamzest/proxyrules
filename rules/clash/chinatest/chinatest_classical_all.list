@@ -138,7 +138,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (116177 rules)
+# DOMAIN-SUFFIX (116185 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1.cc
@@ -14996,6 +14996,7 @@ DOMAIN-SUFFIX,ddhly.com
 DOMAIN-SUFFIX,ddimg.net
 DOMAIN-SUFFIX,dding.net
 DOMAIN-SUFFIX,ddmap.com
+DOMAIN-SUFFIX,ddmc.mobi
 DOMAIN-SUFFIX,ddmer.com
 DOMAIN-SUFFIX,ddong.com
 DOMAIN-SUFFIX,ddooo.com
@@ -33066,6 +33067,7 @@ DOMAIN-SUFFIX,dd0415.net
 DOMAIN-SUFFIX,dd2007.com
 DOMAIN-SUFFIX,ddadaal.me
 DOMAIN-SUFFIX,ddcits.com
+DOMAIN-SUFFIX,ddcorp.net
 DOMAIN-SUFFIX,ddcsjw.com
 DOMAIN-SUFFIX,ddddns.net
 DOMAIN-SUFFIX,dddwan.com
@@ -37565,6 +37567,7 @@ DOMAIN-SUFFIX,hrjkjt.com
 DOMAIN-SUFFIX,hrm100.com
 DOMAIN-SUFFIX,hrs100.com
 DOMAIN-SUFFIX,hrtfin.com
+DOMAIN-SUFFIX,hrtsea.com
 DOMAIN-SUFFIX,hsakyy.com
 DOMAIN-SUFFIX,hscfjt.com
 DOMAIN-SUFFIX,hscode.net
@@ -54072,6 +54075,7 @@ DOMAIN-SUFFIX,dddazhe.com
 DOMAIN-SUFFIX,ddddocr.com
 DOMAIN-SUFFIX,dddgong.com
 DOMAIN-SUFFIX,ddedush.com
+DOMAIN-SUFFIX,ddfresh.net
 DOMAIN-SUFFIX,ddianle.com
 DOMAIN-SUFFIX,ddjs-cn.com
 DOMAIN-SUFFIX,ddkanqiu.cc
@@ -64783,6 +64787,7 @@ DOMAIN-SUFFIX,xhmedia.com
 DOMAIN-SUFFIX,xhpiano.com
 DOMAIN-SUFFIX,xhqbapp.com
 DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhsrcdn.com
 DOMAIN-SUFFIX,xhsrmyy.com
 DOMAIN-SUFFIX,xhtheme.com
 DOMAIN-SUFFIX,xhuaian.com
@@ -66221,6 +66226,7 @@ DOMAIN-SUFFIX,zhikuai.com
 DOMAIN-SUFFIX,zhilian.com
 DOMAIN-SUFFIX,zhiniu8.com
 DOMAIN-SUFFIX,zhipeix.com
+DOMAIN-SUFFIX,zhipucn.com
 DOMAIN-SUFFIX,zhipuzi.com
 DOMAIN-SUFFIX,zhishi.tech
 DOMAIN-SUFFIX,zhituad.com
@@ -69945,6 +69951,7 @@ DOMAIN-SUFFIX,ddcheshi.com
 DOMAIN-SUFFIX,ddddyres.com
 DOMAIN-SUFFIX,ddfchina.com
 DOMAIN-SUFFIX,ddkanqiu.net
+DOMAIN-SUFFIX,ddmaicai.net
 DOMAIN-SUFFIX,ddonplan.com
 DOMAIN-SUFFIX,ddtugame.com
 DOMAIN-SUFFIX,ddtxgame.com
@@ -72820,6 +72827,7 @@ DOMAIN-SUFFIX,imageoss.com
 DOMAIN-SUFFIX,imagerjt.com
 DOMAIN-SUFFIX,imageter.com
 DOMAIN-SUFFIX,imaginde.com
+DOMAIN-SUFFIX,imaicai.mobi
 DOMAIN-SUFFIX,imalljoy.com
 DOMAIN-SUFFIX,imallvip.com
 DOMAIN-SUFFIX,imayitxt.com
