@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (248 rules)
+  # DOMAIN-SUFFIX (249 rules)
   - 'DOMAIN-SUFFIX,3.cn'
   - 'DOMAIN-SUFFIX,jd.cn'
   - 'DOMAIN-SUFFIX,jd.hk'
@@ -65,6 +65,7 @@ payload:
   - 'DOMAIN-SUFFIX,jdemall.com'
   - 'DOMAIN-SUFFIX,missjia.net'
   - 'DOMAIN-SUFFIX,qianxun.com'
+  - 'DOMAIN-SUFFIX,tjjt360.com'
   - 'DOMAIN-SUFFIX,toplife.com'
   - 'DOMAIN-SUFFIX,wanggou.com'
   - 'DOMAIN-SUFFIX,wangyin.com'
