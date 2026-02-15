@@ -139,7 +139,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (116185 rules)
+  # DOMAIN-SUFFIX (116183 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -64788,7 +64788,6 @@ payload:
   - 'DOMAIN-SUFFIX,xhpiano.com'
   - 'DOMAIN-SUFFIX,xhqbapp.com'
   - 'DOMAIN-SUFFIX,xhslink.com'
-  - 'DOMAIN-SUFFIX,xhsrcdn.com'
   - 'DOMAIN-SUFFIX,xhsrmyy.com'
   - 'DOMAIN-SUFFIX,xhtheme.com'
   - 'DOMAIN-SUFFIX,xhuaian.com'
@@ -97478,7 +97477,6 @@ payload:
   - 'DOMAIN-SUFFIX,red-yellow.net'
   - 'DOMAIN-SUFFIX,redbascket.com'
   - 'DOMAIN-SUFFIX,redianyule.com'
-  - 'DOMAIN-SUFFIX,rednotecdn.com'
   - 'DOMAIN-SUFFIX,redsun-nsh.com'
   - 'DOMAIN-SUFFIX,refineidea.com'
   - 'DOMAIN-SUFFIX,reformdata.org'
