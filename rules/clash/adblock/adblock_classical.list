@@ -4,7 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (287 rules)
+# DOMAIN-KEYWORD (289 rules)
 DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,fzlm
 DOMAIN-KEYWORD,jads
@@ -66,6 +66,7 @@ DOMAIN-KEYWORD,789htbet
 DOMAIN-KEYWORD,adktrack
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,admobile
 DOMAIN-KEYWORD,adsensor
 DOMAIN-KEYWORD,adserve2
 DOMAIN-KEYWORD,adserver
@@ -208,6 +209,7 @@ DOMAIN-KEYWORD,mobilead.kuwo.cn
 DOMAIN-KEYWORD,pglstatp-toutiao
 DOMAIN-KEYWORD,track.msadcenter
 DOMAIN-KEYWORD,track.opentable.
+DOMAIN-KEYWORD,uploadMobileData
 DOMAIN-KEYWORD,adp.atm.youku.com
 DOMAIN-KEYWORD,adtrack.ucweb.com
 DOMAIN-KEYWORD,bjimp.voiceads.cn
