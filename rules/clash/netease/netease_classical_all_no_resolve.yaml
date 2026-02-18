@@ -148,7 +148,7 @@ payload:
   - 'DOMAIN-SUFFIX,infiniteborders3kingdoms.com'
   - 'DOMAIN-SUFFIX,marvelunlimitedresources.com'
 
-  # IP-CIDR (32 rules)
+  # IP-CIDR (30 rules)
   - 'IP-CIDR,101.71.154.241/32,no-resolve'
   - 'IP-CIDR,103.126.92.132/32,no-resolve'
   - 'IP-CIDR,103.126.92.133/32,no-resolve'
@@ -178,6 +178,4 @@ payload:
   - 'IP-CIDR,59.111.181.60/32,no-resolve'
   - 'IP-CIDR,59.111.19.33/32,no-resolve'
   - 'IP-CIDR,59.111.238.29/32,no-resolve'
-  - 'IP-CIDR,103.126.92.132/31,no-resolve'
-  - 'IP-CIDR,223.252.199.66/31,no-resolve'
   - 'IP-CIDR,59.111.21.14/31,no-resolve'
