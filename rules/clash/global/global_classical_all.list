@@ -138,7 +138,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32782 rules)
+# DOMAIN-SUFFIX (32808 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -4457,6 +4457,7 @@ DOMAIN-SUFFIX,mojim.com
 DOMAIN-SUFFIX,mol.ac.uk
 DOMAIN-SUFFIX,mom50.com
 DOMAIN-SUFFIX,monica.im
+DOMAIN-SUFFIX,mosavi.io
 DOMAIN-SUFFIX,mostly.jp
 DOMAIN-SUFFIX,moztw.org
 DOMAIN-SUFFIX,mpw.ac.uk
@@ -5496,6 +5497,7 @@ DOMAIN-SUFFIX,zlib.life
 DOMAIN-SUFFIX,zndsk.com
 DOMAIN-SUFFIX,zoos.gold
 DOMAIN-SUFFIX,zopim.com
+DOMAIN-SUFFIX,zpath.com
 DOMAIN-SUFFIX,zuola.com
 DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,zyxel.com
@@ -8867,7 +8869,9 @@ DOMAIN-SUFFIX,zooqle.com
 DOMAIN-SUFFIX,zoozle.net
 DOMAIN-SUFFIX,zophar.net
 DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,zpagov.net
 DOMAIN-SUFFIX,zqqpwz.com
+DOMAIN-SUFFIX,zscaler.jp
 DOMAIN-SUFFIX,zsdxzk.com
 DOMAIN-SUFFIX,zsrhao.com
 DOMAIN-SUFFIX,zteman.net
@@ -12143,6 +12147,7 @@ DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yhgwgtv.xyz
 DOMAIN-SUFFIX,yieamnd.com
 DOMAIN-SUFFIX,yilubbs.com
+DOMAIN-SUFFIX,yo-star.com
 DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,youjism.com
 DOMAIN-SUFFIX,youjizz.com
@@ -12162,6 +12167,7 @@ DOMAIN-SUFFIX,yyjlymb.xyz
 DOMAIN-SUFFIX,yyvhhbmw.cc
 DOMAIN-SUFFIX,yzld188.top
 DOMAIN-SUFFIX,z676869.com
+DOMAIN-SUFFIX,zdxbeta.net
 DOMAIN-SUFFIX,zeenews.com
 DOMAIN-SUFFIX,zeenite.com
 DOMAIN-SUFFIX,zeetv.co.uk
@@ -12180,6 +12186,9 @@ DOMAIN-SUFFIX,zoogvpn.com
 DOMAIN-SUFFIX,zoomgov.com
 DOMAIN-SUFFIX,zooporn.pro
 DOMAIN-SUFFIX,zootool.com
+DOMAIN-SUFFIX,zscaler.com
+DOMAIN-SUFFIX,zscaler.net
+DOMAIN-SUFFIX,zscloud.net
 DOMAIN-SUFFIX,zspeeder.me
 DOMAIN-SUFFIX,zvereff.com
 DOMAIN-SUFFIX,zwtvusa.com
@@ -15439,6 +15448,7 @@ DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,yomabank.com
 DOMAIN-SUFFIX,yomilogi.com
 DOMAIN-SUFFIX,yorksj.ac.uk
+DOMAIN-SUFFIX,yostar.co.jp
 DOMAIN-SUFFIX,youlucky.com
 DOMAIN-SUFFIX,youmaker.com
 DOMAIN-SUFFIX,youmind.site
@@ -15464,6 +15474,7 @@ DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zakzak.co.jp
 DOMAIN-SUFFIX,zdassets.com
 DOMAIN-SUFFIX,zdnet.com.tw
+DOMAIN-SUFFIX,zdxcloud.net
 DOMAIN-SUFFIX,zencoder.com
 DOMAIN-SUFFIX,zerochan.net
 DOMAIN-SUFFIX,zhenghui.org
@@ -17938,6 +17949,7 @@ DOMAIN-SUFFIX,startpath.com
 DOMAIN-SUFFIX,statically.io
 DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,stchads.ac.uk
+DOMAIN-SUFFIX,stellasora.jp
 DOMAIN-SUFFIX,stepchina.com
 DOMAIN-SUFFIX,stloyes.ac.uk
 DOMAIN-SUFFIX,stlukes.ac.uk
@@ -20619,6 +20631,7 @@ DOMAIN-SUFFIX,thethothub.com
 DOMAIN-SUFFIX,thetimes.co.uk
 DOMAIN-SUFFIX,thisisgame.com
 DOMAIN-SUFFIX,thomroth.ac.uk
+DOMAIN-SUFFIX,threatlabz.com
 DOMAIN-SUFFIX,thumbzilla.com
 DOMAIN-SUFFIX,thurrock.ac.uk
 DOMAIN-SUFFIX,tianbiav10.com
@@ -20989,6 +21002,7 @@ DOMAIN-SUFFIX,yogalayout.com
 DOMAIN-SUFFIX,yopornshop.com
 DOMAIN-SUFFIX,york-sfc.ac.uk
 DOMAIN-SUFFIX,yorozoonews.jp
+DOMAIN-SUFFIX,yostarplat.com
 DOMAIN-SUFFIX,youassporn.com
 DOMAIN-SUFFIX,youngsex.video
 DOMAIN-SUFFIX,youporngay.com
@@ -21073,6 +21087,9 @@ DOMAIN-SUFFIX,zoophilist.net
 DOMAIN-SUFFIX,zooredtube.com
 DOMAIN-SUFFIX,zoosexfarm.com
 DOMAIN-SUFFIX,zooyouporn.com
+DOMAIN-SUFFIX,zscalergov.net
+DOMAIN-SUFFIX,zscalerone.net
+DOMAIN-SUFFIX,zscalertwo.net
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
 DOMAIN-SUFFIX,zyngapoker.com
@@ -21307,6 +21324,7 @@ DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,bingsandbox.com
 DOMAIN-SUFFIX,biobankuk.ac.uk
 DOMAIN-SUFFIX,bioethics.ac.uk
+DOMAIN-SUFFIX,bitcoincore.org
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitdefender.com
 DOMAIN-SUFFIX,blackburn.ac.uk
@@ -23193,6 +23211,7 @@ DOMAIN-SUFFIX,zohoschools.com
 DOMAIN-SUFFIX,zoofilianet.com
 DOMAIN-SUFFIX,zooporn.shiksha
 DOMAIN-SUFFIX,zoozhamster.com
+DOMAIN-SUFFIX,zscalerbeta.net
 DOMAIN-SUFFIX,zsuxtx-ktv.shop
 DOMAIN-SUFFIX,0cgdklr5sfwj.com
 DOMAIN-SUFFIX,101boyvideos.com
@@ -25054,6 +25073,8 @@ DOMAIN-SUFFIX,zhuichaguoji.org
 DOMAIN-SUFFIX,zonghexinwen.com
 DOMAIN-SUFFIX,zonghexinwen.net
 DOMAIN-SUFFIX,zoo-hardcore.com
+DOMAIN-SUFFIX,zscalershift.com
+DOMAIN-SUFFIX,zscalerthree.net
 DOMAIN-SUFFIX,100beatscheap.com
 DOMAIN-SUFFIX,100bucksbabes.com
 DOMAIN-SUFFIX,1111mod-tube.buzz
@@ -26350,6 +26371,7 @@ DOMAIN-SUFFIX,startupschool.org
 DOMAIN-SUFFIX,stateofthemap.com
 DOMAIN-SUFFIX,stateofthemap.org
 DOMAIN-SUFFIX,steemitwallet.com
+DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,stemacademy.ac.uk
 DOMAIN-SUFFIX,stepdaughter.love
 DOMAIN-SUFFIX,stepmaturesex.com
@@ -28756,6 +28778,7 @@ DOMAIN-SUFFIX,sciencemuseum.ac.uk
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,scorediscounts.club
 DOMAIN-SUFFIX,secureservercdn.net
+DOMAIN-SUFFIX,securitypreview.com
 DOMAIN-SUFFIX,seintiaucymru.ac.uk
 DOMAIN-SUFFIX,seldensociety.ac.uk
 DOMAIN-SUFFIX,selfloversworld.com
@@ -28809,6 +28832,7 @@ DOMAIN-SUFFIX,starbucks-stars.com
 DOMAIN-SUFFIX,starbucksathome.com
 DOMAIN-SUFFIX,starbucksforlife.ca
 DOMAIN-SUFFIX,starbucksromania.ro
+DOMAIN-SUFFIX,stargazer-games.com
 DOMAIN-SUFFIX,stcroixmosquito.com
 DOMAIN-SUFFIX,sth-leic-coll.ac.uk
 DOMAIN-SUFFIX,stjohns-nottm.ac.uk
@@ -30507,6 +30531,7 @@ DOMAIN-SUFFIX,xxxjapanesemovies.com
 DOMAIN-SUFFIX,xxxpornozinho.blog.br
 DOMAIN-SUFFIX,yjcontentdelivery.com
 DOMAIN-SUFFIX,yorkcollegeapps.ac.uk
+DOMAIN-SUFFIX,yostar-pictures.co.jp
 DOMAIN-SUFFIX,youngamateursporn.com
 DOMAIN-SUFFIX,youngfoundation.ac.uk
 DOMAIN-SUFFIX,youngmommyfucksme.com
@@ -32611,6 +32636,7 @@ DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com
 DOMAIN-SUFFIX,salebeatslasteststyle4you.com
 DOMAIN-SUFFIX,school-economic-science.ac.uk
 DOMAIN-SUFFIX,scottishmarineinstitute.ac.uk
+DOMAIN-SUFFIX,securecloudtransformation.com
 DOMAIN-SUFFIX,smartcommunitiescoalition.com
 DOMAIN-SUFFIX,smartcommunitiescoalition.org
 DOMAIN-SUFFIX,studentvoteregistration.ac.uk
