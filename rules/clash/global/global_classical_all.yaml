@@ -139,7 +139,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32856 rules)
+  # DOMAIN-SUFFIX (32861 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -1643,6 +1643,7 @@ payload:
   - 'DOMAIN-SUFFIX,aiph.net'
   - 'DOMAIN-SUFFIX,airav.cc'
   - 'DOMAIN-SUFFIX,akam.net'
+  - 'DOMAIN-SUFFIX,akile.io'
   - 'DOMAIN-SUFFIX,akow.org'
   - 'DOMAIN-SUFFIX,alhs.xyz'
   - 'DOMAIN-SUFFIX,amcn.com'
@@ -10721,6 +10722,7 @@ payload:
   - 'DOMAIN-SUFFIX,meansys.com'
   - 'DOMAIN-SUFFIX,medev.ac.uk'
   - 'DOMAIN-SUFFIX,medrxiv.org'
+  - 'DOMAIN-SUFFIX,meee.com.tw'
   - 'DOMAIN-SUFFIX,meforum.org'
   - 'DOMAIN-SUFFIX,mefound.com'
   - 'DOMAIN-SUFFIX,meguk.ac.uk'
@@ -20127,6 +20129,7 @@ payload:
   - 'DOMAIN-SUFFIX,onxxxvideo.com'
   - 'DOMAIN-SUFFIX,openallweb.com'
   - 'DOMAIN-SUFFIX,opencreate.org'
+  - 'DOMAIN-SUFFIX,opencritic.com'
   - 'DOMAIN-SUFFIX,openreview.net'
   - 'DOMAIN-SUFFIX,opera-mini.net'
   - 'DOMAIN-SUFFIX,optimumssl.com'
@@ -26759,6 +26762,7 @@ payload:
   - 'DOMAIN-SUFFIX,asianfreeforum.com'
   - 'DOMAIN-SUFFIX,asianwomensfilm.de'
   - 'DOMAIN-SUFFIX,askham-bryan.ac.uk'
+  - 'DOMAIN-SUFFIX,assets.nxtrace.org'
   - 'DOMAIN-SUFFIX,assistirhentai.com'
   - 'DOMAIN-SUFFIX,astrobiology.ac.uk'
   - 'DOMAIN-SUFFIX,asuswebstorage.com'
@@ -27935,6 +27939,7 @@ payload:
   - 'DOMAIN-SUFFIX,windowsphoneme.com'
   - 'DOMAIN-SUFFIX,wmfusercontent.org'
   - 'DOMAIN-SUFFIX,womensnikeshox.com'
+  - 'DOMAIN-SUFFIX,www.clashverge.dev'
   - 'DOMAIN-SUFFIX,xda-developers.com'
   - 'DOMAIN-SUFFIX,xiangrikui-app.com'
   - 'DOMAIN-SUFFIX,xn--74q434dwff.com'

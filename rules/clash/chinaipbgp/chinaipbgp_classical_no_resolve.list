@@ -4,7 +4,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (3897 rules)
+# IP-CIDR (3912 rules)
 IP-CIDR,1.1.8.0/24,no-resolve
 IP-CIDR,1.18.128.0/24,no-resolve
 IP-CIDR,1.2.4.0/24,no-resolve
@@ -124,6 +124,7 @@ IP-CIDR,106.2.81.0/24,no-resolve
 IP-CIDR,106.2.89.0/24,no-resolve
 IP-CIDR,106.2.96.0/24,no-resolve
 IP-CIDR,106.3.151.0/24,no-resolve
+IP-CIDR,107.148.248.0/24,no-resolve
 IP-CIDR,107.151.212.0/24,no-resolve
 IP-CIDR,107.190.229.0/24,no-resolve
 IP-CIDR,110.40.0.0/24,no-resolve
@@ -867,6 +868,8 @@ IP-CIDR,106.2.48.0/23,no-resolve
 IP-CIDR,106.2.62.0/23,no-resolve
 IP-CIDR,106.2.82.0/23,no-resolve
 IP-CIDR,106.3.148.0/23,no-resolve
+IP-CIDR,107.148.250.0/23,no-resolve
+IP-CIDR,107.148.252.0/23,no-resolve
 IP-CIDR,110.203.0.0/23,no-resolve
 IP-CIDR,110.40.14.0/23,no-resolve
 IP-CIDR,110.41.208.0/23,no-resolve
@@ -2091,6 +2094,7 @@ IP-CIDR,106.3.208.0/21,no-resolve
 IP-CIDR,106.3.224.0/21,no-resolve
 IP-CIDR,106.3.88.0/21,no-resolve
 IP-CIDR,106.48.16.0/21,no-resolve
+IP-CIDR,107.148.240.0/21,no-resolve
 IP-CIDR,110.173.8.0/21,no-resolve
 IP-CIDR,110.41.216.0/21,no-resolve
 IP-CIDR,111.118.200.0/21,no-resolve
@@ -2390,7 +2394,15 @@ IP-CIDR,110.41.192.0/20,no-resolve
 IP-CIDR,110.42.96.0/20,no-resolve
 IP-CIDR,111.210.0.0/20,no-resolve
 IP-CIDR,113.130.96.0/20,no-resolve
-IP-CIDR,113.160.96.0/20,no-resolve
+IP-CIDR,113.185.128.0/20,no-resolve
+IP-CIDR,113.185.240.0/20,no-resolve
+IP-CIDR,113.185.80.0/20,no-resolve
+IP-CIDR,113.186.144.0/20,no-resolve
+IP-CIDR,113.188.112.0/20,no-resolve
+IP-CIDR,113.190.16.0/20,no-resolve
+IP-CIDR,113.190.48.0/20,no-resolve
+IP-CIDR,113.190.64.0/20,no-resolve
+IP-CIDR,113.190.96.0/20,no-resolve
 IP-CIDR,113.213.96.0/20,no-resolve
 IP-CIDR,113.31.144.0/20,no-resolve
 IP-CIDR,113.47.112.0/20,no-resolve
@@ -2641,6 +2653,7 @@ IP-CIDR,106.75.224.0/19,no-resolve
 IP-CIDR,110.173.192.0/19,no-resolve
 IP-CIDR,110.41.224.0/19,no-resolve
 IP-CIDR,110.42.64.0/19,no-resolve
+IP-CIDR,113.185.96.0/19,no-resolve
 IP-CIDR,113.213.64.0/19,no-resolve
 IP-CIDR,113.31.160.0/19,no-resolve
 IP-CIDR,113.31.96.0/19,no-resolve
@@ -3067,7 +3080,9 @@ IP-CIDR,125.58.128.0/17,no-resolve
 IP-CIDR,125.98.128.0/17,no-resolve
 IP-CIDR,144.7.0.0/17,no-resolve
 IP-CIDR,152.104.128.0/17,no-resolve
+IP-CIDR,154.197.128.0/17,no-resolve
 IP-CIDR,154.8.128.0/17,no-resolve
+IP-CIDR,156.224.128.0/17,no-resolve
 IP-CIDR,168.160.0.0/17,no-resolve
 IP-CIDR,175.106.128.0/17,no-resolve
 IP-CIDR,180.129.128.0/17,no-resolve
