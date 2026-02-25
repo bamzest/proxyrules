@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27221 rules)
+# DOMAIN (27220 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -27029,7 +27029,6 @@ DOMAIN,consent.subscriptions.archant.co.uk
 DOMAIN,es-go.experianiness.westernunion.at
 DOMAIN,evening-badlands-6215.herokuapp.com
 DOMAIN,filamentapp-assets.s3.amazonaws.com
-DOMAIN,firebaseremoteconfig.googleapis.com
 DOMAIN,inneractive-assets.s3.amazonaws.com
 DOMAIN,intelligence-head.pinsightmedia.com
 DOMAIN,link.workwellnessinstit.letzbig.com
