@@ -139,7 +139,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32861 rules)
+  # DOMAIN-SUFFIX (32865 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -2357,6 +2357,7 @@ payload:
   - 'DOMAIN-SUFFIX,mini.com'
   - 'DOMAIN-SUFFIX,minid.no'
   - 'DOMAIN-SUFFIX,mist.vip'
+  - 'DOMAIN-SUFFIX,mixi.net'
   - 'DOMAIN-SUFFIX,mixx.com'
   - 'DOMAIN-SUFFIX,modoo.at'
   - 'DOMAIN-SUFFIX,monar.ch'
@@ -7383,6 +7384,7 @@ payload:
   - 'DOMAIN-SUFFIX,mitbbs.com'
   - 'DOMAIN-SUFFIX,miteam.com'
   - 'DOMAIN-SUFFIX,mixero.com'
+  - 'DOMAIN-SUFFIX,mixi.co.jp'
   - 'DOMAIN-SUFFIX,mixpod.com'
   - 'DOMAIN-SUFFIX,mk5000.com'
   - 'DOMAIN-SUFFIX,mktdns.com'
@@ -10032,6 +10034,7 @@ payload:
   - 'DOMAIN-SUFFIX,free-avx.jp'
   - 'DOMAIN-SUFFIX,free.com.tw'
   - 'DOMAIN-SUFFIX,freebsd.org'
+  - 'DOMAIN-SUFFIX,freedom.gov'
   - 'DOMAIN-SUFFIX,freefbx.com'
   - 'DOMAIN-SUFFIX,freegao.com'
   - 'DOMAIN-SUFFIX,freessl.com'
@@ -22518,6 +22521,7 @@ payload:
   - 'DOMAIN-SUFFIX,oursteps.com.au'
   - 'DOMAIN-SUFFIX,oustudios.ac.uk'
   - 'DOMAIN-SUFFIX,oxfordgsb.ac.uk'
+  - 'DOMAIN-SUFFIX,packagecloud.io'
   - 'DOMAIN-SUFFIX,pandavpn-jp.com'
   - 'DOMAIN-SUFFIX,pandavpnpro.com'
   - 'DOMAIN-SUFFIX,pantswalker.net'
