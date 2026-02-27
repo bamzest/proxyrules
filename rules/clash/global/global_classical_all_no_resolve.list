@@ -138,7 +138,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32865 rules)
+# DOMAIN-SUFFIX (32880 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -3117,14 +3117,21 @@ DOMAIN-SUFFIX,alive.bar
 DOMAIN-SUFFIX,alt.ac.uk
 DOMAIN-SUFFIX,amazon.ae
 DOMAIN-SUFFIX,amazon.ca
+DOMAIN-SUFFIX,amazon.cl
 DOMAIN-SUFFIX,amazon.co
 DOMAIN-SUFFIX,amazon.de
+DOMAIN-SUFFIX,amazon.eg
 DOMAIN-SUFFIX,amazon.es
 DOMAIN-SUFFIX,amazon.fr
+DOMAIN-SUFFIX,amazon.ie
 DOMAIN-SUFFIX,amazon.in
 DOMAIN-SUFFIX,amazon.it
 DOMAIN-SUFFIX,amazon.jp
+DOMAIN-SUFFIX,amazon.lu
 DOMAIN-SUFFIX,amazon.nl
+DOMAIN-SUFFIX,amazon.pl
+DOMAIN-SUFFIX,amazon.sa
+DOMAIN-SUFFIX,amazon.se
 DOMAIN-SUFFIX,amazon.sg
 DOMAIN-SUFFIX,ameblo.jp
 DOMAIN-SUFFIX,amf.ac.uk
@@ -5395,6 +5402,7 @@ DOMAIN-SUFFIX,xiaofu.me
 DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,xiaoou.io
 DOMAIN-SUFFIX,xiaoou.tv
+DOMAIN-SUFFIX,xie56.xyz
 DOMAIN-SUFFIX,xinbao.de
 DOMAIN-SUFFIX,xingrz.me
 DOMAIN-SUFFIX,xlecx.org
@@ -5830,6 +5838,7 @@ DOMAIN-SUFFIX,avriri.top
 DOMAIN-SUFFIX,avsee01.tv
 DOMAIN-SUFFIX,avwong.com
 DOMAIN-SUFFIX,awlc.ac.uk
+DOMAIN-SUFFIX,awswaf.com
 DOMAIN-SUFFIX,awwcn.buzz
 DOMAIN-SUFFIX,awxcdn.com
 DOMAIN-SUFFIX,aziani.com
@@ -12430,6 +12439,7 @@ DOMAIN-SUFFIX,amakings.com
 DOMAIN-SUFFIX,amatporn.com
 DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.co.uk
+DOMAIN-SUFFIX,amazon.co.za
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazonpay.in
 DOMAIN-SUFFIX,american.edu
@@ -15686,8 +15696,11 @@ DOMAIN-SUFFIX,altmetric.com
 DOMAIN-SUFFIX,alwaysvpn.com
 DOMAIN-SUFFIX,amateurxx.org
 DOMAIN-SUFFIX,amazon.com.au
+DOMAIN-SUFFIX,amazon.com.be
 DOMAIN-SUFFIX,amazon.com.br
+DOMAIN-SUFFIX,amazon.com.co
 DOMAIN-SUFFIX,amazon.com.mx
+DOMAIN-SUFFIX,amazon.com.ng
 DOMAIN-SUFFIX,amazon.com.tr
 DOMAIN-SUFFIX,amazonaws.biz
 DOMAIN-SUFFIX,amazonaws.com
@@ -18565,6 +18578,7 @@ DOMAIN-SUFFIX,aboutamazon.in
 DOMAIN-SUFFIX,aboutamazon.it
 DOMAIN-SUFFIX,aboutamazon.jp
 DOMAIN-SUFFIX,aboutamazon.pl
+DOMAIN-SUFFIX,aboutamazon.sg
 DOMAIN-SUFFIX,aboutporno.net
 DOMAIN-SUFFIX,absoluporn.com
 DOMAIN-SUFFIX,accesshe.ac.uk
@@ -27725,6 +27739,7 @@ DOMAIN-SUFFIX,schiffvitamins.com
 DOMAIN-SUFFIX,sciencesigns.ac.uk
 DOMAIN-SUFFIX,seamlessupdate.app
 DOMAIN-SUFFIX,seasidestory.tokyo
+DOMAIN-SUFFIX,seattlespheres.com
 DOMAIN-SUFFIX,secure-paypal.info
 DOMAIN-SUFFIX,securityinabox.org
 DOMAIN-SUFFIX,seeingspeech.ac.uk
