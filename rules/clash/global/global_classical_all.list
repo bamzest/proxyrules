@@ -138,7 +138,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32880 rules)
+# DOMAIN-SUFFIX (32881 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -27972,6 +27972,7 @@ DOMAIN-SUFFIX,xxxindianporn2.com
 DOMAIN-SUFFIX,yakbutterblues.com
 DOMAIN-SUFFIX,yale-wrexham.ac.uk
 DOMAIN-SUFFIX,yamagatabank.co.jp
+DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yeyuehuachao11.com
 DOMAIN-SUFFIX,yeyuehuachao12.com
