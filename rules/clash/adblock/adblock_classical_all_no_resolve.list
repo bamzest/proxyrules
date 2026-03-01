@@ -270639,7 +270639,7 @@ DOMAIN-SUFFIX,d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rack
 DOMAIN-SUFFIX,hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 
-# DOMAIN-KEYWORD (289 rules)
+# DOMAIN-KEYWORD (291 rules)
 DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,fzlm
 DOMAIN-KEYWORD,jads
@@ -270686,6 +270686,7 @@ DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,gettate
 DOMAIN-KEYWORD,histats
+DOMAIN-KEYWORD,httpdns
 DOMAIN-KEYWORD,ioslog.
 DOMAIN-KEYWORD,juruigj
 DOMAIN-KEYWORD,lkme.cc
@@ -270713,6 +270714,7 @@ DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,flightsy
 DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,httpsdns
 DOMAIN-KEYWORD,ios-log.
 DOMAIN-KEYWORD,itabelog
 DOMAIN-KEYWORD,mighbest

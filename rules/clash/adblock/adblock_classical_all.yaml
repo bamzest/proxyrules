@@ -270640,7 +270640,7 @@ payload:
   - 'DOMAIN-SUFFIX,hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com'
   - 'DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io'
 
-  # DOMAIN-KEYWORD (289 rules)
+  # DOMAIN-KEYWORD (291 rules)
   - 'DOMAIN-KEYWORD,dat8'
   - 'DOMAIN-KEYWORD,fzlm'
   - 'DOMAIN-KEYWORD,jads'
@@ -270687,6 +270687,7 @@ payload:
   - 'DOMAIN-KEYWORD,dwtrack'
   - 'DOMAIN-KEYWORD,gettate'
   - 'DOMAIN-KEYWORD,histats'
+  - 'DOMAIN-KEYWORD,httpdns'
   - 'DOMAIN-KEYWORD,ioslog.'
   - 'DOMAIN-KEYWORD,juruigj'
   - 'DOMAIN-KEYWORD,lkme.cc'
@@ -270714,6 +270715,7 @@ payload:
   - 'DOMAIN-KEYWORD,dnserror'
   - 'DOMAIN-KEYWORD,flightsy'
   - 'DOMAIN-KEYWORD,guanggao'
+  - 'DOMAIN-KEYWORD,httpsdns'
   - 'DOMAIN-KEYWORD,ios-log.'
   - 'DOMAIN-KEYWORD,itabelog'
   - 'DOMAIN-KEYWORD,mighbest'
