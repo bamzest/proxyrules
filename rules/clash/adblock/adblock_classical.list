@@ -4,7 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (291 rules)
+# DOMAIN-KEYWORD (292 rules)
 DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,fzlm
 DOMAIN-KEYWORD,jads
@@ -109,6 +109,7 @@ DOMAIN-KEYWORD,zjtoolbar
 DOMAIN-KEYWORD,a.9game.cn
 DOMAIN-KEYWORD,adsrvmedia
 DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,adstrategy
 DOMAIN-KEYWORD,analytics.
 DOMAIN-KEYWORD,brushshopy
 DOMAIN-KEYWORD,c.51y5.net

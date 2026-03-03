@@ -271213,7 +271213,7 @@ payload:
   - 'DOMAIN-SUFFIX,hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com'
   - 'DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io'
 
-  # DOMAIN-KEYWORD (291 rules)
+  # DOMAIN-KEYWORD (292 rules)
   - 'DOMAIN-KEYWORD,dat8'
   - 'DOMAIN-KEYWORD,fzlm'
   - 'DOMAIN-KEYWORD,jads'
@@ -271318,6 +271318,7 @@ payload:
   - 'DOMAIN-KEYWORD,a.9game.cn'
   - 'DOMAIN-KEYWORD,adsrvmedia'
   - 'DOMAIN-KEYWORD,adsserving'
+  - 'DOMAIN-KEYWORD,adstrategy'
   - 'DOMAIN-KEYWORD,analytics.'
   - 'DOMAIN-KEYWORD,brushshopy'
   - 'DOMAIN-KEYWORD,c.51y5.net'
