@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (117070 rules)
+  # DOMAIN-SUFFIX (117071 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -60247,6 +60247,7 @@ payload:
   - 'DOMAIN-SUFFIX,momooyo.com'
   - 'DOMAIN-SUFFIX,monaite.com'
   - 'DOMAIN-SUFFIX,monengu.com'
+  - 'DOMAIN-SUFFIX,monika.love'
   - 'DOMAIN-SUFFIX,monknow.com'
   - 'DOMAIN-SUFFIX,moodoon.com'
   - 'DOMAIN-SUFFIX,moojing.com'

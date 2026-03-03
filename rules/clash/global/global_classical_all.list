@@ -138,7 +138,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32881 rules)
+# DOMAIN-SUFFIX (32884 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -415,6 +415,7 @@ DOMAIN-SUFFIX,ivi.ru
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,jan.ai
 DOMAIN-SUFFIX,jav.la
+DOMAIN-SUFFIX,jav.sb
 DOMAIN-SUFFIX,jav.si
 DOMAIN-SUFFIX,jkb.cc
 DOMAIN-SUFFIX,jp.net
@@ -7080,6 +7081,7 @@ DOMAIN-SUFFIX,javfree.sh
 DOMAIN-SUFFIX,javhay.net
 DOMAIN-SUFFIX,javher.com
 DOMAIN-SUFFIX,javhip.com
+DOMAIN-SUFFIX,javhub.com
 DOMAIN-SUFFIX,javhub.net
 DOMAIN-SUFFIX,javmoo.com
 DOMAIN-SUFFIX,javmoo.xyz
@@ -13737,6 +13739,7 @@ DOMAIN-SUFFIX,javmodel.com
 DOMAIN-SUFFIX,javporn.tech
 DOMAIN-SUFFIX,javprice.com
 DOMAIN-SUFFIX,javprime.net
+DOMAIN-SUFFIX,javquick.com
 DOMAIN-SUFFIX,javrave.club
 DOMAIN-SUFFIX,javstar.club
 DOMAIN-SUFFIX,javstore.net

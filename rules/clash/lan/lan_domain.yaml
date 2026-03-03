@@ -21,7 +21,6 @@ payload:
   - '+.d.f.ip6.arpa'
   - '+.peiluyou.com'
   - '+.tendawifi.com'
-  - '+.0.in-addr.arpa'
   - '+.8.e.f.ip6.arpa'
   - '+.9.e.f.ip6.arpa'
   - '+.a.e.f.ip6.arpa'
@@ -120,5 +119,4 @@ payload:
   - '+.8.b.d.0.1.0.0.2.ip6.arpa'
   - '+.localhost.ptlogin2.qq.com'
   - '+.255.255.255.255.in-addr.arpa'
-  - '+.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
