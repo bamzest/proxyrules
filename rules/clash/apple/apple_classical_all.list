@@ -26,7 +26,7 @@ DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,gspe1-ssl.ls.apple.com // Country Code
 DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 
-# DOMAIN-SUFFIX (1602 rules)
+# DOMAIN-SUFFIX (1603 rules)
 DOMAIN-SUFFIX,apple
 DOMAIN-SUFFIX,mac.eu
 DOMAIN-SUFFIX,mac.rs
@@ -149,6 +149,7 @@ DOMAIN-SUFFIX,hrsaz.com
 DOMAIN-SUFFIX,ibook.com
 DOMAIN-SUFFIX,ibook.net
 DOMAIN-SUFFIX,icloud.ch
+DOMAIN-SUFFIX,icloud.cn
 DOMAIN-SUFFIX,icloud.de
 DOMAIN-SUFFIX,icloud.ee
 DOMAIN-SUFFIX,icloud.fi

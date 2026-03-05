@@ -3,17 +3,14 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (141 rules)
-DOMAIN,buny.uk
+# DOMAIN (123 rules)
+DOMAIN,cny.fan
 DOMAIN,evan.im
-DOMAIN,shubt.net
 DOMAIN,bt.rer.lol
-DOMAIN,jvavav.com
 DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
-DOMAIN,tracker.bz
 DOMAIN,bt.okmp3.ru
-DOMAIN,opentor.org
+DOMAIN,wepzone.net
 DOMAIN,explodie.org
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv6.rer.lol
@@ -21,18 +18,15 @@ DOMAIN,t.213891.xyz
 DOMAIN,tr.abiir.top
 DOMAIN,tr.nyacat.pw
 DOMAIN,uabits.today
-DOMAIN,bt1.xxxxbt.cc
 DOMAIN,open.dstud.io
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.qu.ax
-DOMAIN,home.yxgz.club
 DOMAIN,opentracker.io
 DOMAIN,t.overflow.biz
 DOMAIN,torrentsmd.com
 DOMAIN,tr.cili001.com
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.plx.im
-DOMAIN,tracker810.xyz
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,nyaa.tracker.wf
@@ -54,23 +48,19 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.lintk.me
 DOMAIN,tracker.waaa.moe
 DOMAIN,exodus.desync.com
 DOMAIN,shahidrazi.online
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
-DOMAIN,tracker.sbsub.com
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker2.dler.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,bt.poletracker.org
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,retracker.lanta.me
-DOMAIN,servandroidkino.ru
 DOMAIN,torrentclub.online
 DOMAIN,tracker.beeimg.com
 DOMAIN,tracker.moeblog.cn
@@ -83,20 +73,17 @@ DOMAIN,tracker2.itzmx.com
 DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,www.all4nothin.net
-DOMAIN,www.genesis-sp.org
 DOMAIN,open.acgtracker.com
 DOMAIN,rekcart.duckdns.org
-DOMAIN,torrent.hificode.in
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.iperson.xyz
 DOMAIN,tracker.therarbg.to
+DOMAIN,tracker.wepzone.net
 DOMAIN,ibksturm.synology.me
-DOMAIN,open.trackerlist.xyz
 DOMAIN,retracker.hotplug.ru
-DOMAIN,seeders-paradise.org
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.mywaifu.best
@@ -105,14 +92,11 @@ DOMAIN,tracker.tryhackx.org
 DOMAIN,tracker1.myporn.club
 DOMAIN,www.wareztorrent.com
 DOMAIN,bandito.byterunner.io
-DOMAIN,share.hkg-fansub.info
 DOMAIN,speedtest.iperson.xyz
 DOMAIN,tracker.alaskantf.com
 DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.riverarmy.xyz
-DOMAIN,tracker.vanitycore.co
-DOMAIN,tracker.xiaoduola.xyz
 DOMAIN,extracker.dahrkael.net
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.flatuslifir.is
@@ -126,9 +110,7 @@ DOMAIN,tracker.opentorrent.top
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.dhitechnical.com
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,udp.tracker.projectk.org
-DOMAIN,0123456789nonexistent.com
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,node01.trackerstatus.live
 DOMAIN,ns575949.ip-51-222-82.net

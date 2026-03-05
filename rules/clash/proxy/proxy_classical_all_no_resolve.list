@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17497 rules)
+# DOMAIN-SUFFIX (17500 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -1165,6 +1165,7 @@ DOMAIN-SUFFIX,alhs.xyz
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,amzn.com
 DOMAIN-SUFFIX,antd.org
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,army.mil
 DOMAIN-SUFFIX,arzon.jp
 DOMAIN-SUFFIX,asdfg.jp
@@ -5320,6 +5321,7 @@ DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,area120.com
 DOMAIN-SUFFIX,arethusa.su
 DOMAIN-SUFFIX,art1lib.com
+DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,asianews.it
 DOMAIN-SUFFIX,asiaone.com
 DOMAIN-SUFFIX,asiatgp.com
@@ -8885,6 +8887,7 @@ DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,wildammo.com
 DOMAIN-SUFFIX,wiredpen.com
+DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,wix-code.com
 DOMAIN-SUFFIX,womenwill.id
 DOMAIN-SUFFIX,womenwill.in

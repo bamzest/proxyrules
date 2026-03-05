@@ -138,7 +138,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32884 rules)
+# DOMAIN-SUFFIX (32893 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -799,6 +799,7 @@ DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,disp.cc
 DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,dkr.com
+DOMAIN-SUFFIX,dlaf.jp
 DOMAIN-SUFFIX,dler.io
 DOMAIN-SUFFIX,dma.mil
 DOMAIN-SUFFIX,dmit.io
@@ -1704,6 +1705,7 @@ DOMAIN-SUFFIX,apple.tt
 DOMAIN-SUFFIX,apple.tw
 DOMAIN-SUFFIX,apple.uk
 DOMAIN-SUFFIX,apple.us
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,army.mil
 DOMAIN-SUFFIX,arzon.jp
 DOMAIN-SUFFIX,as-hp.ca
@@ -9175,6 +9177,7 @@ DOMAIN-SUFFIX,arethusa.su
 DOMAIN-SUFFIX,aricd.ac.uk
 DOMAIN-SUFFIX,art1lib.com
 DOMAIN-SUFFIX,artstor.org
+DOMAIN-SUFFIX,arweave.org
 DOMAIN-SUFFIX,asagaku.com
 DOMAIN-SUFFIX,asahicom.jp
 DOMAIN-SUFFIX,asianews.it
@@ -10392,6 +10395,7 @@ DOMAIN-SUFFIX,ikea.com.sg
 DOMAIN-SUFFIX,ikea.com.tr
 DOMAIN-SUFFIX,ikea.com.tw
 DOMAIN-SUFFIX,ikea.com.ua
+DOMAIN-SUFFIX,illgames.jp
 DOMAIN-SUFFIX,illusion.jp
 DOMAIN-SUFFIX,ilovexs.com
 DOMAIN-SUFFIX,ilthe.ac.uk
@@ -15103,6 +15107,7 @@ DOMAIN-SUFFIX,trydurex.net
 DOMAIN-SUFFIX,tryquinn.com
 DOMAIN-SUFFIX,tsplines.com
 DOMAIN-SUFFIX,tsundora.com
+DOMAIN-SUFFIX,ttcdn-us.com
 DOMAIN-SUFFIX,tube2011.com
 DOMAIN-SUFFIX,tube2012.com
 DOMAIN-SUFFIX,tube2017.com
@@ -15344,6 +15349,7 @@ DOMAIN-SUFFIX,winticket.jp
 DOMAIN-SUFFIX,wiredpen.com
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiserd.ac.uk
+DOMAIN-SUFFIX,wispbyte.com
 DOMAIN-SUFFIX,witcmi.ac.uk
 DOMAIN-SUFFIX,wix-code.com
 DOMAIN-SUFFIX,wjny-one.sbs
@@ -22134,6 +22140,7 @@ DOMAIN-SUFFIX,javscatting.com
 DOMAIN-SUFFIX,javspanking.com
 DOMAIN-SUFFIX,javtrailers.com
 DOMAIN-SUFFIX,jcmaxwell.ac.uk
+DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetfuelapps.com
 DOMAIN-SUFFIX,jewel-esk.ac.uk
@@ -27379,6 +27386,7 @@ DOMAIN-SUFFIX,iphoneimessage.com
 DOMAIN-SUFFIX,iri-scotland.ac.uk
 DOMAIN-SUFFIX,islamawareness.net
 DOMAIN-SUFFIX,iwantgalleries.com
+DOMAIN-SUFFIX,japan-illgames.com
 DOMAIN-SUFFIX,japanknowledge.com
 DOMAIN-SUFFIX,jiaochuanba25.buzz
 DOMAIN-SUFFIX,jiaochuanba26.buzz
@@ -30779,6 +30787,7 @@ DOMAIN-SUFFIX,dawngatechronicles.com
 DOMAIN-SUFFIX,dellpowersolutions.com
 DOMAIN-SUFFIX,designsformovement.com
 DOMAIN-SUFFIX,dettolsitishield.co.in
+DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,dickwhiteacademy.ac.uk
 DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,digitalprototyping.com

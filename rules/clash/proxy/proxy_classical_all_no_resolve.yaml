@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17497 rules)
+  # DOMAIN-SUFFIX (17500 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -1166,6 +1166,7 @@ payload:
   - 'DOMAIN-SUFFIX,ameba.jp'
   - 'DOMAIN-SUFFIX,amzn.com'
   - 'DOMAIN-SUFFIX,antd.org'
+  - 'DOMAIN-SUFFIX,arena.ai'
   - 'DOMAIN-SUFFIX,army.mil'
   - 'DOMAIN-SUFFIX,arzon.jp'
   - 'DOMAIN-SUFFIX,asdfg.jp'
@@ -5321,6 +5322,7 @@ payload:
   - 'DOMAIN-SUFFIX,area120.com'
   - 'DOMAIN-SUFFIX,arethusa.su'
   - 'DOMAIN-SUFFIX,art1lib.com'
+  - 'DOMAIN-SUFFIX,arweave.org'
   - 'DOMAIN-SUFFIX,asianews.it'
   - 'DOMAIN-SUFFIX,asiaone.com'
   - 'DOMAIN-SUFFIX,asiatgp.com'
@@ -8886,6 +8888,7 @@ payload:
   - 'DOMAIN-SUFFIX,wikiwand.com'
   - 'DOMAIN-SUFFIX,wildammo.com'
   - 'DOMAIN-SUFFIX,wiredpen.com'
+  - 'DOMAIN-SUFFIX,wispbyte.com'
   - 'DOMAIN-SUFFIX,wix-code.com'
   - 'DOMAIN-SUFFIX,womenwill.id'
   - 'DOMAIN-SUFFIX,womenwill.in'

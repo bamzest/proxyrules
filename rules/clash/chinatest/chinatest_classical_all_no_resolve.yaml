@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (117071 rules)
+  # DOMAIN-SUFFIX (117073 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -28152,6 +28152,7 @@ payload:
   - 'DOMAIN-SUFFIX,1717pk.com'
   - 'DOMAIN-SUFFIX,171tax.com'
   - 'DOMAIN-SUFFIX,171win.net'
+  - 'DOMAIN-SUFFIX,172mix.com'
   - 'DOMAIN-SUFFIX,173kan.com'
   - 'DOMAIN-SUFFIX,175bar.com'
   - 'DOMAIN-SUFFIX,175wan.com'
@@ -96251,6 +96252,7 @@ payload:
   - 'DOMAIN-SUFFIX,juzhentech.com'
   - 'DOMAIN-SUFFIX,juzhiliang.com'
   - 'DOMAIN-SUFFIX,juzhongjoy.com'
+  - 'DOMAIN-SUFFIX,juziwulian.com'
   - 'DOMAIN-SUFFIX,jxndxuebao.com'
   - 'DOMAIN-SUFFIX,jxshangyou.com'
   - 'DOMAIN-SUFFIX,jxsilkpark.com'
