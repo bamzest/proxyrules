@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17500 rules)
+  # DOMAIN-SUFFIX (17501 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -16369,6 +16369,7 @@ payload:
   - 'DOMAIN-SUFFIX,digitalattackmap.com'
   - 'DOMAIN-SUFFIX,discordapp.page.link'
   - 'DOMAIN-SUFFIX,dollarphotosclub.com'
+  - 'DOMAIN-SUFFIX,download.dappcdn.com'
   - 'DOMAIN-SUFFIX,easternlightning.org'
   - 'DOMAIN-SUFFIX,eighteen-store18x.jp'
   - 'DOMAIN-SUFFIX,elasticbeanstalk.com'

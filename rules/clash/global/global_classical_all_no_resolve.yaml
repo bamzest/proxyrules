@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (133 rules)
+  # DOMAIN (134 rules)
   - 'DOMAIN,rss.owo.nz'
   - 'DOMAIN,i.jeded.com'
   - 'DOMAIN,lab.skk.moe'
@@ -106,6 +106,7 @@ payload:
   - 'DOMAIN,asahishimbun.sc.omtrdc.net'
   - 'DOMAIN,cbsservice.aws.syncbak.com'
   - 'DOMAIN,wrds-www.wharton.upenn.edu'
+  - 'DOMAIN,youla-web-static.mrgcdn.ru'
   - 'DOMAIN,hpstore.corpmerchandise.com'
   - 'DOMAIN,medone-education.thieme.com'
   - 'DOMAIN,ocsp.int-x3.letsencrypt.org'
@@ -139,7 +140,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32893 rules)
+  # DOMAIN-SUFFIX (32904 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -1249,6 +1250,7 @@ payload:
   - 'DOMAIN-SUFFIX,ping.pe'
   - 'DOMAIN-SUFFIX,ping.sx'
   - 'DOMAIN-SUFFIX,pise.pw'
+  - 'DOMAIN-SUFFIX,plex.tv'
   - 'DOMAIN-SUFFIX,pmem.us'
   - 'DOMAIN-SUFFIX,po18.tw'
   - 'DOMAIN-SUFFIX,poe.com'
@@ -2481,6 +2483,7 @@ payload:
   - 'DOMAIN-SUFFIX,pixiv.me'
   - 'DOMAIN-SUFFIX,pki.goog'
   - 'DOMAIN-SUFFIX,playz.jp'
+  - 'DOMAIN-SUFFIX,plex.com'
   - 'DOMAIN-SUFFIX,plos.org'
   - 'DOMAIN-SUFFIX,pluto.tv'
   - 'DOMAIN-SUFFIX,pmem.org'
@@ -2880,6 +2883,8 @@ payload:
   - 'DOMAIN-SUFFIX,yimg.com'
   - 'DOMAIN-SUFFIX,ying.com'
   - 'DOMAIN-SUFFIX,yobt.com'
+  - 'DOMAIN-SUFFIX,youla.io'
+  - 'DOMAIN-SUFFIX,youla.ru'
   - 'DOMAIN-SUFFIX,youtu.be'
   - 'DOMAIN-SUFFIX,youx.xxx'
   - 'DOMAIN-SUFFIX,yoyo.org'
@@ -8489,6 +8494,7 @@ payload:
   - 'DOMAIN-SUFFIX,userpxt.io'
   - 'DOMAIN-SUFFIX,ustc.ac.uk'
   - 'DOMAIN-SUFFIX,ustream.tv'
+  - 'DOMAIN-SUFFIX,utdstc.com'
   - 'DOMAIN-SUFFIX,uvac.ac.uk'
   - 'DOMAIN-SUFFIX,uverse.com'
   - 'DOMAIN-SUFFIX,uvwxyz.xyz'
@@ -11177,6 +11183,7 @@ payload:
   - 'DOMAIN-SUFFIX,playfab.com'
   - 'DOMAIN-SUFFIX,playno1.com'
   - 'DOMAIN-SUFFIX,playshow.io'
+  - 'DOMAIN-SUFFIX,plexapp.com'
   - 'DOMAIN-SUFFIX,plexvpn.pro'
   - 'DOMAIN-SUFFIX,plunder.com'
   - 'DOMAIN-SUFFIX,plutotv.net'
@@ -11430,6 +11437,7 @@ payload:
   - 'DOMAIN-SUFFIX,seezone.net'
   - 'DOMAIN-SUFFIX,sejie80.com'
   - 'DOMAIN-SUFFIX,selby.ac.uk'
+  - 'DOMAIN-SUFFIX,sendvid.com'
   - 'DOMAIN-SUFFIX,seqingx.com'
   - 'DOMAIN-SUFFIX,serio.ac.uk'
   - 'DOMAIN-SUFFIX,seselah.com'
@@ -14366,6 +14374,7 @@ payload:
   - 'DOMAIN-SUFFIX,onetrust.com'
   - 'DOMAIN-SUFFIX,onlinm.ac.uk'
   - 'DOMAIN-SUFFIX,only-xxx.com'
+  - 'DOMAIN-SUFFIX,onlyfans.com'
   - 'DOMAIN-SUFFIX,onlyleaks.me'
   - 'DOMAIN-SUFFIX,onlyprime.ru'
   - 'DOMAIN-SUFFIX,oocdtp.ac.uk'
@@ -17657,6 +17666,7 @@ payload:
   - 'DOMAIN-SUFFIX,play-bmm.shop'
   - 'DOMAIN-SUFFIX,play4free.com'
   - 'DOMAIN-SUFFIX,playfamily.ru'
+  - 'DOMAIN-SUFFIX,plex.services'
   - 'DOMAIN-SUFFIX,plug-into.com'
   - 'DOMAIN-SUFFIX,plymsea.ac.uk'
   - 'DOMAIN-SUFFIX,pobieramy.top'
@@ -29335,6 +29345,7 @@ payload:
   - 'DOMAIN-SUFFIX,disneyturkiye.com.tr'
   - 'DOMAIN-SUFFIX,diyarbakirescort.com'
   - 'DOMAIN-SUFFIX,dollarphotosclub.com'
+  - 'DOMAIN-SUFFIX,download.dappcdn.com'
   - 'DOMAIN-SUFFIX,downloadsforipod.com'
   - 'DOMAIN-SUFFIX,drdrebeatsbillig.com'
   - 'DOMAIN-SUFFIX,drdrebeatsdesale.com'
@@ -31404,6 +31415,7 @@ payload:
   - 'DOMAIN-SUFFIX,monsterdrebeats-usa.com'
   - 'DOMAIN-SUFFIX,monsterdrebeats-usa.net'
   - 'DOMAIN-SUFFIX,mucinexprofessional.com'
+  - 'DOMAIN-SUFFIX,muvluv-girls-garden.com'
   - 'DOMAIN-SUFFIX,myaccountglobalcash.com'
   - 'DOMAIN-SUFFIX,myconstructionworld.net'
   - 'DOMAIN-SUFFIX,myferrariheadphones.com'

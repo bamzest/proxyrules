@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (123 rules)
+  # DOMAIN (119 rules)
   - 'DOMAIN,cny.fan'
   - 'DOMAIN,evan.im'
   - 'DOMAIN,bt.rer.lol'
@@ -12,7 +12,6 @@ payload:
   - 'DOMAIN,tr.kxmp.cf'
   - 'DOMAIN,bt.okmp3.ru'
   - 'DOMAIN,wepzone.net'
-  - 'DOMAIN,explodie.org'
   - 'DOMAIN,ipv4.rer.lol'
   - 'DOMAIN,ipv6.rer.lol'
   - 'DOMAIN,t.213891.xyz'
@@ -22,7 +21,6 @@ payload:
   - 'DOMAIN,open.dstud.io'
   - 'DOMAIN,tracker.1h.is'
   - 'DOMAIN,tracker.qu.ax'
-  - 'DOMAIN,opentracker.io'
   - 'DOMAIN,t.overflow.biz'
   - 'DOMAIN,torrentsmd.com'
   - 'DOMAIN,tr.cili001.com'
@@ -39,8 +37,6 @@ payload:
   - 'DOMAIN,tracker1.520.jp'
   - 'DOMAIN,bvarf.tracker.sh'
   - 'DOMAIN,leet-tracker.moe'
-  - 'DOMAIN,node01.madtia.cc'
-  - 'DOMAIN,node02.madtia.cc'
   - 'DOMAIN,open.demonii.com'
   - 'DOMAIN,open.demonoid.ch'
   - 'DOMAIN,tr.highstar.shop'
@@ -70,7 +66,6 @@ payload:
   - 'DOMAIN,tracker.renfei.net'
   - 'DOMAIN,tracker.theoks.net'
   - 'DOMAIN,tracker.zhuqiy.com'
-  - 'DOMAIN,tracker2.itzmx.com'
   - 'DOMAIN,tracker3.itzmx.com'
   - 'DOMAIN,tracker4.itzmx.com'
   - 'DOMAIN,www.all4nothin.net'
@@ -83,6 +78,7 @@ payload:
   - 'DOMAIN,tracker.iperson.xyz'
   - 'DOMAIN,tracker.therarbg.to'
   - 'DOMAIN,tracker.wepzone.net'
+  - 'DOMAIN,tracker.yggleak.top'
   - 'DOMAIN,ibksturm.synology.me'
   - 'DOMAIN,retracker.hotplug.ru'
   - 'DOMAIN,tracker.filemail.com'
@@ -90,7 +86,6 @@ payload:
   - 'DOMAIN,tracker.mywaifu.best'
   - 'DOMAIN,tracker.qingwapt.org'
   - 'DOMAIN,tracker.tryhackx.org'
-  - 'DOMAIN,tracker1.myporn.club'
   - 'DOMAIN,www.wareztorrent.com'
   - 'DOMAIN,bandito.byterunner.io'
   - 'DOMAIN,speedtest.iperson.xyz'
@@ -111,6 +106,7 @@ payload:
   - 'DOMAIN,d40969.acod.regrucolo.ru'
   - 'DOMAIN,tracker.corpscorp.online'
   - 'DOMAIN,tracker.dhitechnical.com'
+  - 'DOMAIN,tracker.torrust-demo.com'
   - 'DOMAIN,udp.tracker.projectk.org'
   - 'DOMAIN,ipv4announce.sktorrent.eu'
   - 'DOMAIN,node01.trackerstatus.live'
