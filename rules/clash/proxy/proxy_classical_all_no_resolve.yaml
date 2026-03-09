@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17501 rules)
+  # DOMAIN-SUFFIX (17502 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -13142,6 +13142,7 @@ payload:
   - 'DOMAIN-SUFFIX,shemaleporn.xxx'
   - 'DOMAIN-SUFFIX,shemaletube.pro'
   - 'DOMAIN-SUFFIX,shenyunshop.com'
+  - 'DOMAIN-SUFFIX,shitjournal.org'
   - 'DOMAIN-SUFFIX,shop2000.com.tw'
   - 'DOMAIN-SUFFIX,shopminiusa.com'
   - 'DOMAIN-SUFFIX,shoptraivip.com'
