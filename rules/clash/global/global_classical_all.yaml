@@ -140,7 +140,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32915 rules)
+  # DOMAIN-SUFFIX (32916 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -717,6 +717,7 @@ payload:
   - 'DOMAIN-SUFFIX,cusp.hk'
   - 'DOMAIN-SUFFIX,cusu.hk'
   - 'DOMAIN-SUFFIX,cutt.ly'
+  - 'DOMAIN-SUFFIX,cve.org'
   - 'DOMAIN-SUFFIX,cy22.tv'
   - 'DOMAIN-SUFFIX,d0z.net'
   - 'DOMAIN-SUFFIX,dabr.eu'
