@@ -140,7 +140,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32916 rules)
+  # DOMAIN-SUFFIX (32921 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -381,6 +381,7 @@ payload:
   - 'DOMAIN-SUFFIX,gpb.ru'
   - 'DOMAIN-SUFFIX,gv.com'
   - 'DOMAIN-SUFFIX,gzm.tv'
+  - 'DOMAIN-SUFFIX,h2o.ai'
   - 'DOMAIN-SUFFIX,hbo.ba'
   - 'DOMAIN-SUFFIX,hbo.bg'
   - 'DOMAIN-SUFFIX,hbo.cz'
@@ -705,6 +706,7 @@ payload:
   - 'DOMAIN-SUFFIX,cfos.de'
   - 'DOMAIN-SUFFIX,cfr.org'
   - 'DOMAIN-SUFFIX,chii.in'
+  - 'DOMAIN-SUFFIX,clau.de'
   - 'DOMAIN-SUFFIX,clco.cc'
   - 'DOMAIN-SUFFIX,clyp.it'
   - 'DOMAIN-SUFFIX,cms.gov'
@@ -6202,6 +6204,7 @@ payload:
   - 'DOMAIN-SUFFIX,ckss98.com'
   - 'DOMAIN-SUFFIX,clad.ac.uk'
   - 'DOMAIN-SUFFIX,claude.com'
+  - 'DOMAIN-SUFFIX,clawhub.ai'
   - 'DOMAIN-SUFFIX,clb.org.hk'
   - 'DOMAIN-SUFFIX,clip16.com'
   - 'DOMAIN-SUFFIX,cloudc.one'
@@ -11094,6 +11097,7 @@ payload:
   - 'DOMAIN-SUFFIX,onstream.cc'
   - 'DOMAIN-SUFFIX,open.com.hk'
   - 'DOMAIN-SUFFIX,openamt.com'
+  - 'DOMAIN-SUFFIX,openclaw.ai'
   - 'DOMAIN-SUFFIX,opendns.com'
   - 'DOMAIN-SUFFIX,openjsf.org'
   - 'DOMAIN-SUFFIX,openssl.org'
@@ -14821,6 +14825,7 @@ payload:
   - 'DOMAIN-SUFFIX,sinoants.com'
   - 'DOMAIN-SUFFIX,sinocast.com'
   - 'DOMAIN-SUFFIX,sinocism.com'
+  - 'DOMAIN-SUFFIX,sinyalee.com'
   - 'DOMAIN-SUFFIX,sipher.ac.uk'
   - 'DOMAIN-SUFFIX,sirius.ac.uk'
   - 'DOMAIN-SUFFIX,siscache.com'
