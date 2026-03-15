@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (125 rules)
+# DOMAIN (129 rules)
 DOMAIN,cny.fan
 DOMAIN,evan.im
 DOMAIN,004430.xyz
@@ -28,6 +28,7 @@ DOMAIN,torrentsmd.com
 DOMAIN,tr.cili001.com
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.plx.im
+DOMAIN,wsad.run.place
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,nyaa.tracker.wf
@@ -40,7 +41,6 @@ DOMAIN,tracker1.520.jp
 DOMAIN,bvarf.tracker.sh
 DOMAIN,leet-tracker.moe
 DOMAIN,node01.madtia.cc
-DOMAIN,node02.madtia.cc
 DOMAIN,open.demonii.com
 DOMAIN,open.demonoid.ch
 DOMAIN,tr.highstar.shop
@@ -49,7 +49,7 @@ DOMAIN,tracker.dler.com
 DOMAIN,tracker.dler.org
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.novy.vip
+DOMAIN,tracker.waaa.moe
 DOMAIN,exodus.desync.com
 DOMAIN,shahidrazi.online
 DOMAIN,tracker.bittor.pw
@@ -92,11 +92,10 @@ DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker1.myporn.club
-DOMAIN,www.wareztorrent.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,speedtest.iperson.xyz
 DOMAIN,tracker.alaskantf.com
+DOMAIN,tracker.iochimari.moe
 DOMAIN,tracker.playground.ru
 DOMAIN,tracker.riverarmy.xyz
 DOMAIN,extracker.dahrkael.net
@@ -105,6 +104,7 @@ DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.ipv6tracker.ru
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.torrent.eu.org
+DOMAIN,node01.torrentonline.cc
 DOMAIN,tracker.ddunlimited.net
 DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.opentorrent.top
@@ -118,12 +118,16 @@ DOMAIN,node01.trackerstatus.live
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,tracker.ghostchu-services.top
 DOMAIN,udp1.torrust-tracker-demo.com
+DOMAIN,s1130638.ha016.t.mydomain.zone
+DOMAIN,s1130639.ha009.t.mydomain.zone
+DOMAIN,s1130642.ha014.t.mydomain.zone
 DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,utracker.ghostchu-services.top
 DOMAIN,tracker-zhuqiy.xn--1r3au8b.space

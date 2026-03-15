@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17502 rules)
+  # DOMAIN-SUFFIX (17503 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -10629,6 +10629,7 @@ payload:
   - 'DOMAIN-SUFFIX,www-paypal.us'
   - 'DOMAIN-SUFFIX,xanimeporn.tv'
   - 'DOMAIN-SUFFIX,xbeegtube.com'
+  - 'DOMAIN-SUFFIX,xdaforums.com'
   - 'DOMAIN-SUFFIX,xgirls.webcam'
   - 'DOMAIN-SUFFIX,xhamster.desi'
   - 'DOMAIN-SUFFIX,xiaobaiwu.com'
