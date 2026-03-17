@@ -140,7 +140,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (32921 rules)
+  # DOMAIN-SUFFIX (32925 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -11024,6 +11024,7 @@ payload:
   - 'DOMAIN-SUFFIX,nmahp.ac.uk'
   - 'DOMAIN-SUFFIX,nmite.ac.uk'
   - 'DOMAIN-SUFFIX,nmssc.ac.uk'
+  - 'DOMAIN-SUFFIX,nodeget.com'
   - 'DOMAIN-SUFFIX,nodes.ac.uk'
   - 'DOMAIN-SUFFIX,nomulus.foo'
   - 'DOMAIN-SUFFIX,nordvpn.com'
@@ -12924,6 +12925,7 @@ payload:
   - 'DOMAIN-SUFFIX,culham.ac.uk'
   - 'DOMAIN-SUFFIX,cuntwars.com'
   - 'DOMAIN-SUFFIX,cursecdn.com'
+  - 'DOMAIN-SUFFIX,custhelp.com'
   - 'DOMAIN-SUFFIX,cyberctm.com'
   - 'DOMAIN-SUFFIX,cztv117.shop'
   - 'DOMAIN-SUFFIX,da-files.com'
@@ -18413,6 +18415,7 @@ payload:
   - 'DOMAIN-SUFFIX,wizcrafts.net'
   - 'DOMAIN-SUFFIX,womenwill.com'
   - 'DOMAIN-SUFFIX,wordpress.com'
+  - 'DOMAIN-SUFFIX,wordpress.net'
   - 'DOMAIN-SUFFIX,wordpress.org'
   - 'DOMAIN-SUFFIX,workflowy.com'
   - 'DOMAIN-SUFFIX,workplace.com'
@@ -22913,6 +22916,7 @@ payload:
   - 'DOMAIN-SUFFIX,sparsholt.ac.uk'
   - 'DOMAIN-SUFFIX,spcollege.ac.uk'
   - 'DOMAIN-SUFFIX,speakerdeck.com'
+  - 'DOMAIN-SUFFIX,spicywriter.com'
   - 'DOMAIN-SUFFIX,spiritclubs.com'
   - 'DOMAIN-SUFFIX,sportstream.com'
   - 'DOMAIN-SUFFIX,spotifyjobs.com'
