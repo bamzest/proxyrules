@@ -139,7 +139,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32925 rules)
+# DOMAIN-SUFFIX (32930 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -2622,6 +2622,9 @@ DOMAIN-SUFFIX,tibet.fr
 DOMAIN-SUFFIX,tibet.nu
 DOMAIN-SUFFIX,tibet.sk
 DOMAIN-SUFFIX,tibet.to
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,time.com
 DOMAIN-SUFFIX,time.gov
 DOMAIN-SUFFIX,timi1.me
@@ -15082,6 +15085,8 @@ DOMAIN-SUFFIX,tickdata.com
 DOMAIN-SUFFIX,tictoc.video
 DOMAIN-SUFFIX,tidelift.com
 DOMAIN-SUFFIX,tigervpn.com
+DOMAIN-SUFFIX,tildaapi.com
+DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinychat.com

@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (18110 rules)
+# IP-CIDR (18109 rules)
 IP-CIDR,1.34.0.0/32,no-resolve
 IP-CIDR,1.46.60.1/32,no-resolve
 IP-CIDR,101.230.253.139/32,no-resolve
@@ -2379,6 +2379,7 @@ IP-CIDR,103.72.121.0/24,no-resolve
 IP-CIDR,103.72.123.0/24,no-resolve
 IP-CIDR,103.72.149.0/24,no-resolve
 IP-CIDR,103.72.172.0/24,no-resolve
+IP-CIDR,103.73.48.0/24,no-resolve
 IP-CIDR,103.73.99.0/24,no-resolve
 IP-CIDR,103.75.107.0/24,no-resolve
 IP-CIDR,103.75.146.0/24,no-resolve
@@ -2608,9 +2609,6 @@ IP-CIDR,116.58.208.0/24,no-resolve
 IP-CIDR,116.66.36.0/24,no-resolve
 IP-CIDR,116.66.53.0/24,no-resolve
 IP-CIDR,116.66.98.0/24,no-resolve
-IP-CIDR,116.85.1.0/24,no-resolve
-IP-CIDR,116.85.13.0/24,no-resolve
-IP-CIDR,116.85.14.0/24,no-resolve
 IP-CIDR,116.85.250.0/24,no-resolve
 IP-CIDR,116.89.242.0/24,no-resolve
 IP-CIDR,117.121.46.0/24,no-resolve
@@ -3357,7 +3355,6 @@ IP-CIDR,202.127.3.0/24,no-resolve
 IP-CIDR,202.127.4.0/24,no-resolve
 IP-CIDR,202.127.5.0/24,no-resolve
 IP-CIDR,202.129.208.0/24,no-resolve
-IP-CIDR,202.13.71.0/24,no-resolve
 IP-CIDR,202.130.39.0/24,no-resolve
 IP-CIDR,202.131.59.0/24,no-resolve
 IP-CIDR,202.134.58.0/24,no-resolve
@@ -4334,6 +4331,8 @@ IP-CIDR,211.155.236.0/24,no-resolve
 IP-CIDR,211.155.67.0/24,no-resolve
 IP-CIDR,211.155.68.0/24,no-resolve
 IP-CIDR,211.156.223.0/24,no-resolve
+IP-CIDR,211.157.219.0/24,no-resolve
+IP-CIDR,211.157.222.0/24,no-resolve
 IP-CIDR,211.160.115.0/24,no-resolve
 IP-CIDR,211.160.120.0/24,no-resolve
 IP-CIDR,211.160.16.0/24,no-resolve
@@ -4753,7 +4752,6 @@ IP-CIDR,45.137.43.0/24,no-resolve
 IP-CIDR,45.137.52.0/24,no-resolve
 IP-CIDR,45.147.6.0/24,no-resolve
 IP-CIDR,45.154.244.0/24,no-resolve
-IP-CIDR,45.192.21.0/24,no-resolve
 IP-CIDR,45.195.6.0/24,no-resolve
 IP-CIDR,45.202.209.0/24,no-resolve
 IP-CIDR,45.202.212.0/24,no-resolve
@@ -4897,6 +4895,7 @@ IP-CIDR,69.85.93.0/24,no-resolve
 IP-CIDR,74.114.51.0/24,no-resolve
 IP-CIDR,74.63.27.0/24,no-resolve
 IP-CIDR,74.80.115.0/24,no-resolve
+IP-CIDR,77.73.8.0/24,no-resolve
 IP-CIDR,79.172.250.0/24,no-resolve
 IP-CIDR,8.148.38.0/24,no-resolve
 IP-CIDR,8.148.42.0/24,no-resolve
@@ -5499,7 +5498,6 @@ IP-CIDR,103.71.200.0/23,no-resolve
 IP-CIDR,103.71.48.0/23,no-resolve
 IP-CIDR,103.72.150.0/23,no-resolve
 IP-CIDR,103.73.240.0/23,no-resolve
-IP-CIDR,103.73.48.0/23,no-resolve
 IP-CIDR,103.75.144.0/23,no-resolve
 IP-CIDR,103.75.82.0/23,no-resolve
 IP-CIDR,103.78.126.0/23,no-resolve
@@ -5625,8 +5623,6 @@ IP-CIDR,116.214.132.0/23,no-resolve
 IP-CIDR,116.251.102.0/23,no-resolve
 IP-CIDR,116.254.130.0/23,no-resolve
 IP-CIDR,116.66.48.0/23,no-resolve
-IP-CIDR,116.85.16.0/23,no-resolve
-IP-CIDR,116.85.2.0/23,no-resolve
 IP-CIDR,116.85.248.0/23,no-resolve
 IP-CIDR,116.89.240.0/23,no-resolve
 IP-CIDR,117.121.44.0/23,no-resolve
@@ -5865,6 +5861,7 @@ IP-CIDR,144.36.146.0/23,no-resolve
 IP-CIDR,144.48.180.0/23,no-resolve
 IP-CIDR,144.79.10.0/23,no-resolve
 IP-CIDR,144.79.4.0/23,no-resolve
+IP-CIDR,144.79.54.0/23,no-resolve
 IP-CIDR,144.79.70.0/23,no-resolve
 IP-CIDR,147.243.228.0/23,no-resolve
 IP-CIDR,147.78.134.0/23,no-resolve
@@ -5924,7 +5921,6 @@ IP-CIDR,158.79.2.0/23,no-resolve
 IP-CIDR,16.12.6.0/23,no-resolve
 IP-CIDR,16.2.142.0/23,no-resolve
 IP-CIDR,16.2.152.0/23,no-resolve
-IP-CIDR,160.187.128.0/23,no-resolve
 IP-CIDR,160.19.208.0/23,no-resolve
 IP-CIDR,160.19.76.0/23,no-resolve
 IP-CIDR,160.19.82.0/23,no-resolve
@@ -6701,6 +6697,7 @@ IP-CIDR,45.126.220.0/23,no-resolve
 IP-CIDR,45.131.212.0/23,no-resolve
 IP-CIDR,45.150.236.0/23,no-resolve
 IP-CIDR,45.202.210.0/23,no-resolve
+IP-CIDR,45.248.108.0/23,no-resolve
 IP-CIDR,45.250.152.0/23,no-resolve
 IP-CIDR,45.251.138.0/23,no-resolve
 IP-CIDR,45.251.242.0/23,no-resolve
@@ -13051,7 +13048,7 @@ IP-CIDR,139.5.56.0/21,no-resolve
 IP-CIDR,139.9.104.0/21,no-resolve
 IP-CIDR,139.9.240.0/21,no-resolve
 IP-CIDR,14.0.0.0/21,no-resolve
-IP-CIDR,14.241.232.0/21,no-resolve
+IP-CIDR,14.241.112.0/21,no-resolve
 IP-CIDR,140.205.8.0/21,no-resolve
 IP-CIDR,140.210.8.0/21,no-resolve
 IP-CIDR,142.70.128.0/21,no-resolve
@@ -13691,7 +13688,6 @@ IP-CIDR,59.81.128.0/21,no-resolve
 IP-CIDR,59.81.160.0/21,no-resolve
 IP-CIDR,59.81.192.0/21,no-resolve
 IP-CIDR,59.81.232.0/21,no-resolve
-IP-CIDR,59.82.144.0/21,no-resolve
 IP-CIDR,59.83.184.0/21,no-resolve
 IP-CIDR,59.83.224.0/21,no-resolve
 IP-CIDR,60.247.96.0/21,no-resolve
@@ -14440,6 +14436,7 @@ IP-CIDR,211.156.176.0/20,no-resolve
 IP-CIDR,211.156.192.0/20,no-resolve
 IP-CIDR,211.156.64.0/20,no-resolve
 IP-CIDR,211.156.80.0/20,no-resolve
+IP-CIDR,211.157.192.0/20,no-resolve
 IP-CIDR,211.160.80.0/20,no-resolve
 IP-CIDR,211.161.0.0/20,no-resolve
 IP-CIDR,211.161.32.0/20,no-resolve
@@ -14503,6 +14500,7 @@ IP-CIDR,221.231.64.0/20,no-resolve
 IP-CIDR,222.126.144.0/20,no-resolve
 IP-CIDR,222.126.224.0/20,no-resolve
 IP-CIDR,222.126.240.0/20,no-resolve
+IP-CIDR,222.166.0.0/20,no-resolve
 IP-CIDR,222.249.160.0/20,no-resolve
 IP-CIDR,222.249.176.0/20,no-resolve
 IP-CIDR,222.252.0.0/20,no-resolve
@@ -14651,7 +14649,6 @@ IP-CIDR,59.81.144.0/20,no-resolve
 IP-CIDR,59.81.176.0/20,no-resolve
 IP-CIDR,59.81.208.0/20,no-resolve
 IP-CIDR,59.81.240.0/20,no-resolve
-IP-CIDR,59.82.128.0/20,no-resolve
 IP-CIDR,59.83.144.0/20,no-resolve
 IP-CIDR,59.83.160.0/20,no-resolve
 IP-CIDR,60.200.112.0/20,no-resolve
@@ -15247,6 +15244,7 @@ IP-CIDR,211.156.128.0/19,no-resolve
 IP-CIDR,211.156.64.0/19,no-resolve
 IP-CIDR,211.156.96.0/19,no-resolve
 IP-CIDR,211.157.0.0/19,no-resolve
+IP-CIDR,211.157.224.0/19,no-resolve
 IP-CIDR,211.157.96.0/19,no-resolve
 IP-CIDR,211.160.160.0/19,no-resolve
 IP-CIDR,211.167.128.0/19,no-resolve
@@ -15330,7 +15328,6 @@ IP-CIDR,222.126.128.0/19,no-resolve
 IP-CIDR,222.126.224.0/19,no-resolve
 IP-CIDR,222.163.0.0/19,no-resolve
 IP-CIDR,222.163.32.0/19,no-resolve
-IP-CIDR,222.166.32.0/19,no-resolve
 IP-CIDR,222.249.128.0/19,no-resolve
 IP-CIDR,223.160.160.0/19,no-resolve
 IP-CIDR,223.160.192.0/19,no-resolve
@@ -15427,6 +15424,7 @@ IP-CIDR,58.61.32.0/19,no-resolve
 IP-CIDR,58.68.128.0/19,no-resolve
 IP-CIDR,58.68.224.0/19,no-resolve
 IP-CIDR,59.111.64.0/19,no-resolve
+IP-CIDR,59.82.128.0/19,no-resolve
 IP-CIDR,59.83.192.0/19,no-resolve
 IP-CIDR,60.200.0.0/19,no-resolve
 IP-CIDR,60.247.64.0/19,no-resolve
@@ -15551,6 +15549,7 @@ IP-CIDR,116.251.64.0/18,no-resolve
 IP-CIDR,116.254.192.0/18,no-resolve
 IP-CIDR,116.66.0.0/18,no-resolve
 IP-CIDR,116.70.64.0/18,no-resolve
+IP-CIDR,116.85.0.0/18,no-resolve
 IP-CIDR,116.85.128.0/18,no-resolve
 IP-CIDR,117.120.192.0/18,no-resolve
 IP-CIDR,117.120.64.0/18,no-resolve
@@ -15790,6 +15789,7 @@ IP-CIDR,211.154.64.0/18,no-resolve
 IP-CIDR,211.155.0.0/18,no-resolve
 IP-CIDR,211.156.0.0/18,no-resolve
 IP-CIDR,211.156.192.0/18,no-resolve
+IP-CIDR,211.157.128.0/18,no-resolve
 IP-CIDR,211.167.192.0/18,no-resolve
 IP-CIDR,211.167.64.0/18,no-resolve
 IP-CIDR,211.90.128.0/18,no-resolve
@@ -16224,7 +16224,6 @@ IP-CIDR,211.152.0.0/17,no-resolve
 IP-CIDR,211.154.128.0/17,no-resolve
 IP-CIDR,211.155.128.0/17,no-resolve
 IP-CIDR,211.156.128.0/17,no-resolve
-IP-CIDR,211.157.128.0/17,no-resolve
 IP-CIDR,211.159.128.0/17,no-resolve
 IP-CIDR,211.167.0.0/17,no-resolve
 IP-CIDR,211.90.0.0/17,no-resolve
@@ -16632,7 +16631,6 @@ IP-CIDR,123.61.0.0/16,no-resolve
 IP-CIDR,123.62.0.0/16,no-resolve
 IP-CIDR,123.66.0.0/16,no-resolve
 IP-CIDR,123.77.0.0/16,no-resolve
-IP-CIDR,123.88.0.0/16,no-resolve
 IP-CIDR,124.116.0.0/16,no-resolve
 IP-CIDR,124.117.0.0/16,no-resolve
 IP-CIDR,124.132.0.0/16,no-resolve
@@ -17212,6 +17210,7 @@ IP-CIDR,123.206.0.0/15,no-resolve
 IP-CIDR,123.56.0.0/15,no-resolve
 IP-CIDR,123.60.0.0/15,no-resolve
 IP-CIDR,123.64.0.0/15,no-resolve
+IP-CIDR,123.88.0.0/15,no-resolve
 IP-CIDR,123.96.0.0/15,no-resolve
 IP-CIDR,124.112.0.0/15,no-resolve
 IP-CIDR,124.114.0.0/15,no-resolve

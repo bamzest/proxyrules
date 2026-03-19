@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17503 rules)
+# DOMAIN-SUFFIX (17504 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -1146,6 +1146,7 @@ DOMAIN-SUFFIX,9ccms.me
 DOMAIN-SUFFIX,9cdn.net
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,aalah.me
+DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,aavs.xyz
 DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,acer.com
