@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17504 rules)
+  # DOMAIN-SUFFIX (17507 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -535,6 +535,7 @@ payload:
   - 'DOMAIN-SUFFIX,cdw.com'
   - 'DOMAIN-SUFFIX,cfos.de'
   - 'DOMAIN-SUFFIX,cfr.org'
+  - 'DOMAIN-SUFFIX,cia.gov'
   - 'DOMAIN-SUFFIX,cjb.net'
   - 'DOMAIN-SUFFIX,clyp.it'
   - 'DOMAIN-SUFFIX,cms.gov'
@@ -4447,6 +4448,8 @@ payload:
   - 'DOMAIN-SUFFIX,odysee.com'
   - 'DOMAIN-SUFFIX,ogaoga.org'
   - 'DOMAIN-SUFFIX,oiobbs.com'
+  - 'DOMAIN-SUFFIX,okcoin.com'
+  - 'DOMAIN-SUFFIX,oklink.com'
   - 'DOMAIN-SUFFIX,older.tube'
   - 'DOMAIN-SUFFIX,olevod.com'
   - 'DOMAIN-SUFFIX,olumpo.com'

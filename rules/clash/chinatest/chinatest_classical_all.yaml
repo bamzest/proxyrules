@@ -138,7 +138,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (118171 rules)
+  # DOMAIN-SUFFIX (118168 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -42524,7 +42524,6 @@ payload:
   - 'DOMAIN-SUFFIX,okjike.com'
   - 'DOMAIN-SUFFIX,okk123.com'
   - 'DOMAIN-SUFFIX,okktee.com'
-  - 'DOMAIN-SUFFIX,oklink.com'
   - 'DOMAIN-SUFFIX,okmart.com'
   - 'DOMAIN-SUFFIX,okpush.com'
   - 'DOMAIN-SUFFIX,okvnet.com'
@@ -55078,7 +55077,6 @@ payload:
   - 'DOMAIN-SUFFIX,esipark.com'
   - 'DOMAIN-SUFFIX,eskysky.com'
   - 'DOMAIN-SUFFIX,esoogle.com'
-  - 'DOMAIN-SUFFIX,esp8266.com'
   - 'DOMAIN-SUFFIX,esplus.club'
   - 'DOMAIN-SUFFIX,espnlol.com'
   - 'DOMAIN-SUFFIX,eszmall.com'
@@ -84329,7 +84327,6 @@ payload:
   - 'DOMAIN-SUFFIX,esdaxiagu.com'
   - 'DOMAIN-SUFFIX,eshuizong.com'
   - 'DOMAIN-SUFFIX,eslygroup.com'
-  - 'DOMAIN-SUFFIX,espressif.com'
   - 'DOMAIN-SUFFIX,essaystar.com'
   - 'DOMAIN-SUFFIX,estory365.com'
   - 'DOMAIN-SUFFIX,esugimoto.com'
