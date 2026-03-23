@@ -18,7 +18,7 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 
-# IP-CIDR (8302 rules)
+# IP-CIDR (8304 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
 IP-CIDR,1.34.0.0/32,no-resolve
@@ -3410,7 +3410,6 @@ IP-CIDR,103.99.40.0/23,no-resolve
 IP-CIDR,104.167.18.0/23,no-resolve
 IP-CIDR,104.192.108.0/23,no-resolve
 IP-CIDR,106.0.2.0/23,no-resolve
-IP-CIDR,107.149.116.0/23,no-resolve
 IP-CIDR,107.153.92.0/23,no-resolve
 IP-CIDR,107.168.4.0/23,no-resolve
 IP-CIDR,11.210.240.0/23,no-resolve
@@ -7174,6 +7173,7 @@ IP-CIDR,210.56.192.0/19,no-resolve
 IP-CIDR,210.79.224.0/19,no-resolve
 IP-CIDR,218.100.96.0/19,no-resolve
 IP-CIDR,218.185.192.0/19,no-resolve
+IP-CIDR,218.252.128.0/19,no-resolve
 IP-CIDR,221.133.224.0/19,no-resolve
 IP-CIDR,221.199.224.0/19,no-resolve
 IP-CIDR,27.109.32.0/19,no-resolve
@@ -7224,6 +7224,7 @@ IP-CIDR,45.255.160.0/19,no-resolve
 IP-CIDR,45.255.192.0/19,no-resolve
 IP-CIDR,45.3.32.0/19,no-resolve
 IP-CIDR,49.246.224.0/19,no-resolve
+IP-CIDR,61.10.0.0/19,no-resolve
 IP-CIDR,61.29.192.0/19,no-resolve
 IP-CIDR,65.111.0.0/19,no-resolve
 IP-CIDR,1.10.64.0/18,no-resolve
@@ -7352,6 +7353,7 @@ IP-CIDR,45.40.192.0/18,no-resolve
 IP-CIDR,49.239.0.0/18,no-resolve
 IP-CIDR,49.239.192.0/18,no-resolve
 IP-CIDR,58.87.64.0/18,no-resolve
+IP-CIDR,61.15.0.0/18,no-resolve
 IP-CIDR,61.29.128.0/18,no-resolve
 IP-CIDR,61.45.128.0/18,no-resolve
 IP-CIDR,61.47.128.0/18,no-resolve
@@ -10021,7 +10023,6 @@ IP-CIDR6,2a14:7583:f743::/48,no-resolve
 IP-CIDR6,2a14:7583:f744::/48,no-resolve
 IP-CIDR6,2a14:7583:f764::/48,no-resolve
 IP-CIDR6,2a14:7586:6108::/48,no-resolve
-IP-CIDR6,2a14:7586:6110::/48,no-resolve
 IP-CIDR6,2a14:7c0:5103::/48,no-resolve
 IP-CIDR6,2a14:7dc0:515::/48,no-resolve
 IP-CIDR6,2a14:7dc0:520::/48,no-resolve
@@ -10065,6 +10066,7 @@ IP-CIDR6,2404:3d00:4110::/47,no-resolve
 IP-CIDR6,2404:3d00:411e::/47,no-resolve
 IP-CIDR6,2404:3d00:4120::/47,no-resolve
 IP-CIDR6,2404:3d00:4128::/47,no-resolve
+IP-CIDR6,2404:7cc0:7f04::/47,no-resolve
 IP-CIDR6,2404:f4c0:f9c0::/47,no-resolve
 IP-CIDR6,2405:6c0:2::/47,no-resolve
 IP-CIDR6,2405:84c0:fdf8::/47,no-resolve
