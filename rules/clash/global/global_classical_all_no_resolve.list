@@ -139,7 +139,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (32938 rules)
+# DOMAIN-SUFFIX (32948 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -1242,7 +1242,10 @@ DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,otto.de
 DOMAIN-SUFFIX,ovi.com
 DOMAIN-SUFFIX,oxid.it
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pdf.new
 DOMAIN-SUFFIX,pdst.fm
@@ -2468,6 +2471,7 @@ DOMAIN-SUFFIX,ourtv.hk
 DOMAIN-SUFFIX,ovpn.com
 DOMAIN-SUFFIX,ox.ac.uk
 DOMAIN-SUFFIX,oyax.com
+DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozone.ru
 DOMAIN-SUFFIX,ozxw.com
 DOMAIN-SUFFIX,p-cdn.us
@@ -4709,6 +4713,7 @@ DOMAIN-SUFFIX,owind.com
 DOMAIN-SUFFIX,oxlife.co
 DOMAIN-SUFFIX,ozeex.com
 DOMAIN-SUFFIX,ozodi.org
+DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,packer.io
 DOMAIN-SUFFIX,pacom.mil
 DOMAIN-SUFFIX,page.link
@@ -7718,6 +7723,7 @@ DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,opendn.xyz
 DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,openid.net
+DOMAIN-SUFFIX,openrec.tv
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,optica.org
 DOMAIN-SUFFIX,oranum.com
@@ -11133,6 +11139,8 @@ DOMAIN-SUFFIX,oxilp.ac.uk
 DOMAIN-SUFFIX,oxyporn.com
 DOMAIN-SUFFIX,oyeloca.com
 DOMAIN-SUFFIX,ozodlik.org
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozvoice.org
 DOMAIN-SUFFIX,paaypal.com
 DOMAIN-SUFFIX,pagecdn.com
@@ -11408,6 +11416,7 @@ DOMAIN-SUFFIX,rushbee.com
 DOMAIN-SUFFIX,rwcmd.ac.uk
 DOMAIN-SUFFIX,s-books.com
 DOMAIN-SUFFIX,s-cat.ac.uk
+DOMAIN-SUFFIX,s.rmimg.com
 DOMAIN-SUFFIX,s8forum.com
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.co
@@ -32865,6 +32874,7 @@ DOMAIN-SUFFIX,universitypressscholarship.com
 DOMAIN-SUFFIX,winningstudents-scotland.ac.uk
 DOMAIN-SUFFIX,workingtogethernorthwest.ac.uk
 DOMAIN-SUFFIX,writtleuniversitycollege.ac.uk
+DOMAIN-SUFFIX,xn--1jqvh729avzfcy2d8ummib.com
 DOMAIN-SUFFIX,abbeygatesixthformcollege.ac.uk
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,aimhighernorthamptonshire.ac.uk
