@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (249 rules)
+# DOMAIN-SUFFIX (259 rules)
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,so.com
 DOMAIN-SUFFIX,sou.cn
@@ -90,6 +90,7 @@ DOMAIN-SUFFIX,haoso.com
 DOMAIN-SUFFIX,ioage.com
 DOMAIN-SUFFIX,kouxin.cn
 DOMAIN-SUFFIX,mgamer.cn
+DOMAIN-SUFFIX,nzwgs.com
 DOMAIN-SUFFIX,os-lb.com
 DOMAIN-SUFFIX,qh-dl.com
 DOMAIN-SUFFIX,qh-lb.com
@@ -101,6 +102,7 @@ DOMAIN-SUFFIX,qhtui.com
 DOMAIN-SUFFIX,qihoo.com
 DOMAIN-SUFFIX,qihoo.net
 DOMAIN-SUFFIX,qikoo.com
+DOMAIN-SUFFIX,useso.com
 DOMAIN-SUFFIX,wztsy.com
 DOMAIN-SUFFIX,xihuan.me
 DOMAIN-SUFFIX,yunpan.cn
@@ -111,6 +113,7 @@ DOMAIN-SUFFIX,360doc.com
 DOMAIN-SUFFIX,360doc.net
 DOMAIN-SUFFIX,360durl.cn
 DOMAIN-SUFFIX,360gtm.com
+DOMAIN-SUFFIX,360jie.com
 DOMAIN-SUFFIX,360kan.com
 DOMAIN-SUFFIX,360qurl.cn
 DOMAIN-SUFFIX,360sjyh.cn
@@ -136,6 +139,7 @@ DOMAIN-SUFFIX,qiyuns3.cn
 DOMAIN-SUFFIX,qss-lb.com
 DOMAIN-SUFFIX,wggames.cn
 DOMAIN-SUFFIX,wotgame.cn
+DOMAIN-SUFFIX,youhua.com
 DOMAIN-SUFFIX,yunpan.com
 DOMAIN-SUFFIX,360adlab.cn
 DOMAIN-SUFFIX,360chou.com
@@ -154,6 +158,7 @@ DOMAIN-SUFFIX,dhrest2.com
 DOMAIN-SUFFIX,gamepack.cn
 DOMAIN-SUFFIX,ics-sec.com
 DOMAIN-SUFFIX,igame360.cn
+DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,luyou360.cn
 DOMAIN-SUFFIX,nicaifu.com
 DOMAIN-SUFFIX,nicaifu.net
@@ -164,6 +169,8 @@ DOMAIN-SUFFIX,qhimgs1.com
 DOMAIN-SUFFIX,qhimgs2.com
 DOMAIN-SUFFIX,qhimgs3.com
 DOMAIN-SUFFIX,qhimgs4.com
+DOMAIN-SUFFIX,qhimgs5.com
+DOMAIN-SUFFIX,qhimgs6.com
 DOMAIN-SUFFIX,qhsetup.com
 DOMAIN-SUFFIX,qhstatic.cn
 DOMAIN-SUFFIX,qhupdate.cn
@@ -211,6 +218,7 @@ DOMAIN-SUFFIX,360panyun.com
 DOMAIN-SUFFIX,360panyun.net
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360sou.com.cn
+DOMAIN-SUFFIX,360taojin.com
 DOMAIN-SUFFIX,360vcloud.com
 DOMAIN-SUFFIX,360vcloud.net
 DOMAIN-SUFFIX,ad-diamond.cn
@@ -247,6 +255,8 @@ DOMAIN-SUFFIX,yiwanzhushou.com
 DOMAIN-SUFFIX,your360loans.com
 DOMAIN-SUFFIX,360jiekuan.com.cn
 DOMAIN-SUFFIX,nelab-bdst.org.cn
+DOMAIN-SUFFIX,xiaoluyouxuan.com
+DOMAIN-SUFFIX,xiaoluzhidian.com
 DOMAIN-SUFFIX,360huzhubao.com.cn
 DOMAIN-SUFFIX,aixinhaitun.com.cn
 DOMAIN-SUFFIX,360jrjietiao.com.cn

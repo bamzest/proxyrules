@@ -5,6 +5,10 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # PROCESS-NAME (2 rules)
+  # PROCESS-NAME (6 rules)
   - 'PROCESS-NAME,tv.danmaku.bili'
+  - 'PROCESS-NAME,com.bilibili.comic'
   - 'PROCESS-NAME,com.bilibili.app.in'
+  - 'PROCESS-NAME,com.bilibili.app.blue'
+  - 'PROCESS-NAME,tv.danmaku.bilibilihd'
+  - 'PROCESS-NAME,com.bilibili.comic.intl'

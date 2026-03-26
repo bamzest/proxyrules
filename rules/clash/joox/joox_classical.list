@@ -6,3 +6,6 @@
 
 # DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,jooxweb-api
+
+# PROCESS-NAME (1 rules)
+PROCESS-NAME,com.tencent.ibg.joox

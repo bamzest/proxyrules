@@ -1,0 +1,17 @@
+# wanmeishijie - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (11 rules)
+DOMAIN-SUFFIX,wmwm.com
+DOMAIN-SUFFIX,laohu.com
+DOMAIN-SUFFIX,wmupd.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wanmei.net
+DOMAIN-SUFFIX,csgo.com.cn
+DOMAIN-SUFFIX,wmupd.com.cn
+DOMAIN-SUFFIX,pwrdoverseas.com
+DOMAIN-SUFFIX,counter-strike.cn
+DOMAIN-SUFFIX,pwrdoverseagame.com
+DOMAIN-SUFFIX,counter-strike.com.cn

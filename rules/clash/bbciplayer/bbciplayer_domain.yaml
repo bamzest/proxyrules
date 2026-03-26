@@ -1,0 +1,13 @@
+payload:
+  - 'aod-hls-uk-live.akamaized.net'
+  - 'aod-dash-uk-live.akamaized.net'
+  - 'vod-dash-uk-live.akamaized.net'
+  - 'vod-thumb-uk-live.akamaized.net'
+  - '+.bbc.co'
+  - '+.bbc.com'
+  - '+.bbci.co'
+  - '+.bbc.co.uk'
+  - '+.bbc.net.uk'
+  - '+.bbci.co.uk'
+  - '+.bidi.net.uk'
+  - '+.bbcfmt.hs.llnwd.net'

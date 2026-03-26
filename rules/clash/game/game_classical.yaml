@@ -5,7 +5,8 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (3 rules)
+  # DOMAIN-KEYWORD (4 rules)
+  - 'DOMAIN-KEYWORD,epicgames'
   - 'DOMAIN-KEYWORD,steamstore'
   - 'DOMAIN-KEYWORD,steambroadcast'
   - 'DOMAIN-KEYWORD,steamuserimages'

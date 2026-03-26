@@ -3,6 +3,15 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN (1 rules)
+DOMAIN,graph.facebook.com
+
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,bintray.com
+DOMAIN-SUFFIX,whatsapp.biz
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
+
 # DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,whatsapp
 

@@ -1,6 +1,7 @@
 payload:
   - 'edge.api.brightcove.com'
   - 'bcbolt446c5271-a.akamaihd.net'
+  - 'tvbtracking.azurewebsites.net'
   - '+.tvb.com'
   - '+.tvb.com.au'
   - '+.tvbusa.com'
@@ -11,6 +12,7 @@ payload:
   - '+.bigbigshop.com'
   - '+.tvmedia.net.au'
   - '+.tvbanywhere.com'
+  - '+.youboranqs01.com'
   - '+.tvbanywhere.com.sg'
   - '+.videos-f.jwpsrv.com'
   - '+.bigbigchannel.com.hk'

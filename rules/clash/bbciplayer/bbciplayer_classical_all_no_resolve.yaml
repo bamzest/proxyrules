@@ -1,0 +1,25 @@
+# bbciplayer - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (4 rules)
+  - 'DOMAIN,aod-hls-uk-live.akamaized.net'
+  - 'DOMAIN,aod-dash-uk-live.akamaized.net'
+  - 'DOMAIN,vod-dash-uk-live.akamaized.net'
+  - 'DOMAIN,vod-thumb-uk-live.akamaized.net'
+
+  # DOMAIN-SUFFIX (8 rules)
+  - 'DOMAIN-SUFFIX,bbc.co'
+  - 'DOMAIN-SUFFIX,bbc.com'
+  - 'DOMAIN-SUFFIX,bbci.co'
+  - 'DOMAIN-SUFFIX,bbc.co.uk'
+  - 'DOMAIN-SUFFIX,bbc.net.uk'
+  - 'DOMAIN-SUFFIX,bbci.co.uk'
+  - 'DOMAIN-SUFFIX,bidi.net.uk'
+  - 'DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net'
+
+  # DOMAIN-KEYWORD (2 rules)
+  - 'DOMAIN-KEYWORD,bbcfmt'
+  - 'DOMAIN-KEYWORD,uk-live'
