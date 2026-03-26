@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (247 rules)
+# DOMAIN-SUFFIX (246 rules)
 DOMAIN-SUFFIX,card.io
 DOMAIN-SUFFIX,pypl.tv
 DOMAIN-SUFFIX,xoom.io
@@ -100,7 +100,6 @@ DOMAIN-SUFFIX,paypal-gift.com
 DOMAIN-SUFFIX,paypal-here.com
 DOMAIN-SUFFIX,paypal-labs.com
 DOMAIN-SUFFIX,paypal-login.us
-DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,paypal-team.com
 DOMAIN-SUFFIX,paypalhere.info
 DOMAIN-SUFFIX,paypalindia.com
@@ -251,6 +250,3 @@ DOMAIN-SUFFIX,theshoppingexpresslane.net
 DOMAIN-SUFFIX,paypalinsuranceservices.org
 DOMAIN-SUFFIX,braintreepaymentsolutions.com
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
-
-# DOMAIN-KEYWORD (1 rules)
-DOMAIN-KEYWORD,paypal

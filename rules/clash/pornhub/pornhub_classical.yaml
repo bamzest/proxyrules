@@ -7,6 +7,3 @@ payload:
 
   # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,pornhub'
-
-  # PROCESS-NAME (1 rules)
-  - 'PROCESS-NAME,com.app.pornhub'

@@ -4,9 +4,6 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (1 rules)
-  - 'DOMAIN,cache.video.iqiyi.com'
-
   # DOMAIN-SUFFIX (5 rules)
   - 'DOMAIN-SUFFIX,iq.com'
   - 'DOMAIN-SUFFIX,intl.iqiyi.com'

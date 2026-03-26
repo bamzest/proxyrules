@@ -4,8 +4,4 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-
-  # DOMAIN-KEYWORD (3 rules)
-  - 'DOMAIN-KEYWORD,steamstore'
-  - 'DOMAIN-KEYWORD,steambroadcast'
-  - 'DOMAIN-KEYWORD,steamuserimages'
+  # 无规则内容，自动生成占位

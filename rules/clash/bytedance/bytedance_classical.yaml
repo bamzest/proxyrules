@@ -5,8 +5,5 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (1 rules)
-  - 'DOMAIN-KEYWORD,-tiktokcdn-com'
-
   # PROCESS-NAME (1 rules)
   - 'PROCESS-NAME,com.zhiliaoapp.musically'

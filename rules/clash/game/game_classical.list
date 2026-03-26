@@ -4,8 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (4 rules)
-DOMAIN-KEYWORD,epicgames
+# DOMAIN-KEYWORD (3 rules)
 DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamuserimages

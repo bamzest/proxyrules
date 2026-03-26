@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (23 rules)
+# DOMAIN-SUFFIX (17 rules)
 DOMAIN-SUFFIX,xgdq.com
 DOMAIN-SUFFIX,8moom.com
 DOMAIN-SUFFIX,moomv.com
@@ -19,11 +19,5 @@ DOMAIN-SUFFIX,xiaogou666.com
 DOMAIN-SUFFIX,xiaogou777.com
 DOMAIN-SUFFIX,xiaogou888.com
 DOMAIN-SUFFIX,xiaogou999.com
-DOMAIN-SUFFIX,小狗电器.cn
-DOMAIN-SUFFIX,小狗电器.com
-DOMAIN-SUFFIX,小狗电器.net
 DOMAIN-SUFFIX,xiaogouzhineng.com
 DOMAIN-SUFFIX,zhongyangweixiu.com
-DOMAIN-SUFFIX,小狗电器.中国
-DOMAIN-SUFFIX,小狗电器.公司
-DOMAIN-SUFFIX,小狗电器.网络

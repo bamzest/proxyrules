@@ -4,8 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (55 rules)
-  - 'DOMAIN,p.bstarstatic.com'
+  # DOMAIN (51 rules)
   - 'DOMAIN,apiintl.biliapi.net'
   - 'DOMAIN,222-188-6-1.ksyungslb.com'
   - 'DOMAIN,36-25-252-1.ksyungslb.com'
@@ -14,7 +13,6 @@ payload:
   - 'DOMAIN,36-104-134-1.ksyungslb.com'
   - 'DOMAIN,113-219-145-1.ksyungslb.com'
   - 'DOMAIN,219-155-150-1.ksyungslb.com'
-  - 'DOMAIN,p-bstarstatic.akamaized.net'
   - 'DOMAIN,114-236-92-129.ksyungslb.com'
   - 'DOMAIN,112-81-125-43.dhost.00cdn.com'
   - 'DOMAIN,upos-hz-mirrorakam.akamaized.net'
@@ -24,8 +22,6 @@ payload:
   - 'DOMAIN,3geauymtsgrzdnqbofa5dy.ourdvsss.com'
   - 'DOMAIN,3geauymtsgrzdrcbzfahue.ourdvsss.com'
   - 'DOMAIN,3geauymtsgrzdrcbzfahuk.ourdvsss.com'
-  - 'DOMAIN,upos-bstar-mirrorakam.akamaized.net'
-  - 'DOMAIN,upos-bstar1-mirrorakam.akamaized.net'
   - 'DOMAIN,1geadrmttge3nhcjwgazdope.ourdvsss.com'
   - 'DOMAIN,1geadrmttge3nhcjwgwzdqqe.ourdvsss.com'
   - 'DOMAIN,1gr3uomttgr31hcjo8yzdnco.ourdvsss.com'
@@ -61,7 +57,7 @@ payload:
   - 'DOMAIN,0gr4uqmtt8y41hcjzgazdrpjt.ourdvsss.com'
   - 'DOMAIN,0gr5dgmttgha1hcj38yzdncb3.ourdvsss.com'
 
-  # DOMAIN-SUFFIX (62 rules)
+  # DOMAIN-SUFFIX (60 rules)
   - 'DOMAIN-SUFFIX,acg.tv'
   - 'DOMAIN-SUFFIX,b23.tv'
   - 'DOMAIN-SUFFIX,baka.im'
@@ -106,13 +102,11 @@ payload:
   - 'DOMAIN-SUFFIX,biliintl.com'
   - 'DOMAIN-SUFFIX,biliplus.com'
   - 'DOMAIN-SUFFIX,bilivideo.cn'
-  - 'DOMAIN-SUFFIX,dreamcast.hk'
   - 'DOMAIN-SUFFIX,dyhgames.com'
   - 'DOMAIN-SUFFIX,maoercdn.com'
   - 'DOMAIN-SUFFIX,bilivideo.com'
   - 'DOMAIN-SUFFIX,bilivideo.net'
   - 'DOMAIN-SUFFIX,bilibilipay.cn'
-  - 'DOMAIN-SUFFIX,bilicomics.com'
   - 'DOMAIN-SUFFIX,animetamashi.cn'
   - 'DOMAIN-SUFFIX,bilibiligame.cn'
   - 'DOMAIN-SUFFIX,bilibiligame.co'
@@ -125,7 +119,7 @@ payload:
   - 'DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net'
   - 'DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net'
 
-  # IP-CIDR (8 rules)
+  # IP-CIDR (7 rules)
   - 'IP-CIDR,106.75.74.76/32'
   - 'IP-CIDR,111.206.25.147/32'
   - 'IP-CIDR,119.3.238.64/32'
@@ -133,12 +127,7 @@ payload:
   - 'IP-CIDR,120.92.113.99/32'
   - 'IP-CIDR,120.92.153.217/32'
   - 'IP-CIDR,134.175.207.130/32'
-  - 'IP-CIDR,203.107.1.0/24'
 
-  # PROCESS-NAME (6 rules)
+  # PROCESS-NAME (2 rules)
   - 'PROCESS-NAME,tv.danmaku.bili'
-  - 'PROCESS-NAME,com.bilibili.comic'
   - 'PROCESS-NAME,com.bilibili.app.in'
-  - 'PROCESS-NAME,com.bilibili.app.blue'
-  - 'PROCESS-NAME,tv.danmaku.bilibilihd'
-  - 'PROCESS-NAME,com.bilibili.comic.intl'

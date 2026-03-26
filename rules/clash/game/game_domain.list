@@ -1,12 +1,6 @@
-login.live.com
-gog.salesmanago.com
-logincdn.msauth.net
-xz.pphimalayanrt.com
 eaasserts-a.akamaihd.net
 originasserts.akamaized.net
-store-images.s-microsoft.com
 cloudsync-prod.s3.amazonaws.com
-img-prod-cms-rt-microsoft-com.akamaized.net
 +.op.gg
 +.ea.com
 +.pvp.tv
@@ -27,7 +21,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.rgpub.io
 +.riot.com
 +.riot.net
-+.sony.com
 +.ssx3.com
 +.steam.tv
 +.ulol.com
@@ -72,7 +65,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.xbox360.co
 +.xbox360.eu
 +.xboxab.com
-+.xboxab.net
 +.xboxone.co
 +.xboxone.eu
 +.yogify.com
@@ -97,7 +89,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.nintendo.fi
 +.nintendo.fr
 +.nintendo.it
-+.nintendo.jp
 +.nintendo.nl
 +.nintendo.no
 +.nintendo.pt
@@ -201,7 +192,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.wmsjsteam.com
 +.xenoblade.com
 +.anthemgame.com
-+.brawlstars.com
 +.eablackbox.com
 +.eacashcard.com
 +.excitebots.com
@@ -230,7 +220,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.ruinedking.com
 +.starcraft2.com
 +.steam-chat.com
-+.steamchina.com
 +.steamgames.com
 +.supermario.com
 +.underlords.com
@@ -246,7 +235,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.mirrorsedge.net
 +.mythicgames.com
 +.n0vadesktop.com
-+.nintendo.com.au
 +.nintendo.com.hk
 +.nintendo.com.pt
 +.nintendo3ds.com
@@ -267,7 +255,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.steamstatic.com
 +.themisweeps.com
 +.wiiugamepad.com
-+.xboxservice.com
 +.xboxstudios.com
 +.神奇宝贝.cn
 +.battlefield3.com
@@ -293,7 +280,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.mirrorsedge2.com
 +.mysimsracing.com
 +.needforspeed.com
-+.nintendowifi.net
 +.playartifact.com
 +.playnintendo.com
 +.playvalorant.com
@@ -325,7 +311,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.easportsworld.com
 +.easyanticheat.net
 +.electronicarts.fr
-+.game.maj-soul.com
 +.genshinimpact.com
 +.historyofdota.com
 +.historyofdota.net
@@ -356,7 +341,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.battlebreakers.com
 +.bejeweledstars.com
 +.bejewled-stars.com
-+.brawlstarsgame.com
 +.camelot-europe.com
 +.convrgencegame.com
 +.darkness-risen.com
@@ -371,9 +355,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.industrialtoys.com
 +.instituteofwar.org
 +.kirbysepicyarn.com
-+.lb-hw.maj-soul.com
-+.lb-sy.maj-soul.com
-+.lb-v2.maj-soul.com
 +.leagueoflegends.ca
 +.leagueoflegends.cn
 +.leagueoflegends.kr
@@ -395,7 +376,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.forzamotorsport.net
 +.gloryofheracles.com
 +.hackyourconsole.com
-+.lb-cdn.maj-soul.com
 +.leagueoflegends.com
 +.leagueoflegends.net
 +.leagueoflegends.org
@@ -446,7 +426,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.origin-a.akamaihd.net
 +.pokemonblackwhite.com
 +.pokemongoldsilver.com
-+.riotgames.zendesk.com
 +.st.dl.pinyuncloud.com
 +.steam.apac.qtlglb.com
 +.steam.naeu.qtlglb.com
@@ -480,9 +459,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.blzmedia-a.akamaihd.net
 +.eaassets-a.akamaihd.net
 +.fireemblemawakening.com
-+.gateway-hw.maj-soul.com
-+.gateway-sy.maj-soul.com
-+.gateway-v2.maj-soul.com
 +.kirbysuperstarultra.com
 +.mythicentertainment.com
 +.mythicentertainment.net
@@ -502,7 +478,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.conquerwithcharacter.com
 +.easportsactiveonline.com
 +.easportsfootballclub.com
-+.gateway-cdn.maj-soul.com
 +.gogalaxy.gog-statics.com
 +.lolstatic-a.akamaihd.net
 +.needforspeedshowdown.com
@@ -526,7 +501,6 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.battlefieldbadcompany2.com
 +.blzddistkr1-a.akamaihd.net
 +.bnetproduct-a.akamaihd.net
-+.gateway-sy.catmjstudio.com
 +.leagueoflegendsscripts.com
 +.marioandluigidreamteam.com
 +.needforspeeddriftkings.com
@@ -569,4 +543,3 @@ img-prod-cms-rt-microsoft-com.akamaized.net
 +.ubisoft-orbit-savegames.s3.amazonaws.com
 +.ubisoft-uplay-savegames.s3.amazonaws.com
 +.gamedownloads-rockstargames-com.akamaized.net
-+.majsoul-hk-client.cn-hongkong.log.aliyuncs.com

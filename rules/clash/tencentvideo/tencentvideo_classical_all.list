@@ -19,12 +19,11 @@ DOMAIN,video-search-1258344701.shiply-cdn.qq.com
 DOMAIN,00713915daab0be43def5c338c02c80b.dlied1.cdntips.net
 DOMAIN,17caa75e77d31e1f5a7841e0b3374569.dlied1.cdntips.net
 
-# DOMAIN-SUFFIX (6 rules)
+# DOMAIN-SUFFIX (5 rules)
 DOMAIN-SUFFIX,v.qq.com
 DOMAIN-SUFFIX,video.qq.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,v.smtcdns.com
-DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,qqvideo.gtimg.com
 
 # IP-CIDR (3 rules)
