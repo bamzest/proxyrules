@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17509 rules)
+# DOMAIN-SUFFIX (17510 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -17414,6 +17414,7 @@ DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,vintagemedicalpictures.com
 DOMAIN-SUFFIX,vmware-cloudmanagement.com
 DOMAIN-SUFFIX,vmwarelearningplatform.com
+DOMAIN-SUFFIX,xn--kcrv3utim32hx9f6qe.com
 DOMAIN-SUFFIX,aiv-cdn.net.c.footprint.net
 DOMAIN-SUFFIX,alpherafinancialservices.es
 DOMAIN-SUFFIX,alpherafinancialservices.in

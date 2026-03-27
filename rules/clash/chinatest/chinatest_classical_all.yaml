@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (132 rules)
+  # DOMAIN (134 rules)
   - 'DOMAIN,265.com'
   - 'DOMAIN,2mdn.net'
   - 'DOMAIN,c.pki.goog'
@@ -76,8 +76,10 @@ payload:
   - 'DOMAIN,monitoring.qpdp1.net'
   - 'DOMAIN,origin-a.akamaihd.ne'
   - 'DOMAIN,gog-cdn.akamaized.net'
+  - 'DOMAIN,izattime.qcomgeo2.com'
   - 'DOMAIN,origin-a.akamaihd.net'
   - 'DOMAIN,qualysguard.qpdp1.net'
+  - 'DOMAIN,xtratime.qcomgeo2.com'
   - 'DOMAIN,app-measurement-cn.com'
   - 'DOMAIN,cn.download.nvidia.com'
   - 'DOMAIN,download.jetbrains.com'
@@ -138,7 +140,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (118168 rules)
+  # DOMAIN-SUFFIX (118169 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -68123,6 +68125,7 @@ payload:
   - 'DOMAIN-SUFFIX,anhuicta.com'
   - 'DOMAIN-SUFFIX,anhuigwy.org'
   - 'DOMAIN-SUFFIX,anhuisjx.com'
+  - 'DOMAIN-SUFFIX,anhuiyun.com'
   - 'DOMAIN-SUFFIX,aniceapp.com'
   - 'DOMAIN-SUFFIX,anjialaw.com'
   - 'DOMAIN-SUFFIX,anjifood.com'
