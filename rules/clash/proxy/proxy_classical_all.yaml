@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17510 rules)
+  # DOMAIN-SUFFIX (17509 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -6577,7 +6577,6 @@ payload:
   - 'DOMAIN-SUFFIX,runporn.com'
   - 'DOMAIN-SUFFIX,rushbee.com'
   - 'DOMAIN-SUFFIX,s-books.com'
-  - 'DOMAIN-SUFFIX,s.rmimg.com'
   - 'DOMAIN-SUFFIX,s8forum.com'
   - 'DOMAIN-SUFFIX,sabuibo.net'
   - 'DOMAIN-SUFFIX,sadpanda.us'
