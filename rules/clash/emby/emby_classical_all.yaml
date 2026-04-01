@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (37 rules)
+  # DOMAIN (34 rules)
   - 'DOMAIN,emby.run'
   - 'DOMAIN,emby.cjpc.cc'
   - 'DOMAIN,emby.ytoo.li'
@@ -19,7 +19,6 @@ payload:
   - 'DOMAIN,emby.mdss.cloud'
   - 'DOMAIN,movie.xeton.dev'
   - 'DOMAIN,ntt1.jmsooo.com'
-  - 'DOMAIN,emby.lcloud.wiki'
   - 'DOMAIN,emby.maying.club'
   - 'DOMAIN,emby.nyancat.net'
   - 'DOMAIN,hinet.jmsooo.com'
@@ -30,9 +29,7 @@ payload:
   - 'DOMAIN,emby.nexitally.com'
   - 'DOMAIN,emby.prprcloud.com'
   - 'DOMAIN,jellyfin.xeton.dev'
-  - 'DOMAIN,notnetflix.cos.cat'
   - 'DOMAIN,cf.odysseyplus.site'
-  - 'DOMAIN,emby.enjoyit.eu.org'
   - 'DOMAIN,emby.flowercloud.yt'
   - 'DOMAIN,emby.plusmedia.site'
   - 'DOMAIN,ru.odysseyplus.site'
@@ -43,59 +40,8 @@ payload:
   - 'DOMAIN,emby-cf.plusmedia.site'
   - 'DOMAIN,emby-sg.plusmedia.site'
 
-  # DOMAIN-SUFFIX (46 rules)
-  - 'DOMAIN-SUFFIX,emby.wtf'
-  - 'DOMAIN-SUFFIX,xmsl.org'
-  - 'DOMAIN-SUFFIX,123456.al'
-  - 'DOMAIN-SUFFIX,embymv.tk'
-  - 'DOMAIN-SUFFIX,ohhhh.org'
-  - 'DOMAIN-SUFFIX,285286.xyz'
-  - 'DOMAIN-SUFFIX,peachmv.me'
-  - 'DOMAIN-SUFFIX,imetyou.top'
-  - 'DOMAIN-SUFFIX,emby.cjpc.cc'
-  - 'DOMAIN-SUFFIX,emby.cjpc.tv'
-  - 'DOMAIN-SUFFIX,emby.mcwy.me'
-  - 'DOMAIN-SUFFIX,emby.ytoo.li'
-  - 'DOMAIN-SUFFIX,embyplus.org'
-  - 'DOMAIN-SUFFIX,poloemby.xyz'
-  - 'DOMAIN-SUFFIX,cristiamo.xyz'
-  - 'DOMAIN-SUFFIX,emby.cjpc.xyz'
-  - 'DOMAIN-SUFFIX,embyserver.ga'
-  - 'DOMAIN-SUFFIX,jellyfin.asia'
-  - 'DOMAIN-SUFFIX,line.emby.men'
-  - 'DOMAIN-SUFFIX,pornemby.club'
-  - 'DOMAIN-SUFFIX,aws.jmsooo.com'
-  - 'DOMAIN-SUFFIX,cf1.jmsooo.com'
-  - 'DOMAIN-SUFFIX,emby.ok.edu.hk'
-  - 'DOMAIN-SUFFIX,emby.xeton.dev'
-  - 'DOMAIN-SUFFIX,plusmedia.site'
-  - 'DOMAIN-SUFFIX,emby.immtel.com'
-  - 'DOMAIN-SUFFIX,emby.mdss.cloud'
-  - 'DOMAIN-SUFFIX,emby.paoche.ooo'
-  - 'DOMAIN-SUFFIX,mickeycloud.com'
-  - 'DOMAIN-SUFFIX,movie.xeton.dev'
-  - 'DOMAIN-SUFFIX,ntt1.jmsooo.com'
-  - 'DOMAIN-SUFFIX,emby.maying.club'
-  - 'DOMAIN-SUFFIX,emby.neko.edu.rs'
-  - 'DOMAIN-SUFFIX,emby.nyancat.net'
-  - 'DOMAIN-SUFFIX,hinet.jmsooo.com'
-  - 'DOMAIN-SUFFIX,agahk1.jmsooo.com'
-  - 'DOMAIN-SUFFIX,agajp1.jmsooo.com'
-  - 'DOMAIN-SUFFIX,agasg1.jmsooo.com'
+  # DOMAIN-SUFFIX (1 rules)
   - 'DOMAIN-SUFFIX,blueseamusics.com'
-  - 'DOMAIN-SUFFIX,pilipiliultra.com'
-  - 'DOMAIN-SUFFIX,servers.xeton.dev'
-  - 'DOMAIN-SUFFIX,emby.cristiamo.top'
-  - 'DOMAIN-SUFFIX,emby.nexitally.com'
-  - 'DOMAIN-SUFFIX,emby.prprcloud.com'
-  - 'DOMAIN-SUFFIX,jellyfin.xeton.dev'
-  - 'DOMAIN-SUFFIX,emby.flowercloud.yt'
 
-  # DOMAIN-KEYWORD (4 rules)
-  - 'DOMAIN-KEYWORD,jmsooo'
-  - 'DOMAIN-KEYWORD,emby.wtf'
+  # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,jmsooo.com'
-  - 'DOMAIN-KEYWORD,odysseyplus'
-
-  # PROCESS-NAME (1 rules)
-  - 'PROCESS-NAME,com.mb.android'

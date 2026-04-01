@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (55 rules)
+  # DOMAIN-SUFFIX (54 rules)
   - 'DOMAIN-SUFFIX,pvp.tv'
   - 'DOMAIN-SUFFIX,pvp.net'
   - 'DOMAIN-SUFFIX,rgpub.io'
@@ -56,7 +56,6 @@ payload:
   - 'DOMAIN-SUFFIX,leaguehighschool.com'
   - 'DOMAIN-SUFFIX,leagueoflegends.info'
   - 'DOMAIN-SUFFIX,leagueoflegends.co.kr'
-  - 'DOMAIN-SUFFIX,riotgames.zendesk.com'
   - 'DOMAIN-SUFFIX,lolstatic-a.akamaihd.net'
   - 'DOMAIN-SUFFIX,leagueoflegendsscripts.com'
   - 'DOMAIN-SUFFIX,championshipseriesleague.com'

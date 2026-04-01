@@ -3,14 +3,12 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (14 rules)
+# DOMAIN-SUFFIX (12 rules)
 DOMAIN-SUFFIX,ibm
 DOMAIN-SUFFIX,ibm.eu
 DOMAIN-SUFFIX,ibm.us
 DOMAIN-SUFFIX,ibm.com
 DOMAIN-SUFFIX,ibm.net
-DOMAIN-SUFFIX,nic.ibm
-DOMAIN-SUFFIX,weather
 DOMAIN-SUFFIX,s81c.com
 DOMAIN-SUFFIX,bluemix.com
 DOMAIN-SUFFIX,bluemix.net

@@ -4,25 +4,15 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (1 rules)
-  - 'DOMAIN,netease.ugcvideoss.ourdvs.com'
-
-  # DOMAIN-SUFFIX (13 rules)
+  # DOMAIN-SUFFIX (6 rules)
   - 'DOMAIN-SUFFIX,163yun.com'
-  - 'DOMAIN-SUFFIX,yun-app.net'
-  - 'DOMAIN-SUFFIX,music.126.com'
-  - 'DOMAIN-SUFFIX,music.126.net'
   - 'DOMAIN-SUFFIX,music.163.com'
   - 'DOMAIN-SUFFIX,hz.netease.com'
   - 'DOMAIN-SUFFIX,mam.netease.com'
   - 'DOMAIN-SUFFIX,api.iplay.163.com'
-  - 'DOMAIN-SUFFIX,apm.music.163.com'
-  - 'DOMAIN-SUFFIX,apm3.music.163.com'
-  - 'DOMAIN-SUFFIX,interface.music.163.com'
-  - 'DOMAIN-SUFFIX,interface3.music.163.com'
   - 'DOMAIN-SUFFIX,music.163.com.163jiasu.com'
 
-  # IP-CIDR (35 rules)
+  # IP-CIDR (31 rules)
   - 'IP-CIDR,101.71.154.241/32'
   - 'IP-CIDR,103.126.92.132/32'
   - 'IP-CIDR,103.126.92.133/32'
@@ -46,7 +36,6 @@ payload:
   - 'IP-CIDR,59.111.160.195/32'
   - 'IP-CIDR,59.111.160.197/32'
   - 'IP-CIDR,59.111.179.214/32'
-  - 'IP-CIDR,59.111.181.155/32'
   - 'IP-CIDR,59.111.181.35/32'
   - 'IP-CIDR,59.111.181.38/32'
   - 'IP-CIDR,59.111.181.60/32'
@@ -55,6 +44,3 @@ payload:
   - 'IP-CIDR,103.126.92.132/31'
   - 'IP-CIDR,223.252.199.66/31'
   - 'IP-CIDR,59.111.21.14/31'
-  - 'IP-CIDR,115.236.112.0/20'
-  - 'IP-CIDR,223.252.192.0/19'
-  - 'IP-CIDR,59.111.128.0/17'

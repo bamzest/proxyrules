@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (140 rules)
+# IP-CIDR (131 rules)
 IP-CIDR,104.193.88.0/24,no-resolve
 IP-CIDR,104.193.89.0/24,no-resolve
 IP-CIDR,104.193.90.0/24,no-resolve
@@ -43,11 +43,9 @@ IP-CIDR,45.113.192.0/24,no-resolve
 IP-CIDR,45.113.193.0/24,no-resolve
 IP-CIDR,45.113.194.0/24,no-resolve
 IP-CIDR,63.243.252.0/24,no-resolve
-IP-CIDR,104.193.88.0/23,no-resolve
 IP-CIDR,106.12.240.0/23,no-resolve
 IP-CIDR,119.75.216.0/23,no-resolve
 IP-CIDR,119.75.222.0/23,no-resolve
-IP-CIDR,150.242.122.0/23,no-resolve
 IP-CIDR,154.85.44.0/23,no-resolve
 IP-CIDR,180.76.120.0/23,no-resolve
 IP-CIDR,180.76.124.0/23,no-resolve
@@ -72,11 +70,9 @@ IP-CIDR,180.76.54.0/23,no-resolve
 IP-CIDR,180.76.56.0/23,no-resolve
 IP-CIDR,106.12.244.0/22,no-resolve
 IP-CIDR,106.13.240.0/22,no-resolve
-IP-CIDR,106.13.252.0/22,no-resolve
 IP-CIDR,119.75.216.0/22,no-resolve
 IP-CIDR,119.75.220.0/22,no-resolve
 IP-CIDR,154.85.40.0/22,no-resolve
-IP-CIDR,180.76.124.0/22,no-resolve
 IP-CIDR,180.76.192.0/22,no-resolve
 IP-CIDR,45.113.192.0/22,no-resolve
 IP-CIDR,106.12.224.0/21,no-resolve
@@ -125,7 +121,6 @@ IP-CIDR,106.13.96.0/19,no-resolve
 IP-CIDR,120.48.0.0/19,no-resolve
 IP-CIDR,120.48.32.0/19,no-resolve
 IP-CIDR,120.48.64.0/19,no-resolve
-IP-CIDR,154.85.32.0/19,no-resolve
 IP-CIDR,180.76.128.0/19,no-resolve
 IP-CIDR,180.76.160.0/19,no-resolve
 IP-CIDR,180.76.224.0/19,no-resolve
@@ -138,12 +133,8 @@ IP-CIDR,106.13.128.0/18,no-resolve
 IP-CIDR,106.13.64.0/18,no-resolve
 IP-CIDR,120.48.0.0/18,no-resolve
 IP-CIDR,120.48.64.0/18,no-resolve
-IP-CIDR,180.76.0.0/18,no-resolve
 IP-CIDR,180.76.128.0/18,no-resolve
 IP-CIDR,182.61.64.0/18,no-resolve
-IP-CIDR,106.12.0.0/17,no-resolve
-IP-CIDR,106.13.0.0/17,no-resolve
-IP-CIDR,120.48.0.0/17,no-resolve
 
 # IP-CIDR6 (10 rules)
 IP-CIDR6,2400:da00:5f24::/47,no-resolve

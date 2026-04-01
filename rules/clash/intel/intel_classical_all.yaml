@@ -4,8 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (264 rules)
-  - 'DOMAIN-SUFFIX,intel'
+  # DOMAIN-SUFFIX (261 rules)
   - 'DOMAIN-SUFFIX,01.org'
   - 'DOMAIN-SUFFIX,pc.com'
   - 'DOMAIN-SUFFIX,cilk.com'
@@ -136,7 +135,6 @@ payload:
   - 'DOMAIN-SUFFIX,intel.com'
   - 'DOMAIN-SUFFIX,itnel.com'
   - 'DOMAIN-SUFFIX,nevex.com'
-  - 'DOMAIN-SUFFIX,奔腾.cn'
   - 'DOMAIN-SUFFIX,acpica.com'
   - 'DOMAIN-SUFFIX,altera.com'
   - 'DOMAIN-SUFFIX,intell.com'
@@ -231,7 +229,6 @@ payload:
   - 'DOMAIN-SUFFIX,intelemeastore.com'
   - 'DOMAIN-SUFFIX,intelforchange.com'
   - 'DOMAIN-SUFFIX,intelfreepress.com'
-  - 'DOMAIN-SUFFIX,intelnet.Component'
   - 'DOMAIN-SUFFIX,intelnet.component'
   - 'DOMAIN-SUFFIX,intelrealsense.com'
   - 'DOMAIN-SUFFIX,makebettercode.com'

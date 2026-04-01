@@ -5,11 +5,6 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (4 rules)
-  - 'DOMAIN-KEYWORD,spotify'
+  # DOMAIN-KEYWORD (2 rules)
   - 'DOMAIN-KEYWORD,-spotify-'
   - 'DOMAIN-KEYWORD,spotify.com'
-  - 'DOMAIN-KEYWORD,-spotify-com'
-
-  # PROCESS-NAME (1 rules)
-  - 'PROCESS-NAME,com.spotify.music'

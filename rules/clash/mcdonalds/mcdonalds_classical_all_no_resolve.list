@@ -3,10 +3,8 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (27 rules)
-DOMAIN-SUFFIX,mcd
+# DOMAIN-SUFFIX (25 rules)
 DOMAIN-SUFFIX,mcd.com
-DOMAIN-SUFFIX,mcdonalds
 DOMAIN-SUFFIX,mcdonalds.ca
 DOMAIN-SUFFIX,mcdonalds.hk
 DOMAIN-SUFFIX,mcdonalds.it

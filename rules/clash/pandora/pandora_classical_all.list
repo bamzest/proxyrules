@@ -3,6 +3,5 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (2 rules)
-DOMAIN-SUFFIX,p-cdn.us
+# DOMAIN-SUFFIX (1 rules)
 DOMAIN-SUFFIX,pandora.com

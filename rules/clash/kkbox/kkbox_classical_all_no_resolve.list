@@ -3,13 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (9 rules)
+# DOMAIN-SUFFIX (3 rules)
 DOMAIN-SUFFIX,kfs.io
-DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
-DOMAIN-SUFFIX,kktix.com
-DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kkbox.com.tw
-DOMAIN-SUFFIX,kkbox-prime.com
-DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net

@@ -4,10 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (1 rules)
-  - 'DOMAIN,vsmarketplacebadge.apphb.com'
-
-  # DOMAIN-SUFFIX (686 rules)
+  # DOMAIN-SUFFIX (675 rules)
   - 'DOMAIN-SUFFIX,bing'
   - 'DOMAIN-SUFFIX,azure'
   - 'DOMAIN-SUFFIX,skype'
@@ -49,7 +46,6 @@ payload:
   - 'DOMAIN-SUFFIX,bing.com'
   - 'DOMAIN-SUFFIX,bing.net'
   - 'DOMAIN-SUFFIX,docs.com'
-  - 'DOMAIN-SUFFIX,doom.com'
   - 'DOMAIN-SUFFIX,dwh5.com'
   - 'DOMAIN-SUFFIX,here.com'
   - 'DOMAIN-SUFFIX,here.net'
@@ -60,7 +56,6 @@ payload:
   - 'DOMAIN-SUFFIX,live.net'
   - 'DOMAIN-SUFFIX,lync.com'
   - 'DOMAIN-SUFFIX,mepn.com'
-  - 'DOMAIN-SUFFIX,mesh.com'
   - 'DOMAIN-SUFFIX,msdn.com'
   - 'DOMAIN-SUFFIX,msft.net'
   - 'DOMAIN-SUFFIX,mspil.cn'
@@ -83,7 +78,6 @@ payload:
   - 'DOMAIN-SUFFIX,bings.com'
   - 'DOMAIN-SUFFIX,biying.cn'
   - 'DOMAIN-SUFFIX,boswp.com'
-  - 'DOMAIN-SUFFIX,fabric.io'
   - 'DOMAIN-SUFFIX,microsoft'
   - 'DOMAIN-SUFFIX,mmdnn.com'
   - 'DOMAIN-SUFFIX,msads.net'
@@ -93,7 +87,6 @@ payload:
   - 'DOMAIN-SUFFIX,s-msn.com'
   - 'DOMAIN-SUFFIX,skype.com'
   - 'DOMAIN-SUFFIX,skype.net'
-  - 'DOMAIN-SUFFIX,start.com'
   - 'DOMAIN-SUFFIX,tenor.com'
   - 'DOMAIN-SUFFIX,wlxrs.com'
   - 'DOMAIN-SUFFIX,akadns.net'
@@ -401,7 +394,6 @@ payload:
   - 'DOMAIN-SUFFIX,chinacloudapi.cn'
   - 'DOMAIN-SUFFIX,chinacloudapp.cn'
   - 'DOMAIN-SUFFIX,discoverbing.com'
-  - 'DOMAIN-SUFFIX,elderscrolls.com'
   - 'DOMAIN-SUFFIX,fluidpreview.com'
   - 'DOMAIN-SUFFIX,footprintdns.com'
   - 'DOMAIN-SUFFIX,g.akamaiedge.net'
@@ -464,7 +456,6 @@ payload:
   - 'DOMAIN-SUFFIX,mgmt-azure-api.cn'
   - 'DOMAIN-SUFFIX,microsoft-int.com'
   - 'DOMAIN-SUFFIX,microsoft-ppe.com'
-  - 'DOMAIN-SUFFIX,microsoft-tst.com'
   - 'DOMAIN-SUFFIX,microsoftedge.com'
   - 'DOMAIN-SUFFIX,microsoftlinc.com'
   - 'DOMAIN-SUFFIX,microsoftnews.com'
@@ -505,7 +496,6 @@ payload:
   - 'DOMAIN-SUFFIX,microsoftol.com.cn'
   - 'DOMAIN-SUFFIX,microsoftonline.cn'
   - 'DOMAIN-SUFFIX,microsoftready.com'
-  - 'DOMAIN-SUFFIX,microsoftstart.com'
   - 'DOMAIN-SUFFIX,microsoftstore.com'
   - 'DOMAIN-SUFFIX,microsoftteams.com'
   - 'DOMAIN-SUFFIX,msftauthimages.net'
@@ -525,7 +515,6 @@ payload:
   - 'DOMAIN-SUFFIX,internetexplorer.co'
   - 'DOMAIN-SUFFIX,live.com.akadns.net'
   - 'DOMAIN-SUFFIX,meetyourdevices.com'
-  - 'DOMAIN-SUFFIX,microsoft-falcon.io'
   - 'DOMAIN-SUFFIX,microsoft-online.cn'
   - 'DOMAIN-SUFFIX,microsoftmetrics.cn'
   - 'DOMAIN-SUFFIX,microsoftonline.com'
@@ -668,14 +657,12 @@ payload:
   - 'DOMAIN-SUFFIX,psg-int-eastus.cloudapp.net'
   - 'DOMAIN-SUFFIX,unlocklimitlesslearning.com'
   - 'DOMAIN-SUFFIX,management-azure-devices.net'
-  - 'DOMAIN-SUFFIX,microsoftpersonalcontent.com'
   - 'DOMAIN-SUFFIX,poshtestgallery.cloudapp.net'
   - 'DOMAIN-SUFFIX,azure-devices-provisioning.cn'
   - 'DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com'
   - 'DOMAIN-SUFFIX,microsoftpartnercommunity.com'
   - 'DOMAIN-SUFFIX,microsoftpartnersolutions.com'
   - 'DOMAIN-SUFFIX,azuremarketplace.microsoft.com'
-  - 'DOMAIN-SUFFIX,microsoftazuresponsorships.com'
   - 'DOMAIN-SUFFIX,microsoftcommunitytraining.com'
   - 'DOMAIN-SUFFIX,psg-int-centralus.cloudapp.net'
   - 'DOMAIN-SUFFIX,microsoftapps.azurewebsites.net'
@@ -688,19 +675,12 @@ payload:
   - 'DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com'
   - 'DOMAIN-SUFFIX,management-azure-devices-provisioning.cn'
   - 'DOMAIN-SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net'
-  - 'DOMAIN-SUFFIX,livetileedge.dsx.mp.microsoft.com.edgekey.net'
   - 'DOMAIN-SUFFIX,prod-video-cms-rt-microsoft-com.akamaized.net'
   - 'DOMAIN-SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net'
   - 'DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net'
   - 'DOMAIN-SUFFIX,statics-marketingsites-neu-ms-com.akamaized.net'
   - 'DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net'
 
-  # DOMAIN-KEYWORD (4 rules)
+  # DOMAIN-KEYWORD (2 rules)
   - 'DOMAIN-KEYWORD,1drv'
-  - 'DOMAIN-KEYWORD,onedrive'
-  - 'DOMAIN-KEYWORD,skydrive'
   - 'DOMAIN-KEYWORD,microsoft'
-
-  # PROCESS-NAME (2 rules)
-  - 'PROCESS-NAME,OneDrive'
-  - 'PROCESS-NAME,OneDriveUpdater'

@@ -4,6 +4,4 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-
-  # PROCESS-NAME (1 rules)
-  - 'PROCESS-NAME,TV'
+  # 无规则内容，自动生成占位
