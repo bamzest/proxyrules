@@ -4,6 +4,8 @@ payload:
   - '+.ibm.us'
   - '+.ibm.com'
   - '+.ibm.net'
+  - '+.nic.ibm'
+  - '+.weather'
   - '+.s81c.com'
   - '+.bluemix.com'
   - '+.bluemix.net'

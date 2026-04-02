@@ -1,0 +1,10 @@
+# microsoftedge - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (4 rules)
+DOMAIN,edge.microsoft.com
+DOMAIN,iecvlist.microsoft.com
+DOMAIN,edge.activity.windows.com
+DOMAIN,msedge.api.cdp.microsoft.com

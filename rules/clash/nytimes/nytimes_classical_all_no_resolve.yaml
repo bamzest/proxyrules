@@ -1,0 +1,23 @@
+# nytimes - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (16 rules)
+  - 'DOMAIN-SUFFIX,nyt.com'
+  - 'DOMAIN-SUFFIX,nyt.net'
+  - 'DOMAIN-SUFFIX,nyti.ms'
+  - 'DOMAIN-SUFFIX,nytcn.me'
+  - 'DOMAIN-SUFFIX,tynt.com'
+  - 'DOMAIN-SUFFIX,nytco.com'
+  - 'DOMAIN-SUFFIX,nytimg.com'
+  - 'DOMAIN-SUFFIX,nytlog.com'
+  - 'DOMAIN-SUFFIX,nytimes.com'
+  - 'DOMAIN-SUFFIX,nytchina.com'
+  - 'DOMAIN-SUFFIX,nytstyle.com'
+  - 'DOMAIN-SUFFIX,timestalks.com'
+  - 'DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net'
+  - 'DOMAIN-SUFFIX,d1f1eryiqyjs0r.cloudfront.net'
+  - 'DOMAIN-SUFFIX,d3lar09xbwlsge.cloudfront.net'
+  - 'DOMAIN-SUFFIX,d3q1qj9jzsu8nw.cloudfront.net'

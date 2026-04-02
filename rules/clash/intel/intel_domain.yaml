@@ -1,4 +1,5 @@
 payload:
+  - '+.intel'
   - '+.01.org'
   - '+.pc.com'
   - '+.cilk.com'
@@ -129,6 +130,7 @@ payload:
   - '+.intel.com'
   - '+.itnel.com'
   - '+.nevex.com'
+  - '+.奔腾.cn'
   - '+.acpica.com'
   - '+.altera.com'
   - '+.intell.com'
@@ -223,7 +225,7 @@ payload:
   - '+.intelemeastore.com'
   - '+.intelforchange.com'
   - '+.intelfreepress.com'
-  - '+.intelnet.component'
+  - '+.intelnet.Component'
   - '+.intelrealsense.com'
   - '+.makebettercode.com'
   - '+.poweredbyintel.com'

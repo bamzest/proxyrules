@@ -1,0 +1,12 @@
+# gog - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules exclude 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (1 rules)
+DOMAIN,gog.salesmanago.com
+
+# DOMAIN-SUFFIX (3 rules)
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog.qtlglb.com
+DOMAIN-SUFFIX,gog-statics.com

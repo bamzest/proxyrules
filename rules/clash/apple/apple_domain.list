@@ -1,15 +1,24 @@
+edge.apple
 swcdn.apple.com
 appldnld.apple.com
 updates.cdn-apple.com
+e16991.b.akamaiedge.net
 iosapps.itunes.apple.com
 osxapps.itunes.apple.com
 supportdownload.apple.com
+apple-events.akamaized.net
 apple.comscoreresearch.com
 gspe19-cn-ssl.ls.apple.com
 updates-http.cdn-apple.com
 apptrailers.itunes.apple.com
+icons.axm-usercontent-apple.com
+p-events-delivery.akamaized.net
+lookup-api.apple.com.edgekey.net
+beatselectronicsllc.tt.omtrdc.net
 aod.itunes.apple.com // Apple Music
+appleworldwidedeveloper.sc.omtrdc.net
 gspe1-ssl.ls.apple.com // Country Code
+appleworldwidedeveloper.hb-api.omtrdc.net
 +.apple
 +.mac.eu
 +.mac.rs
@@ -132,6 +141,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.ibook.com
 +.ibook.net
 +.icloud.ch
++.icloud.cn
 +.icloud.de
 +.icloud.ee
 +.icloud.fi
@@ -275,6 +285,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.appstore.hk
 +.appstore.my
 +.appstore.ph
++.apzones.com
 +.beatsep.com
 +.beatsep.net
 +.beatsua.com
@@ -385,6 +396,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.beatsjoy.com
 +.beatsone.net
 +.cnshopin.com
++.digicert.com
 +.dreprofy.com
 +.euroipad.com
 +.faceid99.com
@@ -537,6 +549,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.shopbydre.com
 +.tradevip1.com
 +.tryrating.com
++.vertexsmb.com
 +.vip-beats.com
 +.vipshoes2.com
 +.webkitgtk.org
@@ -580,6 +593,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.beatdrdres.com
 +.beats-deal.com
 +.beats-sale.com
++.beatsbydre.com
 +.beatsdreus.com
 +.beatsforme.com
 +.beatshopuk.com
@@ -877,6 +891,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.beats4outlets.com
 +.beatsbydrdres.com
 +.beatsbydre-us.com
++.beatsbydre.com.cn
 +.beatsbydre411.com
 +.beatsbydregot.com
 +.beatsbydrehut.com
@@ -1002,10 +1017,12 @@ gspe1-ssl.ls.apple.com // Country Code
 +.quatrowireless.com
 +.repsneakermall.com
 +.researchkit.com.cn
++.safebrowsing.apple
 +.services-apple.net
 +.superearsenjoy.com
 +.topbeatsdealer.com
 +.苹果专卖店.cn
++.apple.com.cdn20.com
 +.applecomputer.co.in
 +.applecomputer.co.nz
 +.appleid-applemx.com
@@ -1119,6 +1136,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.buybeatsbydre-uk.com
 +.buycheapbeatsbus.com
 +.camelspaceeffect.com
++.cdn-apple-mapkit.com
 +.cheap-beatsbydre.com
 +.cheapbeatssale4u.com
 +.cheapdrdrebeats8.com
@@ -1148,6 +1166,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.newestbeatsbydre.com
 +.onbeatsbydresale.com
 +.onlineapplestore.com
++.organicfruitapps.com
 +.pickshoesclothes.com
 +.pocketbiketrader.com
 +.shopmonsterbeats.com
@@ -1157,6 +1176,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.2013cheapestbeats.com
 +.2013newbeatsworld.com
 +.apple.com.edgekey.net
++.apple.com.mwcname.com
 +.appleaustralia.com.au
 +.appleaustralia.net.au
 +.applecomputerimac.com
@@ -1202,6 +1222,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.drebeatsforsaleus.com
 +.earphonescheapest.com
 +.gamebeforethegame.com
++.icloud-content.com.cn
 +.icloud.com.akadns.net
 +.imacapplecomputer.com
 +.macintoshsoftware.com
@@ -1230,6 +1251,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.applecomputer-imac.com
 +.applemagickeyboard.com
 +.applemusicfestival.com
++.appleschoolcontent.com
 +.audio.itunes.apple.com
 +.beatfactoryoutlets.com
 +.beatsbydrdre-store.com
@@ -1281,6 +1303,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.imac-applecomputer.com
 +.iphone5casescovers.com
 +.italiabeatsbydrdre.com
++.itunes.com.edgekey.net
 +.mmonsterheadphones.net
 +.monsterbeats-cheap.com
 +.monsterbeats365buy.com
@@ -1356,6 +1379,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.1monsterbeatsbydreus.com
 +.2013beatsbydrdreshop.com
 +.apple-support.akadns.net
++.apple.com.mwcloudcdn.com
 +.beats-bydrecheapsale.com
 +.beatsboxingdayuksale.com
 +.beatsbydreauofficial.com
@@ -1424,6 +1448,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.push-apple.com.akadns.net
 +.thebeatsheadphonesale.com
 +.topbeatsbydrdreoutlet.com
++.www.apple.com.edgekey.net
 +.xn--hxtr4rozx.xn--czr694b
 +.12diasderegalosdeitunes.cl
 +.12diasderegalosdeitunes.co
@@ -1454,9 +1479,11 @@ gspe1-ssl.ls.apple.com // Country Code
 +.casquebeatspascher2013.com
 +.cheapbeatsbydremonster.com
 +.devstreaming-cdn.apple.com
++.dispatcher.is.autonavi.com
 +.drdreheadphonesusstore.com
 +.dremonsterbeatsoutlets.com
 +.francecasquebeatssolde.com
++.ls.apple.com.edgesuite.net
 +.monsterbeats-headphone.com
 +.monsterbeatsbydrdre-nz.com
 +.monsterbeatsdrdrecheap.com
@@ -1498,6 +1525,7 @@ gspe1-ssl.ls.apple.com // Country Code
 +.origin-apple.com.akadns.net
 +.prostudiobeatscybersale.com
 +.saleblackfridaydrebeats.com
++.store.apple.com.edgekey.net
 +.wholesalediscountpurses.com
 +.12joursdecadeauxdeitunes.com
 +.appleoriginalproductions.com
@@ -1577,7 +1605,9 @@ gspe1-ssl.ls.apple.com // Country Code
 +.monsterbeatssydneyaustralia.com
 +.p-events-delivery.akamaized.net
 +.streamingaudio.itunes.apple.com
++.appldnld.apple.com.edgesuite.net
 +.cheapbeatsbydrestudioedition.com
++.gsp4-cn.ls.apple.com.edgekey.net
 +.beatsbydresolohdonline-canada.com
 +.beatselectronicsllc.tt.omtrdc.net
 +.courier-push-apple.com.akadns.net

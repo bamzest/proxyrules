@@ -12,7 +12,7 @@ payload:
   - 'DOMAIN,steamuserimages-a.akamaihd.net'
   - 'DOMAIN,steamusercontent-a.akamaihd.net'
 
-  # DOMAIN-SUFFIX (55 rules)
+  # DOMAIN-SUFFIX (52 rules)
   - 'DOMAIN-SUFFIX,s.team'
   - 'DOMAIN-SUFFIX,steam.tv'
   - 'DOMAIN-SUFFIX,csgo.wmsj.cn'
@@ -31,7 +31,6 @@ payload:
   - 'DOMAIN-SUFFIX,playartifact.com'
   - 'DOMAIN-SUFFIX,st.dl.eccdnx.com'
   - 'DOMAIN-SUFFIX,steam.cdn.on.net'
-  - 'DOMAIN-SUFFIX,steamcontent.com'
   - 'DOMAIN-SUFFIX,steampowered.com'
   - 'DOMAIN-SUFFIX,steamunlocked.net'
   - 'DOMAIN-SUFFIX,valvesoftware.com'
@@ -42,7 +41,6 @@ payload:
   - 'DOMAIN-SUFFIX,steam.ru.qtlglb.com'
   - 'DOMAIN-SUFFIX,st.dl.bscstorage.net'
   - 'DOMAIN-SUFFIX,steam.eca.qtlglb.com'
-  - 'DOMAIN-SUFFIX,steamusercontent.com'
   - 'DOMAIN-SUFFIX,st.dl.pinyuncloud.com'
   - 'DOMAIN-SUFFIX,steam.apac.qtlglb.com'
   - 'DOMAIN-SUFFIX,steam.naeu.qtlglb.com'
@@ -67,7 +65,6 @@ payload:
   - 'DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net'
   - 'DOMAIN-SUFFIX,steampipe-partner.akamaized.net'
   - 'DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net'
-  - 'DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com'
 
   # DOMAIN-KEYWORD (3 rules)
   - 'DOMAIN-KEYWORD,steamstore'

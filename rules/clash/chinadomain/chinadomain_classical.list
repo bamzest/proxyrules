@@ -33,6 +33,9 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,chinacache
 
+# IP-ASN (1 rules)
+IP-ASN,132203,no-resolve
+
 # PROCESS-NAME (14 rules)
 PROCESS-NAME,Thunder
 PROCESS-NAME,Thunder.exe

@@ -1,7 +1,4 @@
 payload:
-  - '+.scc.ott.hinet.net'
+  - 'hls-hichannel.cdn.hinet.net'
+  - '+.ott.hinet.net'
   - '+.hamivideo.hinet.net'
-  - '+.apl-hamivideo.cdn.hinet.net'
-  - '+.static-hamivideo.cdn.hinet.net'
-  - '+.weblive-hamivideo.cdn.hinet.net'
-  - '+.mobilelive-hamivideo.cdn.hinet.net'

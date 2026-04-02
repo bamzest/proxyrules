@@ -1,0 +1,16 @@
+# teambition - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (10 rules)
+DOMAIN-SUFFIX,talk.ai
+DOMAIN-SUFFIX,tburl.in
+DOMAIN-SUFFIX,today.ai
+DOMAIN-SUFFIX,tbapp.com
+DOMAIN-SUFFIX,project.ai
+DOMAIN-SUFFIX,jianliao.com
+DOMAIN-SUFFIX,teambition.io
+DOMAIN-SUFFIX,teambition.com
+DOMAIN-SUFFIX,teambition.net
+DOMAIN-SUFFIX,teambitionapis.com

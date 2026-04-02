@@ -1,3 +1,4 @@
+vsmarketplacebadge.apphb.com
 +.bing
 +.azure
 +.skype
@@ -39,6 +40,7 @@
 +.bing.com
 +.bing.net
 +.docs.com
++.doom.com
 +.dwh5.com
 +.here.com
 +.here.net
@@ -49,6 +51,7 @@
 +.live.net
 +.lync.com
 +.mepn.com
++.mesh.com
 +.msdn.com
 +.msft.net
 +.mspil.cn
@@ -71,6 +74,7 @@
 +.bings.com
 +.biying.cn
 +.boswp.com
++.fabric.io
 +.microsoft
 +.mmdnn.com
 +.msads.net
@@ -80,6 +84,7 @@
 +.s-msn.com
 +.skype.com
 +.skype.net
++.start.com
 +.tenor.com
 +.wlxrs.com
 +.akadns.net
@@ -143,8 +148,6 @@
 +.bing135.com
 +.bingads.com
 +.bingpix.com
-+.cn.bing.com
-+.cn.bing.net
 +.dynamics.cn
 +.exp-tas.com
 +.forzarc.com
@@ -184,7 +187,6 @@
 +.xbox360.org
 +.xboxlive.cn
 +.xboxone.com
-+.xiaoice.com
 +.a-msedge.net
 +.appcenter.ms
 +.azure-api.cn
@@ -273,10 +275,8 @@
 +.bingworld.com
 +.biying.com.cn
 +.bluehatil.com
-+.clipchamp.com
 +.cosmosdb.info
 +.crmdynint.com
-+.ditu.live.com
 +.edgesuite.net
 +.efproject.net
 +.gotcosmos.com
@@ -382,11 +382,11 @@
 +.azureiotsuite.cn
 +.b.akamaiedge.net
 +.binginternal.com
-+.bj1.api.bing.com
 +.botframework.com
 +.chinacloudapi.cn
 +.chinacloudapp.cn
 +.discoverbing.com
++.elderscrolls.com
 +.fluidpreview.com
 +.footprintdns.com
 +.g.akamaiedge.net
@@ -417,7 +417,6 @@
 +.public-trust.com
 +.reactorms.com.cn
 +.sprinklesapp.com
-+.storage.live.com
 +.sysinternals.com
 +.tryfunctions.com
 +.virtualearth.net
@@ -449,6 +448,7 @@
 +.mgmt-azure-api.cn
 +.microsoft-int.com
 +.microsoft-ppe.com
++.microsoft-tst.com
 +.microsoftedge.com
 +.microsoftlinc.com
 +.microsoftnews.com
@@ -461,7 +461,6 @@
 +.msn.com.nsatc.net
 +.nextechafrica.net
 +.office365love.com
-+.onedrive.live.com
 +.outlookmobile.com
 +.powerautomate.com
 +.projectmurphy.net
@@ -489,6 +488,7 @@
 +.microsoftol.com.cn
 +.microsoftonline.cn
 +.microsoftready.com
++.microsoftstart.com
 +.microsoftstore.com
 +.microsoftteams.com
 +.msftauthimages.net
@@ -497,17 +497,15 @@
 +.visualstudio.co.uk
 +.vscode-webview.net
 +.azure-automation.cn
-+.azure.microsoft.com
 +.azuredatabricks.net
 +.azureiotcentral.com
 +.codethemicrobit.com
-+.emoi-cncdn.bing.com
 +.flipwithsurface.com
 +.forzamotorsport.net
 +.getmicrosoftkey.com
 +.internetexplorer.co
-+.live.com.akadns.net
 +.meetyourdevices.com
++.microsoft-falcon.io
 +.microsoft-online.cn
 +.microsoftmetrics.cn
 +.microsoftonline.com
@@ -586,11 +584,9 @@
 +.microsoftsqlserver.com
 +.renovacionxboxlive.com
 +.spoprod-a.akamaihd.net
-+.windows.com.akadns.net
 +.windowsmarketplace.com
 +.applicationinsights.net
 +.bethesdagamestudios.com
-+.developer.microsoft.com
 +.managedmeetingrooms.com
 +.masalladeloslimites.com
 +.microsoft-online.com.cn
@@ -601,7 +597,6 @@
 +.microsoftiotcentral.com
 +.microsoftreactor.com.cn
 +.microsofttranslator.com
-+.oaspapps.com.akadns.net
 +.timelinestoryteller.com
 +.uwpcommunitytoolkit.com
 +.appserviceenvironment.cn
@@ -609,7 +604,6 @@
 +.azurestackvalidation.com
 +.crossborderexpansion.com
 +.microsoft-sap-events.com
-+.microsoft.com.akadns.net
 +.microsoftadvertising.com
 +.microsoftazuread-sso.com
 +.microsoftcloudsummit.com
@@ -631,7 +625,6 @@
 +.msinnovationchallenge.com
 +.mwf-service.akamaized.net
 +.azure-connectedvehicles.cn
-+.dtlgalleryint.cloudapp.net
 +.latampartneruniversity.com
 +.microsoftcloudworkshop.com
 +.microsoftmxfilantropia.com
@@ -647,27 +640,23 @@
 +.microsoftinternetsafety.net
 +.microsoftiotinsiderlabs.com
 +.opentranslatorstothings.org
-+.psg-int-eastus.cloudapp.net
 +.unlocklimitlesslearning.com
 +.management-azure-devices.net
-+.poshtestgallery.cloudapp.net
++.microsoftpersonalcontent.com
 +.azure-devices-provisioning.cn
-+.img-prod-cms-rt-microsoft-com
 +.microsoftpartnercommunity.com
 +.microsoftpartnersolutions.com
-+.azuremarketplace.microsoft.com
++.microsoftazuresponsorships.com
 +.microsoftcommunitytraining.com
-+.psg-int-centralus.cloudapp.net
-+.microsoftapps.azurewebsites.net
 +.azure-connectedvehicles-stage.cn
 +.evoke-windowsservices-tas.msedge
 +.management-azure-devices-int.net
 +.vip5.afdorigin-prod-am02.afdogw.com
 +.officecdn-microsoft-com.akamaized.net
-+.onecollector.cloudapp.aria.akadns.net
 +.microsoftadvertisingregionalawards.com
 +.management-azure-devices-provisioning.cn
 +.img-prod-cms-rt-microsoft-com.akamaized.net
++.livetileedge.dsx.mp.microsoft.com.edgekey.net
 +.prod-video-cms-rt-microsoft-com.akamaized.net
 +.statics-marketingsites-eas-ms-com.akamaized.net
 +.statics-marketingsites-eus-ms-com.akamaized.net

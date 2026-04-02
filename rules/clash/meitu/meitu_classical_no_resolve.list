@@ -3,4 +3,7 @@
 # and ipcidr.list (IP-CIDR/IP-CIDR6)
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
-# 无规则内容，自动生成占位
+
+# IP-CIDR (2 rules)
+IP-CIDR,110.80.1.218/32,no-resolve
+IP-CIDR,183.251.100.251/32,no-resolve

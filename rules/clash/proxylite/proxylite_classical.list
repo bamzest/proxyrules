@@ -4,7 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (25 rules)
+# DOMAIN-KEYWORD (28 rules)
 DOMAIN-KEYWORD,1drv
 DOMAIN-KEYWORD,avtb
 DOMAIN-KEYWORD,porn
@@ -15,6 +15,7 @@ DOMAIN-KEYWORD,gmail
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,paypal
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,sci-hub
@@ -28,5 +29,7 @@ DOMAIN-KEYWORD,onedrive
 DOMAIN-KEYWORD,skydrive
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,appledaily
+DOMAIN-KEYWORD,.pinterest.

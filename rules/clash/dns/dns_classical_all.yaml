@@ -99,7 +99,7 @@ payload:
   - 'DOMAIN,protected.canadianshield.cira.ca'
   - 'DOMAIN,security-filter-dns.cleanbrowsing.org'
 
-  # IP-CIDR (30 rules)
+  # IP-CIDR (28 rules)
   - 'IP-CIDR,1.0.0.2/32'
   - 'IP-CIDR,1.0.0.3/32'
   - 'IP-CIDR,1.1.1.1/32'
@@ -128,5 +128,3 @@ payload:
   - 'IP-CIDR,8.8.4.4/32'
   - 'IP-CIDR,8.8.8.8/32'
   - 'IP-CIDR,9.9.9.9/32'
-  - 'IP-CIDR,1.0.0.2/31'
-  - 'IP-CIDR,1.1.1.2/31'

@@ -3,7 +3,8 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (261 rules)
+# DOMAIN-SUFFIX (263 rules)
+DOMAIN-SUFFIX,intel
 DOMAIN-SUFFIX,01.org
 DOMAIN-SUFFIX,pc.com
 DOMAIN-SUFFIX,cilk.com
@@ -134,6 +135,7 @@ DOMAIN-SUFFIX,easic.com
 DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,itnel.com
 DOMAIN-SUFFIX,nevex.com
+DOMAIN-SUFFIX,奔腾.cn
 DOMAIN-SUFFIX,acpica.com
 DOMAIN-SUFFIX,altera.com
 DOMAIN-SUFFIX,intell.com
@@ -228,7 +230,7 @@ DOMAIN-SUFFIX,intelapacstore.com
 DOMAIN-SUFFIX,intelemeastore.com
 DOMAIN-SUFFIX,intelforchange.com
 DOMAIN-SUFFIX,intelfreepress.com
-DOMAIN-SUFFIX,intelnet.component
+DOMAIN-SUFFIX,intelnet.Component
 DOMAIN-SUFFIX,intelrealsense.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,poweredbyintel.com

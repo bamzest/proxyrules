@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (54 rules)
+# DOMAIN-SUFFIX (55 rules)
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,rgpub.io
@@ -55,6 +55,7 @@ DOMAIN-SUFFIX,learnwithleague.com
 DOMAIN-SUFFIX,leaguehighschool.com
 DOMAIN-SUFFIX,leagueoflegends.info
 DOMAIN-SUFFIX,leagueoflegends.co.kr
+DOMAIN-SUFFIX,riotgames.zendesk.com
 DOMAIN-SUFFIX,lolstatic-a.akamaihd.net
 DOMAIN-SUFFIX,leagueoflegendsscripts.com
 DOMAIN-SUFFIX,championshipseriesleague.com

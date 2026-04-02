@@ -4,4 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-  # 无规则内容，自动生成占位
+
+  # PROCESS-NAME (2 rules)
+  - 'PROCESS-NAME,Thunder'
+  - 'PROCESS-NAME,Thunder.exe'

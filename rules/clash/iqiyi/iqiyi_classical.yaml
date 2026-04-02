@@ -5,5 +5,8 @@
 # Rules are optimized and sorted for best performance
 payload:
 
+  # DOMAIN-KEYWORD (1 rules)
+  - 'DOMAIN-KEYWORD,qiyi'
+
   # PROCESS-NAME (1 rules)
   - 'PROCESS-NAME,com.qiyi.video'
