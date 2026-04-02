@@ -5,9 +5,6 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (1 rules)
-  - 'DOMAIN-KEYWORD,-tiktokcdn-com'
-
   # IP-CIDR (1 rules)
   - 'IP-CIDR,114.246.10.65/32,no-resolve'
 

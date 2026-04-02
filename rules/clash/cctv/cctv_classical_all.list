@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (42 rules)
+# DOMAIN-SUFFIX (37 rules)
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,tvcc.cn
@@ -36,11 +36,6 @@ DOMAIN-SUFFIX,zggbdszt.net.cn
 DOMAIN-SUFFIX,zygbdszt.net.cn
 DOMAIN-SUFFIX,cctvlibrary.com.cn
 DOMAIN-SUFFIX,olympicchannelchina.cn
-DOMAIN-SUFFIX,中国广播电视总台.cn
-DOMAIN-SUFFIX,中央广播电视总台.cn
-DOMAIN-SUFFIX,国家广播电视总台.cn
-DOMAIN-SUFFIX,中国广播电视总台.中国
-DOMAIN-SUFFIX,国家广播电视总台.中国
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn

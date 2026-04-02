@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (11 rules)
+  # DOMAIN (15 rules)
   - 'DOMAIN,as-hls-uk-live.akamaized.net'
   - 'DOMAIN,aod-hls-uk-live.akamaized.net'
   - 'DOMAIN,as-dash-uk-live.akamaized.net'
@@ -16,6 +16,10 @@ payload:
   - 'DOMAIN,vod-thumb-uk-live.akamaized.net'
   - 'DOMAIN,vod-thumb-ww-live.akamaized.net'
   - 'DOMAIN,vs-cmaf-push-uk-live.akamaized.net'
+  - 'DOMAIN,vod-dash-ww-live.bbcfmt.s.llnwi.net'
+  - 'DOMAIN,vod-dash-uk-live.bbcfmt.hs.llnwd.net'
+  - 'DOMAIN,vod-thumb-ww-live.bbcfmt.s.llnwi.net'
+  - 'DOMAIN,vod-thumb-uk-live.bbcfmt.hs.llnwd.net'
 
   # DOMAIN-SUFFIX (15 rules)
   - 'DOMAIN-SUFFIX,bbc'
