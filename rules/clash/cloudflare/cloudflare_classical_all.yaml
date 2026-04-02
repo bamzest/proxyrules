@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (43 rules)
+  # DOMAIN-SUFFIX (44 rules)
   - 'DOMAIN-SUFFIX,cf-ns.com'
   - 'DOMAIN-SUFFIX,cf-ns.net'
   - 'DOMAIN-SUFFIX,pages.dev'
@@ -22,6 +22,7 @@ payload:
   - 'DOMAIN-SUFFIX,every1dns.net'
   - 'DOMAIN-SUFFIX,cloudflare.com'
   - 'DOMAIN-SUFFIX,cloudflare.net'
+  - 'DOMAIN-SUFFIX,one.one.one.one'
   - 'DOMAIN-SUFFIX,cloudflarecn.net'
   - 'DOMAIN-SUFFIX,cloudflareok.com'
   - 'DOMAIN-SUFFIX,pacloudflare.com'

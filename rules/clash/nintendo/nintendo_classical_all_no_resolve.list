@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (126 rules)
+# DOMAIN-SUFFIX (128 rules)
 DOMAIN-SUFFIX,dkr.com
 DOMAIN-SUFFIX,wii-u.com
 DOMAIN-SUFFIX,wiivc.net
@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,pokemonbank.com
 DOMAIN-SUFFIX,pokemonhome.com
 DOMAIN-SUFFIX,pokemonwifi.net
 DOMAIN-SUFFIX,wiiugamepad.com
+DOMAIN-SUFFIX,神奇宝贝.cn
 DOMAIN-SUFFIX,legendofzelda.cn
 DOMAIN-SUFFIX,mariobroswii.com
 DOMAIN-SUFFIX,mariokart.com.cn
@@ -73,6 +74,7 @@ DOMAIN-SUFFIX,nintendowifi.net
 DOMAIN-SUFFIX,playnintendo.com
 DOMAIN-SUFFIX,pokemon-moon.com
 DOMAIN-SUFFIX,wariowarediy.com
+DOMAIN-SUFFIX,神奇宝贝.net
 DOMAIN-SUFFIX,ac-pocketcamp.com
 DOMAIN-SUFFIX,ayudanintendo.com
 DOMAIN-SUFFIX,drmario-world.com
