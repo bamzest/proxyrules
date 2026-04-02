@@ -555,7 +555,7 @@ payload:
   - 'DOMAIN-KEYWORD,fbcdn'
   - 'DOMAIN-KEYWORD,facebook'
 
-  # IP-CIDR (36 rules)
+  # IP-CIDR (37 rules)
   - 'IP-CIDR,108.168.254.65/32'
   - 'IP-CIDR,108.168.255.224/32'
   - 'IP-CIDR,108.168.255.227/32'
@@ -575,6 +575,7 @@ payload:
   - 'IP-CIDR,119.235.232.0/24'
   - 'IP-CIDR,119.235.236.0/24'
   - 'IP-CIDR,119.235.237.0/24'
+  - 'IP-CIDR,119.235.236.0/23'
   - 'IP-CIDR,103.4.96.0/22'
   - 'IP-CIDR,179.60.192.0/22'
   - 'IP-CIDR,185.60.216.0/22'
@@ -592,3 +593,6 @@ payload:
   - 'IP-CIDR,31.13.64.0/18'
   - 'IP-CIDR,129.134.0.0/17'
   - 'IP-CIDR,157.240.0.0/17'
+
+  # IP-ASN (1 rules)
+  - 'IP-ASN,32934,no-resolve'

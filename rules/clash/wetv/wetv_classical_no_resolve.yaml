@@ -5,6 +5,9 @@
 # Rules are optimized and sorted for best performance
 payload:
 
+  # IP-CIDR (1 rules)
+  - 'IP-CIDR,150.109.28.51/32,no-resolve'
+
   # PROCESS-NAME (2 rules)
   - 'PROCESS-NAME,com.tencent.qqlivei18n'
   - 'PROCESS-NAME,com.tencent.qqlivei18n.us'

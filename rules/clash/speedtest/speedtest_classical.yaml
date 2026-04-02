@@ -5,10 +5,5 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (2 rules)
-  - 'DOMAIN-KEYWORD,ookla'
+  # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,speedtest'
-
-  # PROCESS-NAME (2 rules)
-  - 'PROCESS-NAME,Speedtest.exe'
-  - 'PROCESS-NAME,org.zwanoo.android.speedtest'

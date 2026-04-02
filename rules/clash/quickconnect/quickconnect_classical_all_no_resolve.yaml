@@ -1,0 +1,15 @@
+# quickconnect - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (3 rules)
+  - 'DOMAIN,sns.synology.com'
+  - 'DOMAIN,account.synology.com'
+  - 'DOMAIN,global.quickconnect.cn'
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,quickconnect.to'
+  - 'DOMAIN-SUFFIX,quickconnect.com'
+  - 'DOMAIN-SUFFIX,download.synology.com'

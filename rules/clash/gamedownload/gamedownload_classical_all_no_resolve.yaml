@@ -1,0 +1,48 @@
+# gamedownload - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (36 rules)
+  - 'DOMAIN,xvcf1.xboxlive.com'
+  - 'DOMAIN,xvcf2.xboxlive.com'
+  - 'DOMAIN,eu.cdn.blizzard.com'
+  - 'DOMAIN,kr.cdn.blizzard.com'
+  - 'DOMAIN,level3.blizzard.com'
+  - 'DOMAIN,ssl-lvlt.cdn.ea.com'
+  - 'DOMAIN,steam.ru.qtlglb.com'
+  - 'DOMAIN,us.cdn.blizzard.com'
+  - 'DOMAIN,assets1.xboxlive.com'
+  - 'DOMAIN,assets2.xboxlive.com'
+  - 'DOMAIN,steam.eca.qtlglb.com'
+  - 'DOMAIN,origin-a.akamaihd.net'
+  - 'DOMAIN,steam.naeu.qtlglb.com'
+  - 'DOMAIN,download.dm.origin.com'
+  - 'DOMAIN,download.epicgames.com'
+  - 'DOMAIN,download2.epicgames.com'
+  - 'DOMAIN,download3.epicgames.com'
+  - 'DOMAIN,download4.epicgames.com'
+  - 'DOMAIN,packagespc.xboxlive.com'
+  - 'DOMAIN,steampipe.akamaized.net'
+  - 'DOMAIN,blzddist1-a.akamaihd.net'
+  - 'DOMAIN,client.hikarifield.co.jp'
+  - 'DOMAIN,content.cdp.bethesda.net'
+  - 'DOMAIN,download.cdp.bethesda.net'
+  - 'DOMAIN,blizzard.gcdn.cloudn.co.kr'
+  - 'DOMAIN,blzddistkr1-a.akamaihd.net'
+  - 'DOMAIN,download.hikarifield.co.jp'
+  - 'DOMAIN,steampipe-kr.akamaized.net'
+  - 'DOMAIN,fastly-download.epicgames.com'
+  - 'DOMAIN,edge.steam-dns.top.comcast.net'
+  - 'DOMAIN,steampipe-partner.akamaized.net'
+  - 'DOMAIN,steamusercontent-a.akamaihd.net'
+  - 'DOMAIN,epicgames-download1.akamaized.net'
+  - 'DOMAIN,gog-cdn-lumen.secure2.footprint.net'
+  - 'DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn'
+  - 'DOMAIN,gamedownloads-rockstargames-com.akamaized.net'
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,cdn.ubi.com'
+  - 'DOMAIN-SUFFIX,dyn.riotcdn.net'
+  - 'DOMAIN-SUFFIX,steamcontent.com'

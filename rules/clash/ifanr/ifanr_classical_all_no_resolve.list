@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (34 rules)
+# DOMAIN-SUFFIX (35 rules)
 DOMAIN-SUFFIX,app.so
 DOMAIN-SUFFIX,jmp.gd
 DOMAIN-SUFFIX,fabu.io
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,haomaishe.com
 DOMAIN-SUFFIX,ifanrprod.com
 DOMAIN-SUFFIX,ifanrprod.net
 DOMAIN-SUFFIX,socialbase.cn
+DOMAIN-SUFFIX,爱范儿.com
 DOMAIN-SUFFIX,appsolution.cc
 DOMAIN-SUFFIX,dongchehui.net
 DOMAIN-SUFFIX,ifanrcloud.com

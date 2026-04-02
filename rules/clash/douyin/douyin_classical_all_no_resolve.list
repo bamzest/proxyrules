@@ -3,6 +3,10 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN (2 rules)
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN,lf3-static.bytednsdoc.com
+
 # DOMAIN-SUFFIX (273 rules)
 DOMAIN-SUFFIX,xitu.io
 DOMAIN-SUFFIX,amemv.cn

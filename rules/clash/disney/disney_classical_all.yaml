@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (173 rules)
+  # DOMAIN-SUFFIX (172 rules)
   - 'DOMAIN-SUFFIX,go.com'
   - 'DOMAIN-SUFFIX,abc.com'
   - 'DOMAIN-SUFFIX,dtci.co'
@@ -53,6 +53,7 @@ payload:
   - 'DOMAIN-SUFFIX,dssedge.com'
   - 'DOMAIN-SUFFIX,espncdn.com'
   - 'DOMAIN-SUFFIX,hotstar.com'
+  - 'DOMAIN-SUFFIX,starott.com'
   - 'DOMAIN-SUFFIX,adobedtm.com'
   - 'DOMAIN-SUFFIX,babyzone.com'
   - 'DOMAIN-SUFFIX,disney.co.il'
@@ -63,6 +64,7 @@ payload:
   - 'DOMAIN-SUFFIX,disney.co.za'
   - 'DOMAIN-SUFFIX,disneyme.com'
   - 'DOMAIN-SUFFIX,edgedatg.com'
+  - 'DOMAIN-SUFFIX,starplus.com'
   - 'DOMAIN-SUFFIX,starwars.com'
   - 'DOMAIN-SUFFIX,disney.com.au'
   - 'DOMAIN-SUFFIX,disney.com.br'
@@ -71,7 +73,6 @@ payload:
   - 'DOMAIN-SUFFIX,disneynow.com'
   - 'DOMAIN-SUFFIX,dlp-media.com'
   - 'DOMAIN-SUFFIX,watchespn.com'
-  - 'DOMAIN-SUFFIX,abcnews.go.com'
   - 'DOMAIN-SUFFIX,disneybaby.com'
   - 'DOMAIN-SUFFIX,disneyplus.com'
   - 'DOMAIN-SUFFIX,hotstarext.com'
@@ -81,7 +82,6 @@ payload:
   - 'DOMAIN-SUFFIX,star-latam.com'
   - 'DOMAIN-SUFFIX,abc-studios.com'
   - 'DOMAIN-SUFFIX,bam.nr-data.net'
-  - 'DOMAIN-SUFFIX,cdn.unid.go.com'
   - 'DOMAIN-SUFFIX,disney-asia.com'
   - 'DOMAIN-SUFFIX,disney-plus.net'
   - 'DOMAIN-SUFFIX,disneyarena.com'
@@ -96,6 +96,7 @@ payload:
   - 'DOMAIN-SUFFIX,disneyiejobs.com'
   - 'DOMAIN-SUFFIX,disneyjunior.com'
   - 'DOMAIN-SUFFIX,disneylatino.com'
+  - 'DOMAIN-SUFFIX,hotstar-labs.com'
   - 'DOMAIN-SUFFIX,shops-disney.com'
   - 'DOMAIN-SUFFIX,starwarskids.com'
   - 'DOMAIN-SUFFIX,disney-studio.com'
@@ -161,12 +162,10 @@ payload:
   - 'DOMAIN-SUFFIX,thewaltdisneycompany.com'
   - 'DOMAIN-SUFFIX,20thcenturystudios.com.au'
   - 'DOMAIN-SUFFIX,20thcenturystudios.com.br'
-  - 'DOMAIN-SUFFIX,cdn.registerdisney.go.com'
   - 'DOMAIN-SUFFIX,disneychannelroadtrip.com'
   - 'DOMAIN-SUFFIX,disneyinternationalhd.com'
   - 'DOMAIN-SUFFIX,disneyjuniortreataday.com'
   - 'DOMAIN-SUFFIX,disneymagicmoments.gen.tr'
-  - 'DOMAIN-SUFFIX,espn.api.edge.bamgrid.com'
   - 'DOMAIN-SUFFIX,marvel10thanniversary.com'
   - 'DOMAIN-SUFFIX,disneymeetingsandevents.com'
   - 'DOMAIN-SUFFIX,marveldimensionofheroes.com'
