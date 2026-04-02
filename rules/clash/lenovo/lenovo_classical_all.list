@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (32 rules)
+# DOMAIN-SUFFIX (34 rules)
 DOMAIN-SUFFIX,lx.pub
 DOMAIN-SUFFIX,lx.run
 DOMAIN-SUFFIX,zui.cn
@@ -36,3 +36,5 @@ DOMAIN-SUFFIX,lenovocloudos.com
 DOMAIN-SUFFIX,thinkcloudlab.com
 DOMAIN-SUFFIX,lenovoeservice.com
 DOMAIN-SUFFIX,zhiliaowenda.com.cn
+DOMAIN-SUFFIX,联想职教集团.cn
+DOMAIN-SUFFIX,联想职教集团.com

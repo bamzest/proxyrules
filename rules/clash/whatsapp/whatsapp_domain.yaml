@@ -1,2 +1,6 @@
-# 无规则内容，自动生成占位
-payload: []
+payload:
+  - 'graph.facebook.com'
+  - '+.bintray.com'
+  - '+.whatsapp.biz'
+  - '+.whatsapp.com'
+  - '+.whatsapp.net'

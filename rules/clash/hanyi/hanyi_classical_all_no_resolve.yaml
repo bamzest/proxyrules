@@ -1,0 +1,18 @@
+# hanyi - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (2 rules)
+  - 'DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com'
+  - 'DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com'
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,ifont.cn'
+  - 'DOMAIN-SUFFIX,hanyi.com'
+  - 'DOMAIN-SUFFIX,joytype.com'
+  - 'DOMAIN-SUFFIX,hanyi.com.cn'
+  - 'DOMAIN-SUFFIX,fontstudio.cn'
+  - 'DOMAIN-SUFFIX,fontstar.com.cn'
+  - 'DOMAIN-SUFFIX,hellowebfont.com'

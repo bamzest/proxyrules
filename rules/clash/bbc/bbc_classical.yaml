@@ -5,6 +5,5 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (2 rules)
-  - 'DOMAIN-KEYWORD,bbcfmt'
+  # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,uk-live'

@@ -25,7 +25,7 @@ payload:
   - 'DOMAIN-SUFFIX,kugouipv6.com'
   - 'DOMAIN-SUFFIX,tingkanbao.com'
 
-  # IP-CIDR (90 rules)
+  # IP-CIDR (92 rules)
   - 'IP-CIDR,1.82.220.0/24,no-resolve'
   - 'IP-CIDR,101.71.122.0/24,no-resolve'
   - 'IP-CIDR,103.215.143.0/24,no-resolve'
@@ -40,6 +40,8 @@ payload:
   - 'IP-CIDR,112.51.125.0/24,no-resolve'
   - 'IP-CIDR,112.65.92.0/24,no-resolve'
   - 'IP-CIDR,112.84.104.0/24,no-resolve'
+  - 'IP-CIDR,112.90.228.0/24,no-resolve'
+  - 'IP-CIDR,112.90.229.0/24,no-resolve'
   - 'IP-CIDR,112.91.129.0/24,no-resolve'
   - 'IP-CIDR,113.107.112.0/24,no-resolve'
   - 'IP-CIDR,113.200.121.0/24,no-resolve'
@@ -115,4 +117,4 @@ payload:
   - 'IP-CIDR,61.48.115.0/24,no-resolve'
   - 'IP-CIDR,61.54.121.0/24,no-resolve'
   - 'IP-CIDR,61.54.7.0/24,no-resolve'
-  - 'IP-CIDR,112.90.228.0/23,no-resolve'
+  - 'IP-CIDR,125.64.107.13/11,no-resolve'

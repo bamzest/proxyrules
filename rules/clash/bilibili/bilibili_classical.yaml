@@ -4,11 +4,4 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-
-  # PROCESS-NAME (6 rules)
-  - 'PROCESS-NAME,tv.danmaku.bili'
-  - 'PROCESS-NAME,com.bilibili.comic'
-  - 'PROCESS-NAME,com.bilibili.app.in'
-  - 'PROCESS-NAME,com.bilibili.app.blue'
-  - 'PROCESS-NAME,tv.danmaku.bilibilihd'
-  - 'PROCESS-NAME,com.bilibili.comic.intl'
+  # 无规则内容，自动生成占位

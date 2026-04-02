@@ -20,13 +20,12 @@ payload:
   - 'DOMAIN,d27xxe7juh1us6.cloudfront.net'
   - 'DOMAIN,d3196yreox78o9.cloudfront.net'
 
-  # DOMAIN-SUFFIX (208 rules)
+  # DOMAIN-SUFFIX (207 rules)
   - 'DOMAIN-SUFFIX,aws'
   - 'DOMAIN-SUFFIX,imdb'
   - 'DOMAIN-SUFFIX,z.cn'
   - 'DOMAIN-SUFFIX,amazon'
   - 'DOMAIN-SUFFIX,kindle'
-  - 'DOMAIN-SUFFIX,ss2.us'
   - 'DOMAIN-SUFFIX,zappos'
   - 'DOMAIN-SUFFIX,a2z.com'
   - 'DOMAIN-SUFFIX,amzn.to'

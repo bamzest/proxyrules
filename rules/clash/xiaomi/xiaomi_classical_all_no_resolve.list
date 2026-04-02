@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (150 rules)
+# DOMAIN-SUFFIX (148 rules)
 DOMAIN-SUFFIX,mi.cn
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,mi0.cc
@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,mgslb.org
 DOMAIN-SUFFIX,mi-ae.com
 DOMAIN-SUFFIX,mi-ae.net
 DOMAIN-SUFFIX,mi.com.cn
-DOMAIN-SUFFIX,mi.中国
 DOMAIN-SUFFIX,micode.cn
 DOMAIN-SUFFIX,mieco.net
 DOMAIN-SUFFIX,mifile.cn
@@ -153,14 +152,11 @@ DOMAIN-SUFFIX,kssdata-yz2.kuaipandata.com
 DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com
 DOMAIN-SUFFIX,singapore01.kuaipandata.com
 DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com
-DOMAIN-SUFFIX,小米科技有限责任公司.中国
 
-# IP-CIDR (7 rules)
+# IP-CIDR (5 rules)
 IP-CIDR,110.43.63.242/32,no-resolve
 IP-CIDR,120.133.33.222/32,no-resolve
 IP-CIDR,47.241.176.221/32,no-resolve
-IP-CIDR,58.220.58.152/32,no-resolve
-IP-CIDR,58.220.58.153/32,no-resolve
 IP-CIDR,58.220.59.2/32,no-resolve
 IP-CIDR,58.220.58.152/31,no-resolve
 

@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (174 rules)
+# DOMAIN-SUFFIX (177 rules)
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,asto.re
 DOMAIN-SUFFIX,itun.es
@@ -122,6 +122,7 @@ DOMAIN-SUFFIX,itunesmatch.com
 DOMAIN-SUFFIX,itunesparty.com
 DOMAIN-SUFFIX,itunesradio.com
 DOMAIN-SUFFIX,itunesradio.rio
+DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,appleaccount.net
 DOMAIN-SUFFIX,appleappstore.cn
 DOMAIN-SUFFIX,appleappstore.tv
@@ -146,6 +147,7 @@ DOMAIN-SUFFIX,appleone.community
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,itunesradio.com.cn
+DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,appleid-applemx.com
 DOMAIN-SUFFIX,applepaycash.com.cn
 DOMAIN-SUFFIX,applepaysupplies.cn
@@ -174,6 +176,7 @@ DOMAIN-SUFFIX,12diasderegalosdeitunes.co.cr
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ni
 DOMAIN-SUFFIX,12diasderegalosdeitunes.co.ve
 DOMAIN-SUFFIX,applepaymerchantsupplies.info
+DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.co
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.hn
 DOMAIN-SUFFIX,12diasderegalosdeitunes.com.ni
