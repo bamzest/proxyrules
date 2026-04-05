@@ -113,7 +113,6 @@ payload:
   - '+.2.0.192.in-addr.arpa'
   - '+.254.169.in-addr.arpa'
   - '+.localhost.sec.qq.com'
-  - '+.test.steampowered.com'
   - '+.113.0.203.in-addr.arpa'
   - '+.100.51.198.in-addr.arpa'
   - '+.8.b.d.0.1.0.0.2.ip6.arpa'

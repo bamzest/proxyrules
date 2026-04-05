@@ -8245,7 +8245,7 @@ payload:
   - 'IP-CIDR,61.128.0.0/10,no-resolve'
   - 'IP-CIDR,8.128.0.0/10,no-resolve'
 
-  # IP-CIDR6 (4051 rules)
+  # IP-CIDR6 (4054 rules)
   - 'IP-CIDR6,::ffff:113.248.172.245/128,no-resolve'
   - 'IP-CIDR6,::ffff:114.235.96.186/128,no-resolve'
   - 'IP-CIDR6,::ffff:115.236.128.112/128,no-resolve'
@@ -9785,6 +9785,7 @@ payload:
   - 'IP-CIDR6,2a12:3fc2:e662::/48,no-resolve'
   - 'IP-CIDR6,2a12:3fc2:e664::/48,no-resolve'
   - 'IP-CIDR6,2a12:3fc2:e670::/48,no-resolve'
+  - 'IP-CIDR6,2a12:cb47:ffff::/48,no-resolve'
   - 'IP-CIDR6,2a12:dd47:db2c::/48,no-resolve'
   - 'IP-CIDR6,2a13:df87:5030::/48,no-resolve'
   - 'IP-CIDR6,2a14:67c1:a110::/48,no-resolve'
@@ -9809,6 +9810,7 @@ payload:
   - 'IP-CIDR6,2a14:7586:6104::/48,no-resolve'
   - 'IP-CIDR6,2a14:7586:6107::/48,no-resolve'
   - 'IP-CIDR6,2a14:7586:6110::/48,no-resolve'
+  - 'IP-CIDR6,2a14:7dc0:506::/48,no-resolve'
   - 'IP-CIDR6,2c0f:f7a8:8011::/48,no-resolve'
   - 'IP-CIDR6,2c0f:f7a8:8050::/48,no-resolve'
   - 'IP-CIDR6,2c0f:f7a8:805f::/48,no-resolve'
@@ -10025,6 +10027,7 @@ payload:
   - 'IP-CIDR6,2a0f:1cc5:130::/44,no-resolve'
   - 'IP-CIDR6,2a0f:1cc5:140::/44,no-resolve'
   - 'IP-CIDR6,2a0f:1cc5:2660::/44,no-resolve'
+  - 'IP-CIDR6,2a0f:6284:4c00::/44,no-resolve'
   - 'IP-CIDR6,2a0f:6284:4c20::/44,no-resolve'
   - 'IP-CIDR6,2a0f:6284:4c60::/44,no-resolve'
   - 'IP-CIDR6,2a0f:6284:4ca0::/44,no-resolve'

@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17509 rules)
+  # DOMAIN-SUFFIX (17510 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -4477,6 +4477,7 @@ payload:
   - 'DOMAIN-SUFFIX,oracle.com'
   - 'DOMAIN-SUFFIX,orgasm.com'
   - 'DOMAIN-SUFFIX,orzqwq.com'
+  - 'DOMAIN-SUFFIX,osmand.net'
   - 'DOMAIN-SUFFIX,ospray.net'
   - 'DOMAIN-SUFFIX,ospray.org'
   - 'DOMAIN-SUFFIX,otcbtc.com'
