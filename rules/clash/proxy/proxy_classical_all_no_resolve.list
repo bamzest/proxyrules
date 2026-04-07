@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17510 rules)
+# DOMAIN-SUFFIX (17514 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -266,6 +266,9 @@ DOMAIN-SUFFIX,ddo.jp
 DOMAIN-SUFFIX,dgg.gg
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,dmm.hk
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,doh.sb
+DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,ehv.cc
 DOMAIN-SUFFIX,err.sh
@@ -10840,6 +10843,7 @@ DOMAIN-SUFFIX,appdynamics.jp
 DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,arabysexy.mobi
 DOMAIN-SUFFIX,arcadewank.com
+DOMAIN-SUFFIX,archive-it.org
 DOMAIN-SUFFIX,arcolinux.info
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,artstation.com
