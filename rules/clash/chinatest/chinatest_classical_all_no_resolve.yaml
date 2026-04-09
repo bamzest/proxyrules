@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (134 rules)
+  # DOMAIN (136 rules)
   - 'DOMAIN,265.com'
   - 'DOMAIN,2mdn.net'
   - 'DOMAIN,c.pki.goog'
@@ -86,6 +86,7 @@ payload:
   - 'DOMAIN,gog-cdn-fastly.gog.com'
   - 'DOMAIN,scanservice1.qcpp1.net'
   - 'DOMAIN,supportassist.dell.com'
+  - 'DOMAIN,update.crashlytics.com'
   - 'DOMAIN,www.destinationurl.com'
   - 'DOMAIN,gbxgateway-dev.dell.com'
   - 'DOMAIN,blzddist1-a.akamaihd.net'
@@ -128,6 +129,7 @@ payload:
   - 'DOMAIN,images-cn.ssl-images-amazon.com'
   - 'DOMAIN,ksn-verdict.geoksn.kaspersky.com'
   - 'DOMAIN,redirector.offline-maps.gvt1.com'
+  - 'DOMAIN,firebase-settings.crashlytics.com'
   - 'DOMAIN,images-cn-8.ssl-images-amazon.com'
   - 'DOMAIN,ksn-dc1-cert.geoksn.kaspersky.com'
   - 'DOMAIN,ksn-dc1-file.geoksn.kaspersky.com'
@@ -140,7 +142,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (118255 rules)
+  # DOMAIN-SUFFIX (118254 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -102266,7 +102268,6 @@ payload:
   - 'DOMAIN-SUFFIX,cqshoucheng.com'
   - 'DOMAIN-SUFFIX,cqtresearch.com'
   - 'DOMAIN-SUFFIX,cqzhihaolaw.com'
-  - 'DOMAIN-SUFFIX,crashlytics.com'
   - 'DOMAIN-SUFFIX,crazymoneys.com'
   - 'DOMAIN-SUFFIX,crazyones.world'
   - 'DOMAIN-SUFFIX,creation-bj.com'

@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17514 rules)
+# DOMAIN-SUFFIX (17515 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -4333,6 +4333,7 @@ DOMAIN-SUFFIX,minihk.com
 DOMAIN-SUFFIX,mirror.xyz
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,missiu.com
+DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,mitbbs.com
 DOMAIN-SUFFIX,mixero.com
 DOMAIN-SUFFIX,mixpod.com

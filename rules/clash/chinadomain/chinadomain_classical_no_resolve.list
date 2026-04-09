@@ -33,7 +33,7 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,chinacache
 
-# IP-CIDR (8207 rules)
+# IP-CIDR (8214 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
@@ -1818,6 +1818,8 @@ IP-CIDR,103.96.140.0/24,no-resolve
 IP-CIDR,103.99.178.0/24,no-resolve
 IP-CIDR,104.166.103.0/24,no-resolve
 IP-CIDR,104.192.110.0/24,no-resolve
+IP-CIDR,104.219.211.0/24,no-resolve
+IP-CIDR,104.233.159.0/24,no-resolve
 IP-CIDR,104.27.168.0/24,no-resolve
 IP-CIDR,106.0.0.0/24,no-resolve
 IP-CIDR,107.151.212.0/24,no-resolve
@@ -2044,6 +2046,7 @@ IP-CIDR,194.127.229.0/24,no-resolve
 IP-CIDR,194.138.136.0/24,no-resolve
 IP-CIDR,194.138.245.0/24,no-resolve
 IP-CIDR,194.156.99.0/24,no-resolve
+IP-CIDR,194.231.140.0/24,no-resolve
 IP-CIDR,196.19.225.0/24,no-resolve
 IP-CIDR,196.197.67.0/24,no-resolve
 IP-CIDR,196.198.67.0/24,no-resolve
@@ -2876,6 +2879,7 @@ IP-CIDR,31.40.214.0/24,no-resolve
 IP-CIDR,35.71.107.0/24,no-resolve
 IP-CIDR,36.37.39.0/24,no-resolve
 IP-CIDR,38.105.24.0/24,no-resolve
+IP-CIDR,38.12.3.0/24,no-resolve
 IP-CIDR,38.134.56.0/24,no-resolve
 IP-CIDR,38.181.34.0/24,no-resolve
 IP-CIDR,38.196.176.0/24,no-resolve
@@ -3360,6 +3364,9 @@ IP-CIDR,103.99.40.0/23,no-resolve
 IP-CIDR,104.167.18.0/23,no-resolve
 IP-CIDR,104.192.108.0/23,no-resolve
 IP-CIDR,106.0.2.0/23,no-resolve
+IP-CIDR,107.148.150.0/23,no-resolve
+IP-CIDR,107.148.84.0/23,no-resolve
+IP-CIDR,107.149.198.0/23,no-resolve
 IP-CIDR,107.153.92.0/23,no-resolve
 IP-CIDR,107.168.4.0/23,no-resolve
 IP-CIDR,11.210.240.0/23,no-resolve
@@ -6069,6 +6076,7 @@ IP-CIDR,103.99.232.0/21,no-resolve
 IP-CIDR,103.99.56.0/21,no-resolve
 IP-CIDR,104.167.24.0/21,no-resolve
 IP-CIDR,104.207.40.0/21,no-resolve
+IP-CIDR,104.233.144.0/21,no-resolve
 IP-CIDR,104.237.80.0/21,no-resolve
 IP-CIDR,106.0.8.0/21,no-resolve
 IP-CIDR,110.34.40.0/21,no-resolve
@@ -7091,7 +7099,6 @@ IP-CIDR,210.56.192.0/19,no-resolve
 IP-CIDR,210.79.224.0/19,no-resolve
 IP-CIDR,218.100.96.0/19,no-resolve
 IP-CIDR,218.185.192.0/19,no-resolve
-IP-CIDR,218.252.128.0/19,no-resolve
 IP-CIDR,221.133.224.0/19,no-resolve
 IP-CIDR,221.199.224.0/19,no-resolve
 IP-CIDR,27.109.32.0/19,no-resolve
