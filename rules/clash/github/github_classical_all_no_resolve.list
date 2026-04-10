@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (98 rules)
+# DOMAIN (102 rules)
 DOMAIN,ghcr.io
 DOMAIN,github.com
 DOMAIN,api.github.com
@@ -102,6 +102,10 @@ DOMAIN,pipelinesproxwus31.actions.githubusercontent.com
 DOMAIN,run-actions-1-azure-eastus.actions.githubusercontent.com
 DOMAIN,run-actions-2-azure-eastus.actions.githubusercontent.com
 DOMAIN,run-actions-3-azure-eastus.actions.githubusercontent.com
+DOMAIN,hosted-compute-request-orchestrator-prod-eus-01.githubapp.com
+DOMAIN,hosted-compute-request-orchestrator-prod-eus-02.githubapp.com
+DOMAIN,hosted-compute-request-orchestrator-prod-iad-01.githubapp.com
+DOMAIN,hosted-compute-request-orchestrator-prod-iad-02.githubapp.com
 
 # DOMAIN-SUFFIX (40 rules)
 DOMAIN-SUFFIX,git.io
