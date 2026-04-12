@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27191 rules)
+# DOMAIN (27211 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -9833,6 +9833,7 @@ DOMAIN,dm.hxzdhn.com
 DOMAIN,dmiqfxlnf.com
 DOMAIN,dmtracker.com
 DOMAIN,dmtu.0m31a.cn
+DOMAIN,dns.iqiyi.com
 DOMAIN,dnzevkqpk.com
 DOMAIN,dochyedu.info
 DOMAIN,doglickz.club
@@ -12554,6 +12555,7 @@ DOMAIN,dmp.rtbsrv.com
 DOMAIN,dmpcounter.com
 DOMAIN,dnkwgzmuxv.com
 DOMAIN,dns.wechat.com
+DOMAIN,dns2.q2cdn.com
 DOMAIN,dodi.86zhnc.cn
 DOMAIN,dogwuyrspt.com
 DOMAIN,dojomojo.ninja
@@ -14049,6 +14051,7 @@ DOMAIN,tossoffads.com
 DOMAIN,toutoucao1.com
 DOMAIN,toutoucao7.com
 DOMAIN,toutoucao8.com
+DOMAIN,tp2p.kg.qq.com
 DOMAIN,tpqweavlol.com
 DOMAIN,tr.jianshu.com
 DOMAIN,tracdelight.io
@@ -14794,6 +14797,7 @@ DOMAIN,allosponsor.com
 DOMAIN,allotraffic.com
 DOMAIN,alsoknowsit.com
 DOMAIN,ambienetics.com
+DOMAIN,amdc.alipay.com
 DOMAIN,analyticsip.net
 DOMAIN,analyticson.com
 DOMAIN,anbalxkcpwa.com
@@ -22258,6 +22262,7 @@ DOMAIN,twcouponcenter.com
 DOMAIN,twittercounter.com
 DOMAIN,twmall.sexyno1.com
 DOMAIN,twngyyzvhzaqtj.com
+DOMAIN,twns.p2ptun.qq.com
 DOMAIN,txwfpcfdgepzmp.com
 DOMAIN,txyylwegpdfsda.com
 DOMAIN,tydd.hunterwish.cn
@@ -23306,6 +23311,7 @@ DOMAIN,turn.com.akadns.net
 DOMAIN,twinpinenetwork.com
 DOMAIN,typeofmarijuana.com
 DOMAIN,typicalairplane.com
+DOMAIN,ucdc.upaas.quark.cn
 DOMAIN,unarmedindustry.com
 DOMAIN,union.duizhuang.com
 DOMAIN,update.kmpmedia.net
@@ -23750,6 +23756,7 @@ DOMAIN,horizon.sailthru.com
 DOMAIN,hosting-controlpr.tk
 DOMAIN,hostingcloud.science
 DOMAIN,httpdns.baidubce.com
+DOMAIN,httpdns.n.shifen.com
 DOMAIN,hy-brasil.mhwang.com
 DOMAIN,iadmat.nosdn.127.net
 DOMAIN,iasbetaffiliates.com
@@ -23787,6 +23794,7 @@ DOMAIN,js.static.tebaidu.cn
 DOMAIN,jump.mycctvmedia.com
 DOMAIN,justorstonsmajo.info
 DOMAIN,kischartsrelimit.pro
+DOMAIN,kuaishou.httpdns.pro
 DOMAIN,landongs.posdone.com
 DOMAIN,lb3d.tj.ijinshan.com
 DOMAIN,leoneaningtoldre.pro
@@ -24283,9 +24291,11 @@ DOMAIN,direct.wap.zol.com.cn
 DOMAIN,djiboutdifficial.info
 DOMAIN,dmgmediaprivacy.co.uk
 DOMAIN,dmodernedindivin.info
+DOMAIN,dns.qiyipic.iqiyi.com
 DOMAIN,doktester.orgfree.com
 DOMAIN,domainadvertising.com
 DOMAIN,dotmailer-surveys.com
+DOMAIN,dotserver.douyucdn.cn
 DOMAIN,downloadthesefile.com
 DOMAIN,dptr.areyouahuman.com
 DOMAIN,e-ad-monitor.huya.com
@@ -24357,6 +24367,7 @@ DOMAIN,hosting-controlid1.tk
 DOMAIN,hosting-controlpin.tk
 DOMAIN,hotelscombined.com.au
 DOMAIN,htopensationclie.info
+DOMAIN,httpdns.bilivideo.com
 DOMAIN,httpdns.c.cdnhwc2.com
 DOMAIN,httpdns.music.163.com
 DOMAIN,httpdns.n.netease.com
@@ -25337,6 +25348,7 @@ DOMAIN,mobileconfig.sascdn.com
 DOMAIN,mookie1.com.edgekey.net
 DOMAIN,moonlightingapi-ads.com
 DOMAIN,msquaredproductions.com
+DOMAIN,music.httpdns.c.163.com
 DOMAIN,myhome.j8inn1zektoe.com
 DOMAIN,n5df.getnewsupdate.info
 DOMAIN,native.sharethrough.com
@@ -25375,6 +25387,7 @@ DOMAIN,realsecuredredirect.com
 DOMAIN,registration.gimbal.com
 DOMAIN,relatable.inquisitr.com
 DOMAIN,reportlog.dftoutiao.com
+DOMAIN,resolver.msg.xiaomi.net
 DOMAIN,riansociationentio.info
 DOMAIN,rumpelstiltskinhead.com
 DOMAIN,salefile.googlecode.com
@@ -25515,6 +25528,7 @@ DOMAIN,api.developer.xiaomi.com
 DOMAIN,api.installer.xiaomi.com
 DOMAIN,api.mobitech-content.xyz
 DOMAIN,api.videometrics.ted.com
+DOMAIN,apidns-js.kwd.inkuai.com
 DOMAIN,appconfig.cmgdigital.com
 DOMAIN,arcadebannerexchange.org
 DOMAIN,autoaffiliatenetwork.com
@@ -25594,6 +25608,7 @@ DOMAIN,lafontainedessenterue.cn
 DOMAIN,leserservice-tracking.de
 DOMAIN,links.offers.mindbody.io
 DOMAIN,liveresources.mensxp.com
+DOMAIN,lofter.httpdns.c.163.com
 DOMAIN,logoshejishi.mairuan.com
 DOMAIN,lookup.api.bsb.baidu.com
 DOMAIN,mailmarketingmachine.com
@@ -25990,6 +26005,7 @@ DOMAIN,www.easyrecoverychina.com
 DOMAIN,www.nothingcompares.co.uk
 DOMAIN,www.reallatinaexposed.com
 DOMAIN,xia.easyrecoverychina.com
+DOMAIN,yuyin-httpdns.gslb.yy.com
 DOMAIN,yyapp-httpdns.gslb.yy.com
 DOMAIN,zvsuhljiha-a.akamaihd.net
 DOMAIN,activity-ag.awemeughun.com
@@ -26198,6 +26214,8 @@ DOMAIN,gylra.cruisingsmallship.com
 DOMAIN,healthaffiliatesnetwork.com
 DOMAIN,httpdns.danuoyi.tbcache.com
 DOMAIN,httpdns.push.heytapmobi.com
+DOMAIN,httpdns.push.oppomobile.com
+DOMAIN,httpdnsmultiapi.meituan.com
 DOMAIN,ignifyecom.s3.amazonaws.com
 DOMAIN,images.engage.televerde.com
 DOMAIN,images.reldirect.lenovo.com
@@ -26784,6 +26802,8 @@ DOMAIN,downloadandsave-a.akamaihd.net
 DOMAIN,ds-www.addthis.com.edgekey.net
 DOMAIN,eecky.butlerelectricsupply.com
 DOMAIN,gdpr-settings.s3.amazonaws.com
+DOMAIN,httpdns.platform.dbankcloud.cn
+DOMAIN,httpdnsmultiapivip.meituan.com
 DOMAIN,i16-tb.isnssdk.com.edgekey.net
 DOMAIN,keemy.butlerelectricsupply.com
 DOMAIN,lightstep-collector.api.ua.com
@@ -286474,7 +286494,7 @@ DOMAIN-SUFFIX,d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rack
 DOMAIN-SUFFIX,hawkeye-data-production.sciencemag.org.s3-website-us-east-1.amazonaws.com
 DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 
-# DOMAIN-KEYWORD (290 rules)
+# DOMAIN-KEYWORD (292 rules)
 DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,fzlm
 DOMAIN-KEYWORD,jads
@@ -286521,6 +286541,7 @@ DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,gettate
 DOMAIN-KEYWORD,histats
+DOMAIN-KEYWORD,httpdns
 DOMAIN-KEYWORD,ioslog.
 DOMAIN-KEYWORD,juruigj
 DOMAIN-KEYWORD,lkme.cc
@@ -286548,6 +286569,7 @@ DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,flightsy
 DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,httpsdns
 DOMAIN-KEYWORD,ios-log.
 DOMAIN-KEYWORD,itabelog
 DOMAIN-KEYWORD,mighbest
@@ -286766,7 +286788,7 @@ DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com
 DOMAIN-KEYWORD,telemetry.officeapps.live.com
 DOMAIN-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com
 
-# IP-CIDR (516 rules)
+# IP-CIDR (554 rules)
 IP-CIDR,1.3.0.10/32
 IP-CIDR,101.124.19.122/32
 IP-CIDR,101.201.101.166/32
@@ -286776,6 +286798,7 @@ IP-CIDR,101.227.200.11/32
 IP-CIDR,101.227.200.28/32
 IP-CIDR,101.227.97.240/32
 IP-CIDR,101.251.211.235/32
+IP-CIDR,101.32.104.104/32
 IP-CIDR,101.35.204.35/32
 IP-CIDR,101.36.166.16/32
 IP-CIDR,103.21.91.144/32
@@ -286798,6 +286821,9 @@ IP-CIDR,106.11.172.5/32
 IP-CIDR,106.11.249.99/32
 IP-CIDR,106.11.25.31/32
 IP-CIDR,106.187.95.251/32
+IP-CIDR,106.39.206.21/32
+IP-CIDR,106.39.206.25/32
+IP-CIDR,106.39.206.70/32
 IP-CIDR,106.75.231.48/32
 IP-CIDR,106.75.65.90/32
 IP-CIDR,106.75.65.92/32
@@ -286811,10 +286837,16 @@ IP-CIDR,108.171.248.234/32
 IP-CIDR,109.123.233.251/32
 IP-CIDR,111.11.208.2/32
 IP-CIDR,111.175.221.58/32
+IP-CIDR,111.206.147.156/32
+IP-CIDR,111.206.147.210/32
+IP-CIDR,111.206.148.27/32
 IP-CIDR,111.3.78.103/32
 IP-CIDR,111.30.135.167/32
 IP-CIDR,111.30.159.168/32
 IP-CIDR,111.30.176.111/32
+IP-CIDR,111.31.201.194/32
+IP-CIDR,111.31.241.140/32
+IP-CIDR,111.31.241.76/32
 IP-CIDR,111.73.45.147/32
 IP-CIDR,112.124.115.215/32
 IP-CIDR,112.132.230.179/32
@@ -286834,6 +286866,9 @@ IP-CIDR,115.236.121.195/32
 IP-CIDR,115.236.121.51/32
 IP-CIDR,115.29.141.121/32
 IP-CIDR,115.29.247.48/32
+IP-CIDR,116.128.177.249/32
+IP-CIDR,116.130.224.150/32
+IP-CIDR,116.130.224.205/32
 IP-CIDR,116.206.22.7/32
 IP-CIDR,116.55.227.242/32
 IP-CIDR,117.121.49.100/32
@@ -286841,6 +286876,7 @@ IP-CIDR,117.144.242.32/32
 IP-CIDR,117.149.237.240/32
 IP-CIDR,117.177.248.17/32
 IP-CIDR,117.177.248.41/32
+IP-CIDR,117.185.247.73/32
 IP-CIDR,117.25.133.209/32
 IP-CIDR,117.71.105.23/32
 IP-CIDR,117.92.229.188/32
@@ -286851,6 +286887,8 @@ IP-CIDR,118.144.88.216/32
 IP-CIDR,118.89.204.198/32
 IP-CIDR,119.18.193.135/32
 IP-CIDR,119.29.207.87/32
+IP-CIDR,119.29.29.98/32
+IP-CIDR,119.29.29.99/32
 IP-CIDR,119.4.249.166/32
 IP-CIDR,120.132.57.41/32
 IP-CIDR,120.132.63.203/32
@@ -286881,6 +286919,9 @@ IP-CIDR,122.229.29.89/32
 IP-CIDR,122.229.8.47/32
 IP-CIDR,123.125.81.12/32
 IP-CIDR,123.129.254.11/32
+IP-CIDR,123.151.48.171/32
+IP-CIDR,123.151.48.193/32
+IP-CIDR,123.151.48.208/32
 IP-CIDR,123.151.54.50/32
 IP-CIDR,123.56.152.96/32
 IP-CIDR,123.56.194.11/32
@@ -286963,6 +287004,7 @@ IP-CIDR,172.255.6.59/32
 IP-CIDR,173.208.177.227/32
 IP-CIDR,174.139.53.195/32
 IP-CIDR,180.153.103.224/32
+IP-CIDR,180.153.202.85/32
 IP-CIDR,180.166.52.24/32
 IP-CIDR,180.168.41.175/32
 IP-CIDR,180.76.155.58/32
@@ -286978,6 +287020,7 @@ IP-CIDR,182.61.194.7/32
 IP-CIDR,182.92.81.104/32
 IP-CIDR,183.131.79.130/32
 IP-CIDR,183.131.79.30/32
+IP-CIDR,183.192.196.31/32
 IP-CIDR,183.207.232.253/32
 IP-CIDR,183.214.3.24/32
 IP-CIDR,183.221.242.172/32
@@ -286987,6 +287030,7 @@ IP-CIDR,183.59.53.237/32
 IP-CIDR,185.149.120.173/32
 IP-CIDR,185.165.169.108/32
 IP-CIDR,185.193.38.148/32
+IP-CIDR,186.76.76.200/32
 IP-CIDR,188.42.84.110/32
 IP-CIDR,188.42.84.137/32
 IP-CIDR,188.42.84.159/32
@@ -287032,6 +287076,8 @@ IP-CIDR,203.195.121.40/32
 IP-CIDR,203.195.121.46/32
 IP-CIDR,203.195.121.70/32
 IP-CIDR,203.195.121.74/32
+IP-CIDR,203.205.129.102/32
+IP-CIDR,203.205.234.132/32
 IP-CIDR,203.205.239.44/32
 IP-CIDR,203.205.255.16/32
 IP-CIDR,205.209.138.102/32
@@ -287063,6 +287109,7 @@ IP-CIDR,219.234.83.60/32
 IP-CIDR,220.115.251.25/32
 IP-CIDR,220.165.8.172/32
 IP-CIDR,220.165.8.174/32
+IP-CIDR,220.196.159.73/32
 IP-CIDR,220.196.52.141/32
 IP-CIDR,220.250.64.225/32
 IP-CIDR,220.250.64.228/32
@@ -287167,6 +287214,9 @@ IP-CIDR,35.239.57.233/32
 IP-CIDR,37.1.209.213/32
 IP-CIDR,37.1.213.100/32
 IP-CIDR,39.107.15.115/32
+IP-CIDR,39.156.140.245/32
+IP-CIDR,39.156.140.30/32
+IP-CIDR,39.156.140.47/32
 IP-CIDR,39.97.128.148/32
 IP-CIDR,39.97.130.51/32
 IP-CIDR,42.123.125.237/32
@@ -287175,6 +287225,12 @@ IP-CIDR,42.187.182.123/32
 IP-CIDR,42.187.184.154/32
 IP-CIDR,42.51.146.207/32
 IP-CIDR,42.81.232.18/32
+IP-CIDR,43.130.30.237/32
+IP-CIDR,43.130.30.240/32
+IP-CIDR,43.137.153.151/32
+IP-CIDR,43.137.159.31/32
+IP-CIDR,43.152.112.101/32
+IP-CIDR,43.153.248.120/32
 IP-CIDR,44.228.85.26/32
 IP-CIDR,45.32.105.134/32
 IP-CIDR,45.34.240.72/32
@@ -287202,6 +287258,7 @@ IP-CIDR,60.190.139.164/32
 IP-CIDR,60.191.124.196/32
 IP-CIDR,60.191.124.236/32
 IP-CIDR,60.191.124.252/32
+IP-CIDR,60.28.172.100/32
 IP-CIDR,61.129.70.132/32
 IP-CIDR,61.132.216.232/32
 IP-CIDR,61.132.221.146/32
@@ -287209,6 +287266,7 @@ IP-CIDR,61.132.255.212/32
 IP-CIDR,61.139.8.101/32
 IP-CIDR,61.139.8.104/32
 IP-CIDR,61.147.184.18/32
+IP-CIDR,61.151.231.157/32
 IP-CIDR,61.152.223.15/32
 IP-CIDR,61.160.200.223/32
 IP-CIDR,61.160.200.242/32
@@ -287222,6 +287280,7 @@ IP-CIDR,69.28.57.245/32
 IP-CIDR,74.117.182.77/32
 IP-CIDR,77.162.125.199/32
 IP-CIDR,78.140.131.214/32
+IP-CIDR,81.71.61.216/32
 IP-CIDR,88.42.84.136/32
 IP-CIDR,113.12.83.4/31
 IP-CIDR,119.29.29.98/31
@@ -287282,10 +287341,14 @@ IP-CIDR,203.107.1.0/24
 IP-CIDR,221.179.140.0/24
 IP-CIDR,221.179.183.0/24
 IP-CIDR,221.179.191.0/24
+IP-CIDR,118.89.204.198/23
 IP-CIDR,114.119.160.0/21
 
-# IP-CIDR6 (4 rules)
+# IP-CIDR6 (7 rules)
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
 IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128
+IP-CIDR6,2402:4e00:8030:1::17/128
 IP-CIDR6,2402:db40:5100:1011::5/128
+IP-CIDR6,2408:8711:10:10::20/128
+IP-CIDR6,2409:8702:4860:10::4d/128
 IP-CIDR6,240e:928:1400:10::25/128
