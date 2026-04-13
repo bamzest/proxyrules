@@ -1,6 +1,7 @@
 payload:
   - 'asusrouter.com'
   - 'router.asus.com'
+  - 'local.adguard.org'
   - 'oasisauth.h3c.com'
   - 'www.asusrouter.com'
   - 'instant.arubanetworks.com'
@@ -118,4 +119,5 @@ payload:
   - '+.8.b.d.0.1.0.0.2.ip6.arpa'
   - '+.localhost.ptlogin2.qq.com'
   - '+.255.255.255.255.in-addr.arpa'
+  - '+.kis.v2.scr.kaspersky-labs.com'
   - '+.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'

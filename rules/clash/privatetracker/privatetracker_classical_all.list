@@ -3,19 +3,22 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (117 rules)
+# DOMAIN (120 rules)
 DOMAIN,evan.im
 DOMAIN,ftp.pet
 DOMAIN,004430.xyz
 DOMAIN,bt.rer.lol
+DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
+DOMAIN,bt.okmp3.ru
 DOMAIN,opentor.org
-DOMAIN,66691337.xyz
+DOMAIN,explodie.org
 DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
 DOMAIN,tr.abiir.top
 DOMAIN,tr.nyacat.pw
 DOMAIN,uabits.today
+DOMAIN,open.dstud.io
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.qu.ax
 DOMAIN,t.overflow.biz
@@ -24,13 +27,14 @@ DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.plx.im
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
+DOMAIN,bt1.archive.org
+DOMAIN,bt2.archive.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.stealth.si
 DOMAIN,p4p.arenabg.com
 DOMAIN,tracker.nyaa.vc
 DOMAIN,tracker.t-1.org
 DOMAIN,tracker1.520.jp
-DOMAIN,wolf.parrot.run
 DOMAIN,www.nartlof.com
 DOMAIN,bvarf.tracker.sh
 DOMAIN,leet-tracker.moe
@@ -43,10 +47,10 @@ DOMAIN,tracker.dler.org
 DOMAIN,tracker.fnix.net
 DOMAIN,tracker.hismz.cn
 DOMAIN,tracker.kuroy.me
-DOMAIN,tracker.waaa.moe
 DOMAIN,tracker3.ctix.cn
 DOMAIN,exodus.desync.com
 DOMAIN,shahidrazi.online
+DOMAIN,tracker.23794.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.exe.in.th
@@ -56,11 +60,11 @@ DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker2.dler.org
 DOMAIN,6ahddutb1ucc3cp.ru
-DOMAIN,colibri.parrot.run
 DOMAIN,lucke.fenesisu.moe
 DOMAIN,martin-gebhardt.eu
 DOMAIN,torrentclub.online
 DOMAIN,tracker.004430.xyz
+DOMAIN,tracker.cangku.moe
 DOMAIN,tracker.moeblog.cn
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.renfei.net
@@ -76,25 +80,23 @@ DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.gcrenwp.top
-DOMAIN,tracker.iperson.xyz
-DOMAIN,tracker.therarbg.to
 DOMAIN,tracker.wepzone.net
 DOMAIN,tracker.wildkat.net
 DOMAIN,tracker.yggleak.top
 DOMAIN,retracker.hotplug.ru
-DOMAIN,tracker.cutie.dating
 DOMAIN,tracker.filemail.com
 DOMAIN,tracker.ixuexi.click
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.tryhackx.org
-DOMAIN,tracker1.myporn.club
 DOMAIN,bandito.byterunner.io
 DOMAIN,tracker.playground.ru
+DOMAIN,trackthis.cyber.pz.it
 DOMAIN,coeus.torrentonline.cc
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.opentrackr.org
+DOMAIN,tracker.pcfreetime.com
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,opentracker.8880085.xyz
@@ -107,9 +109,10 @@ DOMAIN,tracker.torrust-demo.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ns575949.ip-51-222-82.net
+DOMAIN,tracker-de-2.cutie.dating
 DOMAIN,tracker.darkness.services
+DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.openwebtorrent.com
-DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,yuptracker-eu.gaijinent.com
 DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
