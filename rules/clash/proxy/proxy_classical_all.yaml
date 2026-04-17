@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17517 rules)
+  # DOMAIN-SUFFIX (17518 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -3586,6 +3586,7 @@ payload:
   - 'DOMAIN-SUFFIX,avgod.club'
   - 'DOMAIN-SUFFIX,avhome.one'
   - 'DOMAIN-SUFFIX,avinin.com'
+  - 'DOMAIN-SUFFIX,avistaz.to'
   - 'DOMAIN-SUFFIX,avmoo.casa'
   - 'DOMAIN-SUFFIX,avmoo.cyou'
   - 'DOMAIN-SUFFIX,avpanda.cc'

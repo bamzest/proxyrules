@@ -118874,7 +118874,7 @@ payload:
   - 'DOMAIN-KEYWORD,.tmall.com'
   - 'DOMAIN-KEYWORD,chinacache'
 
-  # IP-CIDR (8202 rules)
+  # IP-CIDR (8201 rules)
   - 'IP-CIDR,0.0.0.0/32'
   - 'IP-CIDR,1.12.12.12/32'
   - 'IP-CIDR,1.245.74.5/32'
@@ -120702,7 +120702,6 @@ payload:
   - 'IP-CIDR,138.32.244.0/24'
   - 'IP-CIDR,139.138.230.0/24'
   - 'IP-CIDR,139.187.32.0/24'
-  - 'IP-CIDR,14.238.34.0/24'
   - 'IP-CIDR,14.255.16.0/24'
   - 'IP-CIDR,14.255.238.0/24'
   - 'IP-CIDR,14.255.249.0/24'
@@ -128750,6 +128749,7 @@ payload:
   - 'IP-CIDR6,2610:a1:3078::/46'
   - 'IP-CIDR6,2a09:7c45:4::/46'
   - 'IP-CIDR6,2a0e:7580:4594::/46'
+  - 'IP-CIDR6,2a0f:1cc5:14::/46'
   - 'IP-CIDR6,2a0f:1cc5:f00::/46'
   - 'IP-CIDR6,2a12:3fc2:e628::/46'
   - 'IP-CIDR6,2a14:67c1:a114::/46'
@@ -128904,7 +128904,6 @@ payload:
   - 'IP-CIDR6,2a09:bac6:2680::/43'
   - 'IP-CIDR6,2a0e:7580:45a0::/43'
   - 'IP-CIDR6,2a0e:ec03:f40::/43'
-  - 'IP-CIDR6,2a0f:1cc5:2640::/43'
   - 'IP-CIDR6,2a0f:6284:4c40::/43'
   - 'IP-CIDR6,2a0f:6284:4c80::/43'
   - 'IP-CIDR6,2a0f:7803:fd20::/43'
@@ -128944,7 +128943,6 @@ payload:
   - 'IP-CIDR6,2a0e:ec03:8c0::/42'
   - 'IP-CIDR6,2a0e:ec05:79c0::/42'
   - 'IP-CIDR6,2a0e:ec05:7b00::/42'
-  - 'IP-CIDR6,2a0f:1cc5:2600::/42'
   - 'IP-CIDR6,2a0f:7803:fd40::/42'
   - 'IP-CIDR6,2a12:49c4:3e80::/42'
   - 'IP-CIDR6,2a13:a5c3:d600::/42'
@@ -129053,6 +129051,7 @@ payload:
   - 'IP-CIDR6,2a0e:7580:4400::/40'
   - 'IP-CIDR6,2a0e:aa06:300::/40'
   - 'IP-CIDR6,2a0e:ec05:7a00::/40'
+  - 'IP-CIDR6,2a0f:1cc5:2600::/40'
   - 'IP-CIDR6,2a10:500:4600::/40'
   - 'IP-CIDR6,2a12:49c0:9000::/40'
   - 'IP-CIDR6,2a12:49c0:f600::/40'

@@ -144,7 +144,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (33699 rules)
+# DOMAIN-SUFFIX (33742 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -164,6 +164,7 @@ DOMAIN-SUFFIX,5w.ag
 DOMAIN-SUFFIX,66.ca
 DOMAIN-SUFFIX,ac.ir
 DOMAIN-SUFFIX,ac.uk
+DOMAIN-SUFFIX,at.ua
 DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,br.st
 DOMAIN-SUFFIX,bx.tl
@@ -397,6 +398,7 @@ DOMAIN-SUFFIX,fxn.ws
 DOMAIN-SUFFIX,g.page
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,gid.ru
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gmo.jp
 DOMAIN-SUFFIX,go.com
@@ -628,7 +630,6 @@ DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,2gis.kz
 DOMAIN-SUFFIX,2gis.ru
 DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,2gis.ua
 DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,3-a.net
 DOMAIN-SUFFIX,32bm.cc
@@ -1461,8 +1462,22 @@ DOMAIN-SUFFIX,u9a9.cc
 DOMAIN-SUFFIX,uaa.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,uchi.ru
+DOMAIN-SUFFIX,ucoz.ae
+DOMAIN-SUFFIX,ucoz.co
+DOMAIN-SUFFIX,ucoz.de
+DOMAIN-SUFFIX,ucoz.es
+DOMAIN-SUFFIX,ucoz.fr
+DOMAIN-SUFFIX,ucoz.hu
+DOMAIN-SUFFIX,ucoz.kz
+DOMAIN-SUFFIX,ucoz.lv
+DOMAIN-SUFFIX,ucoz.md
+DOMAIN-SUFFIX,ucoz.pl
+DOMAIN-SUFFIX,ucoz.ru
+DOMAIN-SUFFIX,ucoz.ua
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,ugo.com
+DOMAIN-SUFFIX,ukit.ai
+DOMAIN-SUFFIX,ukit.me
 DOMAIN-SUFFIX,up01.cc
 DOMAIN-SUFFIX,usc.edu
 DOMAIN-SUFFIX,usus.cc
@@ -1820,6 +1835,7 @@ DOMAIN-SUFFIX,bbkz.com
 DOMAIN-SUFFIX,bdsm.com
 DOMAIN-SUFFIX,bebo.com
 DOMAIN-SUFFIX,beeg.com
+DOMAIN-SUFFIX,beget.ru
 DOMAIN-SUFFIX,beric.me
 DOMAIN-SUFFIX,bfnn.org
 DOMAIN-SUFFIX,bgov.com
@@ -2767,10 +2783,14 @@ DOMAIN-SUFFIX,ubnt.com
 DOMAIN-SUFFIX,ubnw.net
 DOMAIN-SUFFIX,ucam.org
 DOMAIN-SUFFIX,ucla.edu
+DOMAIN-SUFFIX,ucoz.com
+DOMAIN-SUFFIX,ucoz.net
+DOMAIN-SUFFIX,ucoz.org
 DOMAIN-SUFFIX,udfs.com
 DOMAIN-SUFFIX,uhrp.org
 DOMAIN-SUFFIX,uhub.com
 DOMAIN-SUFFIX,uisp.com
+DOMAIN-SUFFIX,ukit.com
 DOMAIN-SUFFIX,ulol.com
 DOMAIN-SUFFIX,ulop.net
 DOMAIN-SUFFIX,unpo.org
@@ -2894,6 +2914,7 @@ DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xiti.com
 DOMAIN-SUFFIX,xkiwi.tk
 DOMAIN-SUFFIX,xlydh.cc
+DOMAIN-SUFFIX,xmail.ru
 DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xnxx.net
 DOMAIN-SUFFIX,xnxx2.it
@@ -3071,6 +3092,7 @@ DOMAIN-SUFFIX,233v2.com
 DOMAIN-SUFFIX,2bit8.com
 DOMAIN-SUFFIX,2chav.com
 DOMAIN-SUFFIX,2dgen.com
+DOMAIN-SUFFIX,2gis.tech
 DOMAIN-SUFFIX,2waky.com
 DOMAIN-SUFFIX,315lz.com
 DOMAIN-SUFFIX,32red.com
@@ -3381,6 +3403,7 @@ DOMAIN-SUFFIX,beats1.tv
 DOMAIN-SUFFIX,beddit.tv
 DOMAIN-SUFFIX,beeg.rest
 DOMAIN-SUFFIX,beejp.net
+DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,bei.ac.uk
 DOMAIN-SUFFIX,bejav.net
 DOMAIN-SUFFIX,bell.wiki
@@ -5353,6 +5376,8 @@ DOMAIN-SUFFIX,ucg.ac.uk
 DOMAIN-SUFFIX,ucl.ac.uk
 DOMAIN-SUFFIX,ucn.ac.uk
 DOMAIN-SUFFIX,uco.ac.uk
+DOMAIN-SUFFIX,ucoz.club
+DOMAIN-SUFFIX,ucoz.site
 DOMAIN-SUFFIX,ucp.ac.uk
 DOMAIN-SUFFIX,ucq.ac.uk
 DOMAIN-SUFFIX,ucs.ac.uk
@@ -5366,6 +5391,7 @@ DOMAIN-SUFFIX,uee.ac.uk
 DOMAIN-SUFFIX,uel.ac.uk
 DOMAIN-SUFFIX,uflash.tv
 DOMAIN-SUFFIX,ufm.ac.uk
+DOMAIN-SUFFIX,uguide.ru
 DOMAIN-SUFFIX,uhi.ac.uk
 DOMAIN-SUFFIX,uhr.ac.uk
 DOMAIN-SUFFIX,uhtube.me
@@ -5376,6 +5402,7 @@ DOMAIN-SUFFIX,ukm.ac.uk
 DOMAIN-SUFFIX,ulh.ac.uk
 DOMAIN-SUFFIX,ulike.net
 DOMAIN-SUFFIX,ull.ac.uk
+DOMAIN-SUFFIX,uma.media
 DOMAIN-SUFFIX,umass.edu
 DOMAIN-SUFFIX,umich.edu
 DOMAIN-SUFFIX,ums.ac.uk
@@ -6030,6 +6057,7 @@ DOMAIN-SUFFIX,avgigi.com
 DOMAIN-SUFFIX,avgod.club
 DOMAIN-SUFFIX,avhome.one
 DOMAIN-SUFFIX,avinin.com
+DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,avpanda.cc
 DOMAIN-SUFFIX,avrila2.cc
 DOMAIN-SUFFIX,avriri.top
@@ -7909,6 +7937,7 @@ DOMAIN-SUFFIX,oiobbs.com
 DOMAIN-SUFFIX,okcoin.com
 DOMAIN-SUFFIX,okiwine.jp
 DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,oklink.com
 DOMAIN-SUFFIX,older.tube
 DOMAIN-SUFFIX,olds.ac.uk
@@ -8707,6 +8736,8 @@ DOMAIN-SUFFIX,ucfb.ac.uk
 DOMAIN-SUFFIX,ucmk.ac.uk
 DOMAIN-SUFFIX,ucml.ac.uk
 DOMAIN-SUFFIX,ucnl.ac.uk
+DOMAIN-SUFFIX,ucoz.co.il
+DOMAIN-SUFFIX,ucoz.co.uk
 DOMAIN-SUFFIX,ucsd.ac.uk
 DOMAIN-SUFFIX,ucsm.ac.uk
 DOMAIN-SUFFIX,ucsp.ac.uk
@@ -8725,6 +8756,7 @@ DOMAIN-SUFFIX,ukcp.ac.uk
 DOMAIN-SUFFIX,ukda.ac.uk
 DOMAIN-SUFFIX,ukds.ac.uk
 DOMAIN-SUFFIX,ukipad.com
+DOMAIN-SUFFIX,ukit.group
 DOMAIN-SUFFIX,ukri.ac.uk
 DOMAIN-SUFFIX,ukro.ac.uk
 DOMAIN-SUFFIX,ukrr.ac.uk
@@ -11590,6 +11622,7 @@ DOMAIN-SUFFIX,prism.ac.uk
 DOMAIN-SUFFIX,pritunl.com
 DOMAIN-SUFFIX,private.com
 DOMAIN-SUFFIX,privoxy.org
+DOMAIN-SUFFIX,promodj.com
 DOMAIN-SUFFIX,proms.ac.uk
 DOMAIN-SUFFIX,proporn.com
 DOMAIN-SUFFIX,prosiben.de
@@ -12051,6 +12084,7 @@ DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,time.nrc.ca
 DOMAIN-SUFFIX,timeinc.net
+DOMAIN-SUFFIX,timeweb.com
 DOMAIN-SUFFIX,tingtalk.me
 DOMAIN-SUFFIX,tinhduc.org
 DOMAIN-SUFFIX,tinypic.com
@@ -12153,6 +12187,8 @@ DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ucanews.com
 DOMAIN-SUFFIX,ucisa.ac.uk
 DOMAIN-SUFFIX,uclan.ac.uk
+DOMAIN-SUFFIX,ucoz.com.br
+DOMAIN-SUFFIX,ucoz.com.ro
 DOMAIN-SUFFIX,udndata.com
 DOMAIN-SUFFIX,uhmlg.ac.uk
 DOMAIN-SUFFIX,uhovi.ac.uk
@@ -15620,6 +15656,7 @@ DOMAIN-SUFFIX,ucas01.ac.uk
 DOMAIN-SUFFIX,ucaspg.ac.uk
 DOMAIN-SUFFIX,ucdc1998.org
 DOMAIN-SUFFIX,uchicago.edu
+DOMAIN-SUFFIX,ucozmedia.ru
 DOMAIN-SUFFIX,ucsalf.ac.uk
 DOMAIN-SUFFIX,udemycdn.com
 DOMAIN-SUFFIX,ufreevpn.com
@@ -16286,6 +16323,7 @@ DOMAIN-SUFFIX,atlaspost.com
 DOMAIN-SUFFIX,atlassian.com
 DOMAIN-SUFFIX,atlassian.net
 DOMAIN-SUFFIX,att-japan.com
+DOMAIN-SUFFIX,attachmail.ru
 DOMAIN-SUFFIX,attackers.net
 DOMAIN-SUFFIX,attcenter.com
 DOMAIN-SUFFIX,attglobal.net
@@ -18660,6 +18698,7 @@ DOMAIN-SUFFIX,tiipple.ac.uk
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,timefxapp.com
+DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,tinkercad.com
 DOMAIN-SUFFIX,tinsurance.ru
 DOMAIN-SUFFIX,tintuc101.com
@@ -18718,6 +18757,7 @@ DOMAIN-SUFFIX,tvmost.com.hk
 DOMAIN-SUFFIX,tvpromise.com
 DOMAIN-SUFFIX,tw.hao123.com
 DOMAIN-SUFFIX,twblogger.com
+DOMAIN-SUFFIX,twcstorage.ru
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetrans.com
 DOMAIN-SUFFIX,twinprime.com
@@ -18738,6 +18778,7 @@ DOMAIN-SUFFIX,tyndall.ac.uk
 DOMAIN-SUFFIX,tynemet.ac.uk
 DOMAIN-SUFFIX,uberproxy.net
 DOMAIN-SUFFIX,ucleeds.ac.uk
+DOMAIN-SUFFIX,ucozmedia.com
 DOMAIN-SUFFIX,uighurbiz.net
 DOMAIN-SUFFIX,ukandeu.ac.uk
 DOMAIN-SUFFIX,ukccsrc.ac.uk
@@ -27296,6 +27337,7 @@ DOMAIN-SUFFIX,twapperkeeper.com
 DOMAIN-SUFFIX,tweaksoftware.com
 DOMAIN-SUFFIX,twittergadget.com
 DOMAIN-SUFFIX,twnextdigital.com
+DOMAIN-SUFFIX,ucoztemplates.com
 DOMAIN-SUFFIX,udtrucksmeena.com
 DOMAIN-SUFFIX,uhdwallpapers.org
 DOMAIN-SUFFIX,ukliferadio.co.uk
@@ -29625,6 +29667,7 @@ DOMAIN-SUFFIX,savvyshopper.net.au
 DOMAIN-SUFFIX,sciencemuseum.ac.uk
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,scorediscounts.club
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
 DOMAIN-SUFFIX,secureservercdn.net
 DOMAIN-SUFFIX,securitypreview.com
 DOMAIN-SUFFIX,seintiaucymru.ac.uk
