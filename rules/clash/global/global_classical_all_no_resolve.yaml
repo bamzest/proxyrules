@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (33742 rules)
+  # DOMAIN-SUFFIX (33745 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -7646,6 +7646,7 @@ payload:
   - 'DOMAIN-SUFFIX,mini101.ca'
   - 'DOMAIN-SUFFIX,minifs.com'
   - 'DOMAIN-SUFFIX,minihk.com'
+  - 'DOMAIN-SUFFIX,minimax.io'
   - 'DOMAIN-SUFFIX,mirror.xyz'
   - 'DOMAIN-SUFFIX,missav.com'
   - 'DOMAIN-SUFFIX,missav.uno'
@@ -19205,6 +19206,7 @@ payload:
   - 'DOMAIN-SUFFIX,addthiscdn.com'
   - 'DOMAIN-SUFFIX,addyoutube.com'
   - 'DOMAIN-SUFFIX,adguard-dns.io'
+  - 'DOMAIN-SUFFIX,adguardcdn.com'
   - 'DOMAIN-SUFFIX,adguardvpn.com'
   - 'DOMAIN-SUFFIX,adhelpnews.com'
   - 'DOMAIN-SUFFIX,adobejanus.com'
@@ -31324,6 +31326,7 @@ payload:
   - 'DOMAIN-SUFFIX,sbrc-nottingham.ac.uk'
   - 'DOMAIN-SUFFIX,sbusinesslondon.ac.uk'
   - 'DOMAIN-SUFFIX,scatolo-guromania.com'
+  - 'DOMAIN-SUFFIX,scorecardresearch.com'
   - 'DOMAIN-SUFFIX,scottishinsight.ac.uk'
   - 'DOMAIN-SUFFIX,seamonkey-project.org'
   - 'DOMAIN-SUFFIX,servercontrolpanel.de'
