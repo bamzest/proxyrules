@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (33755 rules)
+  # DOMAIN-SUFFIX (33759 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -15493,6 +15493,7 @@ payload:
   - 'DOMAIN-SUFFIX,tctsx28d.xyz'
   - 'DOMAIN-SUFFIX,tdesktop.com'
   - 'DOMAIN-SUFFIX,tech-mail.ru'
+  - 'DOMAIN-SUFFIX,techbang.com'
   - 'DOMAIN-SUFFIX,techne.ac.uk'
   - 'DOMAIN-SUFFIX,technics.com'
   - 'DOMAIN-SUFFIX,technogym.bg'
@@ -18774,6 +18775,7 @@ payload:
   - 'DOMAIN-SUFFIX,twisterio.com'
   - 'DOMAIN-SUFFIX,twitcause.com'
   - 'DOMAIN-SUFFIX,twitchcdn.net'
+  - 'DOMAIN-SUFFIX,twitchcon.com'
   - 'DOMAIN-SUFFIX,twitchsvc.net'
   - 'DOMAIN-SUFFIX,twitcomike.jp'
   - 'DOMAIN-SUFFIX,twitmania.com'
@@ -20872,6 +20874,7 @@ payload:
   - 'DOMAIN-SUFFIX,pixivision.net'
   - 'DOMAIN-SUFFIX,placesdocs.com'
   - 'DOMAIN-SUFFIX,planetsuzy.org'
+  - 'DOMAIN-SUFFIX,plannotator.ai'
   - 'DOMAIN-SUFFIX,playfabapi.com'
   - 'DOMAIN-SUFFIX,playmation.com'
   - 'DOMAIN-SUFFIX,playpcesor.com'
@@ -32012,6 +32015,7 @@ payload:
   - 'DOMAIN-SUFFIX,advancediddetection.com'
   - 'DOMAIN-SUFFIX,advertisercommunity.com'
   - 'DOMAIN-SUFFIX,aecc-chiropractic.ac.uk'
+  - 'DOMAIN-SUFFIX,agentclientprotocol.com'
   - 'DOMAIN-SUFFIX,aimhigherscotland.ac.uk'
   - 'DOMAIN-SUFFIX,amazondevicesupport.com'
   - 'DOMAIN-SUFFIX,amazonstudiosguilds.com'
