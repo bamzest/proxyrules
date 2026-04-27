@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (3911 rules)
+# IP-CIDR (3910 rules)
 IP-CIDR,1.1.8.0/24,no-resolve
 IP-CIDR,1.18.128.0/24,no-resolve
 IP-CIDR,1.2.4.0/24,no-resolve
@@ -44,7 +44,6 @@ IP-CIDR,103.13.12.0/24,no-resolve
 IP-CIDR,103.135.195.0/24,no-resolve
 IP-CIDR,103.137.60.0/24,no-resolve
 IP-CIDR,103.143.230.0/24,no-resolve
-IP-CIDR,103.144.245.0/24,no-resolve
 IP-CIDR,103.144.70.0/24,no-resolve
 IP-CIDR,103.147.124.0/24,no-resolve
 IP-CIDR,103.149.242.0/24,no-resolve
@@ -83,6 +82,7 @@ IP-CIDR,103.247.191.0/24,no-resolve
 IP-CIDR,103.249.136.0/24,no-resolve
 IP-CIDR,103.25.156.0/24,no-resolve
 IP-CIDR,103.251.204.0/24,no-resolve
+IP-CIDR,103.251.207.0/24,no-resolve
 IP-CIDR,103.252.36.0/24,no-resolve
 IP-CIDR,103.28.147.0/24,no-resolve
 IP-CIDR,103.28.8.0/24,no-resolve
@@ -316,7 +316,6 @@ IP-CIDR,146.222.81.0/24,no-resolve
 IP-CIDR,146.222.94.0/24,no-resolve
 IP-CIDR,156.107.170.0/24,no-resolve
 IP-CIDR,156.107.179.0/24,no-resolve
-IP-CIDR,156.107.181.0/24,no-resolve
 IP-CIDR,156.227.239.0/24,no-resolve
 IP-CIDR,156.232.9.0/24,no-resolve
 IP-CIDR,157.10.35.0/24,no-resolve
@@ -746,6 +745,7 @@ IP-CIDR,101.237.34.0/23,no-resolve
 IP-CIDR,101.49.148.0/23,no-resolve
 IP-CIDR,101.49.206.0/23,no-resolve
 IP-CIDR,101.52.232.0/23,no-resolve
+IP-CIDR,101.52.68.0/23,no-resolve
 IP-CIDR,101.96.10.0/23,no-resolve
 IP-CIDR,101.96.128.0/23,no-resolve
 IP-CIDR,101.96.132.0/23,no-resolve
@@ -997,7 +997,6 @@ IP-CIDR,144.79.54.0/23,no-resolve
 IP-CIDR,150.242.156.0/23,no-resolve
 IP-CIDR,150.242.238.0/23,no-resolve
 IP-CIDR,155.126.176.0/23,no-resolve
-IP-CIDR,156.107.160.0/23,no-resolve
 IP-CIDR,156.232.10.0/23,no-resolve
 IP-CIDR,157.10.112.0/23,no-resolve
 IP-CIDR,157.15.104.0/23,no-resolve
