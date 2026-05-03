@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (128 rules)
+  # DOMAIN-SUFFIX (127 rules)
   - 'DOMAIN-SUFFIX,dkr.com'
   - 'DOMAIN-SUFFIX,wii-u.com'
   - 'DOMAIN-SUFFIX,wiivc.net'
@@ -36,7 +36,6 @@ payload:
   - 'DOMAIN-SUFFIX,giratina.com'
   - 'DOMAIN-SUFFIX,mariokart.cn'
   - 'DOMAIN-SUFFIX,miiverse.com'
-  - 'DOMAIN-SUFFIX,nentindo.net'
   - 'DOMAIN-SUFFIX,nintendo.com'
   - 'DOMAIN-SUFFIX,nintendo.net'
   - 'DOMAIN-SUFFIX,pokedex3d.com'

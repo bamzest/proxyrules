@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (33767 rules)
+  # DOMAIN-SUFFIX (33771 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -2103,6 +2103,7 @@ payload:
   - 'DOMAIN-SUFFIX,fqok.org'
   - 'DOMAIN-SUFFIX,fsdn.com'
   - 'DOMAIN-SUFFIX,ftp1.biz'
+  - 'DOMAIN-SUFFIX,fu62.vip'
   - 'DOMAIN-SUFFIX,fucd.com'
   - 'DOMAIN-SUFFIX,fuck.com'
   - 'DOMAIN-SUFFIX,funp.com'
@@ -2647,6 +2648,7 @@ payload:
   - 'DOMAIN-SUFFIX,rblx.com'
   - 'DOMAIN-SUFFIX,rblx.org'
   - 'DOMAIN-SUFFIX,rdio.com'
+  - 'DOMAIN-SUFFIX,re25.vip'
   - 'DOMAIN-SUFFIX,rea.tech'
   - 'DOMAIN-SUFFIX,redis.io'
   - 'DOMAIN-SUFFIX,repo.new'
@@ -17914,6 +17916,7 @@ payload:
   - 'DOMAIN-SUFFIX,minilaval.com'
   - 'DOMAIN-SUFFIX,minilondon.ca'
   - 'DOMAIN-SUFFIX,minilondon.co'
+  - 'DOMAIN-SUFFIX,miniso-au.com'
   - 'DOMAIN-SUFFIX,miniso-bh.com'
   - 'DOMAIN-SUFFIX,miniso-np.com'
   - 'DOMAIN-SUFFIX,miniso-nz.com'
@@ -20671,6 +20674,7 @@ payload:
   - 'DOMAIN-SUFFIX,mysexgames.com'
   - 'DOMAIN-SUFFIX,mysinablog.com'
   - 'DOMAIN-SUFFIX,myspacecdn.com'
+  - 'DOMAIN-SUFFIX,mytokenapi.com'
   - 'DOMAIN-SUFFIX,mywaytopay.net'
   - 'DOMAIN-SUFFIX,nacstock.ac.uk'
   - 'DOMAIN-SUFFIX,naijauncut.com'
