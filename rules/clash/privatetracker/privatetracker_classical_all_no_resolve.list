@@ -3,24 +3,19 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (121 rules)
+# DOMAIN (115 rules)
 DOMAIN,evan.im
 DOMAIN,004430.xyz
-DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
-DOMAIN,tracker.bz
 DOMAIN,opentor.org
-DOMAIN,wepzone.net
 DOMAIN,explodie.org
 DOMAIN,seedpeer.net
 DOMAIN,t.213891.xyz
 DOMAIN,tr.abiir.top
 DOMAIN,tr.nyacat.pw
 DOMAIN,uabits.today
-DOMAIN,bt1.xxxxbt.cc
 DOMAIN,tracker.1h.is
 DOMAIN,tracker.qu.ax
-DOMAIN,home.yxgz.club
 DOMAIN,t.overflow.biz
 DOMAIN,torrentsmd.com
 DOMAIN,tracker.gmi.gd
@@ -28,6 +23,7 @@ DOMAIN,tracker.plx.im
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,bt1.archive.org
+DOMAIN,bt2.archive.org
 DOMAIN,nyaa.tracker.wf
 DOMAIN,open.stealth.si
 DOMAIN,p4p.arenabg.com
@@ -50,20 +46,19 @@ DOMAIN,tracker.waaa.moe
 DOMAIN,tracker3.ctix.cn
 DOMAIN,exodus.desync.com
 DOMAIN,open.ftorrent.com
-DOMAIN,torrent.bowed.net
 DOMAIN,tracker.23794.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.nekomi.cn
+DOMAIN,tracker.samcze.pl
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tritan.gg
 DOMAIN,tracker2.dler.org
-DOMAIN,bt.poletracker.org
+DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,martin-gebhardt.eu
 DOMAIN,torrentclub.online
 DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.moeking.me
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.theoks.net
@@ -77,30 +72,29 @@ DOMAIN,rekcart.duckdns.org
 DOMAIN,torrents.tmtime.dev
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker.bluefrog.pw
-DOMAIN,tracker.bt-hash.com
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.iperson.xyz
+DOMAIN,tracker.lenition.de
 DOMAIN,tracker.wildkat.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,tracker.filemail.com
-DOMAIN,tracker.moxing.party
 DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.tryhackx.org
 DOMAIN,www.wareztorrent.com
 DOMAIN,bandito.byterunner.io
+DOMAIN,obey.torrentonline.cc
+DOMAIN,speedtest.iperson.xyz
 DOMAIN,tracker.playground.ru
-DOMAIN,tracker.vanitycore.co
 DOMAIN,trackthis.cyber.pz.it
-DOMAIN,tracker-udp.gbitt.info
+DOMAIN,coeus.torrentonline.cc
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.opentrackr.org
 DOMAIN,tracker.torrent.eu.org
 DOMAIN,tracker.yemekyedim.com
 DOMAIN,pybittrack.retiolus.net
 DOMAIN,tracker.ddunlimited.net
-DOMAIN,tracker.ipv6tracker.org
 DOMAIN,tracker.manager.v6.navy
 DOMAIN,tracker.opentorrent.top
 DOMAIN,archive.torrentonline.cc
@@ -111,7 +105,7 @@ DOMAIN,udp.tracker.projectk.org
 DOMAIN,vito-tracker.duckdns.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ns575949.ip-51-222-82.net
-DOMAIN,retracker.spark-rostov.ru
+DOMAIN,tracker.huadongblower.xyz
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.yume-hatsuyuki.moe
 DOMAIN,whybother.torrentonline.cc
