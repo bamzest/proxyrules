@@ -3,9 +3,8 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (122 rules)
+# DOMAIN (113 rules)
 DOMAIN,evan.im
-DOMAIN,shubt.net
 DOMAIN,004430.xyz
 DOMAIN,tr.abir.ga
 DOMAIN,tr.kxmp.cf
@@ -22,7 +21,6 @@ DOMAIN,t.overflow.biz
 DOMAIN,torrentsmd.com
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.plx.im
-DOMAIN,tracker810.xyz
 DOMAIN,1337.abcvg.info
 DOMAIN,admin.52ywp.com
 DOMAIN,bt1.archive.org
@@ -51,11 +49,10 @@ DOMAIN,tracker.waaa.moe
 DOMAIN,tracker3.ctix.cn
 DOMAIN,exodus.desync.com
 DOMAIN,open.ftorrent.com
-DOMAIN,torrent.bowed.net
-DOMAIN,tracker.23794.top
 DOMAIN,tracker.bittor.pw
 DOMAIN,tracker.breizh.pm
 DOMAIN,tracker.nekomi.cn
+DOMAIN,tracker.samcze.pl
 DOMAIN,tracker.skyts.net
 DOMAIN,tracker.srv00.com
 DOMAIN,tracker.tritan.gg
@@ -64,7 +61,6 @@ DOMAIN,6ahddutb1ucc3cp.ru
 DOMAIN,martin-gebhardt.eu
 DOMAIN,torrentclub.online
 DOMAIN,tracker.004430.xyz
-DOMAIN,tracker.moeking.me
 DOMAIN,tracker.pmman.tech
 DOMAIN,tracker.renfei.net
 DOMAIN,tracker.theoks.net
@@ -75,14 +71,12 @@ DOMAIN,tracker3.itzmx.com
 DOMAIN,tracker4.itzmx.com
 DOMAIN,vito-tracker.space
 DOMAIN,rekcart.duckdns.org
-DOMAIN,torrent.hificode.in
 DOMAIN,torrents.tmtime.dev
 DOMAIN,tr4ck3r.duckdns.org
 DOMAIN,tracker.bluefrog.pw
 DOMAIN,tracker.ducks.party
 DOMAIN,tracker.gcrenwp.top
 DOMAIN,tracker.iperson.xyz
-DOMAIN,tracker.lenition.de
 DOMAIN,tracker.wildkat.net
 DOMAIN,retracker.hotplug.ru
 DOMAIN,tracker.filemail.com
@@ -90,10 +84,12 @@ DOMAIN,tracker.mywaifu.best
 DOMAIN,tracker.qingwapt.org
 DOMAIN,tracker.tryhackx.org
 DOMAIN,www.wareztorrent.com
+DOMAIN,asiatorrent.giize.com
 DOMAIN,bandito.byterunner.io
 DOMAIN,obey.torrentonline.cc
+DOMAIN,speedtest.iperson.xyz
 DOMAIN,tracker.playground.ru
-DOMAIN,coeus.torrentonline.cc
+DOMAIN,trackthis.cyber.pz.it
 DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker.flatuslifir.is
 DOMAIN,tracker.opentrackr.org
@@ -107,23 +103,18 @@ DOMAIN,tracker.torrentclaw.com
 DOMAIN,archive.torrentonline.cc
 DOMAIN,tracker.corpscorp.online
 DOMAIN,tracker.dhitechnical.com
-DOMAIN,tracker.torrust-demo.com
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,vito-tracker.duckdns.org
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ns575949.ip-51-222-82.net
 DOMAIN,tracker.huadongblower.xyz
-DOMAIN,tracker.zhuqiy.dgj055.icu
 DOMAIN,tracker.openwebtorrent.com
 DOMAIN,tracker.yume-hatsuyuki.moe
-DOMAIN,whybother.torrentonline.cc
 DOMAIN,yuptracker-eu.gaijinent.com
-DOMAIN,tracker.tvunderground.org.ru
 DOMAIN,tracker.xn--djrq4gl4hvoi.top
 DOMAIN,udp1.torrust-tracker-demo.com
 DOMAIN,http1.torrust-tracker-demo.com
 DOMAIN,torrent.tracker.durukanbal.com
-DOMAIN,torrenttracker.nwc.acsalaska.net
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 

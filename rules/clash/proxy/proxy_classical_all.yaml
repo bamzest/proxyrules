@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17551 rules)
+  # DOMAIN-SUFFIX (17552 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -16949,6 +16949,7 @@ payload:
   - 'DOMAIN-SUFFIX,troisrivieresmini.com'
   - 'DOMAIN-SUFFIX,trueamateurmodels.com'
   - 'DOMAIN-SUFFIX,ubuntu-mate.community'
+  - 'DOMAIN-SUFFIX,umap.openstreetmap.fr'
   - 'DOMAIN-SUFFIX,unbrandedproducts.com'
   - 'DOMAIN-SUFFIX,unitedsocialpress.com'
   - 'DOMAIN-SUFFIX,vagabundasdoorkut.net'

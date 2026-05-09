@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (33894 rules)
+  # DOMAIN-SUFFIX (33896 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.co'
   - 'DOMAIN-SUFFIX,goog'
@@ -12459,6 +12459,7 @@ payload:
   - 'DOMAIN-SUFFIX,vocativ.com'
   - 'DOMAIN-SUFFIX,vodafone.de'
   - 'DOMAIN-SUFFIX,vodafone.it'
+  - 'DOMAIN-SUFFIX,vodafone.nl'
   - 'DOMAIN-SUFFIX,voila.ac.uk'
   - 'DOMAIN-SUFFIX,volvoce.com'
   - 'DOMAIN-SUFFIX,votolia.com'
@@ -31559,6 +31560,7 @@ payload:
   - 'DOMAIN-SUFFIX,uk-data-service.ac.uk'
   - 'DOMAIN-SUFFIX,uklibrariesplus.ac.uk'
   - 'DOMAIN-SUFFIX,ukpubmedcentral.ac.uk'
+  - 'DOMAIN-SUFFIX,umap.openstreetmap.fr'
   - 'DOMAIN-SUFFIX,unbrandedproducts.com'
   - 'DOMAIN-SUFFIX,unisurreydirect.ac.uk'
   - 'DOMAIN-SUFFIX,unitedsocialpress.com'
