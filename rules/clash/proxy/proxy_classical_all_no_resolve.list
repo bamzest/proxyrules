@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17552 rules)
+# DOMAIN-SUFFIX (17554 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -1333,6 +1333,7 @@ DOMAIN-SUFFIX,docs.new
 DOMAIN-SUFFIX,doi.info
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpr.info
+DOMAIN-SUFFIX,dt18.com
 DOMAIN-SUFFIX,dtic.mil
 DOMAIN-SUFFIX,duck.com
 DOMAIN-SUFFIX,dump.xxx
@@ -3796,6 +3797,7 @@ DOMAIN-SUFFIX,dachix.com
 DOMAIN-SUFFIX,danlan.org
 DOMAIN-SUFFIX,danwei.org
 DOMAIN-SUFFIX,daolan.net
+DOMAIN-SUFFIX,data18.com
 DOMAIN-SUFFIX,ddc.com.tw
 DOMAIN-SUFFIX,ddns.me.uk
 DOMAIN-SUFFIX,de-sci.org

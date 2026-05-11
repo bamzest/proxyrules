@@ -6,7 +6,7 @@
 # DOMAIN (1 rules)
 DOMAIN,voice.telephony.goog
 
-# DOMAIN-SUFFIX (992 rules)
+# DOMAIN-SUFFIX (985 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -803,7 +803,6 @@ DOMAIN-SUFFIX,googlesverige.com
 DOMAIN-SUFFIX,googlevads-cn.com
 DOMAIN-SUFFIX,iamremarkable.org
 DOMAIN-SUFFIX,mfg-inspector.com
-DOMAIN-SUFFIX,qgadmin.qcpp1.net
 DOMAIN-SUFFIX,scholar.google.ae
 DOMAIN-SUFFIX,scholar.google.at
 DOMAIN-SUFFIX,scholar.google.be
@@ -844,7 +843,6 @@ DOMAIN-SUFFIX,chronicle.security
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,dataliberation.org
 DOMAIN-SUFFIX,doubleclick-cn.net
-DOMAIN-SUFFIX,download.qatp1.net
 DOMAIN-SUFFIX,gongyichuangyi.net
 DOMAIN-SUFFIX,googlecommerce.com
 DOMAIN-SUFFIX,googleoptimize.com
@@ -870,8 +868,6 @@ DOMAIN-SUFFIX,keytransparency.foo
 DOMAIN-SUFFIX,keytransparency.org
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,projectbaseline.com
-DOMAIN-SUFFIX,qagpublic.qatp1.net
-DOMAIN-SUFFIX,qualysapi.qatp1.net
 DOMAIN-SUFFIX,redirector.gvt1.com
 DOMAIN-SUFFIX,stcroixmosquito.com
 DOMAIN-SUFFIX,thinkwithgoogle.com
@@ -885,7 +881,6 @@ DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googleflights-cn.net
 DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,monitoring.qpdp1.net
 DOMAIN-SUFFIX,partylikeits1986.org
 DOMAIN-SUFFIX,scholar.google.co.cr
 DOMAIN-SUFFIX,scholar.google.co.id
@@ -918,7 +913,6 @@ DOMAIN-SUFFIX,googletagservices.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,opensourceinsight.dev
 DOMAIN-SUFFIX,qpx.googleflights.net
-DOMAIN-SUFFIX,qualysguard.qpdp1.net
 DOMAIN-SUFFIX,scholar.google.com.ar
 DOMAIN-SUFFIX,scholar.google.com.au
 DOMAIN-SUFFIX,scholar.google.com.bo
@@ -953,7 +947,6 @@ DOMAIN-SUFFIX,financeleadsonline.com
 DOMAIN-SUFFIX,google-syndication.com
 DOMAIN-SUFFIX,opensourceinsights.dev
 DOMAIN-SUFFIX,pagespeedmobilizer.com
-DOMAIN-SUFFIX,scanservice1.qcpp1.net
 DOMAIN-SUFFIX,studywatchbyverily.com
 DOMAIN-SUFFIX,studywatchbyverily.org
 DOMAIN-SUFFIX,stxmosquitoproject.com
