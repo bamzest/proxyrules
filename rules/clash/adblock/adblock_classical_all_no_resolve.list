@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27210 rules)
+# DOMAIN (27211 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -13137,6 +13137,7 @@ DOMAIN,ldt2.8686c.com
 DOMAIN,leadfeeder.com
 DOMAIN,leadforce1.com
 DOMAIN,legendsdtv.com
+DOMAIN,lens.zhihu.com
 DOMAIN,letshareus.com
 DOMAIN,lfahycetwt.com
 DOMAIN,lgzjsauvfv.com
