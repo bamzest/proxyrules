@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # IP-CIDR (3912 rules)
+  # IP-CIDR (3913 rules)
   - 'IP-CIDR,1.1.8.0/24,no-resolve'
   - 'IP-CIDR,1.18.128.0/24,no-resolve'
   - 'IP-CIDR,1.2.4.0/24,no-resolve'
@@ -619,6 +619,7 @@ payload:
   - 'IP-CIDR,221.133.225.0/24,no-resolve'
   - 'IP-CIDR,221.133.226.0/24,no-resolve'
   - 'IP-CIDR,221.133.235.0/24,no-resolve'
+  - 'IP-CIDR,222.126.134.0/24,no-resolve'
   - 'IP-CIDR,222.126.141.0/24,no-resolve'
   - 'IP-CIDR,222.126.164.0/24,no-resolve'
   - 'IP-CIDR,222.42.115.0/24,no-resolve'
@@ -738,6 +739,8 @@ payload:
   - 'IP-CIDR,63.140.0.0/24,no-resolve'
   - 'IP-CIDR,74.114.51.0/24,no-resolve'
   - 'IP-CIDR,77.73.8.0/24,no-resolve'
+  - 'IP-CIDR,8.148.41.0/24,no-resolve'
+  - 'IP-CIDR,8.148.43.0/24,no-resolve'
   - 'IP-CIDR,87.254.207.0/24,no-resolve'
   - 'IP-CIDR,93.183.14.0/24,no-resolve'
   - 'IP-CIDR,93.183.18.0/24,no-resolve'
@@ -2050,7 +2053,6 @@ payload:
   - 'IP-CIDR,72.163.248.0/22,no-resolve'
   - 'IP-CIDR,8.128.4.0/22,no-resolve'
   - 'IP-CIDR,8.148.36.0/22,no-resolve'
-  - 'IP-CIDR,8.148.40.0/22,no-resolve'
   - 'IP-CIDR,81.173.20.0/22,no-resolve'
   - 'IP-CIDR,101.126.232.0/21,no-resolve'
   - 'IP-CIDR,101.245.152.0/21,no-resolve'
@@ -2227,7 +2229,6 @@ payload:
   - 'IP-CIDR,202.122.32.0/21,no-resolve'
   - 'IP-CIDR,202.127.0.0/21,no-resolve'
   - 'IP-CIDR,202.127.200.0/21,no-resolve'
-  - 'IP-CIDR,202.127.216.0/21,no-resolve'
   - 'IP-CIDR,202.127.40.0/21,no-resolve'
   - 'IP-CIDR,202.130.240.0/21,no-resolve'
   - 'IP-CIDR,202.136.208.0/21,no-resolve'
