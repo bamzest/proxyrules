@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # IP-CIDR (3913 rules)
+  # IP-CIDR (3909 rules)
   - 'IP-CIDR,1.1.8.0/24,no-resolve'
   - 'IP-CIDR,1.18.128.0/24,no-resolve'
   - 'IP-CIDR,1.2.4.0/24,no-resolve'
@@ -30,7 +30,6 @@ payload:
   - 'IP-CIDR,103.102.214.0/24,no-resolve'
   - 'IP-CIDR,103.103.12.0/24,no-resolve'
   - 'IP-CIDR,103.103.36.0/24,no-resolve'
-  - 'IP-CIDR,103.104.155.0/24,no-resolve'
   - 'IP-CIDR,103.105.202.0/24,no-resolve'
   - 'IP-CIDR,103.108.244.0/24,no-resolve'
   - 'IP-CIDR,103.108.247.0/24,no-resolve'
@@ -41,7 +40,6 @@ payload:
   - 'IP-CIDR,103.118.173.0/24,no-resolve'
   - 'IP-CIDR,103.121.166.0/24,no-resolve'
   - 'IP-CIDR,103.126.1.0/24,no-resolve'
-  - 'IP-CIDR,103.13.12.0/24,no-resolve'
   - 'IP-CIDR,103.135.195.0/24,no-resolve'
   - 'IP-CIDR,103.137.60.0/24,no-resolve'
   - 'IP-CIDR,103.143.230.0/24,no-resolve'
@@ -320,6 +318,7 @@ payload:
   - 'IP-CIDR,156.107.181.0/24,no-resolve'
   - 'IP-CIDR,156.227.239.0/24,no-resolve'
   - 'IP-CIDR,156.232.9.0/24,no-resolve'
+  - 'IP-CIDR,157.10.35.0/24,no-resolve'
   - 'IP-CIDR,158.140.255.0/24,no-resolve'
   - 'IP-CIDR,158.26.192.0/24,no-resolve'
   - 'IP-CIDR,158.26.194.0/24,no-resolve'
@@ -404,7 +403,6 @@ payload:
   - 'IP-CIDR,203.174.4.0/24,no-resolve'
   - 'IP-CIDR,203.176.168.0/24,no-resolve'
   - 'IP-CIDR,203.176.170.0/24,no-resolve'
-  - 'IP-CIDR,203.189.113.0/24,no-resolve'
   - 'IP-CIDR,203.189.115.0/24,no-resolve'
   - 'IP-CIDR,203.192.1.0/24,no-resolve'
   - 'IP-CIDR,203.192.16.0/24,no-resolve'
@@ -2620,7 +2618,6 @@ payload:
   - 'IP-CIDR,61.10.128.0/20,no-resolve'
   - 'IP-CIDR,61.10.96.0/20,no-resolve'
   - 'IP-CIDR,61.114.80.0/20,no-resolve'
-  - 'IP-CIDR,61.15.112.0/20,no-resolve'
   - 'IP-CIDR,61.28.112.0/20,no-resolve'
   - 'IP-CIDR,8.128.96.0/20,no-resolve'
   - 'IP-CIDR,8.150.0.0/20,no-resolve'
@@ -3155,7 +3152,6 @@ payload:
   - 'IP-CIDR,59.82.0.0/17,no-resolve'
   - 'IP-CIDR,60.245.128.0/17,no-resolve'
   - 'IP-CIDR,60.253.128.0/17,no-resolve'
-  - 'IP-CIDR,61.15.128.0/17,no-resolve'
   - 'IP-CIDR,61.18.0.0/17,no-resolve'
   - 'IP-CIDR,61.241.0.0/17,no-resolve'
   - 'IP-CIDR,8.148.128.0/17,no-resolve'
