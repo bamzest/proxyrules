@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27211 rules)
+  # DOMAIN (27212 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -21539,6 +21539,7 @@ payload:
   - 'DOMAIN,htckiummbyxfha.com'
   - 'DOMAIN,html.fsxinling.com'
   - 'DOMAIN,httpdns.alicdn.com'
+  - 'DOMAIN,httpdns.immomo.com'
   - 'DOMAIN,httpdns.volces.com'
   - 'DOMAIN,httpdns.zybang.com'
   - 'DOMAIN,httpsdns.baidu.com'
@@ -27217,7 +27218,7 @@ payload:
   - 'DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com'
   - 'DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com'
 
-  # DOMAIN-SUFFIX (264378 rules)
+  # DOMAIN-SUFFIX (264379 rules)
   - 'DOMAIN-SUFFIX,a.ki'
   - 'DOMAIN-SUFFIX,4o.cc'
   - 'DOMAIN-SUFFIX,4u.pl'
@@ -57711,6 +57712,7 @@ payload:
   - 'DOMAIN-SUFFIX,toplinkz.ru'
   - 'DOMAIN-SUFFIX,topmomo.net'
   - 'DOMAIN-SUFFIX,topmomo.win'
+  - 'DOMAIN-SUFFIX,toponad.com'
   - 'DOMAIN-SUFFIX,topshape.me'
   - 'DOMAIN-SUFFIX,topsrcs.com'
   - 'DOMAIN-SUFFIX,topstat.com'
