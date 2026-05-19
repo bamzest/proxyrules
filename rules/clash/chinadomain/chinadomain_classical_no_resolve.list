@@ -33,7 +33,7 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,chinacache
 
-# IP-CIDR (8205 rules)
+# IP-CIDR (8206 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
@@ -2957,6 +2957,7 @@ IP-CIDR,69.163.123.0/24,no-resolve
 IP-CIDR,69.194.166.0/24,no-resolve
 IP-CIDR,69.85.93.0/24,no-resolve
 IP-CIDR,74.114.51.0/24,no-resolve
+IP-CIDR,74.214.161.0/24,no-resolve
 IP-CIDR,74.63.27.0/24,no-resolve
 IP-CIDR,74.80.115.0/24,no-resolve
 IP-CIDR,77.73.8.0/24,no-resolve

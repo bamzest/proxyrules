@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17555 rules)
+  # DOMAIN-SUFFIX (17557 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -1814,6 +1814,7 @@ payload:
   - 'DOMAIN-SUFFIX,sgp1.fun'
   - 'DOMAIN-SUFFIX,shop.app'
   - 'DOMAIN-SUFFIX,siam.org'
+  - 'DOMAIN-SUFFIX,sider.ai'
   - 'DOMAIN-SUFFIX,sign.new'
   - 'DOMAIN-SUFFIX,site.new'
   - 'DOMAIN-SUFFIX,sjrt.org'
@@ -13466,6 +13467,7 @@ payload:
   - 'DOMAIN-SUFFIX,youtubekids.com'
   - 'DOMAIN-SUFFIX,zatrahal.online'
   - 'DOMAIN-SUFFIX,zhainanjidi.xyz'
+  - 'DOMAIN-SUFFIX,zhangzhehan.net'
   - 'DOMAIN-SUFFIX,zohomeetups.com'
   - 'DOMAIN-SUFFIX,zohoschools.com'
   - 'DOMAIN-SUFFIX,zoofilianet.com'

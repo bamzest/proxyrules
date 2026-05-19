@@ -144,7 +144,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34006 rules)
+# DOMAIN-SUFFIX (34027 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,goog
@@ -261,6 +261,7 @@ DOMAIN-SUFFIX,2ch.hk
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,30d.jp
 DOMAIN-SUFFIX,4hu.tv
+DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,634.tv
 DOMAIN-SUFFIX,75m.co
 DOMAIN-SUFFIX,7mm.tv
@@ -1157,6 +1158,7 @@ DOMAIN-SUFFIX,kicu.tv
 DOMAIN-SUFFIX,kiji.ca
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kion.ru
+DOMAIN-SUFFIX,kiwi.jp
 DOMAIN-SUFFIX,kiwi.kz
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,klik.me
@@ -2728,6 +2730,7 @@ DOMAIN-SUFFIX,sgspe.de
 DOMAIN-SUFFIX,sh83.xyz
 DOMAIN-SUFFIX,shdd.ink
 DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,sign.new
 DOMAIN-SUFFIX,siri.com
 DOMAIN-SUFFIX,site.com
@@ -7526,6 +7529,9 @@ DOMAIN-SUFFIX,kmms.ac.uk
 DOMAIN-SUFFIX,knovel.com
 DOMAIN-SUFFIX,knti.ac.uk
 DOMAIN-SUFFIX,kompoz.com
+DOMAIN-SUFFIX,konami.com
+DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,konami.org
 DOMAIN-SUFFIX,koornk.com
 DOMAIN-SUFFIX,korona.com
 DOMAIN-SUFFIX,koukoku.jp
@@ -8317,6 +8323,7 @@ DOMAIN-SUFFIX,renu.ac.uk
 DOMAIN-SUFFIX,repe21.com
 DOMAIN-SUFFIX,repsils.no
 DOMAIN-SUFFIX,rerc.ac.uk
+DOMAIN-SUFFIX,resella.jp
 DOMAIN-SUFFIX,resl.ac.uk
 DOMAIN-SUFFIX,reuters.tv
 DOMAIN-SUFFIX,revolv.com
@@ -14468,6 +14475,7 @@ DOMAIN-SUFFIX,kodingen.com
 DOMAIN-SUFFIX,kompozer.net
 DOMAIN-SUFFIX,konachan.com
 DOMAIN-SUFFIX,konachan.net
+DOMAIN-SUFFIX,konami.co.jp
 DOMAIN-SUFFIX,korbit.co.kr
 DOMAIN-SUFFIX,korenan2.com
 DOMAIN-SUFFIX,koshelek.app
@@ -17824,6 +17832,7 @@ DOMAIN-SUFFIX,kk-whys.co.jp
 DOMAIN-SUFFIX,kkff2484.live
 DOMAIN-SUFFIX,koalaporn.com
 DOMAIN-SUFFIX,kobobooks.com
+DOMAIN-SUFFIX,konamiopen.jp
 DOMAIN-SUFFIX,kraftonde.com
 DOMAIN-SUFFIX,ksnews.com.tw
 DOMAIN-SUFFIX,kuaichedao.co
@@ -20577,6 +20586,7 @@ DOMAIN-SUFFIX,kdy202312.shop
 DOMAIN-SUFFIX,keezmovies.com
 DOMAIN-SUFFIX,kendralist.com
 DOMAIN-SUFFIX,keybaseapi.com
+DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,khatrimaza.org
 DOMAIN-SUFFIX,khmusic.com.tw
 DOMAIN-SUFFIX,kicksnike1.com
@@ -20594,6 +20604,7 @@ DOMAIN-SUFFIX,kinokuniya.com
 DOMAIN-SUFFIX,kisharon.ac.uk
 DOMAIN-SUFFIX,kiyobank.co.jp
 DOMAIN-SUFFIX,knowswho.co.jp
+DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,korewaeroi.com
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kubankredit.ru
@@ -23663,6 +23674,7 @@ DOMAIN-SUFFIX,registeridm.com
 DOMAIN-SUFFIX,reid-kerr.ac.uk
 DOMAIN-SUFFIX,researchkit.net
 DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,resellablue.com
 DOMAIN-SUFFIX,resistchina.org
 DOMAIN-SUFFIX,retweetrank.com
 DOMAIN-SUFFIX,revistapegn.com
@@ -24224,9 +24236,11 @@ DOMAIN-SUFFIX,youtubego.co.id
 DOMAIN-SUFFIX,youtubego.co.in
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,ysulondon.ac.uk
+DOMAIN-SUFFIX,yugioh-card.com
 DOMAIN-SUFFIX,zatrahal.online
 DOMAIN-SUFFIX,zen-browser.app
 DOMAIN-SUFFIX,zhainanjidi.xyz
+DOMAIN-SUFFIX,zhangzhehan.net
 DOMAIN-SUFFIX,zohomeetups.com
 DOMAIN-SUFFIX,zohoschools.com
 DOMAIN-SUFFIX,zoofilianet.com
@@ -25212,6 +25226,9 @@ DOMAIN-SUFFIX,kingshurst.ac.uk
 DOMAIN-SUFFIX,kingstone.com.tw
 DOMAIN-SUFFIX,knowsleycc.ac.uk
 DOMAIN-SUFFIX,knowyourmeme.com
+DOMAIN-SUFFIX,konamigaming.com
+DOMAIN-SUFFIX,konamigaming.net
+DOMAIN-SUFFIX,konamionline.com
 DOMAIN-SUFFIX,kpinsurances.com
 DOMAIN-SUFFIX,kristenbjorn.com
 DOMAIN-SUFFIX,ksescortclub.com
@@ -29615,6 +29632,8 @@ DOMAIN-SUFFIX,khotruyentranhx.com
 DOMAIN-SUFFIX,kickshatchannel.com
 DOMAIN-SUFFIX,kidderminster.ac.uk
 DOMAIN-SUFFIX,kindleoasisnews.com
+DOMAIN-SUFFIX,konamigaming.online
+DOMAIN-SUFFIX,konamisportsclub.jp
 DOMAIN-SUFFIX,koreanpornmovie.com
 DOMAIN-SUFFIX,ladyboypornonly.com
 DOMAIN-SUFFIX,laosijifuli9009.top
@@ -30595,6 +30614,7 @@ DOMAIN-SUFFIX,knightlearning.ac.uk
 DOMAIN-SUFFIX,knowledgehouse.ac.uk
 DOMAIN-SUFFIX,kobbeatssbydredk.com
 DOMAIN-SUFFIX,konachan.wjcodes.com
+DOMAIN-SUFFIX,konamicrossmedia.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,lambethcollege.ac.uk
 DOMAIN-SUFFIX,langdoncollege.ac.uk
@@ -31431,6 +31451,7 @@ DOMAIN-SUFFIX,keyskillbuilder.ac.uk
 DOMAIN-SUFFIX,kirkleescollege.ac.uk
 DOMAIN-SUFFIX,knowledge-house.ac.uk
 DOMAIN-SUFFIX,knowsleycollege.ac.uk
+DOMAIN-SUFFIX,konami-igaming.online
 DOMAIN-SUFFIX,lcriconvergence.ac.uk
 DOMAIN-SUFFIX,leagueoflegends.co.kr
 DOMAIN-SUFFIX,learninscotland.ac.uk
