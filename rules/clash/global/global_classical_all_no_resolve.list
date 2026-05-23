@@ -144,7 +144,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34038 rules)
+# DOMAIN-SUFFIX (34041 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -485,6 +485,7 @@ DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,m12.vc
 DOMAIN-SUFFIX,mac.eu
 DOMAIN-SUFFIX,mac.rs
+DOMAIN-SUFFIX,mas.to
 DOMAIN-SUFFIX,max.ru
 DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mkb.ru
@@ -9384,6 +9385,7 @@ DOMAIN-SUFFIX,2-hand.info
 DOMAIN-SUFFIX,2000fun.com
 DOMAIN-SUFFIX,2049bbs.xyz
 DOMAIN-SUFFIX,2371tom.com
+DOMAIN-SUFFIX,24hbook.com
 DOMAIN-SUFFIX,24smile.org
 DOMAIN-SUFFIX,258porn.com
 DOMAIN-SUFFIX,2gis.com.cy
@@ -14846,6 +14848,7 @@ DOMAIN-SUFFIX,nemcon.ac.uk
 DOMAIN-SUFFIX,nemode.ac.uk
 DOMAIN-SUFFIX,nenitas.club
 DOMAIN-SUFFIX,nentindo.net
+DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,nephobox.com
 DOMAIN-SUFFIX,nepusoku.com
 DOMAIN-SUFFIX,neresc.ac.uk

@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17561 rules)
+  # DOMAIN-SUFFIX (17564 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -321,6 +321,7 @@ payload:
   - 'DOMAIN-SUFFIX,lg.com'
   - 'DOMAIN-SUFFIX,lih.kg'
   - 'DOMAIN-SUFFIX,lin.ee'
+  - 'DOMAIN-SUFFIX,mas.to'
   - 'DOMAIN-SUFFIX,mlc.ai'
   - 'DOMAIN-SUFFIX,mod.io'
   - 'DOMAIN-SUFFIX,mol.im'
@@ -5222,6 +5223,7 @@ payload:
   - 'DOMAIN-SUFFIX,2000fun.com'
   - 'DOMAIN-SUFFIX,2049bbs.xyz'
   - 'DOMAIN-SUFFIX,2371tom.com'
+  - 'DOMAIN-SUFFIX,24hbook.com'
   - 'DOMAIN-SUFFIX,24smile.org'
   - 'DOMAIN-SUFFIX,258porn.com'
   - 'DOMAIN-SUFFIX,2shared.com'
@@ -8284,6 +8286,7 @@ payload:
   - 'DOMAIN-SUFFIX,naoconto.com'
   - 'DOMAIN-SUFFIX,napiszex.com'
   - 'DOMAIN-SUFFIX,nenitas.club'
+  - 'DOMAIN-SUFFIX,neodb.social'
   - 'DOMAIN-SUFFIX,nephobox.com'
   - 'DOMAIN-SUFFIX,nepusoku.com'
   - 'DOMAIN-SUFFIX,nesaporn.com'
