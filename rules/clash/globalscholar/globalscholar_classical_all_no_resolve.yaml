@@ -7,7 +7,7 @@ payload:
   # DOMAIN (1 rules)
   - 'DOMAIN,scholar.google.com'
 
-  # DOMAIN-SUFFIX (228 rules)
+  # DOMAIN-SUFFIX (229 rules)
   - 'DOMAIN-SUFFIX,mit'
   - 'DOMAIN-SUFFIX,mpg.de'
   - 'DOMAIN-SUFFIX,un.org'
@@ -89,6 +89,7 @@ payload:
   - 'DOMAIN-SUFFIX,knovel.com'
   - 'DOMAIN-SUFFIX,ma1lib.org'
   - 'DOMAIN-SUFFIX,nature.com'
+  - 'DOMAIN-SUFFIX,optica.org'
   - 'DOMAIN-SUFFIX,ouplaw.com'
   - 'DOMAIN-SUFFIX,pkulaw.com'
   - 'DOMAIN-SUFFIX,sci-hub.tw'

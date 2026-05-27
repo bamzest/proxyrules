@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34043 rules)
+  # DOMAIN-SUFFIX (34044 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -20784,6 +20784,7 @@ payload:
   - 'DOMAIN-SUFFIX,midchesh.ac.uk'
   - 'DOMAIN-SUFFIX,middle-way.net'
   - 'DOMAIN-SUFFIX,midhurst.ac.uk'
+  - 'DOMAIN-SUFFIX,midjourney.com'
   - 'DOMAIN-SUFFIX,mihomeone.info'
   - 'DOMAIN-SUFFIX,mikesoltys.com'
   - 'DOMAIN-SUFFIX,milfbundle.com'
