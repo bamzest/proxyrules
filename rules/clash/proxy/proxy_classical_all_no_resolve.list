@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17565 rules)
+# DOMAIN-SUFFIX (17566 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -5669,6 +5669,7 @@ DOMAIN-SUFFIX,dojindb.net
 DOMAIN-SUFFIX,dolf.org.hk
 DOMAIN-SUFFIX,doodcdn.com
 DOMAIN-SUFFIX,doujins.com
+DOMAIN-SUFFIX,dowjones.io
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN-SUFFIX,dragonex.io
 DOMAIN-SUFFIX,dreambmw.ca
