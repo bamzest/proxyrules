@@ -134,7 +134,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (113074 rules)
+  # DOMAIN-SUFFIX (113073 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,1.cc'
@@ -188,7 +188,6 @@ payload:
   - 'DOMAIN-SUFFIX,98.ma'
   - 'DOMAIN-SUFFIX,ai.cc'
   - 'DOMAIN-SUFFIX,ak.cc'
-  - 'DOMAIN-SUFFIX,as.mr'
   - 'DOMAIN-SUFFIX,aw.cc'
   - 'DOMAIN-SUFFIX,b.biz'
   - 'DOMAIN-SUFFIX,baidu'

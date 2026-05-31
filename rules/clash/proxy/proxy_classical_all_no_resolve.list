@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17566 rules)
+# DOMAIN-SUFFIX (17572 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -100,6 +100,7 @@ DOMAIN-SUFFIX,10.tt
 DOMAIN-SUFFIX,51.ca
 DOMAIN-SUFFIX,66.ca
 DOMAIN-SUFFIX,adult
+DOMAIN-SUFFIX,as.mr
 DOMAIN-SUFFIX,br.st
 DOMAIN-SUFFIX,bx.tl
 DOMAIN-SUFFIX,c.gle
@@ -178,6 +179,7 @@ DOMAIN-SUFFIX,av.com
 DOMAIN-SUFFIX,av4.us
 DOMAIN-SUFFIX,bbc.co
 DOMAIN-SUFFIX,bbc.in
+DOMAIN-SUFFIX,bgm.tv
 DOMAIN-SUFFIX,bgr.in
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
@@ -541,6 +543,7 @@ DOMAIN-SUFFIX,ccue.ca
 DOMAIN-SUFFIX,cdw.com
 DOMAIN-SUFFIX,cfos.de
 DOMAIN-SUFFIX,cfr.org
+DOMAIN-SUFFIX,chii.in
 DOMAIN-SUFFIX,cia.gov
 DOMAIN-SUFFIX,cjb.net
 DOMAIN-SUFFIX,clyp.it
@@ -1006,6 +1009,7 @@ DOMAIN-SUFFIX,usc.edu
 DOMAIN-SUFFIX,usus.cc
 DOMAIN-SUFFIX,v2.help
 DOMAIN-SUFFIX,v2ex.co
+DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,vern.cc
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,visa.be
@@ -1302,7 +1306,6 @@ DOMAIN-SUFFIX,cilk.com
 DOMAIN-SUFFIX,cilk.net
 DOMAIN-SUFFIX,cisco.cn
 DOMAIN-SUFFIX,cmcn.org
-DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cnki.net
 DOMAIN-SUFFIX,copro.pw
@@ -3611,6 +3614,7 @@ DOMAIN-SUFFIX,badaas.com
 DOMAIN-SUFFIX,baijie.org
 DOMAIN-SUFFIX,baixing.me
 DOMAIN-SUFFIX,baizhi.org
+DOMAIN-SUFFIX,bangumi.tv
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bb-chat.tv
 DOMAIN-SUFFIX,bbci.co.uk
@@ -5968,6 +5972,7 @@ DOMAIN-SUFFIX,heyuedi.com
 DOMAIN-SUFFIX,heywire.com
 DOMAIN-SUFFIX,hhtdq17.com
 DOMAIN-SUFFIX,hicairo.com
+DOMAIN-SUFFIX,hiddify.com
 DOMAIN-SUFFIX,hideman.net
 DOMAIN-SUFFIX,hidemy.name
 DOMAIN-SUFFIX,hifixxx.fun
@@ -7801,6 +7806,7 @@ DOMAIN-SUFFIX,geeksquad.tv
 DOMAIN-SUFFIX,geektang.com
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,genshinh.com
 DOMAIN-SUFFIX,gentoo.gr.jp
 DOMAIN-SUFFIX,genuitec.com

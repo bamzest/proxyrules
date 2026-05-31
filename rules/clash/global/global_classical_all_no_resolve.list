@@ -144,7 +144,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34078 rules)
+# DOMAIN-SUFFIX (34082 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -165,6 +165,7 @@ DOMAIN-SUFFIX,5w.ag
 DOMAIN-SUFFIX,66.ca
 DOMAIN-SUFFIX,ac.ir
 DOMAIN-SUFFIX,ac.uk
+DOMAIN-SUFFIX,as.mr
 DOMAIN-SUFFIX,at.ua
 DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,br.st
@@ -1522,6 +1523,7 @@ DOMAIN-SUFFIX,v2.help
 DOMAIN-SUFFIX,v2ex.co
 DOMAIN-SUFFIX,vce.com
 DOMAIN-SUFFIX,vday.io
+DOMAIN-SUFFIX,veed.io
 DOMAIN-SUFFIX,veet.at
 DOMAIN-SUFFIX,veet.be
 DOMAIN-SUFFIX,veet.ca
@@ -1988,7 +1990,6 @@ DOMAIN-SUFFIX,ckck.fun
 DOMAIN-SUFFIX,cloud.ru
 DOMAIN-SUFFIX,clova.ai
 DOMAIN-SUFFIX,cmcn.org
-DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,code.org
 DOMAIN-SUFFIX,codei.sh
@@ -11159,6 +11160,7 @@ DOMAIN-SUFFIX,live.com.au
 DOMAIN-SUFFIX,livedoor.jp
 DOMAIN-SUFFIX,liverail.tv
 DOMAIN-SUFFIX,livesex.com
+DOMAIN-SUFFIX,livinno.org
 DOMAIN-SUFFIX,livjm.ac.uk
 DOMAIN-SUFFIX,liyuans.com
 DOMAIN-SUFFIX,lizol.co.in
@@ -13997,6 +13999,7 @@ DOMAIN-SUFFIX,geeksquad.cc
 DOMAIN-SUFFIX,geeksquad.tv
 DOMAIN-SUFFIX,gekikame.com
 DOMAIN-SUFFIX,gelbooru.com
+DOMAIN-SUFFIX,gencraft.com
 DOMAIN-SUFFIX,genshinh.com
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,geocities.jp
@@ -23498,6 +23501,7 @@ DOMAIN-SUFFIX,onindiansex.com
 DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,onlysiterip.com
 DOMAIN-SUFFIX,onsaletrend.com
+DOMAIN-SUFFIX,opac-project.eu
 DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opendesktop.org
 DOMAIN-SUFFIX,opendroneid.org
