@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34082 rules)
+  # DOMAIN-SUFFIX (34084 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -7758,7 +7758,6 @@ payload:
   - 'DOMAIN-SUFFIX,mini101.ca'
   - 'DOMAIN-SUFFIX,minifs.com'
   - 'DOMAIN-SUFFIX,minihk.com'
-  - 'DOMAIN-SUFFIX,minimax.io'
   - 'DOMAIN-SUFFIX,mirror.xyz'
   - 'DOMAIN-SUFFIX,missav.com'
   - 'DOMAIN-SUFFIX,missav.uno'
@@ -12709,6 +12708,8 @@ payload:
   - 'DOMAIN-SUFFIX,xgaytube.tv'
   - 'DOMAIN-SUFFIX,xgroovy.com'
   - 'DOMAIN-SUFFIX,xh-porn.com'
+  - 'DOMAIN-SUFFIX,xhnews.live'
+  - 'DOMAIN-SUFFIX,xhreal5.com'
   - 'DOMAIN-SUFFIX,xianjian.tw'
   - 'DOMAIN-SUFFIX,xiezhua.com'
   - 'DOMAIN-SUFFIX,xindelu.com'
@@ -19258,6 +19259,7 @@ payload:
   - 'DOMAIN-SUFFIX,xhamster.desi'
   - 'DOMAIN-SUFFIX,xhamster2.com'
   - 'DOMAIN-SUFFIX,xhamster3.com'
+  - 'DOMAIN-SUFFIX,xhpingcdn.com'
   - 'DOMAIN-SUFFIX,xiaobaiwu.com'
   - 'DOMAIN-SUFFIX,xiaogirls.com'
   - 'DOMAIN-SUFFIX,xiaohexie.com'

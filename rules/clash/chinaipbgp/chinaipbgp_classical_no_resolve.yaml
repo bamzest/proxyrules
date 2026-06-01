@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # IP-CIDR (3905 rules)
+  # IP-CIDR (3906 rules)
   - 'IP-CIDR,1.1.8.0/24,no-resolve'
   - 'IP-CIDR,1.18.128.0/24,no-resolve'
   - 'IP-CIDR,1.2.4.0/24,no-resolve'
@@ -140,7 +140,6 @@ payload:
   - 'IP-CIDR,111.221.28.0/24,no-resolve'
   - 'IP-CIDR,111.235.174.0/24,no-resolve'
   - 'IP-CIDR,111.235.182.0/24,no-resolve'
-  - 'IP-CIDR,113.164.25.0/24,no-resolve'
   - 'IP-CIDR,113.197.101.0/24,no-resolve'
   - 'IP-CIDR,113.47.110.0/24,no-resolve'
   - 'IP-CIDR,113.48.127.0/24,no-resolve'
@@ -885,7 +884,6 @@ payload:
   - 'IP-CIDR,111.235.172.0/23,no-resolve'
   - 'IP-CIDR,111.235.178.0/23,no-resolve'
   - 'IP-CIDR,111.235.180.0/23,no-resolve'
-  - 'IP-CIDR,113.197.104.0/23,no-resolve'
   - 'IP-CIDR,113.45.102.0/23,no-resolve'
   - 'IP-CIDR,114.111.0.0/23,no-resolve'
   - 'IP-CIDR,114.112.4.0/23,no-resolve'
@@ -1023,7 +1021,6 @@ payload:
   - 'IP-CIDR,160.250.84.0/23,no-resolve'
   - 'IP-CIDR,160.30.230.0/23,no-resolve'
   - 'IP-CIDR,161.163.28.0/23,no-resolve'
-  - 'IP-CIDR,163.223.72.0/23,no-resolve'
   - 'IP-CIDR,163.227.40.0/23,no-resolve'
   - 'IP-CIDR,163.53.44.0/23,no-resolve'
   - 'IP-CIDR,163.61.178.0/23,no-resolve'
@@ -1072,6 +1069,7 @@ payload:
   - 'IP-CIDR,202.69.4.0/23,no-resolve'
   - 'IP-CIDR,202.91.184.0/23,no-resolve'
   - 'IP-CIDR,202.91.190.0/23,no-resolve'
+  - 'IP-CIDR,203.0.250.0/23,no-resolve'
   - 'IP-CIDR,203.107.26.0/23,no-resolve'
   - 'IP-CIDR,203.107.96.0/23,no-resolve'
   - 'IP-CIDR,203.110.232.0/23,no-resolve'
@@ -1544,6 +1542,7 @@ payload:
   - 'IP-CIDR,103.44.144.0/22,no-resolve'
   - 'IP-CIDR,103.44.168.0/22,no-resolve'
   - 'IP-CIDR,103.44.236.0/22,no-resolve'
+  - 'IP-CIDR,103.44.80.0/22,no-resolve'
   - 'IP-CIDR,103.45.160.0/22,no-resolve'
   - 'IP-CIDR,103.45.172.0/22,no-resolve'
   - 'IP-CIDR,103.45.248.0/22,no-resolve'
@@ -2700,6 +2699,7 @@ payload:
   - 'IP-CIDR,119.42.224.0/19,no-resolve'
   - 'IP-CIDR,119.57.64.0/19,no-resolve'
   - 'IP-CIDR,119.90.32.0/19,no-resolve'
+  - 'IP-CIDR,120.130.64.0/19,no-resolve'
   - 'IP-CIDR,120.132.64.0/19,no-resolve'
   - 'IP-CIDR,120.72.32.0/19,no-resolve'
   - 'IP-CIDR,120.92.192.0/19,no-resolve'
@@ -2913,6 +2913,7 @@ payload:
   - 'IP-CIDR,118.187.0.0/18,no-resolve'
   - 'IP-CIDR,118.197.0.0/18,no-resolve'
   - 'IP-CIDR,118.88.64.0/18,no-resolve'
+  - 'IP-CIDR,120.130.0.0/18,no-resolve'
   - 'IP-CIDR,120.132.0.0/18,no-resolve'
   - 'IP-CIDR,120.49.192.0/18,no-resolve'
   - 'IP-CIDR,120.92.128.0/18,no-resolve'
