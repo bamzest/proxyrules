@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34084 rules)
+  # DOMAIN-SUFFIX (34087 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -4960,6 +4960,7 @@ payload:
   - 'DOMAIN-SUFFIX,pages.dev'
   - 'DOMAIN-SUFFIX,paily.net'
   - 'DOMAIN-SUFFIX,paily.org'
+  - 'DOMAIN-SUFFIX,paint.net'
   - 'DOMAIN-SUFFIX,paon.site'
   - 'DOMAIN-SUFFIX,paperb.us'
   - 'DOMAIN-SUFFIX,parse.com'
@@ -14013,6 +14014,7 @@ payload:
   - 'DOMAIN-SUFFIX,getfappy.com'
   - 'DOMAIN-SUFFIX,getjetso.com'
   - 'DOMAIN-SUFFIX,getmalus.com'
+  - 'DOMAIN-SUFFIX,getpaint.net'
   - 'DOMAIN-SUFFIX,getwsone.com'
   - 'DOMAIN-SUFFIX,gfashion.com'
   - 'DOMAIN-SUFFIX,gfotolia.com'
@@ -18945,6 +18947,7 @@ payload:
   - 'DOMAIN-SUFFIX,tokyotosho.se'
   - 'DOMAIN-SUFFIX,tombola.ac.uk'
   - 'DOMAIN-SUFFIX,tomsguide.com'
+  - 'DOMAIN-SUFFIX,toncenter.com'
   - 'DOMAIN-SUFFIX,toolforge.org'
   - 'DOMAIN-SUFFIX,tophentai.biz'
   - 'DOMAIN-SUFFIX,topsexart.com'
