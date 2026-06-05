@@ -58,7 +58,6 @@ assets1.xboxlive.com
 assets2.xboxlive.com
 firstsearch.oclc.org
 imperial.insendi.com
-mdn.mozillademos.org
 ntp0.ntp-servers.net
 ntp1.ntp-servers.net
 ntp2.ntp-servers.net
@@ -217,6 +216,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.r0.ru
 +.ra.gg
 +.rb.gy
++.rt.rs
 +.rt.ru
 +.sb.sb
 +.sm.ms
@@ -539,6 +539,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rea.io
 +.rfi.fr
 +.rfi.my
++.ria.ru
 +.rk.com
 +.rsg.sc
 +.rt.com
@@ -1385,7 +1386,10 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rmbl.ws
 +.rsf.org
 +.rshb.ru
++.rtde.me
 +.rthk.hk
++.rttv.ru
++.rtxv.ru
 +.run.app
 +.sae.org
 +.saiq.me
@@ -2688,6 +2692,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rarbg.me
 +.rblx.com
 +.rblx.org
++.rbth.com
 +.rdio.com
 +.re25.vip
 +.rea.tech
@@ -2705,6 +2710,10 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.roku.com
 +.roshy.tv
 +.rrs1.xyz
++.rtde.org
++.rtde.xyz
++.rtdoc.tv
++.rttv.com
 +.rude.com
 +.ruhub.tv
 +.rxhj.net
@@ -2933,6 +2942,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.whyx.org
 +.wibes.ru
 +.wikis.tw
++.wing.com
 +.wire.com
 +.wise.com
 +.wish.com
@@ -3136,6 +3146,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.1dumb.com
 +.1e100.net
 +.1pondo.tv
++.1prime.ru
 +.1thek.com
 +.1ucrs.com
 +.2047.name
@@ -3374,6 +3385,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.apyle.com
 +.aqdlt.net
 +.arc.ac.uk
++.arctic.ru
 +.area51.to
 +.ark.ac.uk
 +.arm.ac.uk
@@ -3731,6 +3743,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.dct.ac.uk
 +.ddhw.info
 +.ddi.ac.uk
++.de-rt.com
++.de-rt.org
 +.debug.com
 +.dec.ac.uk
 +.deepl.com
@@ -3738,6 +3752,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.deno.land
 +.dentry.jp
 +.deps.info
++.dert.site
++.dert.tech
 +.dettol.at
 +.dettol.be
 +.dettol.ch
@@ -3897,6 +3913,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.eroan.xyz
 +.erome.com
 +.erp.ac.uk
++.es-rt.com
 +.esc.ac.uk
 +.ese.ac.uk
 +.esg.ac.uk
@@ -3904,6 +3921,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.esmtp.biz
 +.eso.ac.uk
 +.esp32.com
++.esrt.site
++.esrt.tech
 +.etc.ac.uk
 +.ets.ac.uk
 +.eulam.com
@@ -3998,6 +4017,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.fox47.com
 +.foxdie.us
 +.foxhq.com
++.foxkeh.jp
 +.foxla.com
 +.foxon.com
 +.foxrad.io
@@ -4227,6 +4247,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.guifw.xyz
 +.guo.media
 +.gvlib.com
++.gw2ru.com
 +.gw4.ac.uk
 +.gwiki.net
 +.gwins.org
@@ -4405,6 +4426,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.ingka.dev
 +.init.shop
 +.inkui.com
++.inosmi.ru
 +.inplat.ru
 +.insder.co
 +.inshot.cc
@@ -5151,9 +5173,17 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rsp.ac.uk
 +.rspao.com
 +.rtbcdn.ru
++.rtde.info
++.rtde.life
++.rtde.live
++.rtde.site
++.rtde.team
++.rtde.tech
++.rteam.dev
 +.rukor.org
 +.rul.ac.uk
 +.rule34.us
++.ruptly.tv
 +.rustup.rs
 +.rutube.ru
 +.rvc.ac.uk
@@ -5377,6 +5407,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.tmc.ac.uk
 +.tmn.ac.uk
 +.tmsnrt.rs
++.tok.media
 +.tonec.com
 +.tophd.xxx
 +.topsy.com
@@ -6145,6 +6176,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.aziani.com
 +.aznude.com
 +.azurecr.io
++.b37mrtl.ru
 +.b3boos.com
 +.b6fc.ac.uk
 +.baap.ac.uk
@@ -6866,6 +6898,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.espnqa.com
 +.esports.gg
 +.esrc.ac.uk
++.esrt.press
++.esrt.space
 +.etizer.org
 +.etokki.com
 +.etowns.net
@@ -6931,6 +6965,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.fincode.jp
 +.finler.net
 +.fipc.ac.uk
++.firefox.hu
 +.firstns.cc
 +.fish.audio
 +.fitbit.com
@@ -6965,6 +7000,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.foxfdm.com
 +.foxgay.com
 +.foxinc.com
++.foxkeh.com
 +.foxneo.com
 +.foxnews.cc
 +.foxnews.tv
@@ -7041,6 +7077,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.getporn.tv
 +.getws1.com
 +.getwsj.com
++.gfiber.com
 +.gfjizz.com
 +.gfpics.com
 +.gfsale.com
@@ -7548,6 +7585,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.kraken.onl
 +.ksep.ac.uk
 +.ksyp10.com
++.ktech.team
 +.kuaipa.net
 +.kucoin.com
 +.kumapon.jp
@@ -7789,8 +7827,16 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.move.ac.uk
 +.movetv.com
 +.movika.com
++.mozaws.net
 +.mozgcp.net
 +.mozilla.ai
++.mozilla.cz
++.mozilla.de
++.mozilla.jp
++.mozilla.lt
++.mozilla.pe
++.mozilla.pt
++.mozilla.ro
 +.mpsi.ac.uk
 +.mrbdsm.com
 +.mrcong.com
@@ -8366,6 +8412,10 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rsms.ac.uk
 +.rsshub.app
 +.rssing.com
++.rtde.media
++.rtde.press
++.rtde.world
++.rteam.tech
 +.rti.org.tw
 +.rtings.com
 +.ru.ccb.com
@@ -8878,6 +8928,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.ukds.ac.uk
 +.ukipad.com
 +.ukit.group
++.ukraina.ru
 +.ukri.ac.uk
 +.ukro.ac.uk
 +.ukrr.ac.uk
@@ -9513,6 +9564,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.allcoin.com
 +.allcu.ac.uk
 +.allinfa.com
++.allizom.net
++.allizom.org
 +.allowed.org
 +.alphabet.at
 +.alphabet.be
@@ -9607,6 +9660,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.appstore.ph
 +.aptoide.com
 +.aqmen.ac.uk
++.arabicrt.ru
 +.arabnek.com
 +.aranzadi.es
 +.archive.org
@@ -9616,6 +9670,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.arethusa.su
 +.aricd.ac.uk
 +.art1lib.com
++.artel.watch
++.arteldoc.tv
 +.artstor.org
 +.arweave.org
 +.asagaku.com
@@ -9692,6 +9748,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.babypink.to
 +.badjojo.com
 +.baice.ac.uk
++.baltnews.lt
 +.bamgrid.com
 +.bamtoki.com
 +.bandp.ac.uk
@@ -9701,6 +9758,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.bankline.ru
 +.banorte.com
 +.baraero.com
++.baranky.com
 +.barfuck.com
 +.barrons.com
 +.barry.ac.uk
@@ -10202,6 +10260,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.demos.ac.uk
 +.derby.ac.uk
 +.deribit.com
++.dert.online
 +.dezyred.com
 +.diablo3.com
 +.diamm.ac.uk
@@ -10234,6 +10293,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.drebyby.com
 +.drepung.org
 +.drkogyi.com
++.drobbox.pro
 +.dronedj.com
 +.dropbox.com
 +.drtuber.com
@@ -10383,6 +10443,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.esiss.ac.uk
 +.esp8266.com
 +.espncdn.com
++.esrt.online
 +.essex.ac.uk
 +.etaa.org.au
 +.etadult.com
@@ -10510,6 +10571,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.free-avx.jp
 +.free.com.tw
 +.freebsd.org
++.freede.tech
 +.freedom.gov
 +.freefbx.com
 +.freegao.com
@@ -11074,6 +11136,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.kess2.ac.uk
 +.keyhole.com
 +.khabdha.org
++.khangar.net
 +.killercb.ru
 +.kimogirl.cc
 +.kimosex.com
@@ -11360,6 +11423,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.mozilla.com
 +.mozilla.net
 +.mozilla.org
++.mozit.cloud
 +.mpags.ac.uk
 +.mpese.ac.uk
 +.mpettis.com
@@ -11710,6 +11774,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.plexvpn.pro
 +.plunder.com
 +.plutotv.net
++.pobeda.page
 +.podbean.com
 +.point.ac.uk
 +.pokemon.com
@@ -11781,6 +11846,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.ppaypal.com
 +.pramu.ac.uk
 +.premier.one
++.pressria.ru
 +.primbank.ru
 +.prism.ac.uk
 +.pritunl.com
@@ -11910,6 +11976,12 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rsgamen.org
 +.rssmeme.com
 +.rstatic.net
++.rtarabic.ru
++.rtde.agency
++.rtde.expert
++.rtde.online
++.rtdefree.me
++.rtfrance.tv
 +.rthk.org.hk
 +.rugby.ac.uk
 +.rugit.ac.uk
@@ -12017,6 +12089,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.shizhao.org
 +.shkspr.mobi
 +.shop-pro.jp
++.shop-rt.com
 +.shopify.com
 +.shopify.dev
 +.shoping.com
@@ -12061,6 +12134,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.smstc.ac.uk
 +.smucb.ac.uk
 +.smutcam.com
++.sn-esp.site
 +.snapads.com
 +.sneakme.net
 +.softbank.jp
@@ -12167,6 +12241,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.swdtp.ac.uk
 +.sweep.ac.uk
 +.swegold.com
++.swentr.site
 +.swift.ac.uk
 +.swiot.ac.uk
 +.swissign.li
@@ -12858,6 +12933,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.18commic.com
 +.18doujin.com
 +.18hmanga.com
++.1917live.red
 +.1bigclub.com
 +.1lib.domains
 +.1lib.limited
@@ -13124,6 +13200,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.arena.taipei
 +.argo-bdp.com
 +.armagh.ac.uk
++.arteldoc.com
 +.artstorm.com
 +.arupoc.ac.uk
 +.ascent.ac.uk
@@ -13178,6 +13255,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.bacoll.ac.uk
 +.badiucao.com
 +.bailer.ac.uk
++.baltnews.com
 +.banatfun.com
 +.bandcamp.com
 +.bandpage.com
@@ -13725,6 +13803,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.eset.systems
 +.eshcru.ac.uk
 +.esmatube.com
++.esrt.website
 +.esurance.com
 +.etcfhe.ac.uk
 +.ethereum.org
@@ -15327,11 +15406,24 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rsc-wm.ac.uk
 +.rsc-yh.ac.uk
 +.rtalabel.org
++.rtarabic.com
++.rtarabic.net
++.rtarabic.org
++.rtbrasil.com
++.rtde.express
++.rtde.website
++.rtnewsde.com
++.rtnewsde.pro
++.rtnewsru.com
++.rtrunews.com
 +.rubygems.org
 +.rukoebxx.com
 +.rule34.world
 +.ruleporn.com
 +.rumah123.com
++.runewsrt.com
++.ruptly.video
++.rurtnews.com
 +.rushporn.xxx
 +.ruskin.ac.uk
 +.rustdesk.com
@@ -16351,6 +16443,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.agrifor.ac.uk
 +.ahegao.online
 +.ahentaitv.com
++.ahilesva.info
 +.ahlxs-me.buzz
 +.aiosearch.com
 +.air-watch.com
@@ -16676,6 +16769,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.bongacams.com
 +.boobpedia.com
 +.boodigogo.com
++.book1917.live
 +.bookhad.ac.uk
 +.bookonsky.net
 +.bookshome.net
@@ -16925,6 +17019,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.daytonbmw.com
 +.daznfeeds.com
 +.ddd-smart.net
++.de-rtnews.com
++.de-rtnews.net
 +.deadhouse.org
 +.dechamora.com
 +.decymru.ac.uk
@@ -17781,6 +17877,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.itcanwait.com
 +.itgonglun.com
 +.ithome.com.tw
++.itisatrap.org
 +.itmedia.co.jp
 +.itshidden.com
 +.itvstatic.com
@@ -17811,6 +17908,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.jichangtj.com
 +.jiscpas.ac.uk
 +.jiuse6666.com
++.jivara.global
 +.jm18c-bbm.net
 +.jm18c-uoi.net
 +.jmapinode.biz
@@ -18156,6 +18254,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.movements.org
 +.movie1000.xyz
 +.moviepost.com
++.mozillabd.org
 +.mpa-mpp.ac.uk
 +.mpfinance.com
 +.mr-tireman.jp
@@ -18438,6 +18537,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.pokemonbw.com
 +.polymerhk.com
 +.poofetish.com
++.popcornjs.org
 +.porn-star.com
 +.pornaroma.com
 +.pornbraze.com
@@ -18605,9 +18705,18 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.royalcams.com
 +.rpmfusion.org
 +.rprimelab.com
++.rtbrasil.info
++.rtdefree.info
++.rtdefree.tech
++.rtenfrance.tv
++.rtespanol.com
++.rtfestival.ru
++.rtnewsde.site
++.rtnewsde.tech
 +.ruby-lang.org
 +.rundf665.cyou
 +.runshaw.ac.uk
++.ruptly.agency
 +.rusfinance.ru
 +.rust-lang.org
 +.rutracker.net
@@ -19744,6 +19853,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.cabletv.com.hk
 +.cadoverlay.com
 +.caerdydd.ac.uk
++.calicolabs.com
 +.callabitch.org
 +.cam-pgmc.ac.uk
 +.cambaddies.com
@@ -20007,6 +20117,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.ebonythots.com
 +.eboobstore.com
 +.echainhost.com
++.ecmascript.org
 +.ecministry.net
 +.edgehill.ac.uk
 +.edicypages.com
@@ -20222,6 +20333,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.getbuzzsaw.com
 +.getdropbox.com
 +.getfiddler.com
++.getfirebug.com
 +.getfreedur.com
 +.getlantern.org
 +.getoutline.org
@@ -20576,6 +20688,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.jigglegifs.com
 +.jigong1024.com
 +.jihadology.net
++.jinrieluosi.cn
 +.jinroukong.com
 +.jisc-mau.ac.uk
 +.jisc-tau.ac.uk
@@ -20864,6 +20977,9 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.mottainai.info
 +.movie-erog.com
 +.moviesneek.com
++.mozilla.org.uk
++.mozillazine.jp
++.mozillians.org
 +.mplstudios.com
 +.mrporngeek.com
 +.mrpornlive.com
@@ -21019,11 +21135,13 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.ohyeah1080.com
 +.oitabank.co.jp
 +.okkisokuho.com
++.oknovrossiu.ru
 +.oli-school.com
 +.onahodouga.com
 +.onedrive.co.uk
 +.onefifteen.net
 +.onefifteen.org
++.onemozilla.org
 +.onesiterip.com
 +.onestore.co.kr
 +.onionshare.org
@@ -21285,8 +21403,11 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.royalsoc.ac.uk
 +.rsc-east.ac.uk
 +.rslondon.ac.uk
++.rtenafrique.tv
 +.ruanyifeng.com
 +.ruinedking.com
++.russiatoday.ru
++.russiatoday.tv
 +.russoutdoor.ru
 +.sadistic-v.com
 +.safeliner.tech
@@ -21423,6 +21544,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.slack-edge.com
 +.slack-imgs.com
 +.slack-msgs.com
++.slavicstar.com
 +.sleaford.ac.uk
 +.sleazyfork.org
 +.slideshare.com
@@ -22420,6 +22542,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.boltonsix.ac.uk
 +.bonedathome.com
 +.boobstagram.com
++.book-catalog.ru
 +.bookshome.world
 +.bookstagram.com
 +.bootysource.com
@@ -22811,6 +22934,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.freebrowser.org
 +.freecamsfan.com
 +.freechatnow.com
++.freedert.online
 +.freefblikes.com
 +.freekazakhs.org
 +.freeopenvpn.com
@@ -22863,6 +22987,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.geohazard.ac.uk
 +.getcloudapp.com
 +.getcomposer.org
++.getpersonas.com
 +.getpricetag.com
 +.getsexgames.com
 +.gettyimages.com
@@ -22918,6 +23043,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.guochantube.com
 +.gw4biomed.ac.uk
 +.h-doujinshi.xyz
++.hackasaurus.org
 +.hairynature.com
 +.haitangbook.com
 +.halesowen.ac.uk
@@ -23057,6 +23183,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.instaplayer.net
 +.intelisolve.com
 +.intercomcdn.com
++.interforest.org
 +.interseclab.org
 +.iosinthecar.com
 +.ipadmini.com.lk
@@ -23136,6 +23263,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.kakaopaysec.com
 +.kamisama-day.jp
 +.kanzhongguo.com
++.kanzlerdaddy.ru
 +.kaspersky.co.in
 +.kaspersky.co.jp
 +.kaspersky.co.kr
@@ -23281,8 +23409,6 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.mcdonalds.co.kr
 +.mcdonalds.co.nz
 +.mcdonalds.co.uk
-+.mdn.allizom.net
-+.mdn.mozit.cloud
 +.meadjohnson.com
 +.meadjohnson.net
 +.medwayacl.ac.uk
@@ -23353,6 +23479,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.motorola.com.pe
 +.motorola.com.pr
 +.moviesarena.com
++.mozillalabs.com
 +.mp3buscador.com
 +.mr-apple.com.tw
 +.mrcollege.ac.uk
@@ -23468,6 +23595,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.northgrid.ac.uk
 +.northkent.ac.uk
 +.northland.ac.uk
++.noticias-rt.com
++.notimundo.press
 +.nowtorrents.com
 +.nptcgroup.ac.uk
 +.ntp0.ring.gr.jp
@@ -23680,6 +23809,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rabbitscams.sex
 +.radio-canada.ca
 +.radiomarsho.com
++.radiosputnik.ru
 +.raidcall.com.tw
 +.raidtalk.com.tw
 +.rainbowplan.org
@@ -23730,6 +23860,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.robotoffice.com
 +.rocksextube.com
 +.rodbaston.ac.uk
++.romanovs100.com
 +.root-signing.ch
 +.rootsigning.com
 +.rosbank-auto.ru
@@ -23742,12 +23873,17 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rsc-wales.ac.uk
 +.rsdlmonitor.com
 +.rsf-chinese.org
++.rtdefree.online
++.rtenfrancais.tv
++.rtnewsde.online
 +.rugbycoll.ac.uk
 +.rulaisc-tv.buzz
 +.rule34video.com
 +.runningnike.com
 +.rushporn.online
 +.russianrape.org
++.russiatoday.com
++.russiatoday.net
 +.s-dc-msedge.net
 +.saffrontech.com
 +.salfordcc.ac.uk
@@ -23884,6 +24020,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.spreadsheet.new
 +.spring-plus.net
 +.spurgeons.ac.uk
++.sputniknews.com
 +.squarespace.com
 +.squirrelvpn.com
 +.standwithhk.org
@@ -24989,6 +25126,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.framerstatic.com
 +.free-3d-porn.com
 +.freearabsexx.com
++.freeassange.tech
 +.freebearblog.org
 +.freecamstars.com
 +.freecartoons.biz
@@ -25071,6 +25209,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.graneodin.com.mx
 +.grannylister.com
 +.greatfirevpn.com
++.green-box-tv.com
 +.greenlakeaas.com
 +.grimsbytec.ac.uk
 +.guangming.com.my
@@ -25458,6 +25597,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.movenetworks.com
 +.moves-export.com
 +.moviesfree4u.xyz
++.mozillademos.org
 +.mpnevolution.com
 +.msfteducation.ca
 +.mtvnservices.com
@@ -25578,6 +25718,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.openfields.ac.uk
 +.opensource.ac.uk
 +.opensource.guide
++.opentimetable.jp
 +.optima-cdt.ac.uk
 +.organcare.org.tw
 +.orgypornonly.com
@@ -25692,6 +25833,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.powershape-e.com
 +.prayforchina.net
 +.premiumbooty.com
++.premiumlive.site
 +.presentation.new
 +.prettyvirgin.com
 +.primematures.com
@@ -25706,6 +25848,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.psiphontoday.com
 +.public-trust.com
 +.publicsexhub.com
++.publicsuffix.org
 +.publishproxy.com
 +.pugpig-stage.com
 +.pulsebrowser.app
@@ -25761,7 +25904,10 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.roundtable.ac.uk
 +.rsc-london.ac.uk
 +.rsd-exeter.ac.uk
++.rt-school.online
 +.rugby-coll.ac.uk
++.russiabeyond.com
++.russiaislove.com
 +.rutherford.ac.uk
 +.rwbautomation.ru
 +.ryukyubank.co.jp
@@ -25870,6 +26016,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.spokenword.ac.uk
 +.spotifycodes.com
 +.sprinklesapp.com
++.sputnikglobe.com
 +.squadbusters.com
 +.st-andrews.ac.uk
 +.st-austell.ac.uk
@@ -26227,6 +26374,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.accountpaypal.org
 +.acesofthunder.net
 +.activematter.game
++.actualidad-rt.com
 +.addison-wesley.ch
 +.adidasarchive.org
 +.adidassailing.com
@@ -26708,6 +26856,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.eurobabeindex.com
 +.eventsinfocus.org
 +.exascale-tech.com
++.extendfirefox.com
 +.extreme-board.com
 +.exxxtrasmall1.com
 +.fabhairypussy.com
@@ -27101,6 +27250,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.mcpeaceofmind.com
 +.mcusercontent.com
 +.meccontroller.com
++.mecha-mozilla.org
 +.meetandfuck.games
 +.meetfasttrack.com
 +.meetsmartbook.com
@@ -27174,6 +27324,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.monstersdebea.com
 +.motorshowblog.com
 +.mozilla.community
++.mozillaignite.org
++.mozillaquebec.org
 +.msgamestudios.com
 +.muchomasporno.com
 +.museumwales.ac.uk
@@ -27423,6 +27575,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rua-project.ac.uk
 +.runwayescorts.com
 +.rusfinancebank.ru
++.russieactuelle.fr
 +.s4miniarchive.com
 +.saintyculture.com
 +.salford-col.ac.uk
@@ -27511,6 +27664,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.spotifycharts.com
 +.spreadprivacy.com
 +.sptvbroadcast.com
++.sputnikimages.com
 +.squarecapital.com
 +.squarefoot.com.hk
 +.squidplatform.com
@@ -27726,6 +27880,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.webcamjackers.com
 +.webcammedellin.co
 +.webcamtubexxx.com
++.webmademovies.org
 +.wechatlawsuit.com
 +.welshsaints.ac.uk
 +.west-thames.ac.uk
@@ -28325,6 +28480,8 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.gannettdigital.com
 +.gardennetworks.com
 +.gardennetworks.org
++.gatewaytorussia.ru
++.gazetarussa.com.br
 +.geeksquadcares.com
 +.geospatialinfo.com
 +.geraldoatlarge.com
@@ -28484,6 +28641,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.iphoneimessage.com
 +.iri-scotland.ac.uk
 +.islamawareness.net
++.isomorphiclabs.com
 +.iwantgalleries.com
 +.japan-illgames.com
 +.japanknowledge.com
@@ -28529,6 +28687,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.link2galleries.com
 +.littlesexdolls.com
 +.liverpoolsas.ac.uk
++.lizardwrangler.com
 +.lnstagram-help.com
 +.lobsangwangyal.com
 +.localizestatus.com
@@ -28617,6 +28776,9 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.movefreeoffers.com
 +.moveonmoveup.ac.uk
 +.moviesanywhere.com
++.mozilla-europe.org
++.mozilla-mexico.org
++.mozillafactory.org
 +.mrvideosdesexo.xxx
 +.msftauthimages.net
 +.mulheresafoder.com
@@ -29083,6 +29245,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.windowsphoneme.com
 +.wmfusercontent.org
 +.womensnikeshox.com
++.worldcuprussia.com
 +.www.clashverge.dev
 +.xda-developers.com
 +.xiangrikui-app.com
@@ -29771,6 +29934,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.motorolacareers.com
 +.movefreerewards.com
 +.movinghistory.ac.uk
++.mozilla-hispano.org
 +.ms-studiosmedia.com
 +.mscassessment.ac.uk
 +.mschallenge2018.com
@@ -29974,6 +30138,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.revocationcheck.com
 +.robustnessiskey.com
 +.romanrepublic.ac.uk
++.rossiyasegodnya.com
 +.rowleycollege.ac.uk
 +.royalholloway.ac.uk
 +.rsc-northwest.ac.uk
@@ -30461,6 +30626,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.delldesignsystem.com
 +.delltechnologies.com
 +.dentalhypotheses.com
++.detodosparatodos.org
 +.dettolcleannaija.com
 +.deutsch-sexfilme.com
 +.dev-guardianapis.com
@@ -30878,6 +31044,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.rotherham-coll.ac.uk
 +.royalarmouries.ac.uk
 +.rsc-south-east.ac.uk
++.rtdocumentary.online
 +.runshawcollege.ac.uk
 +.rutlandcollege.ac.uk
 +.safepodnetwork.ac.uk
@@ -30929,6 +31096,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.southfloridamini.com
 +.spiceworksstatic.com
 +.spotifyforbrands.com
++.sputnikmediabank.com
 +.sqlserveronlinux.com
 +.st-davids-coll.ac.uk
 +.starbuckscardb2b.com
@@ -31022,6 +31190,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.wales1801-1919.ac.uk
 +.walsallcollege.ac.uk
 +.wariolandshakeit.com
++.watchingthehawks.com
 +.watchmygirlfriend.tv
 +.webappfieldguide.com
 +.weekly-economist.com
@@ -31328,7 +31497,6 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.dellsupportcenter.com
 +.demarco-archive.ac.uk
 +.developer-advisor.com
-+.developer.allizom.org
 +.diamondgirlstudio.com
 +.digitalassetlinks.org
 +.digitallifespan.ac.uk
@@ -31339,6 +31507,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.directvpromotions.com
 +.discordactivities.com
 +.discordpartygames.com
++.discovershiretoko.org
 +.disneymagicmoments.de
 +.disneymagicmoments.es
 +.disneymagicmoments.fr
@@ -31821,6 +31990,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.applemusicfestival.com
 +.applicationinsights.io
 +.asiangirlsnextdoor.com
++.asiangooglenetwork.com
 +.atlantaminidealers.com
 +.attinnovationspace.com
 +.attinternetservice.com
@@ -32477,6 +32647,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.fbboostyourbusiness.com
 +.fibre-diffraction.ac.uk
 +.fireemblemawakening.com
++.firefoxtweetmachine.com
 +.firestonedrivestore.com
 +.firstprivatebank.com.mm
 +.folkestonecollege.ac.uk
@@ -33765,6 +33936,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.jisc-liberate-migrate2.ac.uk
 +.jisc-liberate-migrate3.ac.uk
 +.kingalfredsbasingstoke.ac.uk
++.learningfreedomandtheweb.org
 +.leedsbeckettuniversity.ac.uk
 +.londonchurchillcollege.ac.uk
 +.londonschooloftheology.ac.uk
@@ -34009,6 +34181,7 @@ straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 +.xn----7sbbab6bregnh7b8if5b.com
 +.xn----8sbahiqzthbd0bn.xn--p1ai
 +.xn--1jqvh729avzfcy2d8ummib.com
++.xn--c1acbl2abdlkab1og.xn--p1ai
 +.abbeygatesixthformcollege.ac.uk
 +.acheter-followers-instagram.com
 +.aimhighernorthamptonshire.ac.uk
