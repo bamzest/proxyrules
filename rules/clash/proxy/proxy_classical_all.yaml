@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17572 rules)
+  # DOMAIN-SUFFIX (17574 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -7048,6 +7048,7 @@ payload:
   - 'DOMAIN-SUFFIX,world3d.biz'
   - 'DOMAIN-SUFFIX,wowhead.com'
   - 'DOMAIN-SUFFIX,wowporn.com'
+  - 'DOMAIN-SUFFIX,wplace.live'
   - 'DOMAIN-SUFFIX,wrchina.org'
   - 'DOMAIN-SUFFIX,wufi.org.tw'
   - 'DOMAIN-SUFFIX,wvm0agb4.me'
@@ -8697,6 +8698,7 @@ payload:
   - 'DOMAIN-SUFFIX,supervpn.net'
   - 'DOMAIN-SUFFIX,surfeasy.com'
   - 'DOMAIN-SUFFIX,susegeek.com'
+  - 'DOMAIN-SUFFIX,suyingtv.com'
   - 'DOMAIN-SUFFIX,svsgames.org'
   - 'DOMAIN-SUFFIX,swapsmut.com'
   - 'DOMAIN-SUFFIX,swapspace.co'
