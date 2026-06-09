@@ -144,7 +144,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34306 rules)
+  # DOMAIN-SUFFIX (34307 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -27431,6 +27431,7 @@ payload:
   - 'DOMAIN-SUFFIX,northernart.ac.uk'
   - 'DOMAIN-SUFFIX,northumbria.ac.uk'
   - 'DOMAIN-SUFFIX,notion-static.com'
+  - 'DOMAIN-SUFFIX,notion-status.com'
   - 'DOMAIN-SUFFIX,noxinfluencer.com'
   - 'DOMAIN-SUFFIX,ntidagenham.ac.uk'
   - 'DOMAIN-SUFFIX,ntp1.tohoku.ac.jp'
