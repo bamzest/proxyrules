@@ -9,9 +9,10 @@ DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,tails.net
 DOMAIN-SUFFIX,multcloud.com
 
-# DOMAIN-KEYWORD (5 rules)
+# DOMAIN-KEYWORD (6 rules)
 DOMAIN-KEYWORD,osl
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,hashkey
+DOMAIN-KEYWORD,jiuse.io
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,lntu.edu.cn
