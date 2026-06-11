@@ -133,7 +133,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (112744 rules)
+# DOMAIN-SUFFIX (112752 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1.cc
@@ -12030,6 +12030,7 @@ DOMAIN-SUFFIX,ahaec.com
 DOMAIN-SUFFIX,ahbrt.com
 DOMAIN-SUFFIX,ahbys.com
 DOMAIN-SUFFIX,ahcaw.com
+DOMAIN-SUFFIX,ahcjw.com
 DOMAIN-SUFFIX,ahcnb.com
 DOMAIN-SUFFIX,ahdci.com
 DOMAIN-SUFFIX,ahdhf.com
@@ -16292,6 +16293,7 @@ DOMAIN-SUFFIX,gxxhz.com
 DOMAIN-SUFFIX,gxxin.com
 DOMAIN-SUFFIX,gxxlk.com
 DOMAIN-SUFFIX,gxxls.com
+DOMAIN-SUFFIX,gxxmt.com
 DOMAIN-SUFFIX,gxxrf.com
 DOMAIN-SUFFIX,gxxsy.com
 DOMAIN-SUFFIX,gxxyh.net
@@ -20318,6 +20320,7 @@ DOMAIN-SUFFIX,npbbs.net
 DOMAIN-SUFFIX,npedi.com
 DOMAIN-SUFFIX,npfls.com
 DOMAIN-SUFFIX,npsel.com
+DOMAIN-SUFFIX,npsv6.com
 DOMAIN-SUFFIX,npxsw.com
 DOMAIN-SUFFIX,nqlai.com
 DOMAIN-SUFFIX,nrisc.com
@@ -23157,6 +23160,7 @@ DOMAIN-SUFFIX,uchis.com
 DOMAIN-SUFFIX,ucicq.com
 DOMAIN-SUFFIX,ucigl.com
 DOMAIN-SUFFIX,ucjoy.com
+DOMAIN-SUFFIX,ucppt.com
 DOMAIN-SUFFIX,ucren.com
 DOMAIN-SUFFIX,ucun.tech
 DOMAIN-SUFFIX,ucuuc.com
@@ -44258,6 +44262,7 @@ DOMAIN-SUFFIX,vbsemi.com
 DOMAIN-SUFFIX,vcbeat.net
 DOMAIN-SUFFIX,vcchar.com
 DOMAIN-SUFFIX,vcdnga.com
+DOMAIN-SUFFIX,vcgapi.com
 DOMAIN-SUFFIX,vclass.com
 DOMAIN-SUFFIX,vcnews.com
 DOMAIN-SUFFIX,vcomic.com
@@ -55041,6 +55046,7 @@ DOMAIN-SUFFIX,isfirst.net
 DOMAIN-SUFFIX,ishangu.com
 DOMAIN-SUFFIX,isheely.com
 DOMAIN-SUFFIX,isheji5.com
+DOMAIN-SUFFIX,ishijue.com
 DOMAIN-SUFFIX,ishouka.com
 DOMAIN-SUFFIX,ishubao.org
 DOMAIN-SUFFIX,ishugui.com
@@ -70628,6 +70634,7 @@ DOMAIN-SUFFIX,laiytech.com
 DOMAIN-SUFFIX,lamwatch.com
 DOMAIN-SUFFIX,lan-ning.com
 DOMAIN-SUFFIX,landbond.com
+DOMAIN-SUFFIX,landian.news
 DOMAIN-SUFFIX,landraco.com
 DOMAIN-SUFFIX,landuncn.com
 DOMAIN-SUFFIX,landwind.com
@@ -71840,6 +71847,7 @@ DOMAIN-SUFFIX,nfbdc154.org
 DOMAIN-SUFFIX,nfcs-med.com
 DOMAIN-SUFFIX,nfksjkfs.com
 DOMAIN-SUFFIX,nflchina.com
+DOMAIN-SUFFIX,nfpeople.com
 DOMAIN-SUFFIX,nfschina.com
 DOMAIN-SUFFIX,nfyyzcfy.com
 DOMAIN-SUFFIX,nfzhouyi.com
