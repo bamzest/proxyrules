@@ -3,12 +3,46 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (3 rules)
+# DOMAIN (37 rules)
+DOMAIN,emby.run
+DOMAIN,emby.cjpc.cc
+DOMAIN,emby.ytoo.li
+DOMAIN,embyserver.ga
+DOMAIN,line.emby.men
+DOMAIN,pornemby.club
+DOMAIN,aws.jmsooo.com
+DOMAIN,cf1.jmsooo.com
+DOMAIN,emby.xeton.dev
+DOMAIN,cu.poloemby.xyz
+DOMAIN,emby.immtel.com
+DOMAIN,emby.mdss.cloud
+DOMAIN,movie.xeton.dev
+DOMAIN,ntt1.jmsooo.com
 DOMAIN,emby.lcloud.wiki
+DOMAIN,emby.maying.club
+DOMAIN,emby.nyancat.net
+DOMAIN,hinet.jmsooo.com
+DOMAIN,agahk1.jmsooo.com
+DOMAIN,agajp1.jmsooo.com
+DOMAIN,agasg1.jmsooo.com
+DOMAIN,servers.xeton.dev
+DOMAIN,emby.nexitally.com
+DOMAIN,emby.prprcloud.com
+DOMAIN,jellyfin.xeton.dev
 DOMAIN,notnetflix.cos.cat
+DOMAIN,cf.odysseyplus.site
 DOMAIN,emby.enjoyit.eu.org
+DOMAIN,emby.flowercloud.yt
+DOMAIN,emby.plusmedia.site
+DOMAIN,ru.odysseyplus.site
+DOMAIN,emby.otakudrive.life
+DOMAIN,emby2.otakudrive.life
+DOMAIN,agahk.odysseyplus.site
+DOMAIN,agasg.odysseyplus.site
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby-sg.plusmedia.site
 
-# DOMAIN-SUFFIX (45 rules)
+# DOMAIN-SUFFIX (46 rules)
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,123456.al
@@ -47,6 +81,7 @@ DOMAIN-SUFFIX,hinet.jmsooo.com
 DOMAIN-SUFFIX,agahk1.jmsooo.com
 DOMAIN-SUFFIX,agajp1.jmsooo.com
 DOMAIN-SUFFIX,agasg1.jmsooo.com
+DOMAIN-SUFFIX,blueseamusics.com
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,servers.xeton.dev
 DOMAIN-SUFFIX,emby.cristiamo.top
@@ -55,9 +90,10 @@ DOMAIN-SUFFIX,emby.prprcloud.com
 DOMAIN-SUFFIX,jellyfin.xeton.dev
 DOMAIN-SUFFIX,emby.flowercloud.yt
 
-# DOMAIN-KEYWORD (3 rules)
+# DOMAIN-KEYWORD (4 rules)
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,jmsooo.com
 DOMAIN-KEYWORD,odysseyplus
 
 # PROCESS-NAME (1 rules)
