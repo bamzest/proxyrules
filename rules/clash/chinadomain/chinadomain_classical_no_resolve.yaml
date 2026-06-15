@@ -34,7 +34,7 @@ payload:
   - 'DOMAIN-KEYWORD,.tmall.com'
   - 'DOMAIN-KEYWORD,chinacache'
 
-  # IP-CIDR (8246 rules)
+  # IP-CIDR (8250 rules)
   - 'IP-CIDR,0.0.0.0/32,no-resolve'
   - 'IP-CIDR,1.12.12.12/32,no-resolve'
   - 'IP-CIDR,1.245.74.5/32,no-resolve'
@@ -1827,6 +1827,7 @@ payload:
   - 'IP-CIDR,107.153.91.0/24,no-resolve'
   - 'IP-CIDR,107.158.37.0/24,no-resolve'
   - 'IP-CIDR,107.190.229.0/24,no-resolve'
+  - 'IP-CIDR,108.186.72.0/24,no-resolve'
   - 'IP-CIDR,109.172.100.0/24,no-resolve'
   - 'IP-CIDR,109.71.4.0/24,no-resolve'
   - 'IP-CIDR,110.79.78.0/24,no-resolve'
@@ -2029,7 +2030,10 @@ payload:
   - 'IP-CIDR,188.221.99.0/24,no-resolve'
   - 'IP-CIDR,188.241.80.0/24,no-resolve'
   - 'IP-CIDR,189.12.48.0/24,no-resolve'
+  - 'IP-CIDR,189.73.18.0/24,no-resolve'
+  - 'IP-CIDR,189.75.185.0/24,no-resolve'
   - 'IP-CIDR,191.217.175.0/24,no-resolve'
+  - 'IP-CIDR,191.219.18.0/24,no-resolve'
   - 'IP-CIDR,191.222.242.0/24,no-resolve'
   - 'IP-CIDR,191.222.244.0/24,no-resolve'
   - 'IP-CIDR,192.11.23.0/24,no-resolve'
@@ -2883,7 +2887,6 @@ payload:
   - 'IP-CIDR,212.103.62.0/24,no-resolve'
   - 'IP-CIDR,212.134.136.0/24,no-resolve'
   - 'IP-CIDR,212.134.159.0/24,no-resolve'
-  - 'IP-CIDR,212.189.96.0/24,no-resolve'
   - 'IP-CIDR,213.159.70.0/24,no-resolve'
   - 'IP-CIDR,213.199.169.0/24,no-resolve'
   - 'IP-CIDR,213.210.55.0/24,no-resolve'
@@ -2907,7 +2910,6 @@ payload:
   - 'IP-CIDR,38.47.220.0/24,no-resolve'
   - 'IP-CIDR,38.47.226.0/24,no-resolve'
   - 'IP-CIDR,38.60.143.0/24,no-resolve'
-  - 'IP-CIDR,38.76.140.0/24,no-resolve'
   - 'IP-CIDR,38.95.121.0/24,no-resolve'
   - 'IP-CIDR,39.0.0.0/24,no-resolve'
   - 'IP-CIDR,40.198.10.0/24,no-resolve'
@@ -3828,6 +3830,7 @@ payload:
   - 'IP-CIDR,210.61.206.0/23,no-resolve'
   - 'IP-CIDR,210.87.114.0/23,no-resolve'
   - 'IP-CIDR,210.87.72.0/23,no-resolve'
+  - 'IP-CIDR,212.189.96.0/23,no-resolve'
   - 'IP-CIDR,216.38.170.0/23,no-resolve'
   - 'IP-CIDR,223.255.252.0/23,no-resolve'
   - 'IP-CIDR,3.5.214.0/23,no-resolve'
@@ -3841,6 +3844,7 @@ payload:
   - 'IP-CIDR,38.47.222.0/23,no-resolve'
   - 'IP-CIDR,38.47.224.0/23,no-resolve'
   - 'IP-CIDR,38.60.144.0/23,no-resolve'
+  - 'IP-CIDR,38.76.140.0/23,no-resolve'
   - 'IP-CIDR,38.95.118.0/23,no-resolve'
   - 'IP-CIDR,38.95.122.0/23,no-resolve'
   - 'IP-CIDR,39.0.2.0/23,no-resolve'
@@ -8282,7 +8286,7 @@ payload:
   - 'IP-CIDR,61.128.0.0/10,no-resolve'
   - 'IP-CIDR,8.128.0.0/10,no-resolve'
 
-  # IP-CIDR6 (4134 rules)
+  # IP-CIDR6 (4135 rules)
   - 'IP-CIDR6,::ffff:113.248.172.245/128,no-resolve'
   - 'IP-CIDR6,::ffff:114.235.96.186/128,no-resolve'
   - 'IP-CIDR6,::ffff:115.236.128.112/128,no-resolve'
@@ -9893,6 +9897,7 @@ payload:
   - 'IP-CIDR6,2a14:7583:f744::/48,no-resolve'
   - 'IP-CIDR6,2a14:7583:f764::/48,no-resolve'
   - 'IP-CIDR6,2a14:7586:6103::/48,no-resolve'
+  - 'IP-CIDR6,2a14:7586:6106::/48,no-resolve'
   - 'IP-CIDR6,2a14:7586:6110::/48,no-resolve'
   - 'IP-CIDR6,2a14:7586:6500::/48,no-resolve'
   - 'IP-CIDR6,2a14:7dc0:506::/48,no-resolve'
