@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27201 rules)
+  # DOMAIN (27203 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -12870,6 +12870,7 @@ payload:
   - 'DOMAIN,hbyinzhibao.cn'
   - 'DOMAIN,hcwdcintgl.com'
   - 'DOMAIN,hdeslibzcv.com'
+  - 'DOMAIN,hdns.k-dyn.com'
   - 'DOMAIN,hdns.ksyun.com'
   - 'DOMAIN,hdslnhmjga.com'
   - 'DOMAIN,headbidder.net'
@@ -24239,6 +24240,7 @@ payload:
   - 'DOMAIN,business.msstatic.com'
   - 'DOMAIN,bwinpartypartners.com'
   - 'DOMAIN,caphyon-analytics.com'
+  - 'DOMAIN,cdndns.kwd.inkuai.com'
   - 'DOMAIN,cdp.cloud.unity3d.com'
   - 'DOMAIN,ceprovidingsesse.info'
   - 'DOMAIN,chandlertreatment.com'
