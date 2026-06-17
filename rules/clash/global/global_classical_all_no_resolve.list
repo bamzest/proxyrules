@@ -145,7 +145,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34409 rules)
+# DOMAIN-SUFFIX (34418 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -968,6 +968,7 @@ DOMAIN-SUFFIX,fnmt.es
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,foxd.tv
 DOMAIN-SUFFIX,fpmt.tw
+DOMAIN-SUFFIX,fpo.xxx
 DOMAIN-SUFFIX,free.bg
 DOMAIN-SUFFIX,free.fr
 DOMAIN-SUFFIX,fril.jp
@@ -1613,6 +1614,7 @@ DOMAIN-SUFFIX,vox.com
 DOMAIN-SUFFIX,voy.com
 DOMAIN-SUFFIX,vpn.net
 DOMAIN-SUFFIX,vsco.co
+DOMAIN-SUFFIX,vsex.in
 DOMAIN-SUFFIX,vuku.cc
 DOMAIN-SUFFIX,vzw.com
 DOMAIN-SUFFIX,w-mt.co
@@ -9229,6 +9231,7 @@ DOMAIN-SUFFIX,xcg123.com
 DOMAIN-SUFFIX,xchina.fun
 DOMAIN-SUFFIX,xdh999.one
 DOMAIN-SUFFIX,xgtdr.buzz
+DOMAIN-SUFFIX,xhapp.live
 DOMAIN-SUFFIX,xianba.net
 DOMAIN-SUFFIX,xianir.xyz
 DOMAIN-SUFFIX,xiaolan.me
@@ -10648,6 +10651,8 @@ DOMAIN-SUFFIX,freegao.com
 DOMAIN-SUFFIX,freessl.com
 DOMAIN-SUFFIX,freetcp.com
 DOMAIN-SUFFIX,freewww.biz
+DOMAIN-SUFFIX,freexh.blog
+DOMAIN-SUFFIX,freexh.live
 DOMAIN-SUFFIX,freexxx.win
 DOMAIN-SUFFIX,fritchy.com
 DOMAIN-SUFFIX,from-pr.com
@@ -11919,6 +11924,7 @@ DOMAIN-SUFFIX,pourquoi.tw
 DOMAIN-SUFFIX,powerbi.com
 DOMAIN-SUFFIX,powercx.com
 DOMAIN-SUFFIX,powersrv.de
+DOMAIN-SUFFIX,powfans.com
 DOMAIN-SUFFIX,powia.ac.uk
 DOMAIN-SUFFIX,pparc.ac.uk
 DOMAIN-SUFFIX,ppaypal.com
@@ -12127,6 +12133,7 @@ DOMAIN-SUFFIX,selectel.ru
 DOMAIN-SUFFIX,sendvid.com
 DOMAIN-SUFFIX,seotimes.jp
 DOMAIN-SUFFIX,seqingx.com
+DOMAIN-SUFFIX,serakon.com
 DOMAIN-SUFFIX,serio.ac.uk
 DOMAIN-SUFFIX,seselah.com
 DOMAIN-SUFFIX,sex-gif.org
@@ -18618,6 +18625,7 @@ DOMAIN-SUFFIX,picasaweb.com
 DOMAIN-SUFFIX,picasaweb.net
 DOMAIN-SUFFIX,picasaweb.org
 DOMAIN-SUFFIX,pichunter.com
+DOMAIN-SUFFIX,pimpbunny.com
 DOMAIN-SUFFIX,pincong.rocks
 DOMAIN-SUFFIX,pingguotv.xyz
 DOMAIN-SUFFIX,pinkdh-bb.sbs
@@ -33426,6 +33434,7 @@ DOMAIN-SUFFIX,brightoncitycollege.ac.uk
 DOMAIN-SUFFIX,btrp-hyperpolarised.ac.uk
 DOMAIN-SUFFIX,cambridgeuniversity.ac.uk
 DOMAIN-SUFFIX,casquebeatsdocteurdre.com
+DOMAIN-SUFFIX,celebritymoviearchive.com
 DOMAIN-SUFFIX,census-registration.ac.uk
 DOMAIN-SUFFIX,cheapbeatsbydreonsale.com
 DOMAIN-SUFFIX,cheapbeatsbydreoutlet.com
