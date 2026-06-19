@@ -145,7 +145,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34418 rules)
+# DOMAIN-SUFFIX (34435 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -581,6 +581,7 @@ DOMAIN-SUFFIX,sto.cc
 DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,t-j.ru
 DOMAIN-SUFFIX,tap.io
+DOMAIN-SUFFIX,tb.pro
 DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tmi.me
 DOMAIN-SUFFIX,top.tv
@@ -1893,6 +1894,7 @@ DOMAIN-SUFFIX,avmoo.pw
 DOMAIN-SUFFIX,avple.tv
 DOMAIN-SUFFIX,avxhm.is
 DOMAIN-SUFFIX,avxhm.se
+DOMAIN-SUFFIX,axept.io
 DOMAIN-SUFFIX,azubu.tv
 DOMAIN-SUFFIX,b-ok.org
 DOMAIN-SUFFIX,b0ne.com
@@ -3817,6 +3819,7 @@ DOMAIN-SUFFIX,dettol.pl
 DOMAIN-SUFFIX,dettol.pt
 DOMAIN-SUFFIX,dettol.ru
 DOMAIN-SUFFIX,devpn.com
+DOMAIN-SUFFIX,dfvpn.com
 DOMAIN-SUFFIX,dgaqp.com
 DOMAIN-SUFFIX,dgwav.com
 DOMAIN-SUFFIX,dhi.ac.uk
@@ -5440,6 +5443,7 @@ DOMAIN-SUFFIX,tellme.pw
 DOMAIN-SUFFIX,tenbin.ai
 DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tenten.vn
+DOMAIN-SUFFIX,termly.io
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,tex.ac.uk
 DOMAIN-SUFFIX,tfhub.dev
@@ -5747,6 +5751,7 @@ DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,wqe.ac.uk
 DOMAIN-SUFFIX,wretch.cc
 DOMAIN-SUFFIX,wsc.ac.uk
+DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,wsjhk.com
 DOMAIN-SUFFIX,wtc.ac.uk
 DOMAIN-SUFFIX,wujie.net
@@ -7890,6 +7895,7 @@ DOMAIN-SUFFIX,monaitv.me
 DOMAIN-SUFFIX,mondex.org
 DOMAIN-SUFFIX,mono33.top
 DOMAIN-SUFFIX,moodyz.com
+DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,move.ac.uk
 DOMAIN-SUFFIX,movetv.com
 DOMAIN-SUFFIX,movika.com
@@ -10685,6 +10691,7 @@ DOMAIN-SUFFIX,gameapps.hk
 DOMAIN-SUFFIX,gamer.ne.jp
 DOMAIN-SUFFIX,gamescup.ru
 DOMAIN-SUFFIX,gametap.com
+DOMAIN-SUFFIX,gamewtb.com
 DOMAIN-SUFFIX,gamousa.com
 DOMAIN-SUFFIX,gandhara.ru
 DOMAIN-SUFFIX,ganjing.com
@@ -10757,6 +10764,7 @@ DOMAIN-SUFFIX,go.sony.com
 DOMAIN-SUFFIX,goagent.biz
 DOMAIN-SUFFIX,goals.ac.uk
 DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
 DOMAIN-SUFFIX,godbolt.org
 DOMAIN-SUFFIX,gofit.ac.uk
 DOMAIN-SUFFIX,gogeo.ac.uk
@@ -15985,6 +15993,7 @@ DOMAIN-SUFFIX,triballo.net
 DOMAIN-SUFFIX,triokini.com
 DOMAIN-SUFFIX,tronscan.org
 DOMAIN-SUFFIX,trueanal.com
+DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,trustcor.com
 DOMAIN-SUFFIX,trustsign.ch
 DOMAIN-SUFFIX,truyen18.xyz
@@ -16662,6 +16671,7 @@ DOMAIN-SUFFIX,anypornhd.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,aplestore.com
 DOMAIN-SUFFIX,appadvice.com
+DOMAIN-SUFFIX,appconsent.io
 DOMAIN-SUFFIX,apple-dns.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,apple-expo.eu
@@ -17064,8 +17074,10 @@ DOMAIN-SUFFIX,connect.ac.uk
 DOMAIN-SUFFIX,connell.ac.uk
 DOMAIN-SUFFIX,conscrypt.com
 DOMAIN-SUFFIX,conscrypt.org
+DOMAIN-SUFFIX,cookiebot.com
 DOMAIN-SUFFIX,cookielaw.org
 DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,cookieyes.com
 DOMAIN-SUFFIX,coolncute.com
 DOMAIN-SUFFIX,copstat.ac.uk
 DOMAIN-SUFFIX,cordcloud.org
@@ -19654,6 +19666,7 @@ DOMAIN-SUFFIX,absoluporn.com
 DOMAIN-SUFFIX,absolutbank.ru
 DOMAIN-SUFFIX,accesshe.ac.uk
 DOMAIN-SUFFIX,accesspoint.uz
+DOMAIN-SUFFIX,accountboy.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,acer-group.com
 DOMAIN-SUFFIX,acgnmanhua.com
@@ -24267,6 +24280,7 @@ DOMAIN-SUFFIX,thongdreams.com
 DOMAIN-SUFFIX,thornbeck.ac.uk
 DOMAIN-SUFFIX,threatchaos.com
 DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,thywords.com.tw
 DOMAIN-SUFFIX,tianhuayuan.com
 DOMAIN-SUFFIX,tiantibooks.org
@@ -26777,6 +26791,7 @@ DOMAIN-SUFFIX,casinobellini.com
 DOMAIN-SUFFIX,castle-coll.ac.uk
 DOMAIN-SUFFIX,castlereagh.ac.uk
 DOMAIN-SUFFIX,ccievoicelabs.com
+DOMAIN-SUFFIX,cdn-cookieyes.com
 DOMAIN-SUFFIX,cdnblackmyth.club
 DOMAIN-SUFFIX,ceelbas-cdt.ac.uk
 DOMAIN-SUFFIX,centralbeds.ac.uk
@@ -28410,6 +28425,7 @@ DOMAIN-SUFFIX,comicbushi-web.com
 DOMAIN-SUFFIX,compass-system.com
 DOMAIN-SUFFIX,connectcommerce.hk
 DOMAIN-SUFFIX,connectcommerce.tv
+DOMAIN-SUFFIX,consentmanager.net
 DOMAIN-SUFFIX,contechacademy.com
 DOMAIN-SUFFIX,content.office.net
 DOMAIN-SUFFIX,convrgencegame.com
@@ -33369,6 +33385,7 @@ DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--colegsirgr-c5a.ac.uk
 DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com
+DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com
 DOMAIN-SUFFIX,young-amateur-movies.com
 DOMAIN-SUFFIX,yourfantasybeginsnow.com
 DOMAIN-SUFFIX,yourpelvicultrasound.com

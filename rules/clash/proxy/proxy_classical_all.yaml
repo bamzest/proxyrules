@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17574 rules)
+  # DOMAIN-SUFFIX (17578 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -4374,6 +4374,7 @@ payload:
   - 'DOMAIN-SUFFIX,mol.gov.tw'
   - 'DOMAIN-SUFFIX,mondex.org'
   - 'DOMAIN-SUFFIX,moodyz.com'
+  - 'DOMAIN-SUFFIX,moomoo.com'
   - 'DOMAIN-SUFFIX,movetv.com'
   - 'DOMAIN-SUFFIX,mozilla.ai'
   - 'DOMAIN-SUFFIX,mrcong.com'
@@ -8629,6 +8630,7 @@ payload:
   - 'DOMAIN-SUFFIX,sinoants.com'
   - 'DOMAIN-SUFFIX,sinocast.com'
   - 'DOMAIN-SUFFIX,sinocism.com'
+  - 'DOMAIN-SUFFIX,sinyalee.com'
   - 'DOMAIN-SUFFIX,sissy.eu.org'
   - 'DOMAIN-SUFFIX,siteks.uk.to'
   - 'DOMAIN-SUFFIX,sitemaps.org'
@@ -10823,6 +10825,7 @@ payload:
   - 'DOMAIN-SUFFIX,aboutamazon.pl'
   - 'DOMAIN-SUFFIX,aboutporno.net'
   - 'DOMAIN-SUFFIX,absoluporn.com'
+  - 'DOMAIN-SUFFIX,accountboy.com'
   - 'DOMAIN-SUFFIX,accountkit.com'
   - 'DOMAIN-SUFFIX,acer-group.com'
   - 'DOMAIN-SUFFIX,acgnmanhua.com'
@@ -17371,6 +17374,7 @@ payload:
   - 'DOMAIN-SUFFIX,viewmorepics.myspace.com'
   - 'DOMAIN-SUFFIX,vmwareusergroupstore.com'
   - 'DOMAIN-SUFFIX,xn--gmq92kd2rm1kx34a.com'
+  - 'DOMAIN-SUFFIX,xn--vuqv2cf7wzyig79c.com'
   - 'DOMAIN-SUFFIX,yourfantasybeginsnow.com'
   - 'DOMAIN-SUFFIX,yourpelvicultrasound.com'
   - 'DOMAIN-SUFFIX,youtubemobilesupport.com'
