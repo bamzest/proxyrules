@@ -189,7 +189,6 @@ youku.cdn2-youku.com
 zzlive.zzc-media.com
 config.cmpassport.com
 f24hls-i.akamaihd.net
-gog-cdn.akamaized.net
 izattime.qcomgeo2.com
 nprnat-i.akamaihd.net
 origin-a.akamaihd.net
@@ -198,12 +197,13 @@ wowza-stream.wbur.org
 xtratime.qcomgeo2.com
 app-measurement-cn.com
 cn.download.nvidia.com
+devblogs.microsoft.com
 download.jetbrains.com
 download.microsoft.com
-gog-cdn-fastly.gog.com
 live.streamingfast.net
 live.todaydunhuang.com
 m3u8.file.leshantv.net
+p.cdn.persaas.dell.com
 qqlivepull.seedata.top
 stream2.cprnetwork.org
 supportassist.dell.com
@@ -228,7 +228,6 @@ abclive2-lh.akamaihd.net
 blzddist1-a.akamaihd.net
 cdn-videos.akamaized.net
 channellive.leshantv.net
-gogalaxy.gog-statics.com
 hb2stream1.baoxinwen.com
 hindiabp-lh.akamaihd.net
 icecast-ruvr.cdnvideo.ru
@@ -266,14 +265,11 @@ cgntv-glive.ofsdelivery.net
 e1.vdowowza.vip.hk1.tvb.com
 fash1043.cloudycdn.services
 live-350k.streamingfast.net
-menu-static.gog-statics.com
 ntservicepack.microsoft.com
 ott-live.olympicchannel.com
 prod-controlbe.floonet.goog
-productcard.gog-statics.com
 staging-databe.floonet.goog
 staging.databe.floonet.goog
-www4-static.gog-statics.com
 1hdru-hls-otcnet.cdnvideo.ru
 59ec5453559f0.streamlock.net
 5c3639aa99149.streamlock.net
@@ -283,7 +279,6 @@ ksn-dc1.geoksn.kaspersky.com
 ksn-kas.geoksn.kaspersky.com
 ksn-mdr.geoksn.kaspersky.com
 ksn-url.geoksn.kaspersky.com
-static-login.gog-statics.com
 zzq12345.gearhostpreview.com
 14033.live.streamtheworld.com
 19183.live.streamtheworld.com
@@ -444,7 +439,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.tmall
 +.ts.cc
 +.u.biz
-+.us.ci
 +.uu.cc
 +.v4.cc
 +.v5.cc
@@ -1184,6 +1178,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.110.com
 +.111.com
 +.1113.cc
++.114.tel
 +.115.com
 +.1168.tv
 +.11g.com
@@ -1292,7 +1287,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.32r.com
 +.3322.cc
 +.333.com
-+.33dy.cc
 +.3456.cc
 +.3456.tv
 +.350.com
@@ -2231,7 +2225,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.moko.cc
 +.mop.com
 +.mou.ren
-+.mout.me
 +.mrhs.cc
 +.msdn.hk
 +.msm.moe
@@ -3045,7 +3038,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.1758.com
 +.1773.com
 +.1778.com
-+.1787.ink
 +.179e.com
 +.17bt.com
 +.17ce.com
@@ -3218,7 +3210,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.23zw.com
 +.249m.com
 +.24av.com
-+.24dq.com
 +.24om.com
 +.24shi.cc
 +.24th.com
@@ -3269,7 +3260,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.29xf.com
 +.2agi.net
 +.2ai2.com
-+.2ai2.net
 +.2av7.com
 +.2bkw.com
 +.2ccc.com
@@ -8053,7 +8043,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.s163.com
 +.s361.com
 +.s369.com
-+.s3s9.com
 +.s4g5.com
 +.s4yd.com
 +.s575.com
@@ -11990,7 +11979,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.agiso.com
 +.agnaw.com
 +.agstt.com
-+.agucn.com
 +.agumd.com
 +.agvag.com
 +.ah-zl.com
@@ -15450,7 +15438,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.funik.com
 +.funmz.com
 +.funzm.com
-+.futu5.com
 +.fuwai.com
 +.fuwei.com
 +.fuwit.com
@@ -15957,7 +15944,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.gscdn.pub
 +.gsdpw.com
 +.gseen.com
-+.gsfrj.com
 +.gsfzb.com
 +.gshis.net
 +.gsi24.com
@@ -17552,6 +17538,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.inidc.net
 +.inkcc.net
 +.inkcn.com
++.inmis.com
 +.inmuu.com
 +.inno3d.cc
 +.innos.com
@@ -18853,7 +18840,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.lbddd.com
 +.lbedu.com
 +.lbgoo.com
-+.lbkrs.com
 +.lbszx.com
 +.lbtek.com
 +.lbwbw.com
@@ -18996,7 +18982,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.liewen.cc
 +.liewen.la
 +.lifan.com
-+.lifeng.in
 +.lifox.net
 +.lihua.com
 +.lihui.net
@@ -20217,7 +20202,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.nowec.com
 +.nowre.com
 +.nowxz.com
-+.npbbs.net
 +.npedi.com
 +.npfls.com
 +.npsel.com
@@ -23445,7 +23429,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.wboll.com
 +.wbolt.com
 +.wbpvc.com
-+.wbrks.com
 +.wbsdz.com
 +.wbxcx.net
 +.wccg.tech
@@ -24550,7 +24533,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xytzg.com
 +.xyusk.com
 +.xywzs.com
-+.xyx3d.com
 +.xyxsc.com
 +.xyxsw.ltd
 +.xyxww.com
@@ -25283,7 +25265,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.zanig.com
 +.zanih.com
 +.zanpu.com
-+.zaojv.com
 +.zapak.com
 +.zarcw.com
 +.zatan.com
@@ -29218,7 +29199,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.boslon.com
 +.bosmaa.com
 +.bosmia.com
-+.bossgy.com
 +.bosshr.com
 +.botaoo.com
 +.botsfy.com
@@ -29235,7 +29215,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.bpsemi.com
 +.bpxxfw.com
 +.bpxxvo.com
-+.bqgjt.work
 +.bqgwap.com
 +.bqgxsw.com
 +.bqlcev.com
@@ -30668,7 +30647,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.cqwzwl.com
 +.cqxayl.com
 +.cqxdyy.com
-+.cqxfxh.com
 +.cqxhdc.com
 +.cqxhyz.com
 +.cqxnyy.com
@@ -32068,9 +32046,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.etagri.com
 +.etcgsx.com
 +.etchcb.com
-+.etcifk.vip
 +.etcifw.vip
-+.etciwe.vip
 +.etelux.com
 +.etest8.com
 +.eteste.com
@@ -32622,9 +32598,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.funxun.com
 +.fusure.com
 +.futang.org
-+.futuau.com
-+.futuhn.com
-+.futunn.com
 +.fuwuce.com
 +.fuwuqu.com
 +.fuxila.com
@@ -34067,7 +34040,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.gxwdjt.com
 +.gxwgdq.com
 +.gxwgjf.com
-+.gxwhsy.com
 +.gxwhwy.com
 +.gxwjkj.com
 +.gxwjxl.com
@@ -35888,7 +35860,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.hzzhjs.com
 +.hzzhyl.com
 +.hzzhzm.com
-+.hzzjzk.com
 +.hzzqzc.com
 +.hzzred.com
 +.hzzrmc.com
@@ -36228,6 +36199,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.initcc.com
 +.initdd.com
 +.initff.com
++.initgg.com
 +.initjj.com
 +.initkk.com
 +.initll.com
@@ -36338,7 +36310,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.irisgw.com
 +.irisgw.net
 +.irising.me
-+.irober.com
 +.iroing.com
 +.isaieg.com
 +.isawhs.com
@@ -36485,7 +36456,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.iyuren.com
 +.iyxing.com
 +.iyz168.com
-+.izenith.co
 +.izhaoo.com
 +.izhuce.com
 +.izihun.com
@@ -37880,7 +37850,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.laocen.com
 +.laodong.me
 +.laoduo.net
-+.laohu8.com
 +.laolai.com
 +.laomoe.com
 +.laopao.org
@@ -37907,7 +37876,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.lb0398.com
 +.lbbniu.com
 +.lbctjt.com
-+.lbctrl.com
 +.lbesec.com
 +.lbexps.com
 +.lbgold.com
@@ -38774,7 +38742,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.meeket.com
 +.meet99.com
 +.meetbf.com
-+.meeting.so
 +.megaer.com
 +.megcup.com
 +.megou8.com
@@ -38885,7 +38852,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.miguku.com
 +.migutv.com
 +.miguyu.com
-+.mihanw.com
 +.mihayo.com
 +.mihoyo.com
 +.mihulu.com
@@ -39242,6 +39208,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.myseot.com
 +.mysipo.com
 +.mysmth.net
++.mysqil.com
 +.mysupa.com
 +.mysybt.com
 +.myt126.com
@@ -40354,7 +40321,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.pinlyu.com
 +.pinshu.com
 +.pinyuan.cc
-+.pinzhi.org
 +.pipegg.com
 +.pipilu.com
 +.pipipi.net
@@ -45579,7 +45545,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xyhqsh.com
 +.xyhygs.com
 +.xyj321.com
-+.xyj618.com
 +.xyjtzz.com
 +.xyjyjt.com
 +.xykgjt.net
@@ -47434,7 +47399,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.zxknow.com
 +.zxmall.com
 +.zxmoto.com
-+.zxopen.com
 +.zxqfjt.com
 +.zxsctf.com
 +.zxstyl.com
@@ -48532,7 +48496,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.8770000.com
 +.87money.com
 +.8811777.com
-+.881812c.com
 +.8822304.com
 +.8831398.com
 +.8880666.com
@@ -49209,7 +49172,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.aynchem.com
 +.ayoushu.com
 +.aysbxxh.com
-+.aysjhod.xyz
 +.azhituo.com
 +.azmcode.com
 +.azonete.com
@@ -49306,6 +49268,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.banwoyo.net
 +.banyiyi.com
 +.banzou.name
++.baoanbi.com
 +.baob123.com
 +.baobeio.com
 +.baobeiy.com
@@ -50303,6 +50266,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.chinavr.net
 +.chinawr.net
 +.chinaws.net
++.chinawu.com
 +.chinaxq.com
 +.chinaxy.com
 +.chinays.com
@@ -51026,7 +50990,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.dahanyu.com
 +.daheapp.com
 +.dai-shi.com
-+.daigege.com
 +.daihing.com
 +.daikuan.com
 +.dailygn.com
@@ -51161,7 +51124,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.ddianle.com
 +.ddjs-cn.com
 +.ddkanqiu.cc
-+.ddkanqu.com
 +.ddkt365.com
 +.ddnspod.com
 +.ddos567.net
@@ -51514,7 +51476,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.duanwdm.com
 +.duanxin.com
 +.duchina.com
-+.dugrqnn.xyz
 +.duibiao.com
 +.duibiao.org
 +.duiopen.com
@@ -52148,7 +52109,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.fishtui.com
 +.fixdown.com
 +.fixmath.com
-+.fj-atfz.com
 +.fj-jima.com
 +.fj10010.com
 +.fj96336.com
@@ -52357,7 +52317,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.fusaide.com
 +.fushite.com
 +.futaike.net
-+.futufin.com
 +.fuweizn.com
 +.fuwucms.com
 +.fuyaozb.com
@@ -54381,7 +54340,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.icminer.com
 +.icmsdev.com
 +.icoolby.com
-+.icoonal.xyz
 +.ics-sec.com
 +.icsisia.com
 +.ictdns.tech
@@ -54841,7 +54799,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.jc-pcba.com
 +.jc-saas.com
 +.jcancer.org
-+.jcceram.com
 +.jccjtwl.com
 +.jchouse.org
 +.jchunuo.com
@@ -54862,7 +54819,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.jddebug.com
 +.jddmoto.com
 +.jdemall.com
-+.jdfybjy.com
 +.jdjob88.com
 +.jdjrdns.com
 +.jdunion.com
@@ -55462,7 +55418,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.jytaier.com
 +.jytrump.com
 +.jyxdyzx.com
-+.jyzz666.com
 +.jz26666.com
 +.jz36666.com
 +.jz68888.com
@@ -55624,7 +55579,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.khmhvlw.com
 +.khqihuo.com
 +.khs1994.com
-+.kiapmyf.xyz
 +.kidspsy.com
 +.kidsyun.com
 +.kidulty.com
@@ -56994,7 +56948,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.muzuhui.com
 +.mvpmeta.com
 +.mwcname.com
-+.mwdfawg.com
 +.mwrfabc.com
 +.mwstore.com
 +.mxifund.com
@@ -57024,6 +56977,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.myezdns.com
 +.mygolbs.com
 +.myhexin.com
++.myhloli.com
 +.myhuilv.com
 +.myhwcdn.com
 +.myiplay.com
@@ -57192,7 +57146,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.ngs1685.com
 +.ngty556.com
 +.nhcilab.com
-+.nhdacrw.xyz
 +.nhkeysu.com
 +.nhnexpo.com
 +.nianchu.net
@@ -57343,7 +57296,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.nnjjtgs.com
 +.nnjkjzs.com
 +.nnjmskj.com
-+.nnjsypx.com
 +.nnjy100.com
 +.nnjzybl.com
 +.nnlxart.com
@@ -59394,6 +59346,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.steampp.net
 +.steampy.com
 +.steeljs.com
++.stepfun.com
 +.stjinfa.com
 +.stkouyu.com
 +.stlb520.com
@@ -59552,7 +59505,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.sxwstcm.com
 +.sxwtdyd.com
 +.sxxrmyy.com
-+.sxxsmjh.com
 +.sxyasen.com
 +.sxyckjr.com
 +.sxyqgs.asia
@@ -60677,8 +60629,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.wali123.com
 +.walibao.com
 +.walkera.com
-+.wallcoo.com
-+.wallcoo.net
 +.walletio.io
 +.waltzsy.com
 +.wan1234.com
@@ -61434,7 +61384,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xiaocms.com
 +.xiaodian.so
 +.xiaogan.com
-+.xiaohu8.com
 +.xiaohus.com
 +.xiaoice.com
 +.xiaokao.com
@@ -61702,7 +61651,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xsy-edu.com
 +.xsy.science
 +.xsyk021.com
-+.xszhuan.com
 +.xt-rent.com
 +.xt12333.com
 +.xtc-edu.com
@@ -61853,7 +61801,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.yahanmr.com
 +.yahboom.com
 +.yahunet.com
-+.yahxxcl.com
 +.yaitest.com
 +.yaiyuan.com
 +.yake123.com
@@ -62011,7 +61958,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.yffy120.com
 +.yfisher.com
 +.yfsteel.com
-+.yfwqlij.xyz
 +.yfygxyy.com
 +.yg-pump.com
 +.ygcloud.com
@@ -62572,6 +62518,8 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.z3quant.com
 +.zac1993.com
 +.zachina.org
++.zaconad.com
++.zaconbs.com
 +.zafk120.com
 +.zahuoji.com
 +.zai-art.com
@@ -63415,7 +63363,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.1zhengji.com
 +.20001104.com
 +.20021002.xyz
-+.200rtu04.bar
 +.20130123.com
 +.20171117.com
 +.20174555.com
@@ -64395,6 +64342,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.asiainfo.com
 +.asiainfo.org
 +.asim-emc.com
++.asinking.com
 +.askraste.com
 +.asktempo.com
 +.aslk2018.com
@@ -64855,6 +64803,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.bj-dahon.com
 +.bj-tvart.com
 +.bjanjili.com
++.bjbaifan.com
 +.bjbaodao.net
 +.bjbzszxy.com
 +.bjcancer.org
@@ -65474,6 +65423,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.chinaega.com
 +.chinaehs.net
 +.chinaeia.org
++.chinaemd.com
 +.chinaepu.com
 +.chinaesf.net
 +.chinaesm.com
@@ -66224,6 +66174,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.cypmedia.com
 +.cyqyfyxh.com
 +.cyuandao.com
++.cyuegame.com
 +.cyuntech.com
 +.cyyself.name
 +.czcarbon.com
@@ -67106,6 +67057,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.feibing.tech
 +.feichong.net
 +.feicui99.com
++.feifanmi.com
 +.feihe168.com
 +.feiheair.com
 +.feijipan.com
@@ -67319,7 +67271,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.fushibao.com
 +.fusiling.com
 +.fusureum.com
-+.futuesop.com
 +.fuxinews.com
 +.fuxinghf.com
 +.fuxunpay.com
@@ -67868,7 +67819,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.gxfushun.com
 +.gxfuyuan.com
 +.gxfxhjwy.com
-+.gxgangji.com
 +.gxganhua.com
 +.gxgaoyao.com
 +.gxgaoyou.com
@@ -68353,7 +68303,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.hbszbykj.com
 +.hbszjsjt.com
 +.hbtycyjt.com
-+.hbwanhao.com
 +.hbwanrun.com
 +.hbwhcyxh.com
 +.hbwhexpo.com
@@ -68495,7 +68444,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.hgcitech.com
 +.hgskyray.com
 +.hgty5533.com
-+.hgty7598.com
 +.hh-medic.com
 +.hhcx-led.com
 +.hhjctest.com
@@ -69332,7 +69280,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.itgeeker.net
 +.itgemini.net
 +.ithuangw.com
-+.itigerup.com
 +.itimotor.com
 +.itmyhome.com
 +.itonghui.com
@@ -69525,7 +69472,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.jiemeng8.com
 +.jiemodui.com
 +.jiepaids.com
-+.jierengz.com
 +.jieshui8.com
 +.jietu365.com
 +.jietuosh.com
@@ -69623,7 +69569,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.jishigou.net
 +.jishubai.com
 +.jishuchi.com
-+.jisikaer.com
 +.jisu-cnd.com
 +.jisuanke.com
 +.jisuanla.com
@@ -70908,7 +70853,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.manamana.net
 +.manboker.com
 +.manction.com
-+.mandashu.com
 +.mandnsv1.com
 +.mandnsv1.net
 +.mangoent.com
@@ -74341,7 +74285,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.tielu123.com
 +.tielujob.com
 +.tiezhima.com
-+.tigerbbs.com
 +.tigerdns.com
 +.tigermed.net
 +.tigeryun.com
@@ -74629,6 +74572,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.tzmpqcfr.com
 +.tzsports.com
 +.tzswatch.com
++.tzwdsoft.com
 +.tzyongda.com
 +.u-camera.com
 +.u-lights.com
@@ -74705,6 +74649,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.unionpay.net
 +.uniostay.com
 +.uniproud.com
++.unisapps.com
 +.uniscope.com
 +.unisonal.com
 +.unisound.com
@@ -75479,6 +75424,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xcmgmall.com
 +.xcmwqdvc.com
 +.xcstuido.com
++.xcthings.com
 +.xcukezmr.com
 +.xcvmbyte.com
 +.xcxd-inc.com
@@ -76499,7 +76445,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.yungbang.com
 +.yungotec.com
 +.yungouos.com
-+.yungousj.net
 +.yungujia.com
 +.yunhaike.com
 +.yunhaoka.com
@@ -77998,6 +77943,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.banxiaoer.com
 +.banxiaoer.net
 +.banyuetan.org
++.baoangold.com
 +.baobao001.com
 +.baobaoshu.com
 +.baobei360.com
@@ -78128,7 +78074,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.bilibiliq.com
 +.bilicomic.com
 +.bilimanga.net
-+.bilinovel.com
 +.bilivideo.com
 +.bilivideo.net
 +.bim-times.com
@@ -78519,6 +78464,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.chacewang.com
 +.chache-cn.com
 +.chache808.com
++.chadaodao.com
 +.chafanhou.com
 +.chainknow.com
 +.chainnode.com
@@ -79509,7 +79455,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.dinyocasa.com
 +.dipephoto.com
 +.discuzlab.com
-+.ditiefuli.com
 +.ditu.live.com
 +.dituwuyou.com
 +.dixintong.com
@@ -79597,6 +79542,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.douyinpic.com
 +.douyinvod.com
 +.douyou100.com
++.douyuedui.com
 +.douyuscdn.com
 +.douzaimai.com
 +.douzihuyu.com
@@ -80149,7 +80095,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.fushengal.com
 +.fusion.design
 +.future-sh.com
-+.fututrade.com
 +.fuweiwang.com
 +.fuwuqinet.com
 +.fuxinbank.com
@@ -82805,7 +82750,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.lianzhong.com
 +.lianzhuli.com
 +.liaobagua.com
-+.liaode.com.tw
 +.libaishuo.com
 +.libforest.com
 +.libguides.com
@@ -83457,7 +83401,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.mochi.website
 +.mochiwang.com
 +.moco-mall.com
-+.modelevel.com
 +.modelones.com
 +.modelscope.ai
 +.modeng178.com
@@ -83994,7 +83937,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.peixun360.com
 +.peixunxue.com
 +.peiyinxiu.com
-+.pengyucpa.com
 +.pengyuwei.net
 +.penzealcn.com
 +.peopleapp.com
@@ -86475,7 +86417,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.wwenglish.com
 +.wwenglish.org
 +.www-76244.com
-+.www.adobe.com
 +.www100789.com
 +.wx-youyan.net
 +.wxappclub.com
@@ -87196,7 +87137,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.youfunlab.com
 +.yougababy.com
 +.youginorg.com
-+.yougumuye.com
 +.youhuashu.com
 +.youhuiduo.net
 +.youhundao.com
@@ -88107,7 +88047,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.4008880999.net
 +.4008885818.com
 +.4009515151.com
-+.4009870870.com
 +.4009991000.com
 +.400dianhua.com
 +.4399youpai.com
@@ -88144,7 +88083,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.51miduoduo.com
 +.51minsheng.com
 +.51pptmoban.com
-+.51qianduan.com
 +.51qingjiao.com
 +.51qudao888.com
 +.51recovery.com
@@ -88270,8 +88208,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.a1t2w1lzfr.com
 +.a88dc138be.run
 +.aa08072678.xyz
-+.aa56238652.com
-+.aa76858896.com
 +.aaalawfirm.com
 +.aai07251mu.com
 +.aai07260mu.com
@@ -88976,6 +88912,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.campusplus.com
 +.camscanner.com
 +.candystars.net
++.cangjggame.com
 +.cangshutun.com
 +.cangxiaoer.com
 +.cangzhouhd.com
@@ -90245,7 +90182,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.ffreeslott.com
 +.fgeekcloud.com
 +.fh21static.com
-+.fhl05161ps.com
 +.fhoverseas.com
 +.fibercrops.com
 +.fifaschool.com
@@ -90349,8 +90285,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.furrychina.com
 +.furuijiaju.vip
 +.fusionappl.com
-+.futuniuniu.com
-+.futustatic.com
 +.fuwahgroup.com
 +.fuwaliuxue.com
 +.fuweifilms.com
@@ -91527,7 +91461,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.jinbiaochi.com
 +.jinbiaohui.com
 +.jinchengmf.com
-+.jindianweb.com
 +.jindunkeji.com
 +.jinenrunze.com
 +.jingbotech.com
@@ -92788,7 +92721,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.osm-pearls.com
 +.otomedream.com
 +.oufengblog.com
-+.oulongauto.com
 +.oupaigroup.com
 +.ourdomains.com
 +.ourglb0vip.com
@@ -93067,6 +92999,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.qingkongfy.xyz
 +.qingliange.com
 +.qinglinong.com
++.qingning88.com
 +.qingqikeji.com
 +.qingruanit.net
 +.qingtingfm.com
@@ -93233,7 +93166,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.rheemchina.com
 +.rhjoyhotel.org
 +.ribenguwan.com
-+.rich-chang.com
 +.richeninfo.com
 +.richtechcn.com
 +.riscv-dev.tech
@@ -93553,7 +93485,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.shexiannet.com
 +.sheying001.net
 +.shezaixian.com
-+.shfangshui.com
 +.shfinechem.com
 +.shfoxmotor.com
 +.shgtheatre.com
@@ -94031,7 +93962,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.tangdouhdn.com
 +.tangdouimg.com
 +.tangsanshu.com
-+.tangshuang.net
 +.tanjigroup.com
 +.tanjing.online
 +.tanpaifang.com
@@ -95490,7 +95420,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.youxuetong.com
 +.youyacheye.com
 +.youyantech.com
-+.youyihuibk.com
 +.youyong360.com
 +.youyoufood.com
 +.youyuegame.com
@@ -96490,7 +96419,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.bizatmobile.com
 +.bj-hengdeli.com
 +.bjartmuseum.com
-+.bjbeifangjx.com
 +.bjblackhole.com
 +.bjcatzgroup.com
 +.bjcontinent.com
@@ -97506,7 +97434,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.fusion-inte.com
 +.fussengroup.com
 +.futureprize.org
-+.fututrustee.com
 +.fuweivision.com
 +.fuxuanji-jp.com
 +.fuyaozhubao.com
@@ -97599,6 +97526,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.golden-book.com
 +.golden-soft.com
 +.golden-spri.com
++.goldtianyan.com
 +.goldwaterhk.com
 +.golinkgroup.com
 +.gongchengjn.com
@@ -97879,7 +97807,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.hexiangroup.com
 +.hexiaoxiang.com
 +.hexinwanjia.com
-+.hexuncaizhi.com
 +.heycomrades.com
 +.heyiguoyuan.com
 +.heyinshiliu.com
@@ -98666,6 +98593,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.linguoguang.com
 +.lingxicloud.com
 +.lingxigames.com
++.lingxingerp.com
 +.lingyiitech.com
 +.lingyiwanwu.com
 +.lingyuan.design
@@ -100557,7 +100485,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.wuyoudagong.com
 +.wuzhenwucun.com
 +.wuzhoucloud.com
-+.www.samsung.com
 +.wxgamemini.work
 +.wxgongkaike.com
 +.wxhkexpress.com
@@ -101665,6 +101592,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.awsdns-cn-63.biz
 +.awsdns-cn-63.com
 +.awsdns-cn-63.net
++.azureflame.cloud
 +.b27ceaa1053.skin
 +.badouxueyuan.com
 +.baguilingyun.com
@@ -103529,7 +103457,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.logistics-ea.com
 +.logwirecloud.com
 +.lohkahhotels.com
-+.longbridgehk.com
 +.longdameishi.com
 +.longlijituan.com
 +.longmaywuliu.com
@@ -103674,7 +103601,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.mofunenglish.com
 +.mok8uptsmk19.com
 +.montage-tech.com
-+.moomooequity.com
 +.moon-insight.com
 +.moondroplab.tech
 +.mordernstone.com
@@ -104084,7 +104010,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.saomadiancan.com
 +.saturdaysoft.com
 +.sb1secapply4.com
-+.sbl-ruseldau.com
 +.sblsechuorb3.net
 +.schbrilliant.com
 +.sco-marathon.com
@@ -104518,9 +104443,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.tiexuedanxin.net
 +.tiger-motion.com
 +.tiger2doudou.com
-+.tigerbrokers.com
-+.tigerbrokers.net
-+.tigerfintech.com
 +.timanetworks.com
 +.timenetwork.tech
 +.timescollege.com
@@ -104628,7 +104550,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.unityonehold.com
 +.univista-isg.com
 +.unrealengine.com
-+.untbbsdwarfs.com
 +.up-pharma-gx.com
 +.urbanmatters.com
 +.us-qianzheng.com
@@ -104910,6 +104831,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xinfangsheng.com
 +.xinfeijituan.com
 +.xinghaigroup.com
++.xinghewanglu.com
 +.xinghuazixun.com
 +.xingjiagames.com
 +.xinglin-tech.com
@@ -106150,6 +106072,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.hailiangstock.com
 +.hailiangxinxi.com
 +.hailichemical.com
++.haimianyinyue.com
 +.hainanlecheng.com
 +.hainanruiyuan.com
 +.hainanwangdai.com
@@ -106612,7 +106535,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.ljz-talentapt.com
 +.lockscreenimg.com
 +.logisticstech.com
-+.longbridgeapp.com
 +.longhorn-auto.com
 +.longhufengyun.com
 +.love-math-edu.com
@@ -106697,7 +106619,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.mobilelegends.com
 +.modengtianshi.com
 +.mofangchuxing.com
-+.moomootrustee.com
 +.morefunstudio.com
 +.mouratoriousi.com
 +.mozillaonline.com
@@ -107402,7 +107323,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.westlakeomics.com
 +.westsummitcap.com
 +.wework-studio.com
-+.whimsywarpgame.cc
 +.white-dolphin.com
 +.whoami.akamai.net
 +.whoisreminder.net
@@ -107537,7 +107457,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.xiuxianshipin.com
 +.xn--7qvz7xssa.com
 +.xn--9kr72kqwe.com
-+.xn--czr93rxry.com
 +.xn--sgt856gbjl.cc
 +.xn--vcso1ukuz.net
 +.xn--wbsz85a2a.com
@@ -107697,7 +107616,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.zhihuixuexipt.com
 +.zhihuizhangyu.com
 +.zhijianchuhai.com
-+.zhijianfengyi.com
 +.zhijiannuoche.com
 +.zhiliaocaibao.com
 +.zhimaruanjian.com
@@ -111991,6 +111909,7 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.gzwxzf-tencentclb.net
 +.haichangoceanpark.com
 +.haichen-logistics.com
++.haimianbandstatic.com
 +.hangzhoutianqi114.com
 +.harleyydavidsale.shop
 +.heilongjianggames.com
@@ -112306,7 +112225,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.crossingstarstudio.com
 +.dachengbiochemical.com
 +.desktop-calculator.com
-+.devblogs.microsoft.com
 +.dicksflashsale-vip.com
 +.digitalchinahealth.org
 +.digitalcloudshield.com
@@ -112376,7 +112294,6 @@ sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 +.openharmonyproject.com
 +.orientalpearltower.com
 +.ouei-sc-mulohomasi.com
-+.p.cdn.persaas.dell.com
 +.partner.cdnetworks.com
 +.pcb-membraneswitch.com
 +.pglstatp-toutiao-b.com

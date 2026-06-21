@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # IP-CIDR (18325 rules)
+  # IP-CIDR (18324 rules)
   - 'IP-CIDR,1.34.0.0/32'
   - 'IP-CIDR,1.46.60.1/32'
   - 'IP-CIDR,101.230.253.139/32'
@@ -3347,7 +3347,6 @@ payload:
   - 'IP-CIDR,194.110.135.0/24'
   - 'IP-CIDR,194.127.229.0/24'
   - 'IP-CIDR,194.138.136.0/24'
-  - 'IP-CIDR,194.138.202.0/24'
   - 'IP-CIDR,194.138.245.0/24'
   - 'IP-CIDR,194.156.99.0/24'
   - 'IP-CIDR,194.231.140.0/24'
