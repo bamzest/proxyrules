@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27203 rules)
+# DOMAIN (27204 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -17451,6 +17451,7 @@ DOMAIN,enter-system.com
 DOMAIN,enusbrzlmcmg.com
 DOMAIN,enviousshape.com
 DOMAIN,eoqgguubvksu.com
+DOMAIN,ep7.facebook.com
 DOMAIN,eperfectdata.com
 DOMAIN,eqdxwctuflfc.com
 DOMAIN,eqnqxfrxsmuy.com
@@ -27208,7 +27209,7 @@ DOMAIN,97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 
-# DOMAIN-SUFFIX (262876 rules)
+# DOMAIN-SUFFIX (262875 rules)
 DOMAIN-SUFFIX,a.ki
 DOMAIN-SUFFIX,4o.cc
 DOMAIN-SUFFIX,4u.pl
@@ -90731,7 +90732,6 @@ DOMAIN-SUFFIX,ads.tvmnews.mt
 DOMAIN-SUFFIX,ads.vietbao.vn
 DOMAIN-SUFFIX,ads.vishare.vn
 DOMAIN-SUFFIX,ads.vovlive.vn
-DOMAIN-SUFFIX,ads.vungle.com
 DOMAIN-SUFFIX,ads.weather.ca
 DOMAIN-SUFFIX,ads.webinak.sk
 DOMAIN-SUFFIX,ads.xlxtra.com
