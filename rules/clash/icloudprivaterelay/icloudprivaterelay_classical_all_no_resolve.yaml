@@ -11,7 +11,3 @@ payload:
   - 'DOMAIN,mask-api.icloud.com'
   - 'DOMAIN,mask-t.apple-dns.net'
   - 'DOMAIN,mask-api.fe.apple-dns.net'
-
-  # DOMAIN-SUFFIX (2 rules)
-  - 'DOMAIN-SUFFIX,mask.icloud.com'
-  - 'DOMAIN-SUFFIX,mask-h2.icloud.com'

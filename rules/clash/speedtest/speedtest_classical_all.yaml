@@ -6079,11 +6079,8 @@ payload:
   - 'DOMAIN,ec2-34-219-16-232.us-west-2.compute.amazonaws.com'
   - 'DOMAIN,ec2-35-183-1-182.ca-central-1.compute.amazonaws.com'
 
-  # DOMAIN-SUFFIX (5 rules)
-  - 'DOMAIN-SUFFIX,fast.com'
-  - 'DOMAIN-SUFFIX,speed.dler.io'
+  # DOMAIN-SUFFIX (2 rules)
   - 'DOMAIN-SUFFIX,ooklaserver.net'
-  - 'DOMAIN-SUFFIX,speed.cloudflare.com'
   - 'DOMAIN-SUFFIX,lg-hkg.fdcservers.net'
 
   # DOMAIN-KEYWORD (2 rules)
