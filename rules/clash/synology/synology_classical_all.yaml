@@ -7,9 +7,12 @@ payload:
   # DOMAIN (1 rules)
   - 'DOMAIN,d2f0395ykn6hxb.cloudfront.net'
 
-  # DOMAIN-SUFFIX (17 rules)
+  # DOMAIN-SUFFIX (26 rules)
   - 'DOMAIN-SUFFIX,i234.me'
   - 'DOMAIN-SUFFIX,myds.com'
+  - 'DOMAIN-SUFFIX,gofile.me'
+  - 'DOMAIN-SUFFIX,synosh.cn'
+  - 'DOMAIN-SUFFIX,synozh.cn'
   - 'DOMAIN-SUFFIX,dscloud.me'
   - 'DOMAIN-SUFFIX,dscloud.biz'
   - 'DOMAIN-SUFFIX,dsmunas.com'
@@ -24,7 +27,13 @@ payload:
   - 'DOMAIN-SUFFIX,familyds.org'
   - 'DOMAIN-SUFFIX,synology.com'
   - 'DOMAIN-SUFFIX,diskstation.me'
+  - 'DOMAIN-SUFFIX,synologyssb.cn'
+  - 'DOMAIN-SUFFIX,quickconnect.cn'
   - 'DOMAIN-SUFFIX,quickconnect.to'
+  - 'DOMAIN-SUFFIX,synologycare.cn'
+  - 'DOMAIN-SUFFIX,synologyssb.com'
+  - 'DOMAIN-SUFFIX,synologyupdate.com'
+  - 'DOMAIN-SUFFIX,synologydownload.com'
 
   # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,synology'

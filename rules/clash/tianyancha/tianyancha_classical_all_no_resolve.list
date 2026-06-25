@@ -1,0 +1,13 @@
+# tianyancha - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,ty.ink
+DOMAIN-SUFFIX,tyc8.cn
+DOMAIN-SUFFIX,tycn.cn
+DOMAIN-SUFFIX,tycq.cn
+DOMAIN-SUFFIX,tyc01.cn
+DOMAIN-SUFFIX,tianyancha.cn
+DOMAIN-SUFFIX,tianyancha.com

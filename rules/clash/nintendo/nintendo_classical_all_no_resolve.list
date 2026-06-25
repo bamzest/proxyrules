@@ -131,3 +131,6 @@ DOMAIN-SUFFIX,pokemonmysterydungeon.com
 DOMAIN-SUFFIX,marioandluigidreamteam.com
 DOMAIN-SUFFIX,nintendoswitchtogether.com
 DOMAIN-SUFFIX,donkeykongcountryreturns.com
+
+# IP-CIDR (1 rules)
+IP-CIDR,35.192.0.0/12,no-resolve

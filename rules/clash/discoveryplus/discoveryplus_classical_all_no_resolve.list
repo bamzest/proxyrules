@@ -3,6 +3,11 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN (3 rules)
+DOMAIN,discovery-us.conax.cloud
+DOMAIN,dplus-northamerica.media-edge.prod-vod.h264.io
+DOMAIN,dplus-northamerica-cloudfront-gcs.prod-vod.h264.io
+
 # DOMAIN-SUFFIX (12 rules)
 DOMAIN-SUFFIX,litix.io
 DOMAIN-SUFFIX,dnitv.com
@@ -16,3 +21,6 @@ DOMAIN-SUFFIX,discoveryplus.com
 DOMAIN-SUFFIX,discoveryplus.co.uk
 DOMAIN-SUFFIX,mobile-collector.newrelic.com
 DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,discovery.uplynk.com
