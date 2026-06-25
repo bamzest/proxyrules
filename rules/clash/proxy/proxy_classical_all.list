@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17647 rules)
+# DOMAIN-SUFFIX (17648 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -12773,6 +12773,7 @@ DOMAIN-SUFFIX,geek-squads.net
 DOMAIN-SUFFIX,geinoueroch.com
 DOMAIN-SUFFIX,geocities.co.jp
 DOMAIN-SUFFIX,geodesummit.com
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getpricetag.com

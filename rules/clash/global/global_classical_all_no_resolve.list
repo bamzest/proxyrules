@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (141 rules)
+# DOMAIN (140 rules)
 DOMAIN,rss.owo.nz
 DOMAIN,i.jeded.com
 DOMAIN,lab.skk.moe
@@ -50,7 +50,6 @@ DOMAIN,rss.wudifeixue.com
 DOMAIN,rsshub.asailor.org
 DOMAIN,search.yahoo.co.jp
 DOMAIN,beck-online.beck.de
-DOMAIN,default.exp-tas.com
 DOMAIN,faronics.kayako.com
 DOMAIN,rss.littlebaby.life
 DOMAIN,rsshub.pseudoyu.com
@@ -146,7 +145,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34486 rules)
+# DOMAIN-SUFFIX (34498 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -10062,6 +10061,7 @@ DOMAIN-SUFFIX,bumptop.net
 DOMAIN-SUFFIX,bumptop.org
 DOMAIN-SUFFIX,bunka.go.jp
 DOMAIN-SUFFIX,burstly.net
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,butex.ac.uk
 DOMAIN-SUFFIX,buyaapl.com
 DOMAIN-SUFFIX,buyaapl.net
@@ -10554,6 +10554,7 @@ DOMAIN-SUFFIX,evolver.com
 DOMAIN-SUFFIX,exam.gov.tw
 DOMAIN-SUFFIX,exeporn.net
 DOMAIN-SUFFIX,exiporn.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,exxxtra.net
 DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
@@ -11391,6 +11392,7 @@ DOMAIN-SUFFIX,mangabz.com
 DOMAIN-SUFFIX,mangafox.me
 DOMAIN-SUFFIX,manhunt.net
 DOMAIN-SUFFIX,maniash.com
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,manporn.xxx
 DOMAIN-SUFFIX,mansion.com
 DOMAIN-SUFFIX,maomiav.one
@@ -16649,6 +16651,7 @@ DOMAIN-SUFFIX,aljazeera.net
 DOMAIN-SUFFIX,allhen.online
 DOMAIN-SUFFIX,allmomsex.com
 DOMAIN-SUFFIX,allover30.com
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,alohatube.com
 DOMAIN-SUFFIX,alphabet.asia
 DOMAIN-SUFFIX,alphabet.info
@@ -17643,6 +17646,7 @@ DOMAIN-SUFFIX,gfrevenge.com
 DOMAIN-SUFFIX,gfwlist.start
 DOMAIN-SUFFIX,ghostpath.com
 DOMAIN-SUFFIX,gigantits.com
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,gitmemory.com
 DOMAIN-SUFFIX,glasgow.ac.uk
@@ -19413,6 +19417,8 @@ DOMAIN-SUFFIX,vpnshazam.com
 DOMAIN-SUFFIX,vpntunnel.com
 DOMAIN-SUFFIX,vrnastran.com
 DOMAIN-SUFFIX,vrporncat.com
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,vsemrabota.ru
 DOMAIN-SUFFIX,vtsociety.org
 DOMAIN-SUFFIX,w3schools.com
@@ -21566,6 +21572,7 @@ DOMAIN-SUFFIX,robloxlabs.com
 DOMAIN-SUFFIX,roborecall.com
 DOMAIN-SUFFIX,rocket-inc.net
 DOMAIN-SUFFIX,rockettube.com
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,rolsociety.org
 DOMAIN-SUFFIX,rosbank-dom.ru
 DOMAIN-SUFFIX,royagcol.ac.uk
@@ -23161,6 +23168,7 @@ DOMAIN-SUFFIX,geiriadur.ac.uk
 DOMAIN-SUFFIX,geocities.co.jp
 DOMAIN-SUFFIX,geodesummit.com
 DOMAIN-SUFFIX,geohazard.ac.uk
+DOMAIN-SUFFIX,get.dappcdn.com
 DOMAIN-SUFFIX,getcloudapp.com
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getpersonas.com
@@ -27365,6 +27373,7 @@ DOMAIN-SUFFIX,lhasocialwork.org
 DOMAIN-SUFFIX,library-access.sk
 DOMAIN-SUFFIX,licenseparser.com
 DOMAIN-SUFFIX,lifeatkings.ac.uk
+DOMAIN-SUFFIX,lifeatspotify.com
 DOMAIN-SUFFIX,linguistics.ac.uk
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,liveporngirls.com
@@ -29422,6 +29431,7 @@ DOMAIN-SUFFIX,volvotrucks.com.tw
 DOMAIN-SUFFIX,volvotrucks.com.ua
 DOMAIN-SUFFIX,vpnproxymaster.com
 DOMAIN-SUFFIX,vredessentials.com
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vtstutorials.ac.uk
 DOMAIN-SUFFIX,walsall-coce.ac.uk
 DOMAIN-SUFFIX,wanderinghorse.net
@@ -32057,6 +32067,7 @@ DOMAIN-SUFFIX,softeng-support.ac.uk
 DOMAIN-SUFFIX,softwareoutlook.ac.uk
 DOMAIN-SUFFIX,soulcaliburhentai.net
 DOMAIN-SUFFIX,southendcollege.ac.uk
+DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
 DOMAIN-SUFFIX,stackoverflowjobs.com
 DOMAIN-SUFFIX,standardchartered.com
