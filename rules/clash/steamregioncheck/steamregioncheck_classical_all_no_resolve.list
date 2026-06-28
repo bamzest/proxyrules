@@ -1,0 +1,23 @@
+# steamregioncheck - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN (17 rules)
+DOMAIN,ext1-hkg1.steamserver.net
+DOMAIN,ext1-lax1.steamserver.net
+DOMAIN,ext1-sgp1.steamserver.net
+DOMAIN,ext1-tyo3.steamserver.net
+DOMAIN,ext2-hkg1.steamserver.net
+DOMAIN,ext2-lax1.steamserver.net
+DOMAIN,ext2-sgp1.steamserver.net
+DOMAIN,ext2-tyo3.steamserver.net
+DOMAIN,ext3-hkg1.steamserver.net
+DOMAIN,ext3-sgp1.steamserver.net
+DOMAIN,ext3-tyo3.steamserver.net
+DOMAIN,ext4-hkg1.steamserver.net
+DOMAIN,ext4-sgp1.steamserver.net
+DOMAIN,ext4-tyo3.steamserver.net
+DOMAIN,ext5-hkg1.steamserver.net
+DOMAIN,ext6-hkg1.steamserver.net
+DOMAIN,ext7-hkg1.steamserver.net

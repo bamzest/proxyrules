@@ -3,6 +3,13 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN (5 rules)
+DOMAIN,p.bstarstatic.com
+DOMAIN,p-bstarstatic.akamaized.net
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,upos-bstar-mirrorakam.akamaized.net
+DOMAIN,upos-bstar1-mirrorakam.akamaized.net
+
 # DOMAIN-SUFFIX (8 rules)
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,acgvideo.com
