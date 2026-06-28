@@ -4,11 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (9 rules)
-  - 'DOMAIN,www.amazon.com'
-  - 'DOMAIN,atv-ps.amazon.com'
-  - 'DOMAIN,fls-na.amazon.com'
-  - 'DOMAIN,avodmp4s3ww-a.akamaihd.net'
+  # DOMAIN (5 rules)
   - 'DOMAIN,dmqdd6hw24ucf.cloudfront.net'
   - 'DOMAIN,d1v5ir2lpwr8os.cloudfront.net'
   - 'DOMAIN,d22qjgkvxw22r6.cloudfront.net'
