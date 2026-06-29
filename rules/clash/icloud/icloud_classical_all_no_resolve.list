@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (62 rules)
+# DOMAIN-SUFFIX (63 rules)
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,icloud.ch
 DOMAIN-SUFFIX,icloud.cn
@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,applemx-icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icloud-sandbox.com
 DOMAIN-SUFFIX,icloud-isupport.com
+DOMAIN-SUFFIX,icloud-content.com.cn
 DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,gcs-content-storage-upload.googleapis.com
