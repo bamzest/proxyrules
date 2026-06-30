@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27204 rules)
+# DOMAIN (27207 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -11291,6 +11291,7 @@ DOMAIN,tcetggiry.com
 DOMAIN,tcgqqmjyg.com
 DOMAIN,td.haoxyx.com
 DOMAIN,tddjcdzra.com
+DOMAIN,tdid.m.qq.com
 DOMAIN,tdsjsext1.com
 DOMAIN,tealiumiq.com
 DOMAIN,teasernet.com
@@ -13294,6 +13295,7 @@ DOMAIN,mgti1kofb8.com
 DOMAIN,mh9dskj8jg.com
 DOMAIN,mhbdezpwdq.com
 DOMAIN,mhorwseoai.com
+DOMAIN,miao.baidu.com
 DOMAIN,microadinc.com
 DOMAIN,millioncash.ru
 DOMAIN,mininghub.club
@@ -19154,6 +19156,7 @@ DOMAIN,api.ivymobile.com
 DOMAIN,api.liquidlink.cn
 DOMAIN,api.locallogic.co
 DOMAIN,api.locuslabs.com
+DOMAIN,api.map.baidu.com
 DOMAIN,api.mobadvent.com
 DOMAIN,api.myendpoint.io
 DOMAIN,api.postscript.io
@@ -27209,7 +27212,7 @@ DOMAIN,97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 
-# DOMAIN-SUFFIX (264778 rules)
+# DOMAIN-SUFFIX (264781 rules)
 DOMAIN-SUFFIX,a.ki
 DOMAIN-SUFFIX,4o.cc
 DOMAIN-SUFFIX,4u.pl
@@ -43453,6 +43456,7 @@ DOMAIN-SUFFIX,iyfubh.com
 DOMAIN-SUFFIX,iygeoy.com
 DOMAIN-SUFFIX,iyogo.shop
 DOMAIN-SUFFIX,iyoowi.com
+DOMAIN-SUFFIX,iytcdn.com
 DOMAIN-SUFFIX,iyybqzv.cn
 DOMAIN-SUFFIX,iyygzs.com
 DOMAIN-SUFFIX,izdagda.ru
@@ -47823,6 +47827,7 @@ DOMAIN-SUFFIX,to.4sq.com
 DOMAIN-SUFFIX,to.figr.me
 DOMAIN-SUFFIX,toaioi.lol
 DOMAIN-SUFFIX,toaioi.xyz
+DOMAIN-SUFFIX,tobidad.cn
 DOMAIN-SUFFIX,tochgw.com
 DOMAIN-SUFFIX,tohoef.com
 DOMAIN-SUFFIX,toissue.cn
@@ -58067,6 +58072,7 @@ DOMAIN-SUFFIX,to7cc27p.su
 DOMAIN-SUFFIX,toaadwh.icu
 DOMAIN-SUFFIX,toabuck.xyz
 DOMAIN-SUFFIX,toazdkl.top
+DOMAIN-SUFFIX,tobidad.com
 DOMAIN-SUFFIX,toboads.com
 DOMAIN-SUFFIX,tobyxev.com
 DOMAIN-SUFFIX,todayapp.tv

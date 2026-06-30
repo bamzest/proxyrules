@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27204 rules)
+  # DOMAIN (27207 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -11292,6 +11292,7 @@ payload:
   - 'DOMAIN,tcgqqmjyg.com'
   - 'DOMAIN,td.haoxyx.com'
   - 'DOMAIN,tddjcdzra.com'
+  - 'DOMAIN,tdid.m.qq.com'
   - 'DOMAIN,tdsjsext1.com'
   - 'DOMAIN,tealiumiq.com'
   - 'DOMAIN,teasernet.com'
@@ -13295,6 +13296,7 @@ payload:
   - 'DOMAIN,mh9dskj8jg.com'
   - 'DOMAIN,mhbdezpwdq.com'
   - 'DOMAIN,mhorwseoai.com'
+  - 'DOMAIN,miao.baidu.com'
   - 'DOMAIN,microadinc.com'
   - 'DOMAIN,millioncash.ru'
   - 'DOMAIN,mininghub.club'
@@ -19155,6 +19157,7 @@ payload:
   - 'DOMAIN,api.liquidlink.cn'
   - 'DOMAIN,api.locallogic.co'
   - 'DOMAIN,api.locuslabs.com'
+  - 'DOMAIN,api.map.baidu.com'
   - 'DOMAIN,api.mobadvent.com'
   - 'DOMAIN,api.myendpoint.io'
   - 'DOMAIN,api.postscript.io'
@@ -27210,7 +27213,7 @@ payload:
   - 'DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com'
   - 'DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com'
 
-  # DOMAIN-SUFFIX (264778 rules)
+  # DOMAIN-SUFFIX (264781 rules)
   - 'DOMAIN-SUFFIX,a.ki'
   - 'DOMAIN-SUFFIX,4o.cc'
   - 'DOMAIN-SUFFIX,4u.pl'
@@ -43454,6 +43457,7 @@ payload:
   - 'DOMAIN-SUFFIX,iygeoy.com'
   - 'DOMAIN-SUFFIX,iyogo.shop'
   - 'DOMAIN-SUFFIX,iyoowi.com'
+  - 'DOMAIN-SUFFIX,iytcdn.com'
   - 'DOMAIN-SUFFIX,iyybqzv.cn'
   - 'DOMAIN-SUFFIX,iyygzs.com'
   - 'DOMAIN-SUFFIX,izdagda.ru'
@@ -47824,6 +47828,7 @@ payload:
   - 'DOMAIN-SUFFIX,to.figr.me'
   - 'DOMAIN-SUFFIX,toaioi.lol'
   - 'DOMAIN-SUFFIX,toaioi.xyz'
+  - 'DOMAIN-SUFFIX,tobidad.cn'
   - 'DOMAIN-SUFFIX,tochgw.com'
   - 'DOMAIN-SUFFIX,tohoef.com'
   - 'DOMAIN-SUFFIX,toissue.cn'
@@ -58068,6 +58073,7 @@ payload:
   - 'DOMAIN-SUFFIX,toaadwh.icu'
   - 'DOMAIN-SUFFIX,toabuck.xyz'
   - 'DOMAIN-SUFFIX,toazdkl.top'
+  - 'DOMAIN-SUFFIX,tobidad.com'
   - 'DOMAIN-SUFFIX,toboads.com'
   - 'DOMAIN-SUFFIX,tobyxev.com'
   - 'DOMAIN-SUFFIX,todayapp.tv'
