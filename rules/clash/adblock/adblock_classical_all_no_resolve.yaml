@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27207 rules)
+  # DOMAIN (27208 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -19114,6 +19114,7 @@ payload:
   - 'DOMAIN,advertiserurl.com'
   - 'DOMAIN,advertisingiq.com'
   - 'DOMAIN,adx.appsdk.com.cn'
+  - 'DOMAIN,adx.zuoyebang.com'
   - 'DOMAIN,aepwtbusoofzw.com'
   - 'DOMAIN,afa9bdfa63bf7.com'
   - 'DOMAIN,afaeqxnbylkxp.com'
