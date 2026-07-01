@@ -146,7 +146,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34518 rules)
+  # DOMAIN-SUFFIX (34519 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -23050,6 +23050,7 @@ payload:
   - 'DOMAIN-SUFFIX,expertmaker.com'
   - 'DOMAIN-SUFFIX,expofutures.com'
   - 'DOMAIN-SUFFIX,exporntoons.net'
+  - 'DOMAIN-SUFFIX,expressnews.com'
   - 'DOMAIN-SUFFIX,expresswifi.com'
   - 'DOMAIN-SUFFIX,extremetube.com'
   - 'DOMAIN-SUFFIX,facebokbook.com'
