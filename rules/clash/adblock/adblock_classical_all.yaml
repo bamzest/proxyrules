@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27208 rules)
+  # DOMAIN (27209 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -4386,6 +4386,7 @@ payload:
   - 'DOMAIN,device9.com'
   - 'DOMAIN,dexim.space'
   - 'DOMAIN,df.tanx.com'
+  - 'DOMAIN,dg.k.jd.com'
   - 'DOMAIN,dgmatix.com'
   - 'DOMAIN,dh61677.com'
   - 'DOMAIN,dhftcgd.net'
