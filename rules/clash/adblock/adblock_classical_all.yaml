@@ -27215,7 +27215,7 @@ payload:
   - 'DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com'
   - 'DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com'
 
-  # DOMAIN-SUFFIX (258970 rules)
+  # DOMAIN-SUFFIX (258971 rules)
   - 'DOMAIN-SUFFIX,a.ki'
   - 'DOMAIN-SUFFIX,4o.cc'
   - 'DOMAIN-SUFFIX,4u.pl'
@@ -40766,6 +40766,7 @@ payload:
   - 'DOMAIN-SUFFIX,cxpjrqa.cn'
   - 'DOMAIN-SUFFIX,cxtvli.com'
   - 'DOMAIN-SUFFIX,cxuapz.xyz'
+  - 'DOMAIN-SUFFIX,cxwlad.com'
   - 'DOMAIN-SUFFIX,cybkit.com'
   - 'DOMAIN-SUFFIX,cybmas.com'
   - 'DOMAIN-SUFFIX,cycsfe.com'
