@@ -145,7 +145,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34519 rules)
+# DOMAIN-SUFFIX (34530 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -1326,6 +1326,7 @@ DOMAIN-SUFFIX,ns01.us
 DOMAIN-SUFFIX,ns02.us
 DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,ntd.com
+DOMAIN-SUFFIX,ntl.fyi
 DOMAIN-SUFFIX,nude.hu
 DOMAIN-SUFFIX,nuro.jp
 DOMAIN-SUFFIX,nxtv.jp
@@ -1923,6 +1924,7 @@ DOMAIN-SUFFIX,biqle.ru
 DOMAIN-SUFFIX,bitly.is
 DOMAIN-SUFFIX,bjini.cc
 DOMAIN-SUFFIX,bjzc.org
+DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,blast.io
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blox.com
@@ -1934,6 +1936,7 @@ DOMAIN-SUFFIX,bnef.com
 DOMAIN-SUFFIX,bnews.co
 DOMAIN-SUFFIX,bod.asia
 DOMAIN-SUFFIX,booth.pm
+DOMAIN-SUFFIX,botim.me
 DOMAIN-SUFFIX,boxun.tv
 DOMAIN-SUFFIX,brni.com
 DOMAIN-SUFFIX,bsky.app
@@ -7335,6 +7338,7 @@ DOMAIN-SUFFIX,honven.xyz
 DOMAIN-SUFFIX,hoover.org
 DOMAIN-SUFFIX,hope.ac.uk
 DOMAIN-SUFFIX,hopstop.tv
+DOMAIN-SUFFIX,hornet.com
 DOMAIN-SUFFIX,hotair.com
 DOMAIN-SUFFIX,hotbak.net
 DOMAIN-SUFFIX,hotcool.tw
@@ -10233,6 +10237,7 @@ DOMAIN-SUFFIX,conel.ac.uk
 DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,coolder.com
 DOMAIN-SUFFIX,copac.ac.uk
+DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copim.ac.uk
 DOMAIN-SUFFIX,coredao.org
 DOMAIN-SUFFIX,coreduo.com
@@ -10937,6 +10942,7 @@ DOMAIN-SUFFIX,hnntube.com
 DOMAIN-SUFFIX,holts.ac.uk
 DOMAIN-SUFFIX,homebox.com
 DOMAIN-SUFFIX,hoovers.com
+DOMAIN-SUFFIX,hornetx.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,hot2048.com
 DOMAIN-SUFFIX,hotcoin.com
@@ -12810,6 +12816,7 @@ DOMAIN-SUFFIX,webpa.ac.uk
 DOMAIN-SUFFIX,webpass.net
 DOMAIN-SUFFIX,webrush.net
 DOMAIN-SUFFIX,webs-tv.net
+DOMAIN-SUFFIX,webshare.io
 DOMAIN-SUFFIX,website.new
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,weights.com
@@ -14790,6 +14797,7 @@ DOMAIN-SUFFIX,liparm.ac.uk
 DOMAIN-SUFFIX,lipsit.ac.uk
 DOMAIN-SUFFIX,liscol.ac.uk
 DOMAIN-SUFFIX,listar.ac.uk
+DOMAIN-SUFFIX,litecoin.org
 DOMAIN-SUFFIX,littlehj.com
 DOMAIN-SUFFIX,liudejun.com
 DOMAIN-SUFFIX,liuhanyu.com
@@ -17875,6 +17883,7 @@ DOMAIN-SUFFIX,hongjie11.xyz
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,hopwood.ac.uk
 DOMAIN-SUFFIX,horizon.ac.uk
+DOMAIN-SUFFIX,hornetapp.com
 DOMAIN-SUFFIX,hornybutt.com
 DOMAIN-SUFFIX,hornychat.net
 DOMAIN-SUFFIX,hornytrip.com
@@ -21231,6 +21240,7 @@ DOMAIN-SUFFIX,nervanasys.com
 DOMAIN-SUFFIX,netcup-news.de
 DOMAIN-SUFFIX,netcup-wiki.de
 DOMAIN-SUFFIX,netdna-cdn.com
+DOMAIN-SUFFIX,netlifydns.com
 DOMAIN-SUFFIX,netname.com.br
 DOMAIN-SUFFIX,netpornsex.com
 DOMAIN-SUFFIX,netpornsex.net
@@ -32563,6 +32573,7 @@ DOMAIN-SUFFIX,negozimonsterbeats.com
 DOMAIN-SUFFIX,nerc-eskdalemuir.ac.uk
 DOMAIN-SUFFIX,nerc-southampton.ac.uk
 DOMAIN-SUFFIX,nerc-wallingford.ac.uk
+DOMAIN-SUFFIX,netlifyusercontent.com
 DOMAIN-SUFFIX,newcampusglasgow.ac.uk
 DOMAIN-SUFFIX,newcastlecollege.ac.uk
 DOMAIN-SUFFIX,newcollegedurham.ac.uk

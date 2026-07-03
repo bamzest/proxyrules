@@ -119,7 +119,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (111974 rules)
+# DOMAIN-SUFFIX (111983 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,1.cc
@@ -2318,6 +2318,7 @@ DOMAIN-SUFFIX,tkww.hk
 DOMAIN-SUFFIX,tmjl.ai
 DOMAIN-SUFFIX,tmqd.me
 DOMAIN-SUFFIX,tmxz.me
+DOMAIN-SUFFIX,tol.vip
 DOMAIN-SUFFIX,tom.cat
 DOMAIN-SUFFIX,tom.com
 DOMAIN-SUFFIX,tool.la
@@ -4465,6 +4466,7 @@ DOMAIN-SUFFIX,bdxc.com
 DOMAIN-SUFFIX,bdxx.net
 DOMAIN-SUFFIX,be90.com
 DOMAIN-SUFFIX,behe.com
+DOMAIN-SUFFIX,beie.org
 DOMAIN-SUFFIX,beva.com
 DOMAIN-SUFFIX,bewg.net
 DOMAIN-SUFFIX,bf-z.com
@@ -8785,6 +8787,7 @@ DOMAIN-SUFFIX,woqu.com
 DOMAIN-SUFFIX,wouu.net
 DOMAIN-SUFFIX,wowqu.cc
 DOMAIN-SUFFIX,woyo.com
+DOMAIN-SUFFIX,wpcy.com
 DOMAIN-SUFFIX,wpeu.net
 DOMAIN-SUFFIX,wpk8.com
 DOMAIN-SUFFIX,wpurl.cc
@@ -21365,6 +21368,7 @@ DOMAIN-SUFFIX,rrfed.com
 DOMAIN-SUFFIX,rrfmn.com
 DOMAIN-SUFFIX,rrimg.com
 DOMAIN-SUFFIX,rrioo.com
+DOMAIN-SUFFIX,rrmj.plus
 DOMAIN-SUFFIX,rrppt.com
 DOMAIN-SUFFIX,rrrxz.com
 DOMAIN-SUFFIX,rrswl.com
@@ -23297,6 +23301,7 @@ DOMAIN-SUFFIX,vpsor.com
 DOMAIN-SUFFIX,vpsrb.com
 DOMAIN-SUFFIX,vpsss.net
 DOMAIN-SUFFIX,vpssw.com
+DOMAIN-SUFFIX,vpsvs.com
 DOMAIN-SUFFIX,vpszh.com
 DOMAIN-SUFFIX,vptek.com
 DOMAIN-SUFFIX,vqudo.com
@@ -27518,6 +27523,7 @@ DOMAIN-SUFFIX,77304y.com
 DOMAIN-SUFFIX,776577.com
 DOMAIN-SUFFIX,777dd.life
 DOMAIN-SUFFIX,777e.store
+DOMAIN-SUFFIX,777ppt.com
 DOMAIN-SUFFIX,7788js.com
 DOMAIN-SUFFIX,778buy.com
 DOMAIN-SUFFIX,779wan.com
@@ -44327,6 +44333,7 @@ DOMAIN-SUFFIX,wenku7.com
 DOMAIN-SUFFIX,wenku8.com
 DOMAIN-SUFFIX,wenku8.net
 DOMAIN-SUFFIX,wenkub.com
+DOMAIN-SUFFIX,wenpai.org
 DOMAIN-SUFFIX,wenpie.com
 DOMAIN-SUFFIX,wenroo.com
 DOMAIN-SUFFIX,wensli.com
@@ -52891,6 +52898,7 @@ DOMAIN-SUFFIX,guocool.com
 DOMAIN-SUFFIX,guodouw.com
 DOMAIN-SUFFIX,guofeng.com
 DOMAIN-SUFFIX,guojiang.tv
+DOMAIN-SUFFIX,guojibk.com
 DOMAIN-SUFFIX,guokang.com
 DOMAIN-SUFFIX,guolin.tech
 DOMAIN-SUFFIX,guopika.com
@@ -63914,6 +63922,7 @@ DOMAIN-SUFFIX,adluckin.com
 DOMAIN-SUFFIX,adm88888.com
 DOMAIN-SUFFIX,admaimai.com
 DOMAIN-SUFFIX,admin345.com
+DOMAIN-SUFFIX,admincdn.com
 DOMAIN-SUFFIX,admsidea.com
 DOMAIN-SUFFIX,adobeedu.com
 DOMAIN-SUFFIX,adoebike.com

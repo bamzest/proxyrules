@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17665 rules)
+  # DOMAIN-SUFFIX (17666 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -7053,6 +7053,7 @@ payload:
   - 'DOMAIN-SUFFIX,webpass.net'
   - 'DOMAIN-SUFFIX,webrush.net'
   - 'DOMAIN-SUFFIX,webs-tv.net'
+  - 'DOMAIN-SUFFIX,webshare.io'
   - 'DOMAIN-SUFFIX,website.new'
   - 'DOMAIN-SUFFIX,webtype.com'
   - 'DOMAIN-SUFFIX,webupd8.org'
