@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27211 rules)
+  # DOMAIN (27214 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -17297,6 +17297,7 @@ payload:
   - 'DOMAIN,cntrafficpro.com'
   - 'DOMAIN,cnutjhszkjse.com'
   - 'DOMAIN,code.curs.net.ua'
+  - 'DOMAIN,code.sms.mob.com'
   - 'DOMAIN,cohesionapps.com'
   - 'DOMAIN,coinzillatag.com'
   - 'DOMAIN,coldhardcash.com'
@@ -17696,6 +17697,7 @@ payload:
   - 'DOMAIN,includemodal.com'
   - 'DOMAIN,incogpontus.club'
   - 'DOMAIN,infinite-ads.com'
+  - 'DOMAIN,init.sms.mob.com'
   - 'DOMAIN,injuredcandy.com'
   - 'DOMAIN,inside-graph.com'
   - 'DOMAIN,instanceyou.info'
@@ -22112,6 +22114,7 @@ payload:
   - 'DOMAIN,sdk6.ibm.xtify.com'
   - 'DOMAIN,sdk8.ibm.xtify.com'
   - 'DOMAIN,sdkapi.kookong.com'
+  - 'DOMAIN,sdkapi.sms.mob.com'
   - 'DOMAIN,sdksp.video.qq.com'
   - 'DOMAIN,sdytygrznweksx.com'
   - 'DOMAIN,search.twitter.com'
@@ -27217,7 +27220,7 @@ payload:
   - 'DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com'
   - 'DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com'
 
-  # DOMAIN-SUFFIX (258971 rules)
+  # DOMAIN-SUFFIX (258975 rules)
   - 'DOMAIN-SUFFIX,a.ki'
   - 'DOMAIN-SUFFIX,4o.cc'
   - 'DOMAIN-SUFFIX,4u.pl'
@@ -53858,6 +53861,7 @@ payload:
   - 'DOMAIN-SUFFIX,hysdknb.com'
   - 'DOMAIN-SUFFIX,hzbrcajp.cn'
   - 'DOMAIN-SUFFIX,hzht666.com'
+  - 'DOMAIN-SUFFIX,hzjizhun.cn'
   - 'DOMAIN-SUFFIX,hzstats.com'
   - 'DOMAIN-SUFFIX,i-goda.shop'
   - 'DOMAIN-SUFFIX,i-stats.com'
@@ -64813,6 +64817,7 @@ payload:
   - 'DOMAIN-SUFFIX,hzgf8j12.xyz'
   - 'DOMAIN-SUFFIX,hzhuang.wang'
   - 'DOMAIN-SUFFIX,hziridqp.com'
+  - 'DOMAIN-SUFFIX,hzjizhun.com'
   - 'DOMAIN-SUFFIX,hzkachqd.com'
   - 'DOMAIN-SUFFIX,hznkoual.com'
   - 'DOMAIN-SUFFIX,hzvcaadn.icu'
@@ -72974,6 +72979,7 @@ payload:
   - 'DOMAIN-SUFFIX,yitai001.com'
   - 'DOMAIN-SUFFIX,yitiaoyu.top'
   - 'DOMAIN-SUFFIX,yivkzvog.xyz'
+  - 'DOMAIN-SUFFIX,yiweiads.com'
   - 'DOMAIN-SUFFIX,yizhenya.com'
   - 'DOMAIN-SUFFIX,yjrchhgs.com'
   - 'DOMAIN-SUFFIX,yjrlciff.com'
@@ -105297,6 +105303,7 @@ payload:
   - 'DOMAIN-SUFFIX,adw.heraldm.com'
   - 'DOMAIN-SUFFIX,adworkmedia.com'
   - 'DOMAIN-SUFFIX,adworkmedia.net'
+  - 'DOMAIN-SUFFIX,adx.52qumao.com'
   - 'DOMAIN-SUFFIX,ae.bdstatic.com'
   - 'DOMAIN-SUFFIX,aec.shjk123.net'
   - 'DOMAIN-SUFFIX,aedge.roche.com'
