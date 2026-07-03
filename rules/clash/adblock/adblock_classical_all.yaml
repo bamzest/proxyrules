@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27209 rules)
+  # DOMAIN (27211 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -25979,6 +25979,7 @@ payload:
   - 'DOMAIN,skiholidays4beginners.com'
   - 'DOMAIN,sltint.adv.ott.cibntv.net'
   - 'DOMAIN,smart-789.image.mucang.cn'
+  - 'DOMAIN,smartop-sdkapi.jiguang.cn'
   - 'DOMAIN,snippet.omm.crownpeak.com'
   - 'DOMAIN,static.realemoexposed.com'
   - 'DOMAIN,storage.anastasiadate.com'
@@ -26255,6 +26256,7 @@ payload:
   - 'DOMAIN,push.scloud.lfengmobile.com'
   - 'DOMAIN,pushid-noneu.truecaller.com'
   - 'DOMAIN,sdk.appadhoc.com.bsclink.cn'
+  - 'DOMAIN,sdk.verification.jiguang.cn'
   - 'DOMAIN,serve.williamhillcasino.com'
   - 'DOMAIN,smart-digital-solutions.com'
   - 'DOMAIN,social-bookmarking-tools.de'
