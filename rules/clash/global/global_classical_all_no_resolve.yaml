@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (140 rules)
+  # DOMAIN (139 rules)
   - 'DOMAIN,rss.owo.nz'
   - 'DOMAIN,i.jeded.com'
   - 'DOMAIN,lab.skk.moe'
@@ -101,7 +101,6 @@ payload:
   - 'DOMAIN,rsshub.ktachibana.party'
   - 'DOMAIN,cbsi.live.ott.irdeto.com'
   - 'DOMAIN,espndotcom.tt.omtrdc.net'
-  - 'DOMAIN,ingest.apple-studies.com'
   - 'DOMAIN,blizzard.nefficient.co.kr'
   - 'DOMAIN,github-api.arkoselabs.com'
   - 'DOMAIN,lgelectronics.122.2o7.net'
@@ -146,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34530 rules)
+  # DOMAIN-SUFFIX (34534 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -6229,6 +6228,7 @@ payload:
   - 'DOMAIN-SUFFIX,atandt.com'
   - 'DOMAIN-SUFFIX,atc.org.au'
   - 'DOMAIN-SUFFIX,atdmt2.com'
+  - 'DOMAIN-SUFFIX,atmeta.com'
   - 'DOMAIN-SUFFIX,atnext.com'
   - 'DOMAIN-SUFFIX,atokara.jp'
   - 'DOMAIN-SUFFIX,atomyze.ru'
@@ -16811,6 +16811,7 @@ payload:
   - 'DOMAIN-SUFFIX,ayshdade.info'
   - 'DOMAIN-SUFFIX,azathabar.com'
   - 'DOMAIN-SUFFIX,azerbaycan.tv'
+  - 'DOMAIN-SUFFIX,azure-api.net'
   - 'DOMAIN-SUFFIX,azure-dns.com'
   - 'DOMAIN-SUFFIX,azure-dns.net'
   - 'DOMAIN-SUFFIX,azure-dns.org'
@@ -26666,6 +26667,7 @@ payload:
   - 'DOMAIN-SUFFIX,apollocrewe.ac.uk'
   - 'DOMAIN-SUFFIX,appdownloader.net'
   - 'DOMAIN-SUFFIX,appdynamics.co.uk'
+  - 'DOMAIN-SUFFIX,apple-studies.com'
   - 'DOMAIN-SUFFIX,apple.xn--czr694b'
   - 'DOMAIN-SUFFIX,appleantilles.com'
   - 'DOMAIN-SUFFIX,appleappstore.net'
@@ -29632,6 +29634,7 @@ payload:
   - 'DOMAIN-SUFFIX,awssecworkshops.com'
   - 'DOMAIN-SUFFIX,azuredatabricks.net'
   - 'DOMAIN-SUFFIX,azureiotcentral.com'
+  - 'DOMAIN-SUFFIX,azurestaticapps.net'
   - 'DOMAIN-SUFFIX,babesandbitches.net'
   - 'DOMAIN-SUFFIX,backtotiananmen.com'
   - 'DOMAIN-SUFFIX,ballbustingtube.com'
