@@ -3,10 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (1 rules)
-DOMAIN,scholar.google.com
-
-# DOMAIN-SUFFIX (230 rules)
+# DOMAIN-SUFFIX (225 rules)
 DOMAIN-SUFFIX,mit
 DOMAIN-SUFFIX,mpg.de
 DOMAIN-SUFFIX,un.org
@@ -73,7 +70,6 @@ DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,omscr.com
 DOMAIN-SUFFIX,peerj.com
 DOMAIN-SUFFIX,umass.edu
-DOMAIN-SUFFIX,uq.edu.au
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,z-lib.org
 DOMAIN-SUFFIX,zlib.life
@@ -95,7 +91,6 @@ DOMAIN-SUFFIX,pkulaw.com
 DOMAIN-SUFFIX,sci-hub.tw
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,sg1lib.org
-DOMAIN-SUFFIX,uq.h5p.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,art1lib.com
 DOMAIN-SUFFIX,b-ok.africa
@@ -125,7 +120,6 @@ DOMAIN-SUFFIX,oxfordre.com
 DOMAIN-SUFFIX,proquest.com
 DOMAIN-SUFFIX,readcube.com
 DOMAIN-SUFFIX,springer.com
-DOMAIN-SUFFIX,turnitin.com
 DOMAIN-SUFFIX,uchicago.edu
 DOMAIN-SUFFIX,zlibcdn2.com
 DOMAIN-SUFFIX,altmetric.com
@@ -150,7 +144,6 @@ DOMAIN-SUFFIX,1lib.education
 DOMAIN-SUFFIX,bookshome.info
 DOMAIN-SUFFIX,imperial.ac.uk
 DOMAIN-SUFFIX,lawdata.com.tw
-DOMAIN-SUFFIX,liebertpub.com
 DOMAIN-SUFFIX,myilibrary.com
 DOMAIN-SUFFIX,oxfordaasc.com
 DOMAIN-SUFFIX,physiology.org
@@ -195,7 +188,6 @@ DOMAIN-SUFFIX,oxfordlawtrove.com
 DOMAIN-SUFFIX,oxfordmedicine.com
 DOMAIN-SUFFIX,springernature.com
 DOMAIN-SUFFIX,statsmakemecry.com
-DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,geoscienceworld.org
 DOMAIN-SUFFIX,literatumonline.com

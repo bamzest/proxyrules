@@ -1,0 +1,15 @@
+# fenghuangwang - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (9 rules)
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,fengcx.com
+DOMAIN-SUFFIX,fengedu.com
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,phoenixtv.com
+DOMAIN-SUFFIX,ifengweekly.com
+DOMAIN-SUFFIX,fengzhibo.com.cn
+DOMAIN-SUFFIX,phoenixcenter.cn
+DOMAIN-SUFFIX,phoenixtv.com.cn

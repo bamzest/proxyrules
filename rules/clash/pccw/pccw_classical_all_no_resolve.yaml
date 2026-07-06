@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (25 rules)
+  # DOMAIN-SUFFIX (26 rules)
   - 'DOMAIN-SUFFIX,hkt.com'
   - 'DOMAIN-SUFFIX,moov.hk'
   - 'DOMAIN-SUFFIX,now.com'
@@ -19,6 +19,7 @@ payload:
   - 'DOMAIN-SUFFIX,1010.com.hk'
   - 'DOMAIN-SUFFIX,hkt-eye.com'
   - 'DOMAIN-SUFFIX,hktshop.com'
+  - 'DOMAIN-SUFFIX,viu.now.com'
   - 'DOMAIN-SUFFIX,hktpremier.com'
   - 'DOMAIN-SUFFIX,netvigator.com'
   - 'DOMAIN-SUFFIX,now-ashare.com'

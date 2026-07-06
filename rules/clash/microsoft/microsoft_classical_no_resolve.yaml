@@ -5,6 +5,12 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (2 rules)
+  # DOMAIN-KEYWORD (4 rules)
   - 'DOMAIN-KEYWORD,1drv'
+  - 'DOMAIN-KEYWORD,onedrive'
+  - 'DOMAIN-KEYWORD,skydrive'
   - 'DOMAIN-KEYWORD,microsoft'
+
+  # PROCESS-NAME (2 rules)
+  - 'PROCESS-NAME,OneDrive'
+  - 'PROCESS-NAME,OneDriveUpdater'
