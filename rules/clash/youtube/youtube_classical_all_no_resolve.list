@@ -3,10 +3,6 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (2 rules)
-DOMAIN,yt3.ggpht.com
-DOMAIN,youtubei.googleapis.com
-
 # DOMAIN-SUFFIX (179 rules)
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,youtube

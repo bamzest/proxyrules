@@ -3,12 +3,4 @@
 # and ipcidr.list (IP-CIDR/IP-CIDR6)
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
-
-# DOMAIN-KEYWORD (4 rules)
-DOMAIN-KEYWORD,netflixdnstest
-DOMAIN-KEYWORD,dualstack.apiproxy-
-DOMAIN-KEYWORD,dualstack.ichnaea-web-
-DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
-
-# PROCESS-NAME (1 rules)
-PROCESS-NAME,com.netflix.mediaclient
+# 无规则内容，自动生成占位

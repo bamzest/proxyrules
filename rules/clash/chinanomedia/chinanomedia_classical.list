@@ -4,7 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (12 rules)
+# DOMAIN-KEYWORD (11 rules)
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,weibo
 DOMAIN-KEYWORD,alicdn
@@ -14,7 +14,6 @@ DOMAIN-KEYWORD,beplay
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,hnagroup
-DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 

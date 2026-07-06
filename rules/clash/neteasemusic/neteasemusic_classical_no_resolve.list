@@ -4,7 +4,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (35 rules)
+# IP-CIDR (32 rules)
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/32,no-resolve
 IP-CIDR,103.126.92.133/32,no-resolve
@@ -37,6 +37,3 @@ IP-CIDR,59.111.238.29/32,no-resolve
 IP-CIDR,103.126.92.132/31,no-resolve
 IP-CIDR,223.252.199.66/31,no-resolve
 IP-CIDR,59.111.21.14/31,no-resolve
-IP-CIDR,115.236.112.0/20,no-resolve
-IP-CIDR,223.252.192.0/19,no-resolve
-IP-CIDR,59.111.128.0/17,no-resolve

@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (86 rules)
+# DOMAIN-SUFFIX (82 rules)
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,cn.ntp.org.cn
 DOMAIN-SUFFIX,de.ntp.org.cn
@@ -68,10 +68,6 @@ DOMAIN-SUFFIX,time2.tencentyun.com
 DOMAIN-SUFFIX,time3.tencentyun.com
 DOMAIN-SUFFIX,time4.tencentyun.com
 DOMAIN-SUFFIX,time5.tencentyun.com
-DOMAIN-SUFFIX,0.openwrt.pool.ntp.org
-DOMAIN-SUFFIX,1.openwrt.pool.ntp.org
-DOMAIN-SUFFIX,2.openwrt.pool.ntp.org
-DOMAIN-SUFFIX,3.openwrt.pool.ntp.org
 DOMAIN-SUFFIX,ntp.cloud.aliyuncs.com
 DOMAIN-SUFFIX,ntp1.cloud.aliyuncs.com
 DOMAIN-SUFFIX,ntp2.cloud.aliyuncs.com

@@ -3,8 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (35 rules)
-DOMAIN-SUFFIX,cbs
+# DOMAIN-SUFFIX (34 rules)
 DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com
 DOMAIN-SUFFIX,cbsi.com

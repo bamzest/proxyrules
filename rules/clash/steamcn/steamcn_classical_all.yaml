@@ -18,9 +18,8 @@ payload:
   - 'DOMAIN,steampowered.com.8686c.com'
   - 'DOMAIN,steampipe.steamcontent.tnkjmec.com'
 
-  # DOMAIN-SUFFIX (5 rules)
+  # DOMAIN-SUFFIX (4 rules)
   - 'DOMAIN-SUFFIX,steamchina.com'
-  - 'DOMAIN-SUFFIX,steamserver.net'
   - 'DOMAIN-SUFFIX,steamcontent.com'
   - 'DOMAIN-SUFFIX,cm.steampowered.com'
   - 'DOMAIN-SUFFIX,steamusercontent.com'

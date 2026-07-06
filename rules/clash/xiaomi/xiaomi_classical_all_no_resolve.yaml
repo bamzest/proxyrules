@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (150 rules)
+  # DOMAIN-SUFFIX (148 rules)
   - 'DOMAIN-SUFFIX,mi.cn'
   - 'DOMAIN-SUFFIX,mi.com'
   - 'DOMAIN-SUFFIX,mi0.cc'
@@ -25,7 +25,6 @@ payload:
   - 'DOMAIN-SUFFIX,mi-ae.com'
   - 'DOMAIN-SUFFIX,mi-ae.net'
   - 'DOMAIN-SUFFIX,mi.com.cn'
-  - 'DOMAIN-SUFFIX,mi.中国'
   - 'DOMAIN-SUFFIX,micode.cn'
   - 'DOMAIN-SUFFIX,mieco.net'
   - 'DOMAIN-SUFFIX,mifile.cn'
@@ -154,23 +153,12 @@ payload:
   - 'DOMAIN-SUFFIX,kssv-w-yz01.kuaipandata.com'
   - 'DOMAIN-SUFFIX,singapore01.kuaipandata.com'
   - 'DOMAIN-SUFFIX,kssdata-yz2-lt.kuaipandata.com'
-  - 'DOMAIN-SUFFIX,小米科技有限责任公司.中国'
 
-  # IP-CIDR (19 rules)
+  # IP-CIDR (9 rules)
   - 'IP-CIDR,110.43.63.242/32,no-resolve'
-  - 'IP-CIDR,111.205.195.120/32,no-resolve'
-  - 'IP-CIDR,111.205.195.121/32,no-resolve'
-  - 'IP-CIDR,111.205.195.122/32,no-resolve'
-  - 'IP-CIDR,111.205.195.123/32,no-resolve'
-  - 'IP-CIDR,111.205.195.124/32,no-resolve'
-  - 'IP-CIDR,111.205.195.125/32,no-resolve'
-  - 'IP-CIDR,114.247.175.210/32,no-resolve'
-  - 'IP-CIDR,114.247.175.211/32,no-resolve'
   - 'IP-CIDR,114.247.175.212/32,no-resolve'
   - 'IP-CIDR,120.133.33.222/32,no-resolve'
   - 'IP-CIDR,47.241.176.221/32,no-resolve'
-  - 'IP-CIDR,58.220.58.152/32,no-resolve'
-  - 'IP-CIDR,58.220.58.153/32,no-resolve'
   - 'IP-CIDR,58.220.59.2/32,no-resolve'
   - 'IP-CIDR,111.205.195.124/31,no-resolve'
   - 'IP-CIDR,114.247.175.210/31,no-resolve'
