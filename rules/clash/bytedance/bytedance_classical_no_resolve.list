@@ -3,12 +3,4 @@
 # and ipcidr.list (IP-CIDR/IP-CIDR6)
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
-
-# DOMAIN-KEYWORD (1 rules)
-DOMAIN-KEYWORD,-tiktokcdn-com
-
-# IP-CIDR (1 rules)
-IP-CIDR,114.246.10.65/32,no-resolve
-
-# PROCESS-NAME (1 rules)
-PROCESS-NAME,com.zhiliaoapp.musically
+# 无规则内容，自动生成占位

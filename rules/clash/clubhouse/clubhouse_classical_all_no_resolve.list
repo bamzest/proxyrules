@@ -3,18 +3,11 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (6 rules)
+# DOMAIN (4 rules)
 DOMAIN,ap-oversea.agora.io
 DOMAIN,ap-oversea2.agora.io
-DOMAIN,clubhouse.pubnub.com
 DOMAIN,ap-oversea-tls.agora.io
 DOMAIN,report-oversea.agora.io
-DOMAIN,clubhouseprod.s3.amazonaws.com
-
-# DOMAIN-SUFFIX (3 rules)
-DOMAIN-SUFFIX,clubhouse.com
-DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,joinclubhouse.com
 
 # IP-CIDR (84 rules)
 IP-CIDR,103.59.49.10/32,no-resolve

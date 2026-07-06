@@ -3,8 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (4 rules)
-DOMAIN,sky.com
+# DOMAIN (3 rules)
 DOMAIN,sky.com.ssl.d1.sc.omtrdc.net
 DOMAIN,clientstream.launchdarkly.com
 DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com

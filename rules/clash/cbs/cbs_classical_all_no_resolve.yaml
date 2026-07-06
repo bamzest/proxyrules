@@ -4,8 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (35 rules)
-  - 'DOMAIN-SUFFIX,cbs'
+  # DOMAIN-SUFFIX (34 rules)
   - 'DOMAIN-SUFFIX,amlg.io'
   - 'DOMAIN-SUFFIX,cbs.com'
   - 'DOMAIN-SUFFIX,cbsi.com'
