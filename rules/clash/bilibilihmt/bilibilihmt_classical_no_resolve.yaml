@@ -19,3 +19,7 @@ payload:
   - 'IP-CIDR,203.107.1.66/32,no-resolve'
   - 'IP-CIDR,45.43.32.234/32,no-resolve'
   - 'IP-CIDR,103.151.150.0/23,no-resolve'
+
+  # PROCESS-NAME (2 rules)
+  - 'PROCESS-NAME,tv.danmaku.bili'
+  - 'PROCESS-NAME,com.bilibili.app.in'

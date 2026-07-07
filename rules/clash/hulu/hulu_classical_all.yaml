@@ -4,6 +4,9 @@
 # Rules are optimized and sorted for best performance
 payload:
 
+  # DOMAIN (1 rules)
+  - 'DOMAIN,live-mediashield-ava-hulustream-com.akamaized.net'
+
   # DOMAIN-SUFFIX (57 rules)
   - 'DOMAIN-SUFFIX,hulu.jp'
   - 'DOMAIN-SUFFIX,hulu.tv'

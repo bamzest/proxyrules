@@ -1,0 +1,13 @@
+# deepin - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (7 rules)
+DOMAIN-SUFFIX,deepin.cn
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.com
+DOMAIN-SUFFIX,deepin.org
+DOMAIN-SUFFIX,chinauos.com
+DOMAIN-SUFFIX,linglong.dev
+DOMAIN-SUFFIX,uniontech.com

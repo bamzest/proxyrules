@@ -28,6 +28,8 @@ DOMAIN-SUFFIX,faceplusplus.com.cn
 DOMAIN-SUFFIX,brainplusplus.com.cn
 DOMAIN-SUFFIX,imageplusplus.com.cn
 
-# IP-CIDR (2 rules)
+# IP-CIDR (4 rules)
+IP-CIDR,114.98.177.194/32,no-resolve
+IP-CIDR,114.98.177.195/32,no-resolve
 IP-CIDR,114.98.177.196/32,no-resolve
 IP-CIDR,114.98.177.194/31,no-resolve

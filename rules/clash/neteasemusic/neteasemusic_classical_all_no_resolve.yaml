@@ -7,9 +7,10 @@ payload:
   # DOMAIN (1 rules)
   - 'DOMAIN,netease.ugcvideoss.ourdvs.com'
 
-  # DOMAIN-SUFFIX (12 rules)
+  # DOMAIN-SUFFIX (13 rules)
   - 'DOMAIN-SUFFIX,163yun.com'
   - 'DOMAIN-SUFFIX,yun-app.net'
+  - 'DOMAIN-SUFFIX,music.126.com'
   - 'DOMAIN-SUFFIX,music.126.net'
   - 'DOMAIN-SUFFIX,music.163.com'
   - 'DOMAIN-SUFFIX,hz.netease.com'
@@ -21,7 +22,7 @@ payload:
   - 'DOMAIN-SUFFIX,interface3.music.163.com'
   - 'DOMAIN-SUFFIX,music.163.com.163jiasu.com'
 
-  # IP-CIDR (32 rules)
+  # IP-CIDR (35 rules)
   - 'IP-CIDR,101.71.154.241/32,no-resolve'
   - 'IP-CIDR,103.126.92.132/32,no-resolve'
   - 'IP-CIDR,103.126.92.133/32,no-resolve'
@@ -54,3 +55,6 @@ payload:
   - 'IP-CIDR,103.126.92.132/31,no-resolve'
   - 'IP-CIDR,223.252.199.66/31,no-resolve'
   - 'IP-CIDR,59.111.21.14/31,no-resolve'
+  - 'IP-CIDR,115.236.112.0/20,no-resolve'
+  - 'IP-CIDR,223.252.192.0/19,no-resolve'
+  - 'IP-CIDR,59.111.128.0/17,no-resolve'

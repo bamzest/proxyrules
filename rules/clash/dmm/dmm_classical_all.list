@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (17 rules)
+# DOMAIN-SUFFIX (18 rules)
 DOMAIN-SUFFIX,ddo.jp
 DOMAIN-SUFFIX,dmm.hk
 DOMAIN-SUFFIX,dmm.com
@@ -21,3 +21,8 @@ DOMAIN-SUFFIX,hibiki-site.com
 DOMAIN-SUFFIX,akatsukiworks.com
 DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,api-p.videomarket.jp
+DOMAIN-SUFFIX,navismithapis-cdn.com
+
+# IP-CIDR (2 rules)
+IP-CIDR,125.6.189.7/32
+IP-CIDR,203.104.209.7/32

@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (11 rules)
+  # DOMAIN-KEYWORD (12 rules)
   - 'DOMAIN-KEYWORD,baidu'
   - 'DOMAIN-KEYWORD,weibo'
   - 'DOMAIN-KEYWORD,alicdn'
@@ -15,6 +15,7 @@ payload:
   - 'DOMAIN-KEYWORD,stripe'
   - 'DOMAIN-KEYWORD,taobao'
   - 'DOMAIN-KEYWORD,hnagroup'
+  - 'DOMAIN-KEYWORD,microsoft'
   - 'DOMAIN-KEYWORD,officecdn'
   - 'DOMAIN-KEYWORD,.tmall.com'
 

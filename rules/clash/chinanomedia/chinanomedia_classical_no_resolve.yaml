@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (11 rules)
+  # DOMAIN-KEYWORD (12 rules)
   - 'DOMAIN-KEYWORD,baidu'
   - 'DOMAIN-KEYWORD,weibo'
   - 'DOMAIN-KEYWORD,alicdn'
@@ -15,10 +15,11 @@ payload:
   - 'DOMAIN-KEYWORD,stripe'
   - 'DOMAIN-KEYWORD,taobao'
   - 'DOMAIN-KEYWORD,hnagroup'
+  - 'DOMAIN-KEYWORD,microsoft'
   - 'DOMAIN-KEYWORD,officecdn'
   - 'DOMAIN-KEYWORD,.tmall.com'
 
-  # IP-CIDR (8252 rules)
+  # IP-CIDR (8259 rules)
   - 'IP-CIDR,0.0.0.0/32,no-resolve'
   - 'IP-CIDR,1.245.74.5/32,no-resolve'
   - 'IP-CIDR,1.34.0.0/32,no-resolve'
@@ -129,8 +130,10 @@ payload:
   - 'IP-CIDR,112.120.125.155/32,no-resolve'
   - 'IP-CIDR,118.163.88.61/32,no-resolve'
   - 'IP-CIDR,119.200.131.11/32,no-resolve'
+  - 'IP-CIDR,119.28.28.28/32,no-resolve'
   - 'IP-CIDR,119.77.96.184/32,no-resolve'
   - 'IP-CIDR,120.138.42.36/32,no-resolve'
+  - 'IP-CIDR,120.195.181.180/32,no-resolve'
   - 'IP-CIDR,128.177.173.46/32,no-resolve'
   - 'IP-CIDR,129.253.180.45/32,no-resolve'
   - 'IP-CIDR,136.175.177.145/32,no-resolve'
@@ -1997,6 +2000,7 @@ payload:
   - 'IP-CIDR,178.253.252.0/24,no-resolve'
   - 'IP-CIDR,181.41.212.0/24,no-resolve'
   - 'IP-CIDR,182.160.62.0/24,no-resolve'
+  - 'IP-CIDR,182.254.116.0/24,no-resolve'
   - 'IP-CIDR,183.91.39.0/24,no-resolve'
   - 'IP-CIDR,183.91.50.0/24,no-resolve'
   - 'IP-CIDR,183.91.56.0/24,no-resolve'
@@ -3009,6 +3013,7 @@ payload:
   - 'IP-CIDR,1.4.2.0/23,no-resolve'
   - 'IP-CIDR,101.101.102.0/23,no-resolve'
   - 'IP-CIDR,101.102.100.0/23,no-resolve'
+  - 'IP-CIDR,101.32.118.0/23,no-resolve'
   - 'IP-CIDR,103.104.198.0/23,no-resolve'
   - 'IP-CIDR,103.106.190.0/23,no-resolve'
   - 'IP-CIDR,103.106.202.0/23,no-resolve'
@@ -3709,6 +3714,8 @@ payload:
   - 'IP-CIDR,203.20.126.0/23,no-resolve'
   - 'IP-CIDR,203.20.40.0/23,no-resolve'
   - 'IP-CIDR,203.20.84.0/23,no-resolve'
+  - 'IP-CIDR,203.205.238.0/23,no-resolve'
+  - 'IP-CIDR,203.205.254.0/23,no-resolve'
   - 'IP-CIDR,203.21.0.0/23,no-resolve'
   - 'IP-CIDR,203.21.136.0/23,no-resolve'
   - 'IP-CIDR,203.22.122.0/23,no-resolve'
@@ -6491,6 +6498,7 @@ payload:
   - 'IP-CIDR,101.203.176.0/20,no-resolve'
   - 'IP-CIDR,101.234.80.0/20,no-resolve'
   - 'IP-CIDR,101.251.16.0/20,no-resolve'
+  - 'IP-CIDR,101.32.96.0/20,no-resolve'
   - 'IP-CIDR,101.44.160.0/20,no-resolve'
   - 'IP-CIDR,101.44.192.0/20,no-resolve'
   - 'IP-CIDR,101.96.16.0/20,no-resolve'

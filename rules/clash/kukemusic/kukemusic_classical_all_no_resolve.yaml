@@ -1,0 +1,10 @@
+# kukemusic - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (3 rules)
+  - 'DOMAIN-SUFFIX,kuke.com'
+  - 'DOMAIN-SUFFIX,naxos.cn'
+  - 'DOMAIN-SUFFIX,kukey.com.cn'

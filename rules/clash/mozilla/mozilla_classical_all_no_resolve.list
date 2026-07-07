@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (21 rules)
+# DOMAIN-SUFFIX (23 rules)
 DOMAIN-SUFFIX,docs.rs
 DOMAIN-SUFFIX,crates.io
 DOMAIN-SUFFIX,rustup.rs
@@ -19,9 +19,11 @@ DOMAIN-SUFFIX,firefox.com.cn
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mdn.mozillademos.org
+DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,extensionworkshop.com
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,pocket-image-cache.com
 DOMAIN-SUFFIX,sentry.prod.mozaws.net
 DOMAIN-SUFFIX,media.prod.mdn.mozit.cloud
+DOMAIN-SUFFIX,interactive-examples.mdn.mozilla.net

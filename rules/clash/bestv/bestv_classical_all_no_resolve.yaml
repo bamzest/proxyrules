@@ -1,0 +1,14 @@
+# bestv - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,bbtv.cn'
+  - 'DOMAIN-SUFFIX,smgbb.cn'
+  - 'DOMAIN-SUFFIX,bestvcdn.cn'
+  - 'DOMAIN-SUFFIX,bestv.com.cn'
+  - 'DOMAIN-SUFFIX,bestvcdn.com'
+  - 'DOMAIN-SUFFIX,bestvcdn.net'
+  - 'DOMAIN-SUFFIX,bestvcdn.com.cn'
