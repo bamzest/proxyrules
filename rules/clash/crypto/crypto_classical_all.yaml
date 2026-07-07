@@ -8,7 +8,7 @@ payload:
   - 'DOMAIN,min-api.cryptocompare.com'
   - 'DOMAIN,token-api.metaswap.codefi.network'
 
-  # DOMAIN-SUFFIX (244 rules)
+  # DOMAIN-SUFFIX (243 rules)
   - 'DOMAIN-SUFFIX,zb.io'
   - 'DOMAIN-SUFFIX,cex.io'
   - 'DOMAIN-SUFFIX,eos.io'
@@ -146,7 +146,6 @@ payload:
   - 'DOMAIN-SUFFIX,dogecoin.com'
   - 'DOMAIN-SUFFIX,ethereum.org'
   - 'DOMAIN-SUFFIX,etherscan.io'
-  - 'DOMAIN-SUFFIX,fragment.com'
   - 'DOMAIN-SUFFIX,hecoview.com'
   - 'DOMAIN-SUFFIX,huobi.br.com'
   - 'DOMAIN-SUFFIX,icodrops.com'

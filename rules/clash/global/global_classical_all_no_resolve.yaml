@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34534 rules)
+  # DOMAIN-SUFFIX (34536 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -11848,6 +11848,8 @@ payload:
   - 'DOMAIN-SUFFIX,passion.com'
   - 'DOMAIN-SUFFIX,patreon.com'
   - 'DOMAIN-SUFFIX,patsy.ac.uk'
+  - 'DOMAIN-SUFFIX,pawchive.pw'
+  - 'DOMAIN-SUFFIX,pawchive.st'
   - 'DOMAIN-SUFFIX,payhulu.com'
   - 'DOMAIN-SUFFIX,paylike.com'
   - 'DOMAIN-SUFFIX,paypaal.com'

@@ -1,7 +1,6 @@
 payload:
   - 'eaasserts-a.akamaihd.net'
   - 'originasserts.akamaized.net'
-  - 'cloudsync-prod.s3.amazonaws.com'
   - '+.ea.com'
   - '+.uo.com'
   - '+.dice.se'
@@ -67,7 +66,6 @@ payload:
   - '+.ghostgames.com'
   - '+.masseffect.com'
   - '+.mirrorsedge.jp'
-  - '+.rtm.tnt-ea.com'
   - '+.unraveltwo.com'
   - '+.apexlegends.com'
   - '+.awayoutgame.com'
@@ -125,7 +123,6 @@ payload:
   - '+.battlefield1943.com'
   - '+.eafootballworld.com'
   - '+.simcity-buildit.com'
-  - '+.ssl-lvlt.cdn.ea.com'
   - '+.darkageofcamelot.com'
   - '+.dungeonkeeper.com.cn'
   - '+.easportsfootball.com'

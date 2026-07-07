@@ -4,18 +4,8 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (7 rules)
-  - 'DOMAIN,openai-api.arkoselabs.com'
-  - 'DOMAIN,browser-intake-datadoghq.com'
-  - 'DOMAIN,static.cloudflareinsights.com'
-  - 'DOMAIN,chat.openai.com.cdn.cloudflare.net'
-  - 'DOMAIN,production-openaicom-storage.azureedge.net'
-  - 'DOMAIN,openaicomproductionae4b.blob.core.windows.net'
-  - 'DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
-
-  # DOMAIN-SUFFIX (31 rules)
+  # DOMAIN-SUFFIX (24 rules)
   - 'DOMAIN-SUFFIX,ai.com'
-  - 'DOMAIN-SUFFIX,chat.com'
   - 'DOMAIN-SUFFIX,sora.com'
   - 'DOMAIN-SUFFIX,auth0.com'
   - 'DOMAIN-SUFFIX,sentry.io'
@@ -34,17 +24,11 @@ payload:
   - 'DOMAIN-SUFFIX,launchdarkly.com'
   - 'DOMAIN-SUFFIX,host.livekit.cloud'
   - 'DOMAIN-SUFFIX,oaiusercontent.com'
-  - 'DOMAIN-SUFFIX,turn.livekit.cloud'
-  - 'DOMAIN-SUFFIX,openaicom.imgix.net'
   - 'DOMAIN-SUFFIX,chatgpt.livekit.cloud'
   - 'DOMAIN-SUFFIX,events.statsigapi.net'
   - 'DOMAIN-SUFFIX,challenges.cloudflare.com'
   - 'DOMAIN-SUFFIX,client-api.arkoselabs.com'
   - 'DOMAIN-SUFFIX,openaiapi-site.azureedge.net'
-  - 'DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net'
-  - 'DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net'
-  - 'DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net'
-  - 'DOMAIN-SUFFIX,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
 
   # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,openai'

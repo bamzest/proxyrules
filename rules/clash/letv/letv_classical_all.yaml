@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (14 rules)
+  # DOMAIN-SUFFIX (13 rules)
   - 'DOMAIN-SUFFIX,le.com'
   - 'DOMAIN-SUFFIX,letv.com'
   - 'DOMAIN-SUFFIX,letv8.com'
@@ -18,4 +18,3 @@ payload:
   - 'DOMAIN-SUFFIX,letvcloud.com'
   - 'DOMAIN-SUFFIX,letvstore.com'
   - 'DOMAIN-SUFFIX,sanguowudi.com'
-  - 'DOMAIN-SUFFIX,api.mob.app.letv.com'

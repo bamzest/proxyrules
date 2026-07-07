@@ -5,6 +5,5 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # PROCESS-NAME (2 rules)
-  - 'PROCESS-NAME,LookupViewService'
+  # PROCESS-NAME (1 rules)
   - 'PROCESS-NAME,lookupviewservice'

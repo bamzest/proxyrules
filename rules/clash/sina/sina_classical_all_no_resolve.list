@@ -3,14 +3,13 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (107 rules)
+# DOMAIN-SUFFIX (97 rules)
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,ufc.cn
 DOMAIN-SUFFIX,7g8g.cn
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,wcdn.cn
 DOMAIN-SUFFIX,imark.cn
-DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.net
 DOMAIN-SUFFIX,vmoso.cn
@@ -18,7 +17,6 @@ DOMAIN-SUFFIX,wbimg.cn
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.tv
 DOMAIN-SUFFIX,1kapp.com
-DOMAIN-SUFFIX,97973.com
 DOMAIN-SUFFIX,ikaola.cn
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,twgame.cn
@@ -26,7 +24,6 @@ DOMAIN-SUFFIX,wan68.com
 DOMAIN-SUFFIX,wbimg.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weipan.cn
-DOMAIN-SUFFIX,xiaoka.tv
 DOMAIN-SUFFIX,cva.com.cn
 DOMAIN-SUFFIX,ilangqu.cn
 DOMAIN-SUFFIX,kandian.cn
@@ -35,9 +32,7 @@ DOMAIN-SUFFIX,paogame.cn
 DOMAIN-SUFFIX,picself.cn
 DOMAIN-SUFFIX,saebbs.com
 DOMAIN-SUFFIX,sc2yun.com
-DOMAIN-SUFFIX,sinaapp.cn
 DOMAIN-SUFFIX,sinaimg.cn
-DOMAIN-SUFFIX,sinajs.com
 DOMAIN-SUFFIX,sinas3.com
 DOMAIN-SUFFIX,sinas3.net
 DOMAIN-SUFFIX,sinaurl.cn
@@ -58,7 +53,6 @@ DOMAIN-SUFFIX,kandian.net
 DOMAIN-SUFFIX,kanyouxi.cn
 DOMAIN-SUFFIX,kanyouxi.tv
 DOMAIN-SUFFIX,maileds.com
-DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,qingmail.cn
 DOMAIN-SUFFIX,simadata.cn
 DOMAIN-SUFFIX,sina.com.cn
@@ -72,8 +66,6 @@ DOMAIN-SUFFIX,sinasws.com
 DOMAIN-SUFFIX,sinauda.com
 DOMAIN-SUFFIX,talldns.com
 DOMAIN-SUFFIX,talldns.net
-DOMAIN-SUFFIX,weibocdn.cn
-DOMAIN-SUFFIX,xhaiwai.com
 DOMAIN-SUFFIX,appchizi.com
 DOMAIN-SUFFIX,applinzi.com
 DOMAIN-SUFFIX,kanyouxi.com
@@ -109,8 +101,3 @@ DOMAIN-SUFFIX,sinastorage.com
 DOMAIN-SUFFIX,volleychina.org
 DOMAIN-SUFFIX,sinacloud.com.cn
 DOMAIN-SUFFIX,sinadaxue.com.cn
-DOMAIN-SUFFIX,adimages.sina.com.hk
-DOMAIN-SUFFIX,oascentral.sina.com.hk
-
-# DOMAIN-KEYWORD (1 rules)
-DOMAIN-KEYWORD,weibo

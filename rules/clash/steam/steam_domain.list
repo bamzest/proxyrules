@@ -1,9 +1,3 @@
-steampipe.akamaized.net
-steamstore-a.akamaihd.net
-steambroadcast.akamaized.net
-steamcommunity-a.akamaihd.net
-steamuserimages-a.akamaihd.net
-steamusercontent-a.akamaihd.net
 +.s.team
 +.steam.tv
 +.csgo.wmsj.cn
@@ -16,13 +10,11 @@ steamusercontent-a.akamaihd.net
 +.steam-chat.com
 +.steamgames.com
 +.underlords.com
-+.steamserver.net
 +.steamstatic.com
 +.humblebundle.com
 +.playartifact.com
 +.st.dl.eccdnx.com
 +.steam.cdn.on.net
-+.steamcontent.com
 +.steampowered.com
 +.steamunlocked.net
 +.valvesoftware.com
@@ -33,7 +25,6 @@ steamusercontent-a.akamaihd.net
 +.steam.ru.qtlglb.com
 +.st.dl.bscstorage.net
 +.steam.eca.qtlglb.com
-+.steamusercontent.com
 +.st.dl.pinyuncloud.com
 +.steam.apac.qtlglb.com
 +.steam.naeu.qtlglb.com
@@ -58,4 +49,3 @@ steamusercontent-a.akamaihd.net
 +.steamuserimages-a.akamaihd.net
 +.steampipe-partner.akamaized.net
 +.steamusercontent-a.akamaihd.net
-+.steampipe.steamcontent.tnkjmec.com

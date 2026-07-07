@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (34 rules)
+  # DOMAIN-SUFFIX (32 rules)
   - 'DOMAIN-SUFFIX,bf99.com'
   - 'DOMAIN-SUFFIX,blued.cn'
   - 'DOMAIN-SUFFIX,blued.com'
@@ -33,9 +33,7 @@ payload:
   - 'DOMAIN-SUFFIX,ourbluecity.cn'
   - 'DOMAIN-SUFFIX,xiaolanapp.com'
   - 'DOMAIN-SUFFIX,yijian-app.com'
-  - 'DOMAIN-SUFFIX,blued.gw-dv.net'
   - 'DOMAIN-SUFFIX,ourbluecity.com'
   - 'DOMAIN-SUFFIX,xiaogegelive.cn'
   - 'DOMAIN-SUFFIX,blued.irisdt.com'
   - 'DOMAIN-SUFFIX,xiaogegelive.com'
-  - 'DOMAIN-SUFFIX,blued.cdn-gw-dv.net'

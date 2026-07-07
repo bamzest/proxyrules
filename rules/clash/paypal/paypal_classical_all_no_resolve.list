@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (247 rules)
+# DOMAIN-SUFFIX (246 rules)
 DOMAIN-SUFFIX,card.io
 DOMAIN-SUFFIX,pypl.tv
 DOMAIN-SUFFIX,xoom.io
@@ -62,7 +62,6 @@ DOMAIN-SUFFIX,paydiant.com
 DOMAIN-SUFFIX,paypalme.com
 DOMAIN-SUFFIX,simility.com
 DOMAIN-SUFFIX,swiftbank.us
-DOMAIN-SUFFIX,易付通.cn
 DOMAIN-SUFFIX,beibao.com.cn
 DOMAIN-SUFFIX,bill-safe.com
 DOMAIN-SUFFIX,paypal.com.cn

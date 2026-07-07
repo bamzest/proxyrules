@@ -4,15 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (6 rules)
-  - 'DOMAIN,steampipe.akamaized.net'
-  - 'DOMAIN,steamstore-a.akamaihd.net'
-  - 'DOMAIN,steambroadcast.akamaized.net'
-  - 'DOMAIN,steamcommunity-a.akamaihd.net'
-  - 'DOMAIN,steamuserimages-a.akamaihd.net'
-  - 'DOMAIN,steamusercontent-a.akamaihd.net'
-
-  # DOMAIN-SUFFIX (55 rules)
+  # DOMAIN-SUFFIX (51 rules)
   - 'DOMAIN-SUFFIX,s.team'
   - 'DOMAIN-SUFFIX,steam.tv'
   - 'DOMAIN-SUFFIX,csgo.wmsj.cn'
@@ -25,13 +17,11 @@ payload:
   - 'DOMAIN-SUFFIX,steam-chat.com'
   - 'DOMAIN-SUFFIX,steamgames.com'
   - 'DOMAIN-SUFFIX,underlords.com'
-  - 'DOMAIN-SUFFIX,steamserver.net'
   - 'DOMAIN-SUFFIX,steamstatic.com'
   - 'DOMAIN-SUFFIX,humblebundle.com'
   - 'DOMAIN-SUFFIX,playartifact.com'
   - 'DOMAIN-SUFFIX,st.dl.eccdnx.com'
   - 'DOMAIN-SUFFIX,steam.cdn.on.net'
-  - 'DOMAIN-SUFFIX,steamcontent.com'
   - 'DOMAIN-SUFFIX,steampowered.com'
   - 'DOMAIN-SUFFIX,steamunlocked.net'
   - 'DOMAIN-SUFFIX,valvesoftware.com'
@@ -42,7 +32,6 @@ payload:
   - 'DOMAIN-SUFFIX,steam.ru.qtlglb.com'
   - 'DOMAIN-SUFFIX,st.dl.bscstorage.net'
   - 'DOMAIN-SUFFIX,steam.eca.qtlglb.com'
-  - 'DOMAIN-SUFFIX,steamusercontent.com'
   - 'DOMAIN-SUFFIX,st.dl.pinyuncloud.com'
   - 'DOMAIN-SUFFIX,steam.apac.qtlglb.com'
   - 'DOMAIN-SUFFIX,steam.naeu.qtlglb.com'
@@ -67,7 +56,6 @@ payload:
   - 'DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net'
   - 'DOMAIN-SUFFIX,steampipe-partner.akamaized.net'
   - 'DOMAIN-SUFFIX,steamusercontent-a.akamaihd.net'
-  - 'DOMAIN-SUFFIX,steampipe.steamcontent.tnkjmec.com'
 
   # DOMAIN-KEYWORD (3 rules)
   - 'DOMAIN-KEYWORD,steamstore'
