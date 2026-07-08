@@ -4,40 +4,21 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (4 rules)
-  - 'DOMAIN,router.asus.com'
-  - 'DOMAIN,www.asusrouter.com'
-  - 'DOMAIN,instant.arubanetworks.com'
-  - 'DOMAIN,setmeup.arubanetworks.com'
-
-  # DOMAIN-SUFFIX (133 rules)
+  # DOMAIN-SUFFIX (119 rules)
   - 'DOMAIN-SUFFIX,lan'
-  - 'DOMAIN-SUFFIX,p.to'
   - 'DOMAIN-SUFFIX,test'
   - 'DOMAIN-SUFFIX,local'
   - 'DOMAIN-SUFFIX,example'
   - 'DOMAIN-SUFFIX,foo.com'
   - 'DOMAIN-SUFFIX,invalid'
-  - 'DOMAIN-SUFFIX,acl4.ssr'
   - 'DOMAIN-SUFFIX,internal'
-  - 'DOMAIN-SUFFIX,leike.cc'
-  - 'DOMAIN-SUFFIX,zte.home'
   - 'DOMAIN-SUFFIX,home.arpa'
   - 'DOMAIN-SUFFIX,localhost'
-  - 'DOMAIN-SUFFIX,my.router'
-  - 'DOMAIN-SUFFIX,wifi.cmcc'
-  - 'DOMAIN-SUFFIX,hiwifi.com'
-  - 'DOMAIN-SUFFIX,miwifi.com'
-  - 'DOMAIN-SUFFIX,phicomm.me'
-  - 'DOMAIN-SUFFIX,router.ctc'
-  - 'DOMAIN-SUFFIX,tplogin.cn'
   - 'DOMAIN-SUFFIX,localdomain'
   - 'DOMAIN-SUFFIX,d.f.ip6.arpa'
   - 'DOMAIN-SUFFIX,ip6-loopback'
   - 'DOMAIN-SUFFIX,msftncsi.com'
-  - 'DOMAIN-SUFFIX,peiluyou.com'
   - 'DOMAIN-SUFFIX,ip6-localhost'
-  - 'DOMAIN-SUFFIX,tendawifi.com'
   - 'DOMAIN-SUFFIX,0.in-addr.arpa'
   - 'DOMAIN-SUFFIX,8.e.f.ip6.arpa'
   - 'DOMAIN-SUFFIX,9.e.f.ip6.arpa'
@@ -45,7 +26,6 @@ payload:
   - 'DOMAIN-SUFFIX,b.e.f.ip6.arpa'
   - 'DOMAIN-SUFFIX,10.in-addr.arpa'
   - 'DOMAIN-SUFFIX,router.asus.com'
-  - 'DOMAIN-SUFFIX,routerlogin.com'
   - 'DOMAIN-SUFFIX,127.in-addr.arpa'
   - 'DOMAIN-SUFFIX,lens.l.google.com'
   - 'DOMAIN-SUFFIX,stun.l.google.com'
@@ -145,7 +125,7 @@ payload:
   - 'DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
   - 'DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa'
 
-  # IP-CIDR (18 rules)
+  # IP-CIDR (17 rules)
   - 'IP-CIDR,255.255.255.255/32,no-resolve'
   - 'IP-CIDR,192.0.0.0/24,no-resolve'
   - 'IP-CIDR,192.0.2.0/24,no-resolve'
@@ -154,7 +134,6 @@ payload:
   - 'IP-CIDR,203.0.113.0/24,no-resolve'
   - 'IP-CIDR,169.254.0.0/16,no-resolve'
   - 'IP-CIDR,192.168.0.0/16,no-resolve'
-  - 'IP-CIDR,198.18.0.0/16,no-resolve'
   - 'IP-CIDR,198.18.0.0/15,no-resolve'
   - 'IP-CIDR,172.16.0.0/12,no-resolve'
   - 'IP-CIDR,100.64.0.0/10,no-resolve'
@@ -165,14 +144,13 @@ payload:
   - 'IP-CIDR,240.0.0.0/4,no-resolve'
   - 'IP-CIDR,224.0.0.0/3,no-resolve'
 
-  # IP-CIDR6 (9 rules)
+  # IP-CIDR6 (8 rules)
   - 'IP-CIDR6,::/128,no-resolve'
   - 'IP-CIDR6,::1/128,no-resolve'
   - 'IP-CIDR6,::/127,no-resolve'
   - 'IP-CIDR6,100::/64,no-resolve'
   - 'IP-CIDR6,2001:db8::/32,no-resolve'
   - 'IP-CIDR6,fe80::/10,no-resolve'
-  - 'IP-CIDR6,fd00::/8,no-resolve'
   - 'IP-CIDR6,ff00::/8,no-resolve'
   - 'IP-CIDR6,fc00::/7,no-resolve'
 

@@ -4,10 +4,8 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (3 rules)
+# DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,spotify.com
 
 # PROCESS-NAME (1 rules)
 PROCESS-NAME,com.spotify.music

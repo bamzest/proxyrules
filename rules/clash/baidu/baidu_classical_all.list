@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (251 rules)
+# DOMAIN-SUFFIX (265 rules)
 DOMAIN-SUFFIX,91.com
 DOMAIN-SUFFIX,dwz.cn
 DOMAIN-SUFFIX,sg.work
@@ -37,6 +37,7 @@ DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,qxllq.com
 DOMAIN-SUFFIX,taihe.com
 DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,好123.cn
 DOMAIN-SUFFIX,17swan.com
 DOMAIN-SUFFIX,37swan.com
 DOMAIN-SUFFIX,aicdn.work
@@ -192,6 +193,7 @@ DOMAIN-SUFFIX,videomind.net
 DOMAIN-SUFFIX,yjs-cdn10.com
 DOMAIN-SUFFIX,youyou001.com
 DOMAIN-SUFFIX,zuoyebang.com
+DOMAIN-SUFFIX,小度.中国
 DOMAIN-SUFFIX,baidu-bank.com
 DOMAIN-SUFFIX,baidu-tech.com
 DOMAIN-SUFFIX,baiduyuncdn.cn
@@ -226,6 +228,8 @@ DOMAIN-SUFFIX,yunjiasucdn.net
 DOMAIN-SUFFIX,yunjiasudns.com
 DOMAIN-SUFFIX,yunjiasudns.net
 DOMAIN-SUFFIX,yunjiasussl.com
+DOMAIN-SUFFIX,百度网站.cn
+DOMAIN-SUFFIX,网址之家.cn
 DOMAIN-SUFFIX,apollo-share.com
 DOMAIN-SUFFIX,baiducontent.com
 DOMAIN-SUFFIX,baiduwebgame.com
@@ -239,6 +243,8 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,yunjiasu-dns.com
 DOMAIN-SUFFIX,yunjiasu-dns.net
 DOMAIN-SUFFIX,yunjiasucdn.info
+DOMAIN-SUFFIX,好123.公司.cn
+DOMAIN-SUFFIX,好123.网络.cn
 DOMAIN-SUFFIX,baiducloudapi.com
 DOMAIN-SUFFIX,cloud-control.top
 DOMAIN-SUFFIX,duapp-preview.com
@@ -252,6 +258,14 @@ DOMAIN-SUFFIX,apollo-platform.com
 DOMAIN-SUFFIX,paddlepaddle.org.cn
 DOMAIN-SUFFIX,xiaoduzaijia.com.cn
 DOMAIN-SUFFIX,yunjiasupreview.com
+DOMAIN-SUFFIX,百度公司.网络
+DOMAIN-SUFFIX,百度网站.中国
+DOMAIN-SUFFIX,网址之家.中国
 DOMAIN-SUFFIX,openintelliedge.tech
 DOMAIN-SUFFIX,micro-game-client.com
+DOMAIN-SUFFIX,百度公司.公司.cn
+DOMAIN-SUFFIX,百度公司.网络.cn
+DOMAIN-SUFFIX,百度网站.公司.cn
+DOMAIN-SUFFIX,网址之家.公司.cn
+DOMAIN-SUFFIX,网址之家.网络.cn
 DOMAIN-SUFFIX,yunjiasu-cdn-dnssec.net

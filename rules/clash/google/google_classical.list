@@ -4,7 +4,15 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# PROCESS-NAME (7 rules)
+# DOMAIN-KEYWORD (5 rules)
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,appspot
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,recaptcha
+
+# PROCESS-NAME (8 rules)
+PROCESS-NAME,BackupandSync
 PROCESS-NAME,GoogleDriveFS.exe
 PROCESS-NAME,com.android.vending
 PROCESS-NAME,com.google.android.gms

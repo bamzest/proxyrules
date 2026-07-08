@@ -4,7 +4,15 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (51 rules)
+  # DOMAIN (6 rules)
+  - 'DOMAIN,steampipe.akamaized.net'
+  - 'DOMAIN,steamstore-a.akamaihd.net'
+  - 'DOMAIN,steambroadcast.akamaized.net'
+  - 'DOMAIN,steamcommunity-a.akamaihd.net'
+  - 'DOMAIN,steamuserimages-a.akamaihd.net'
+  - 'DOMAIN,steamusercontent-a.akamaihd.net'
+
+  # DOMAIN-SUFFIX (52 rules)
   - 'DOMAIN-SUFFIX,s.team'
   - 'DOMAIN-SUFFIX,steam.tv'
   - 'DOMAIN-SUFFIX,csgo.wmsj.cn'
@@ -17,6 +25,7 @@ payload:
   - 'DOMAIN-SUFFIX,steam-chat.com'
   - 'DOMAIN-SUFFIX,steamgames.com'
   - 'DOMAIN-SUFFIX,underlords.com'
+  - 'DOMAIN-SUFFIX,steamserver.net'
   - 'DOMAIN-SUFFIX,steamstatic.com'
   - 'DOMAIN-SUFFIX,humblebundle.com'
   - 'DOMAIN-SUFFIX,playartifact.com'

@@ -1,0 +1,12 @@
+# cnn - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,cnn.io
+DOMAIN-SUFFIX,cnn.it
+DOMAIN-SUFFIX,cnn.com
+DOMAIN-SUFFIX,cnnlabs.com
+DOMAIN-SUFFIX,cnnmoney.ch
+DOMAIN-SUFFIX,cnnarabic.com

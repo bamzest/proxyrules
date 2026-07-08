@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (34 rules)
+  # DOMAIN-SUFFIX (32 rules)
   - 'DOMAIN-SUFFIX,suo.yt'
   - 'DOMAIN-SUFFIX,plex.tv'
   - 'DOMAIN-SUFFIX,3322.net'
@@ -25,7 +25,6 @@ payload:
   - 'DOMAIN-SUFFIX,myddns.rocks'
   - 'DOMAIN-SUFFIX,api.ipify.org'
   - 'DOMAIN-SUFFIX,netdata.cloud'
-  - 'DOMAIN-SUFFIX,QuICKcoNnECt.tO'
   - 'DOMAIN-SUFFIX,myqnapcloud.com'
   - 'DOMAIN-SUFFIX,quickconnect.cn'
   - 'DOMAIN-SUFFIX,quickconnect.to'
@@ -37,7 +36,6 @@ payload:
   - 'DOMAIN-SUFFIX,whatismyip.akamai.com'
   - 'DOMAIN-SUFFIX,checkipv6.synology.com'
   - 'DOMAIN-SUFFIX,checkport.synology.com'
-  - 'DOMAIN-SUFFIX,edge.api.myqnapcloud.com'
   - 'DOMAIN-SUFFIX,portcheck.transmissionbt.com'
 
   # DOMAIN-KEYWORD (1 rules)

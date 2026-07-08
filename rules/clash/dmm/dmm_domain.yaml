@@ -5,6 +5,8 @@ payload:
   - '+.tenco.cc'
   - '+.dmm.co.jp'
   - '+.minori.ph'
+  - '+.dmmrex.com'
+  - '+.dmmapis.com'
   - '+.alicesoft.com'
   - '+.cosmiccute.com'
   - '+.wheel-soft.com'
@@ -13,3 +15,4 @@ payload:
   - '+.hibiki-site.com'
   - '+.akatsukiworks.com'
   - '+.dmm-extension.com'
+  - '+.api-p.videomarket.jp'

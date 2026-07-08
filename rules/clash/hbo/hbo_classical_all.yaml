@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (47 rules)
+  # DOMAIN-SUFFIX (49 rules)
   - 'DOMAIN-SUFFIX,hbo.com'
   - 'DOMAIN-SUFFIX,max.com'
   - 'DOMAIN-SUFFIX,now.com'
@@ -49,9 +49,11 @@ payload:
   - 'DOMAIN-SUFFIX,hbounify-prod.evergent.com'
   - 'DOMAIN-SUFFIX,hbogoprod-vod.akamaized.net'
   - 'DOMAIN-SUFFIX,dai3fd1oh325y.cloudfront.net'
+  - 'DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com'
   - 'DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com'
   - 'DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com'
   - 'DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net'
+  - 'DOMAIN-SUFFIX,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com'
 
   # PROCESS-NAME (1 rules)
   - 'PROCESS-NAME,com.hbo.hbonow'
