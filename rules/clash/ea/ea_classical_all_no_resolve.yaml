@@ -4,11 +4,12 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (2 rules)
+  # DOMAIN (3 rules)
   - 'DOMAIN,eaasserts-a.akamaihd.net'
   - 'DOMAIN,originasserts.akamaized.net'
+  - 'DOMAIN,cloudsync-prod.s3.amazonaws.com'
 
-  # DOMAIN-SUFFIX (163 rules)
+  # DOMAIN-SUFFIX (165 rules)
   - 'DOMAIN-SUFFIX,ea.com'
   - 'DOMAIN-SUFFIX,uo.com'
   - 'DOMAIN-SUFFIX,dice.se'
@@ -74,6 +75,7 @@ payload:
   - 'DOMAIN-SUFFIX,ghostgames.com'
   - 'DOMAIN-SUFFIX,masseffect.com'
   - 'DOMAIN-SUFFIX,mirrorsedge.jp'
+  - 'DOMAIN-SUFFIX,rtm.tnt-ea.com'
   - 'DOMAIN-SUFFIX,unraveltwo.com'
   - 'DOMAIN-SUFFIX,apexlegends.com'
   - 'DOMAIN-SUFFIX,awayoutgame.com'
@@ -131,6 +133,7 @@ payload:
   - 'DOMAIN-SUFFIX,battlefield1943.com'
   - 'DOMAIN-SUFFIX,eafootballworld.com'
   - 'DOMAIN-SUFFIX,simcity-buildit.com'
+  - 'DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com'
   - 'DOMAIN-SUFFIX,darkageofcamelot.com'
   - 'DOMAIN-SUFFIX,dungeonkeeper.com.cn'
   - 'DOMAIN-SUFFIX,easportsfootball.com'

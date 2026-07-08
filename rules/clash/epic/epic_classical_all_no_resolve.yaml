@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (15 rules)
+  # DOMAIN-SUFFIX (16 rules)
   - 'DOMAIN-SUFFIX,easy.ac'
   - 'DOMAIN-SUFFIX,eac-cdn.com'
   - 'DOMAIN-SUFFIX,paragon.com'
@@ -15,6 +15,7 @@ payload:
   - 'DOMAIN-SUFFIX,helpshift.com'
   - 'DOMAIN-SUFFIX,roborecall.com'
   - 'DOMAIN-SUFFIX,playparagon.com'
+  - 'DOMAIN-SUFFIX,ol.epicgames.com'
   - 'DOMAIN-SUFFIX,unrealengine.com'
   - 'DOMAIN-SUFFIX,easyanticheat.net'
   - 'DOMAIN-SUFFIX,shadowcomplex.com'

@@ -4,5 +4,10 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (1 rules)
+# DOMAIN-KEYWORD (2 rules)
+DOMAIN-KEYWORD,ookla
 DOMAIN-KEYWORD,speedtest
+
+# PROCESS-NAME (2 rules)
+PROCESS-NAME,Speedtest.exe
+PROCESS-NAME,org.zwanoo.android.speedtest

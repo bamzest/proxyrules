@@ -4,9 +4,35 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (2 rules)
+# DOMAIN-KEYWORD (28 rules)
+DOMAIN-KEYWORD,1drv
+DOMAIN-KEYWORD,avtb
+DOMAIN-KEYWORD,porn
+DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,abema
+DOMAIN-KEYWORD,fbcdn
+DOMAIN-KEYWORD,gmail
+DOMAIN-KEYWORD,ttvnw
+DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD,paypal
+DOMAIN-KEYWORD,beetalk
+DOMAIN-KEYWORD,dropbox
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,twitter
+DOMAIN-KEYWORD,uk-live
+DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,blogspot
+DOMAIN-KEYWORD,facebook
+DOMAIN-KEYWORD,onedrive
+DOMAIN-KEYWORD,skydrive
+DOMAIN-KEYWORD,telegram
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,avoddashs
+DOMAIN-KEYWORD,dlercloud
+DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,appledaily
 
 # PROCESS-NAME (18 rules)
 PROCESS-NAME,Telegram.exe

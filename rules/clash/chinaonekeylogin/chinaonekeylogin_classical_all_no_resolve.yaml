@@ -1,0 +1,25 @@
+# chinaonekeylogin - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (11 rules)
+  - 'DOMAIN,hmrz.wo.cn'
+  - 'DOMAIN,auth.wosms.cn'
+  - 'DOMAIN,id.mail.wo.cn'
+  - 'DOMAIN,mdn.open.wo.cn'
+  - 'DOMAIN,nishub1.10010.com'
+  - 'DOMAIN,ye.dun.163yun.com'
+  - 'DOMAIN,enrichgw.10010.com'
+  - 'DOMAIN,log.cmpassport.com'
+  - 'DOMAIN,log1.cmpassport.com'
+  - 'DOMAIN,opencloud.wostore.cn'
+  - 'DOMAIN,config.cmpassport.com'
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,id6.me'
+  - 'DOMAIN-SUFFIX,mob.com'
+  - 'DOMAIN-SUFFIX,auth.wo.cn'
+  - 'DOMAIN-SUFFIX,open.e.189.cn'
+  - 'DOMAIN-SUFFIX,cmpassport.com'

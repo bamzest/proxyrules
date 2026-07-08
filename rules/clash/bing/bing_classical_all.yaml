@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (9 rules)
+  # DOMAIN-SUFFIX (11 rules)
   - 'DOMAIN-SUFFIX,bing.com'
   - 'DOMAIN-SUFFIX,bing.net'
   - 'DOMAIN-SUFFIX,bing.com.cn'
@@ -14,3 +14,5 @@ payload:
   - 'DOMAIN-SUFFIX,bingagencyawards.com'
   - 'DOMAIN-SUFFIX,bingvisualsearch.com'
   - 'DOMAIN-SUFFIX,bingapistatistics.com'
+  - 'DOMAIN-SUFFIX,copilot.microsoft.com'
+  - 'DOMAIN-SUFFIX,copilot.cloud.microsoft'

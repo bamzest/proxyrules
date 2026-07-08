@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (25 rules)
+  # DOMAIN-KEYWORD (28 rules)
   - 'DOMAIN-KEYWORD,1drv'
   - 'DOMAIN-KEYWORD,avtb'
   - 'DOMAIN-KEYWORD,porn'
@@ -16,6 +16,7 @@ payload:
   - 'DOMAIN-KEYWORD,ttvnw'
   - 'DOMAIN-KEYWORD,github'
   - 'DOMAIN-KEYWORD,google'
+  - 'DOMAIN-KEYWORD,paypal'
   - 'DOMAIN-KEYWORD,beetalk'
   - 'DOMAIN-KEYWORD,dropbox'
   - 'DOMAIN-KEYWORD,sci-hub'
@@ -29,5 +30,7 @@ payload:
   - 'DOMAIN-KEYWORD,skydrive'
   - 'DOMAIN-KEYWORD,telegram'
   - 'DOMAIN-KEYWORD,whatsapp'
+  - 'DOMAIN-KEYWORD,dlercloud'
   - 'DOMAIN-KEYWORD,instagram'
   - 'DOMAIN-KEYWORD,appledaily'
+  - 'DOMAIN-KEYWORD,.pinterest.'
