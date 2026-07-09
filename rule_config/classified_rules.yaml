@@ -5111,3 +5111,9 @@ classified_rules:
             - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Zoom.list
         files: []
         rules: []
+    hk_broker:
+        description: 香港证券
+        urls:
+            - https://raw.githubusercontent.com/LingJingMaster/Shadowrocket-Rules/main/HK_Broker.list
+        files: []
+        rules: []
