@@ -1,0 +1,11 @@
+# jwplayer - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (5 rules)
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwplatform.com

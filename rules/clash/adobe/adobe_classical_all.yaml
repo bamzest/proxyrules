@@ -4,10 +4,11 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (1 rules)
+  # DOMAIN (2 rules)
   - 'DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com'
+  - 'DOMAIN,adbemdigitalmediarebootprod2.112.2o7.net'
 
-  # DOMAIN-SUFFIX (135 rules)
+  # DOMAIN-SUFFIX (137 rules)
   - 'DOMAIN-SUFFIX,2o7.net'
   - 'DOMAIN-SUFFIX,pdf.new'
   - 'DOMAIN-SUFFIX,adobe.io'
@@ -57,6 +58,7 @@ payload:
   - 'DOMAIN-SUFFIX,adobedtm.com'
   - 'DOMAIN-SUFFIX,adobegov.com'
   - 'DOMAIN-SUFFIX,adobetag.com'
+  - 'DOMAIN-SUFFIX,digicert.com'
   - 'DOMAIN-SUFFIX,echosign.com'
   - 'DOMAIN-SUFFIX,ffotolia.com'
   - 'DOMAIN-SUFFIX,fiotolia.com'
@@ -134,6 +136,7 @@ payload:
   - 'DOMAIN-SUFFIX,marketing-nirvana.com'
   - 'DOMAIN-SUFFIX,sundanceignite2016.com'
   - 'DOMAIN-SUFFIX,worldsecuresystems.com'
+  - 'DOMAIN-SUFFIX,ctldl.windowsupdate.com'
   - 'DOMAIN-SUFFIX,adobehiddentreasures.com'
   - 'DOMAIN-SUFFIX,adobe-aemassets-value.com'
   - 'DOMAIN-SUFFIX,adobe-audience-finder.com'

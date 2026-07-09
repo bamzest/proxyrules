@@ -4,4 +4,6 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-  # 无规则内容，自动生成占位
+
+  # DOMAIN-KEYWORD (1 rules)
+  - 'DOMAIN-KEYWORD,synology'

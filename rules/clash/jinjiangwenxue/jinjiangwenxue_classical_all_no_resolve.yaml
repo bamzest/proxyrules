@@ -1,0 +1,17 @@
+# jinjiangwenxue - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (7 rules)
+  - 'DOMAIN-SUFFIX,jjwxc.cn'
+  - 'DOMAIN-SUFFIX,jjwxc.com'
+  - 'DOMAIN-SUFFIX,jjwxc.net'
+  - 'DOMAIN-SUFFIX,jjwxc.org'
+  - 'DOMAIN-SUFFIX,jjycw.net'
+  - 'DOMAIN-SUFFIX,robook.com'
+  - 'DOMAIN-SUFFIX,chaba123.com'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.jjwxc.reader'

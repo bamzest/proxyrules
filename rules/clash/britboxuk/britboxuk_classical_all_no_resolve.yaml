@@ -1,0 +1,17 @@
+# britboxuk - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN (2 rules)
+  - 'DOMAIN,itvpnp.live.ott.irdeto.com'
+  - 'DOMAIN,itvpnp.stage.ott.irdeto.com'
+
+  # DOMAIN-SUFFIX (6 rules)
+  - 'DOMAIN-SUFFIX,itv.com'
+  - 'DOMAIN-SUFFIX,bbc.co.uk'
+  - 'DOMAIN-SUFFIX,britbox.com'
+  - 'DOMAIN-SUFFIX,bb-static.com'
+  - 'DOMAIN-SUFFIX,britbox.co.uk'
+  - 'DOMAIN-SUFFIX,massive-itv.com'

@@ -1,0 +1,44 @@
+# cmb - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (38 rules)
+DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,cmf.ltd
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,chndoi.cn
+DOMAIN-SUFFIX,cmbimg.cn
+DOMAIN-SUFFIX,cmburl.cn
+DOMAIN-SUFFIX,bbf.org.cn
+DOMAIN-SUFFIX,chndoi.com
+DOMAIN-SUFFIX,chndoi.net
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmbuat.com
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,cnkidoi.cn
+DOMAIN-SUFFIX,bjsbnet.com
+DOMAIN-SUFFIX,cmbchina.cn
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cnkidoi.com
+DOMAIN-SUFFIX,cnkidoi.net
+DOMAIN-SUFFIX,cnkidoi.org
+DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,wuxizazhi.cn
+DOMAIN-SUFFIX,8008205555.cn
+DOMAIN-SUFFIX,chndoi.com.cn
+DOMAIN-SUFFIX,wuxizazhi.com
+DOMAIN-SUFFIX,wuxizazhi.net
+DOMAIN-SUFFIX,8008205555.com
+DOMAIN-SUFFIX,cignacmbamc.com
+DOMAIN-SUFFIX,cmb-leasing.com
+DOMAIN-SUFFIX,wuxizazhi.com.cn
+DOMAIN-SUFFIX,wuxizazhi.net.cn
+DOMAIN-SUFFIX,cignacmb-ipmi.com
+DOMAIN-SUFFIX,test-cignacmb.com
+DOMAIN-SUFFIX,cmbwinglungbank.com

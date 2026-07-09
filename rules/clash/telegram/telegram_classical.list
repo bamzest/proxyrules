@@ -4,14 +4,20 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (1 rules)
+# DOMAIN-KEYWORD (2 rules)
+DOMAIN-KEYWORD,nicegram
 DOMAIN-KEYWORD,telegram
 
-# IP-ASN (5 rules)
+# IP-ASN (10 rules)
+IP-ASN,211157,no-resolve
 IP-ASN,211157,no-resolve // Telegram Messenger Inc
+IP-ASN,44907,no-resolve
 IP-ASN,44907,no-resolve // Telegram Messenger Inc
+IP-ASN,59930,no-resolve
 IP-ASN,59930,no-resolve // Telegram Messenger Inc
+IP-ASN,62014,no-resolve
 IP-ASN,62014,no-resolve // Telegram Messenger Inc
+IP-ASN,62041,no-resolve
 IP-ASN,62041,no-resolve // Telegram Messenger Inc
 
 # PROCESS-NAME (8 rules)
