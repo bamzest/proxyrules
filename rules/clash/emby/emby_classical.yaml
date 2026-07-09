@@ -5,5 +5,11 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (1 rules)
+  # DOMAIN-KEYWORD (4 rules)
+  - 'DOMAIN-KEYWORD,jmsooo'
+  - 'DOMAIN-KEYWORD,emby.wtf'
   - 'DOMAIN-KEYWORD,jmsooo.com'
+  - 'DOMAIN-KEYWORD,odysseyplus'
+
+  # PROCESS-NAME (1 rules)
+  - 'PROCESS-NAME,com.mb.android'

@@ -4,7 +4,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (290 rules)
+# DOMAIN-KEYWORD (292 rules)
 DOMAIN-KEYWORD,dat8
 DOMAIN-KEYWORD,fzlm
 DOMAIN-KEYWORD,jads
@@ -51,6 +51,7 @@ DOMAIN-KEYWORD,duomeng
 DOMAIN-KEYWORD,dwtrack
 DOMAIN-KEYWORD,gettate
 DOMAIN-KEYWORD,histats
+DOMAIN-KEYWORD,httpdns
 DOMAIN-KEYWORD,ioslog.
 DOMAIN-KEYWORD,juruigj
 DOMAIN-KEYWORD,lkme.cc
@@ -78,6 +79,7 @@ DOMAIN-KEYWORD,applovin
 DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,flightsy
 DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,httpsdns
 DOMAIN-KEYWORD,ios-log.
 DOMAIN-KEYWORD,itabelog
 DOMAIN-KEYWORD,mighbest
