@@ -3,14 +3,13 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (15 rules)
+# DOMAIN-SUFFIX (14 rules)
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,intellij.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,intellij.org
 DOMAIN-SUFFIX,jetbrains.ai
-DOMAIN-SUFFIX,jetbrains.io
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.org
