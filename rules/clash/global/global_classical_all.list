@@ -144,7 +144,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34536 rules)
+# DOMAIN-SUFFIX (34542 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -4104,6 +4104,7 @@ DOMAIN-SUFFIX,ftopx.com
 DOMAIN-SUFFIX,fukzr1.cc
 DOMAIN-SUFFIX,fuli3.net
 DOMAIN-SUFFIX,fulue.com
+DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,fuqqt.com
 DOMAIN-SUFFIX,furbo.org
 DOMAIN-SUFFIX,fury.blog
@@ -7115,6 +7116,7 @@ DOMAIN-SUFFIX,ftv.com.tw
 DOMAIN-SUFFIX,fuck55.net
 DOMAIN-SUFFIX,fuckup.xxx
 DOMAIN-SUFFIX,fujossy.jp
+DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,furuke.com
 DOMAIN-SUFFIX,fuse.ac.uk
 DOMAIN-SUFFIX,fusker.xxx
@@ -10657,6 +10659,7 @@ DOMAIN-SUFFIX,flexpool.io
 DOMAIN-SUFFIX,flexsig.com
 DOMAIN-SUFFIX,flipfap.com
 DOMAIN-SUFFIX,flowgpt.com
+DOMAIN-SUFFIX,flowwow.com
 DOMAIN-SUFFIX,flutter.dev
 DOMAIN-SUFFIX,flypool.org
 DOMAIN-SUFFIX,flzbcdn.xyz
@@ -12206,6 +12209,7 @@ DOMAIN-SUFFIX,sexyhub.com
 DOMAIN-SUFFIX,sexyoung.me
 DOMAIN-SUFFIX,sfefc.ac.uk
 DOMAIN-SUFFIX,sfhub.ac.uk
+DOMAIN-SUFFIX,sfunpay.com
 DOMAIN-SUFFIX,sghms.ac.uk
 DOMAIN-SUFFIX,sgsah.ac.uk
 DOMAIN-SUFFIX,sgsss.ac.uk
@@ -16005,6 +16009,7 @@ DOMAIN-SUFFIX,tigerbbs.com
 DOMAIN-SUFFIX,tigervpn.com
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinychat.com
@@ -28681,6 +28686,7 @@ DOMAIN-SUFFIX,fireofliberty.info
 DOMAIN-SUFFIX,flameunleashed.com
 DOMAIN-SUFFIX,flickrhivemind.net
 DOMAIN-SUFFIX,flipnotestudio.com
+DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,foodsecurity.ac.uk
 DOMAIN-SUFFIX,forbiddenasian.com
 DOMAIN-SUFFIX,foreignaffairs.com
