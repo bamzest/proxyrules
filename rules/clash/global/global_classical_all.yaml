@@ -145,7 +145,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34542 rules)
+  # DOMAIN-SUFFIX (34544 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -4808,6 +4808,7 @@ payload:
   - 'DOMAIN-SUFFIX,minne.com'
   - 'DOMAIN-SUFFIX,missav.ai'
   - 'DOMAIN-SUFFIX,missav.ws'
+  - 'DOMAIN-SUFFIX,mitao.bar'
   - 'DOMAIN-SUFFIX,mixin.one'
   - 'DOMAIN-SUFFIX,mixlr.com'
   - 'DOMAIN-SUFFIX,mjj.today'
@@ -7816,6 +7817,7 @@ payload:
   - 'DOMAIN-SUFFIX,madshi.net'
   - 'DOMAIN-SUFFIX,maes.ac.uk'
   - 'DOMAIN-SUFFIX,makaan.com'
+  - 'DOMAIN-SUFFIX,makeeu.com'
   - 'DOMAIN-SUFFIX,mangaup.jp'
   - 'DOMAIN-SUFFIX,manhub.com'
   - 'DOMAIN-SUFFIX,manoto1.tv'
