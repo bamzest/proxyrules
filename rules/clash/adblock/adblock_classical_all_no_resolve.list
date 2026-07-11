@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27214 rules)
+# DOMAIN (27215 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -25937,6 +25937,7 @@ DOMAIN,most-popular-info.g5e.com
 DOMAIN,mountain.zhidao.baidu.com
 DOMAIN,munchkin.brightfunnel.com
 DOMAIN,muvhqe.graodegente.com.br
+DOMAIN,nbsdk-baichuan.alicdn.com
 DOMAIN,nexus.officeapps.live.com
 DOMAIN,notify.hindustantimes.com
 DOMAIN,nugly.barginginfrance.net
