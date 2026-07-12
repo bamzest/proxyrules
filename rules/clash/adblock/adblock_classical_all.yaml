@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27215 rules)
+  # DOMAIN (27214 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -19160,7 +19160,6 @@ payload:
   - 'DOMAIN,api.liquidlink.cn'
   - 'DOMAIN,api.locallogic.co'
   - 'DOMAIN,api.locuslabs.com'
-  - 'DOMAIN,api.map.baidu.com'
   - 'DOMAIN,api.mobadvent.com'
   - 'DOMAIN,api.myendpoint.io'
   - 'DOMAIN,api.postscript.io'
