@@ -24,7 +24,7 @@ DOMAIN-SUFFIX,shuoba.org
 DOMAIN-SUFFIX,kugouipv6.com
 DOMAIN-SUFFIX,tingkanbao.com
 
-# IP-CIDR (93 rules)
+# IP-CIDR (92 rules)
 IP-CIDR,1.82.220.0/24,no-resolve
 IP-CIDR,101.71.122.0/24,no-resolve
 IP-CIDR,103.215.143.0/24,no-resolve
@@ -116,5 +116,4 @@ IP-CIDR,61.243.144.0/24,no-resolve
 IP-CIDR,61.48.115.0/24,no-resolve
 IP-CIDR,61.54.121.0/24,no-resolve
 IP-CIDR,61.54.7.0/24,no-resolve
-IP-CIDR,112.90.228.0/23,no-resolve
 IP-CIDR,125.64.107.13/11,no-resolve
