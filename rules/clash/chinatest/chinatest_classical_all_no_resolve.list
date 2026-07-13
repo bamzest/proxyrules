@@ -122,7 +122,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (111919 rules)
+# DOMAIN-SUFFIX (111929 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -27898,6 +27898,7 @@ DOMAIN-SUFFIX,actoys.net
 DOMAIN-SUFFIX,acwifi.net
 DOMAIN-SUFFIX,acwing.com
 DOMAIN-SUFFIX,acwlkj.com
+DOMAIN-SUFFIX,adacpp.com
 DOMAIN-SUFFIX,addaad.com
 DOMAIN-SUFFIX,addgog.com
 DOMAIN-SUFFIX,addoom.com
@@ -47143,6 +47144,7 @@ DOMAIN-SUFFIX,zmkmex.com
 DOMAIN-SUFFIX,zmndjm.com
 DOMAIN-SUFFIX,zmnedu.com
 DOMAIN-SUFFIX,zmobuy.com
+DOMAIN-SUFFIX,zmtqsh.com
 DOMAIN-SUFFIX,zmz002.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
@@ -61881,6 +61883,7 @@ DOMAIN-SUFFIX,yfsteel.com
 DOMAIN-SUFFIX,yfygxyy.com
 DOMAIN-SUFFIX,yg-pump.com
 DOMAIN-SUFFIX,ygcloud.com
+DOMAIN-SUFFIX,ygduoyi.com
 DOMAIN-SUFFIX,ygx8888.com
 DOMAIN-SUFFIX,yhhotel.com
 DOMAIN-SUFFIX,yhqrmyy.com
@@ -67493,6 +67496,7 @@ DOMAIN-SUFFIX,gswjxjzx.com
 DOMAIN-SUFFIX,gsydxzyy.com
 DOMAIN-SUFFIX,gtarcade.com
 DOMAIN-SUFFIX,gtastart.com
+DOMAIN-SUFFIX,gtgjtrip.com
 DOMAIN-SUFFIX,gtjiaoyu.com
 DOMAIN-SUFFIX,gtm-a1b2.com
 DOMAIN-SUFFIX,gtm-a1b3.com
@@ -69873,6 +69877,7 @@ DOMAIN-SUFFIX,kkgithub.com
 DOMAIN-SUFFIX,kkhaitao.com
 DOMAIN-SUFFIX,kktijian.com
 DOMAIN-SUFFIX,kkwafdns.com
+DOMAIN-SUFFIX,kling-ai.com
 DOMAIN-SUFFIX,klingxai.com
 DOMAIN-SUFFIX,klx-tech.com
 DOMAIN-SUFFIX,kmfengli.com
@@ -70219,6 +70224,7 @@ DOMAIN-SUFFIX,leyaoyao.com
 DOMAIN-SUFFIX,leyaoyao.org
 DOMAIN-SUFFIX,leyingtt.com
 DOMAIN-SUFFIX,leyoujia.com
+DOMAIN-SUFFIX,leyuansu.com
 DOMAIN-SUFFIX,leyue100.com
 DOMAIN-SUFFIX,leyun365.com
 DOMAIN-SUFFIX,lezhiyun.com
@@ -84335,6 +84341,7 @@ DOMAIN-SUFFIX,shcwmotor.com
 DOMAIN-SUFFIX,shebao100.com
 DOMAIN-SUFFIX,shebiaotm.com
 DOMAIN-SUFFIX,shedunews.com
+DOMAIN-SUFFIX,shedunews.net
 DOMAIN-SUFFIX,sheencity.com
 DOMAIN-SUFFIX,sheepmats.com
 DOMAIN-SUFFIX,shejibiji.com
@@ -94419,6 +94426,7 @@ DOMAIN-SUFFIX,xiaoliqing.net
 DOMAIN-SUFFIX,xiaoluboke.com
 DOMAIN-SUFFIX,xiaomaigui.com
 DOMAIN-SUFFIX,xiaomaiuzu.com
+DOMAIN-SUFFIX,xiaomengai.com
 DOMAIN-SUFFIX,xiaomicorp.com
 DOMAIN-SUFFIX,xiaomicorp.net
 DOMAIN-SUFFIX,xiaomimimo.com
@@ -101696,6 +101704,7 @@ DOMAIN-SUFFIX,duoduoyuncai.com
 DOMAIN-SUFFIX,duolayunwang.com
 DOMAIN-SUFFIX,duolemahjong.com
 DOMAIN-SUFFIX,duolemajiang.com
+DOMAIN-SUFFIX,duoyiwangluo.com
 DOMAIN-SUFFIX,dwyunparking.com
 DOMAIN-SUFFIX,dxmlcfintech.com
 DOMAIN-SUFFIX,dymusicvideo.com
@@ -107497,6 +107506,7 @@ DOMAIN-SUFFIX,cn-healthclass.com
 DOMAIN-SUFFIX,coach-japanese.com
 DOMAIN-SUFFIX,cocohealthcare.com
 DOMAIN-SUFFIX,coins-carnival.com
+DOMAIN-SUFFIX,colorfulclouds.com
 DOMAIN-SUFFIX,colorfulclouds.net
 DOMAIN-SUFFIX,colortechchina.com
 DOMAIN-SUFFIX,columbia-china.com
