@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (118 rules)
+  # DOMAIN (119 rules)
   - 'DOMAIN,2mdn.net'
   - 'DOMAIN,c.pki.goog'
   - 'DOMAIN,i.dell.com'
@@ -64,6 +64,7 @@ payload:
   - 'DOMAIN,scene7-cdn.dell.com'
   - 'DOMAIN,tp.louisvuitton.com'
   - 'DOMAIN,analytics.strava.com'
+  - 'DOMAIN,api.blipsandchitz.me'
   - 'DOMAIN,beacons.gcp.gvt2.com'
   - 'DOMAIN,clickserve.cc-dt.com'
   - 'DOMAIN,origin-a.akamaihd.ne'
@@ -124,7 +125,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (111717 rules)
+  # DOMAIN-SUFFIX (111726 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -14163,6 +14164,7 @@ payload:
   - 'DOMAIN-SUFFIX,dcutp.com'
   - 'DOMAIN-SUFFIX,dcyjc.com'
   - 'DOMAIN-SUFFIX,dcyzq.com'
+  - 'DOMAIN-SUFFIX,dczcy.com'
   - 'DOMAIN-SUFFIX,dczkj.com'
   - 'DOMAIN-SUFFIX,dd-gz.com'
   - 'DOMAIN-SUFFIX,dd001.net'
@@ -35299,6 +35301,7 @@ payload:
   - 'DOMAIN-SUFFIX,hrjkjt.com'
   - 'DOMAIN-SUFFIX,hrm100.com'
   - 'DOMAIN-SUFFIX,hrs100.com'
+  - 'DOMAIN-SUFFIX,hrsecn.com'
   - 'DOMAIN-SUFFIX,hrtfin.com'
   - 'DOMAIN-SUFFIX,hsakyy.com'
   - 'DOMAIN-SUFFIX,hscfjt.com'
@@ -41457,6 +41460,7 @@ payload:
   - 'DOMAIN-SUFFIX,sdsdiy.com'
   - 'DOMAIN-SUFFIX,sdsdzx.com'
   - 'DOMAIN-SUFFIX,sdsfjy.com'
+  - 'DOMAIN-SUFFIX,sdshdc.com'
   - 'DOMAIN-SUFFIX,sdshgk.com'
   - 'DOMAIN-SUFFIX,sdsrhb.com'
   - 'DOMAIN-SUFFIX,sdstdc.com'
@@ -66956,6 +66960,7 @@ payload:
   - 'DOMAIN-SUFFIX,ftnwater.com'
   - 'DOMAIN-SUFFIX,fubaofei.com'
   - 'DOMAIN-SUFFIX,fucantec.com'
+  - 'DOMAIN-SUFFIX,fuchenkj.com'
   - 'DOMAIN-SUFFIX,fudaiapp.com'
   - 'DOMAIN-SUFFIX,fudakang.com'
   - 'DOMAIN-SUFFIX,fudanglp.com'
@@ -69172,6 +69177,7 @@ payload:
   - 'DOMAIN-SUFFIX,jiemodui.com'
   - 'DOMAIN-SUFFIX,jiepaids.com'
   - 'DOMAIN-SUFFIX,jieshui8.com'
+  - 'DOMAIN-SUFFIX,jietianz.com'
   - 'DOMAIN-SUFFIX,jietu365.com'
   - 'DOMAIN-SUFFIX,jietuosh.com'
   - 'DOMAIN-SUFFIX,jieyanri.com'
@@ -74251,6 +74257,7 @@ payload:
   - 'DOMAIN-SUFFIX,ulikecam.com'
   - 'DOMAIN-SUFFIX,ulikecam.net'
   - 'DOMAIN-SUFFIX,ulikepic.com'
+  - 'DOMAIN-SUFFIX,ulongemg.com'
   - 'DOMAIN-SUFFIX,ultraeda.com'
   - 'DOMAIN-SUFFIX,ultrapay.net'
   - 'DOMAIN-SUFFIX,umeng100.com'
@@ -76110,6 +76117,7 @@ payload:
   - 'DOMAIN-SUFFIX,yxbhhbkj.com'
   - 'DOMAIN-SUFFIX,yxdmgame.com'
   - 'DOMAIN-SUFFIX,yxgxbike.com'
+  - 'DOMAIN-SUFFIX,yxingfan.com'
   - 'DOMAIN-SUFFIX,yxintent.com'
   - 'DOMAIN-SUFFIX,yxkxyghx.org'
   - 'DOMAIN-SUFFIX,yxwsgame.com'
@@ -84216,6 +84224,7 @@ payload:
   - 'DOMAIN-SUFFIX,shhuazhen.com'
   - 'DOMAIN-SUFFIX,shibangsy.com'
   - 'DOMAIN-SUFFIX,shicaidai.com'
+  - 'DOMAIN-SUFFIX,shicheng6.com'
   - 'DOMAIN-SUFFIX,shichuedu.com'
   - 'DOMAIN-SUFFIX,shicigequ.com'
   - 'DOMAIN-SUFFIX,shicuojue.com'
@@ -96371,6 +96380,7 @@ payload:
   - 'DOMAIN-SUFFIX,diaochatong.com'
   - 'DOMAIN-SUFFIX,didachuxing.com'
   - 'DOMAIN-SUFFIX,didichuxing.com'
+  - 'DOMAIN-SUFFIX,didifinance.com'
   - 'DOMAIN-SUFFIX,didiopenapi.com'
   - 'DOMAIN-SUFFIX,digital-ren.com'
   - 'DOMAIN-SUFFIX,digitalcnzz.com'

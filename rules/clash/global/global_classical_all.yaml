@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34572 rules)
+  # DOMAIN-SUFFIX (34577 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -4794,6 +4794,7 @@ payload:
   - 'DOMAIN-SUFFIX,mfmf.club'
   - 'DOMAIN-SUFFIX,mfo.ac.uk'
   - 'DOMAIN-SUFFIX,mgoon.com'
+  - 'DOMAIN-SUFFIX,mhgui.com'
   - 'DOMAIN-SUFFIX,mhqwe.xyz'
   - 'DOMAIN-SUFFIX,mhs.ac.uk'
   - 'DOMAIN-SUFFIX,mib.ac.uk'
@@ -8064,6 +8065,7 @@ payload:
   - 'DOMAIN-SUFFIX,netcup.net'
   - 'DOMAIN-SUFFIX,netflix.ca'
   - 'DOMAIN-SUFFIX,netlock.hu'
+  - 'DOMAIN-SUFFIX,netxh.blog'
   - 'DOMAIN-SUFFIX,newi.ac.uk'
   - 'DOMAIN-SUFFIX,newnews.ca'
   - 'DOMAIN-SUFFIX,news.co.uk'
@@ -13419,6 +13421,7 @@ payload:
   - 'DOMAIN-SUFFIX,azatutyun.am'
   - 'DOMAIN-SUFFIX,azerimix.com'
   - 'DOMAIN-SUFFIX,azirevpn.com'
+  - 'DOMAIN-SUFFIX,azureedge.us'
   - 'DOMAIN-SUFFIX,babyzone.com'
   - 'DOMAIN-SUFFIX,baclaw.ac.uk'
   - 'DOMAIN-SUFFIX,bacoll.ac.uk'
@@ -15863,6 +15866,7 @@ payload:
   - 'DOMAIN-SUFFIX,starbucks.se'
   - 'DOMAIN-SUFFIX,starbucks.tt'
   - 'DOMAIN-SUFFIX,starbucks.vn'
+  - 'DOMAIN-SUFFIX,starlink.com'
   - 'DOMAIN-SUFFIX,starplus.com'
   - 'DOMAIN-SUFFIX,starwars.com'
   - 'DOMAIN-SUFFIX,staticmy.com'
@@ -22921,6 +22925,7 @@ payload:
   - 'DOMAIN-SUFFIX,cool-comics.com'
   - 'DOMAIN-SUFFIX,coolloud.org.tw'
   - 'DOMAIN-SUFFIX,coolmonster.net'
+  - 'DOMAIN-SUFFIX,copilot-stg.com'
   - 'DOMAIN-SUFFIX,copy2000.online'
   - 'DOMAIN-SUFFIX,coreextreme.com'
   - 'DOMAIN-SUFFIX,cosplay-jav.com'
