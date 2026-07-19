@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34577 rules)
+  # DOMAIN-SUFFIX (34578 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -24051,6 +24051,7 @@ payload:
   - 'DOMAIN-SUFFIX,qacollege.ac.uk'
   - 'DOMAIN-SUFFIX,qbittorrent.org'
   - 'DOMAIN-SUFFIX,qiangwaikan.com'
+  - 'DOMAIN-SUFFIX,qnapsupport.net'
   - 'DOMAIN-SUFFIX,qooqlevideo.com'
   - 'DOMAIN-SUFFIX,qualcomm.com.br'
   - 'DOMAIN-SUFFIX,qualcomm.com.tw'

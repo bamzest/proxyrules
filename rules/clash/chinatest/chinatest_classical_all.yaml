@@ -125,7 +125,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (111726 rules)
+  # DOMAIN-SUFFIX (111727 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -91791,6 +91791,7 @@ payload:
   - 'DOMAIN-SUFFIX,myarowanas.com'
   - 'DOMAIN-SUFFIX,mycardgame.net'
   - 'DOMAIN-SUFFIX,mycdnadmin.com'
+  - 'DOMAIN-SUFFIX,mycloudnas.com'
   - 'DOMAIN-SUFFIX,mycolorway.com'
   - 'DOMAIN-SUFFIX,myechannel.com'
   - 'DOMAIN-SUFFIX,myechinese.com'
