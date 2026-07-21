@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17666 rules)
+  # DOMAIN-SUFFIX (17668 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -3181,6 +3181,7 @@ payload:
   - 'DOMAIN-SUFFIX,swag.live'
   - 'DOMAIN-SUFFIX,symcb.com'
   - 'DOMAIN-SUFFIX,symcd.com'
+  - 'DOMAIN-SUFFIX,sysub.com'
   - 'DOMAIN-SUFFIX,sytes.net'
   - 'DOMAIN-SUFFIX,syx86.com'
   - 'DOMAIN-SUFFIX,szbbs.net'
@@ -7539,6 +7540,7 @@ payload:
   - 'DOMAIN-SUFFIX,cinnamon.org'
   - 'DOMAIN-SUFFIX,cisco.com.cn'
   - 'DOMAIN-SUFFIX,ciscofax.com'
+  - 'DOMAIN-SUFFIX,clashyun.com'
   - 'DOMAIN-SUFFIX,cleansite.us'
   - 'DOMAIN-SUFFIX,clear.co.com'
   - 'DOMAIN-SUFFIX,clemesha.org'

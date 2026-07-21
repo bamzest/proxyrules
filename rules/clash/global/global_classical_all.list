@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34578 rules)
+# DOMAIN-SUFFIX (34587 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -405,6 +405,7 @@ DOMAIN-SUFFIX,err.sh
 DOMAIN-SUFFIX,esm.sh
 DOMAIN-SUFFIX,esu.im
 DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,f6.dev
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fb.com
@@ -449,6 +450,7 @@ DOMAIN-SUFFIX,hku.hk
 DOMAIN-SUFFIX,hm.com
 DOMAIN-SUFFIX,hoy.tv
 DOMAIN-SUFFIX,htl.li
+DOMAIN-SUFFIX,hva.im
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibm.eu
 DOMAIN-SUFFIX,ibm.us
@@ -2164,6 +2166,7 @@ DOMAIN-SUFFIX,ex.ac.uk
 DOMAIN-SUFFIX,exmo.com
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,ezua.com
+DOMAIN-SUFFIX,f1tv.com
 DOMAIN-SUFFIX,f5pf.com
 DOMAIN-SUFFIX,facct.ru
 DOMAIN-SUFFIX,fantv.hk
@@ -5438,6 +5441,7 @@ DOMAIN-SUFFIX,swtor.com
 DOMAIN-SUFFIX,swtor.net
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,sysub.com
 DOMAIN-SUFFIX,sytes.net
 DOMAIN-SUFFIX,syx86.com
 DOMAIN-SUFFIX,szbbs.net
@@ -8465,6 +8469,7 @@ DOMAIN-SUFFIX,rbe996.com
 DOMAIN-SUFFIX,rbeopp.com
 DOMAIN-SUFFIX,rbge.ac.uk
 DOMAIN-SUFFIX,rbsl.ac.uk
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rbxcdn.com
 DOMAIN-SUFFIX,rbxtrk.com
 DOMAIN-SUFFIX,rcds.ac.uk
@@ -12068,6 +12073,7 @@ DOMAIN-SUFFIX,rarbggo.org
 DOMAIN-SUFFIX,rarbgto.org
 DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,rbgrads.com
+DOMAIN-SUFFIX,rbsgate.com
 DOMAIN-SUFFIX,rbxlabs.com
 DOMAIN-SUFFIX,rcnde.ac.uk
 DOMAIN-SUFFIX,rcpch.ac.uk
@@ -13464,6 +13470,7 @@ DOMAIN-SUFFIX,beegfree.com
 DOMAIN-SUFFIX,benliton.com
 DOMAIN-SUFFIX,berkeley.edu
 DOMAIN-SUFFIX,beside.ac.uk
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,best4bim.com
 DOMAIN-SUFFIX,bestbuy.info
 DOMAIN-SUFFIX,bestbuys.com
@@ -13708,6 +13715,7 @@ DOMAIN-SUFFIX,ciyuanjie.cc
 DOMAIN-SUFFIX,ckeene.ac.uk
 DOMAIN-SUFFIX,clacks.ac.uk
 DOMAIN-SUFFIX,clarin.ac.uk
+DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,cleansite.us
 DOMAIN-SUFFIX,clearasil.us
 DOMAIN-SUFFIX,clipcake.com
@@ -14138,6 +14146,7 @@ DOMAIN-SUFFIX,fontshop.com
 DOMAIN-SUFFIX,forduck.cyou
 DOMAIN-SUFFIX,forefront.ai
 DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,fortnite.com
 DOMAIN-SUFFIX,forum4hk.com
