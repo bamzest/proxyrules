@@ -8,6 +8,10 @@ DOMAIN,bahamut.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
 
-# DOMAIN-SUFFIX (2 rules)
+# DOMAIN-SUFFIX (6 rules)
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,viblast.com
+DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,gamer.com.tw
 DOMAIN-SUFFIX,bahamut.com.tw
