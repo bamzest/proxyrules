@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17668 rules)
+  # DOMAIN-SUFFIX (17670 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -3464,6 +3464,7 @@ payload:
   - 'DOMAIN-SUFFIX,z00.world'
   - 'DOMAIN-SUFFIX,zapto.org'
   - 'DOMAIN-SUFFIX,zello.com'
+  - 'DOMAIN-SUFFIX,zenmux.ai'
   - 'DOMAIN-SUFFIX,ziddu.com'
   - 'DOMAIN-SUFFIX,zinio.com'
   - 'DOMAIN-SUFFIX,zishy.com'
@@ -10572,6 +10573,7 @@ payload:
   - 'DOMAIN-SUFFIX,tinypaste.com'
   - 'DOMAIN-SUFFIX,tiohentai.com'
   - 'DOMAIN-SUFFIX,tmagazine.com'
+  - 'DOMAIN-SUFFIX,tokenplus.app'
   - 'DOMAIN-SUFFIX,tokyo-247.com'
   - 'DOMAIN-SUFFIX,tokyo-hot.com'
   - 'DOMAIN-SUFFIX,toolforge.org'

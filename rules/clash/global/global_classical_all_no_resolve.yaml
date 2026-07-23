@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34587 rules)
+  # DOMAIN-SUFFIX (34589 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -5946,6 +5946,7 @@ payload:
   - 'DOMAIN-SUFFIX,zeeuk.com'
   - 'DOMAIN-SUFFIX,zeibit.ai'
   - 'DOMAIN-SUFFIX,zello.com'
+  - 'DOMAIN-SUFFIX,zenmux.ai'
   - 'DOMAIN-SUFFIX,zeplin.io'
   - 'DOMAIN-SUFFIX,ziddu.com'
   - 'DOMAIN-SUFFIX,zigzag.kr'
@@ -19273,6 +19274,7 @@ payload:
   - 'DOMAIN-SUFFIX,tiresplus.com'
   - 'DOMAIN-SUFFIX,titanfall.com'
   - 'DOMAIN-SUFFIX,tmagazine.com'
+  - 'DOMAIN-SUFFIX,tokenplus.app'
   - 'DOMAIN-SUFFIX,tokyo-247.com'
   - 'DOMAIN-SUFFIX,tokyo-hot.com'
   - 'DOMAIN-SUFFIX,tokyotosho.se'

@@ -125,7 +125,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (111784 rules)
+  # DOMAIN-SUFFIX (111788 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -835,6 +835,7 @@ payload:
   - 'DOMAIN-SUFFIX,xa.com'
   - 'DOMAIN-SUFFIX,xb.app'
   - 'DOMAIN-SUFFIX,xb0.cc'
+  - 'DOMAIN-SUFFIX,xcz.im'
   - 'DOMAIN-SUFFIX,xd.com'
   - 'DOMAIN-SUFFIX,xd0.co'
   - 'DOMAIN-SUFFIX,xdc.at'
@@ -19580,6 +19581,7 @@ payload:
   - 'DOMAIN-SUFFIX,mocuz.com'
   - 'DOMAIN-SUFFIX,modao.com'
   - 'DOMAIN-SUFFIX,modxz.com'
+  - 'DOMAIN-SUFFIX,moedu.com'
   - 'DOMAIN-SUFFIX,moehu.org'
   - 'DOMAIN-SUFFIX,moeid.com'
   - 'DOMAIN-SUFFIX,moejp.com'
@@ -29570,6 +29572,7 @@ payload:
   - 'DOMAIN-SUFFIX,cd-cxh.com'
   - 'DOMAIN-SUFFIX,cd-hdy.com'
   - 'DOMAIN-SUFFIX,cd-web.org'
+  - 'DOMAIN-SUFFIX,cd120.info'
   - 'DOMAIN-SUFFIX,cd1958.com'
   - 'DOMAIN-SUFFIX,cd2120.com'
   - 'DOMAIN-SUFFIX,cd3120.com'
@@ -99483,6 +99486,7 @@ payload:
   - 'DOMAIN-SUFFIX,tsinghua-sz.org'
   - 'DOMAIN-SUFFIX,tsinghua-vc.com'
   - 'DOMAIN-SUFFIX,tsinghua-wx.org'
+  - 'DOMAIN-SUFFIX,tsingtengms.com'
   - 'DOMAIN-SUFFIX,tsk-fixture.com'
   - 'DOMAIN-SUFFIX,tsm-license.com'
   - 'DOMAIN-SUFFIX,ttdailynews.com'
