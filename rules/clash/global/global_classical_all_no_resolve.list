@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34589 rules)
+# DOMAIN-SUFFIX (34594 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -492,6 +492,7 @@ DOMAIN-SUFFIX,kun.im
 DOMAIN-SUFFIX,lg.com
 DOMAIN-SUFFIX,lih.kg
 DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,m12.vc
 DOMAIN-SUFFIX,mac.eu
 DOMAIN-SUFFIX,mac.rs
@@ -592,6 +593,7 @@ DOMAIN-SUFFIX,tmi.me
 DOMAIN-SUFFIX,top.tv
 DOMAIN-SUFFIX,tou.tv
 DOMAIN-SUFFIX,tr.com
+DOMAIN-SUFFIX,try.rw
 DOMAIN-SUFFIX,ts.net
 DOMAIN-SUFFIX,tsi.ai
 DOMAIN-SUFFIX,tv.com
@@ -905,6 +907,7 @@ DOMAIN-SUFFIX,dns1.us
 DOMAIN-SUFFIX,dns2.us
 DOMAIN-SUFFIX,doc.new
 DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,dolc.de
 DOMAIN-SUFFIX,dot.net
@@ -4650,6 +4653,7 @@ DOMAIN-SUFFIX,kaggle.io
 DOMAIN-SUFFIX,kagyu.org
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kaob3.xyz
+DOMAIN-SUFFIX,kards.com
 DOMAIN-SUFFIX,kcb.ac.uk
 DOMAIN-SUFFIX,kcc.ac.uk
 DOMAIN-SUFFIX,kcl.ac.uk
@@ -13707,6 +13711,7 @@ DOMAIN-SUFFIX,chuporno.com
 DOMAIN-SUFFIX,chwr7s8u.com
 DOMAIN-SUFFIX,ciemap.ac.uk
 DOMAIN-SUFFIX,cignet.ac.uk
+DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,cirius.ac.uk
 DOMAIN-SUFFIX,cirrus.ac.uk
 DOMAIN-SUFFIX,cisban.ac.uk

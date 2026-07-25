@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17670 rules)
+# DOMAIN-SUFFIX (17672 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -2816,6 +2816,7 @@ DOMAIN-SUFFIX,kaggle.io
 DOMAIN-SUFFIX,kagyu.org
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kaob3.xyz
+DOMAIN-SUFFIX,kards.com
 DOMAIN-SUFFIX,kengao.tw
 DOMAIN-SUFFIX,kimchi.tv
 DOMAIN-SUFFIX,kindle.cn
@@ -7538,6 +7539,7 @@ DOMAIN-SUFFIX,chunja19.net
 DOMAIN-SUFFIX,chuporno.com
 DOMAIN-SUFFIX,chwr7s8u.com
 DOMAIN-SUFFIX,cinnamon.org
+DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,cisco.com.cn
 DOMAIN-SUFFIX,ciscofax.com
 DOMAIN-SUFFIX,clashyun.com
