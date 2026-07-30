@@ -3,10 +3,11 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (105 rules)
+# DOMAIN (106 rules)
 DOMAIN,ghcr.io
 DOMAIN,github.com
 DOMAIN,api.github.com
+DOMAIN,cafe.github.com
 DOMAIN,npm.pkg.github.com
 DOMAIN,codeload.github.com
 DOMAIN,default.exp-tas.com
