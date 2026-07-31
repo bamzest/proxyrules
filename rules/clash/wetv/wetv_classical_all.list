@@ -6,12 +6,10 @@
 # DOMAIN (1 rules)
 DOMAIN,wetv.qq.com
 
-# DOMAIN-SUFFIX (7 rules)
+# DOMAIN-SUFFIX (5 rules)
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,iflix.com
 DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN-SUFFIX,v.smtcdns.com
-DOMAIN-SUFFIX,v.smtcdns.net
 DOMAIN-SUFFIX,vv.video.qq.com
 DOMAIN-SUFFIX,iflix-images.akamaized.net
 
