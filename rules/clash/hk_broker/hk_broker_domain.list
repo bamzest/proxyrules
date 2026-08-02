@@ -1,6 +1,7 @@
 api.futunn.com
 api5.futunn.com
 trade.futunn.com
+cn.snowball-x.com
 qtcard.futunn.com
 cdn.futustatic.com
 openapi.futunn.com
@@ -12,6 +13,10 @@ trade.longportapp.com
 openapi.longbridge.com
 qtcardfthk.futufin.com
 quote.longbridge.global
+openapi.snbsecurities.com
+sandbox.snbsecurities.com
+www.snowballsecurities.com
+open.snowballsecurities.com
 openapi-quote.longbridge.cn
 openapi-trade.longbridge.cn
 openapi-quote.longbridge.com
@@ -68,6 +73,7 @@ openapi-trade.longbridge.com
 +.longbridge.app
 +.longbridge.com
 +.longportapp.cn
++.snowball-x.com
 +.fututrustee.com
 +.longportapp.com
 +.tigerbrokers.nz
@@ -84,9 +90,11 @@ openapi-trade.longbridge.com
 +.longbridge.global
 +.longbridgeapp.com
 +.moomootrustee.com
++.snbsecurities.com
 +.zhijianfengyi.com
 +.api.moomoobull.com
 +.cdn.futustatic.com
++.snowballsecurities.com
 +.shortconn.im.qcloud.com
 +.9oju31.launches.appsflyersdk.com
 +.sgqt0j.launches.appsflyersdk.com
