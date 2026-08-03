@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34623 rules)
+# DOMAIN-SUFFIX (34632 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -1200,6 +1200,8 @@ DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,klik.me
 DOMAIN-SUFFIX,klip.me
 DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,ktor.io
 DOMAIN-SUFFIX,kum.com
 DOMAIN-SUFFIX,kwcg.ca
 DOMAIN-SUFFIX,lala.im
@@ -9662,6 +9664,7 @@ DOMAIN-SUFFIX,acpme.ac.uk
 DOMAIN-SUFFIX,acrobat.com
 DOMAIN-SUFFIX,acsis.ac.uk
 DOMAIN-SUFFIX,actalis.com
+DOMAIN-SUFFIX,actifio.com
 DOMAIN-SUFFIX,activpn.com
 DOMAIN-SUFFIX,adapt.ac.uk
 DOMAIN-SUFFIX,adguard.app
@@ -11796,6 +11799,7 @@ DOMAIN-SUFFIX,ntdtv.co.il
 DOMAIN-SUFFIX,ntdtv.co.kr
 DOMAIN-SUFFIX,ntdtvla.com
 DOMAIN-SUFFIX,ntdvideo.tw
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,ntp.nict.jp
 DOMAIN-SUFFIX,nubiles.net
 DOMAIN-SUFFIX,nucfs.ac.uk
@@ -11860,6 +11864,7 @@ DOMAIN-SUFFIX,openvino.ai
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,openvpn.org
 DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,openxla.org
 DOMAIN-SUFFIX,oreilly.com
 DOMAIN-SUFFIX,oreno3d.com
 DOMAIN-SUFFIX,orgfree.com
@@ -14686,6 +14691,7 @@ DOMAIN-SUFFIX,jenner.ac.uk
 DOMAIN-SUFFIX,jerkdude.com
 DOMAIN-SUFFIX,jerkmate.com
 DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,jetbrains.ru
 DOMAIN-SUFFIX,jgoodies.com
 DOMAIN-SUFFIX,jiaoyou8.com
 DOMAIN-SUFFIX,jiayoulu.com
@@ -15553,7 +15559,6 @@ DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,quotable.com
 DOMAIN-SUFFIX,racals.ac.uk
 DOMAIN-SUFFIX,radio.garden
-DOMAIN-SUFFIX,radiojar.com
 DOMAIN-SUFFIX,radioline.co
 DOMAIN-SUFFIX,rajwaphq.com
 DOMAIN-SUFFIX,rangwang.biz
@@ -18152,7 +18157,9 @@ DOMAIN-SUFFIX,jennylist.xyz
 DOMAIN-SUFFIX,jerk-porn.com
 DOMAIN-SUFFIX,jerkdolls.com
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
 DOMAIN-SUFFIX,jfengtime.com
 DOMAIN-SUFFIX,jichangtj.com
 DOMAIN-SUFFIX,jiscpas.ac.uk
@@ -21029,6 +21036,7 @@ DOMAIN-SUFFIX,kiyobank.co.jp
 DOMAIN-SUFFIX,knowswho.co.jp
 DOMAIN-SUFFIX,konamistyle.jp
 DOMAIN-SUFFIX,korewaeroi.com
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kubankredit.ru
 DOMAIN-SUFFIX,kundun1069.com
@@ -23805,6 +23813,7 @@ DOMAIN-SUFFIX,myfoxphilly.com
 DOMAIN-SUFFIX,myfreeblack.com
 DOMAIN-SUFFIX,myhpsupport.com
 DOMAIN-SUFFIX,myhtlmebook.com
+DOMAIN-SUFFIX,myjetbrains.com
 DOMAIN-SUFFIX,mymapportal.com
 DOMAIN-SUFFIX,mymicrosoft.com
 DOMAIN-SUFFIX,myproseries.com
@@ -28046,6 +28055,7 @@ DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,taiwanjustice.com
 DOMAIN-SUFFIX,taiwanjustice.net
 DOMAIN-SUFFIX,taiwannews.com.tw
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,tamilsexvideos.cc
 DOMAIN-SUFFIX,tasteofpremium.jp
 DOMAIN-SUFFIX,taylorfrancis.com
@@ -29578,7 +29588,6 @@ DOMAIN-SUFFIX,windowsphoneme.com
 DOMAIN-SUFFIX,wmfusercontent.org
 DOMAIN-SUFFIX,womensnikeshox.com
 DOMAIN-SUFFIX,worldcuprussia.com
-DOMAIN-SUFFIX,www.clashverge.dev
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xiangrikui-app.com
 DOMAIN-SUFFIX,xn--74q434dwff.com
