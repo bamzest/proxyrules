@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # IP-CIDR (18329 rules)
+  # IP-CIDR (18331 rules)
   - 'IP-CIDR,1.34.0.0/32,no-resolve'
   - 'IP-CIDR,1.46.60.1/32,no-resolve'
   - 'IP-CIDR,101.230.253.139/32,no-resolve'
@@ -2957,6 +2957,7 @@ payload:
   - 'IP-CIDR,124.71.250.0/24,no-resolve'
   - 'IP-CIDR,125.208.37.0/24,no-resolve'
   - 'IP-CIDR,125.208.40.0/24,no-resolve'
+  - 'IP-CIDR,125.208.42.0/24,no-resolve'
   - 'IP-CIDR,125.208.45.0/24,no-resolve'
   - 'IP-CIDR,125.208.46.0/24,no-resolve'
   - 'IP-CIDR,125.208.48.0/24,no-resolve'
@@ -12423,6 +12424,7 @@ payload:
   - 'IP-CIDR,59.107.252.0/22,no-resolve'
   - 'IP-CIDR,59.111.164.0/22,no-resolve'
   - 'IP-CIDR,59.111.168.0/22,no-resolve'
+  - 'IP-CIDR,59.111.24.0/22,no-resolve'
   - 'IP-CIDR,59.111.240.0/22,no-resolve'
   - 'IP-CIDR,59.152.112.0/22,no-resolve'
   - 'IP-CIDR,59.152.116.0/22,no-resolve'

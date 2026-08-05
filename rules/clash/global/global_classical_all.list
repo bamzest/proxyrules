@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34632 rules)
+# DOMAIN-SUFFIX (34646 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -410,6 +410,7 @@ DOMAIN-SUFFIX,f6.dev
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fei.ru
+DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,fm4.jp
 DOMAIN-SUFFIX,fox.tv
 DOMAIN-SUFFIX,fse.tv
@@ -570,6 +571,7 @@ DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rti.tw
 DOMAIN-SUFFIX,rts.ch
 DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,rym.fm
 DOMAIN-SUFFIX,rzr.to
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,sa.com
@@ -977,6 +979,7 @@ DOMAIN-SUFFIX,fic.fan
 DOMAIN-SUFFIX,flgg.us
 DOMAIN-SUFFIX,flic.kr
 DOMAIN-SUFFIX,flog.tw
+DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,fnac.be
 DOMAIN-SUFFIX,fnmt.es
 DOMAIN-SUFFIX,fox.com
@@ -1455,6 +1458,7 @@ DOMAIN-SUFFIX,sis.xxx
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,smtb.jp
+DOMAIN-SUFFIX,snmc.io
 DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,sntp.uk
 DOMAIN-SUFFIX,soc.mil
@@ -2695,6 +2699,7 @@ DOMAIN-SUFFIX,ovpn.com
 DOMAIN-SUFFIX,owxd.xyz
 DOMAIN-SUFFIX,ox.ac.uk
 DOMAIN-SUFFIX,oyax.com
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozone.ru
@@ -4090,6 +4095,7 @@ DOMAIN-SUFFIX,flbjc.net
 DOMAIN-SUFFIX,fling.com
 DOMAIN-SUFFIX,fljmh.com
 DOMAIN-SUFFIX,flnet.org
+DOMAIN-SUFFIX,flyio.net
 DOMAIN-SUFFIX,fmc.ac.uk
 DOMAIN-SUFFIX,fmg.ac.uk
 DOMAIN-SUFFIX,fochk.org
@@ -11886,6 +11892,8 @@ DOMAIN-SUFFIX,oyeloca.com
 DOMAIN-SUFFIX,ozodlik.org
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozon.global
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.travel
 DOMAIN-SUFFIX,ozoncard.ru
 DOMAIN-SUFFIX,ozvoice.org
@@ -12337,6 +12345,7 @@ DOMAIN-SUFFIX,softbank.tv
 DOMAIN-SUFFIX,sogclub.com
 DOMAIN-SUFFIX,soifind.com
 DOMAIN-SUFFIX,sokuresu.ai
+DOMAIN-SUFFIX,sonemic.com
 DOMAIN-SUFFIX,sonicbbs.cc
 DOMAIN-SUFFIX,sony.com.ar
 DOMAIN-SUFFIX,sony.com.au
@@ -13844,6 +13853,8 @@ DOMAIN-SUFFIX,dealtime.com
 DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
 DOMAIN-SUFFIX,delcamna.com
 DOMAIN-SUFFIX,delcamtv.com
 DOMAIN-SUFFIX,demand.ac.uk
@@ -15659,6 +15670,7 @@ DOMAIN-SUFFIX,rutracker.cc
 DOMAIN-SUFFIX,rutracker.cr
 DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutube.sport
 DOMAIN-SUFFIX,ruvideos.net
 DOMAIN-SUFFIX,ruyiseek.com
 DOMAIN-SUFFIX,s-dragon.org
@@ -19151,6 +19163,7 @@ DOMAIN-SUFFIX,soillse.ac.uk
 DOMAIN-SUFFIX,sojiy1124.top
 DOMAIN-SUFFIX,solarcity.com
 DOMAIN-SUFFIX,solveforx.com
+DOMAIN-SUFFIX,sonematic.net
 DOMAIN-SUFFIX,sony-asia.com
 DOMAIN-SUFFIX,sosreader.com
 DOMAIN-SUFFIX,soul-plus.net
@@ -20651,6 +20664,7 @@ DOMAIN-SUFFIX,girlsdelta.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,glammies.ac.uk
 DOMAIN-SUFFIX,glenfife.ac.uk
+DOMAIN-SUFFIX,glitchwave.com
 DOMAIN-SUFFIX,global-sci.org
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.net
