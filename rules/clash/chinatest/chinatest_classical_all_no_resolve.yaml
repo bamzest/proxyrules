@@ -125,7 +125,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (111169 rules)
+  # DOMAIN-SUFFIX (111172 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -82403,6 +82403,7 @@ payload:
   - 'DOMAIN-SUFFIX,microvoip.com'
   - 'DOMAIN-SUFFIX,microwear.com'
   - 'DOMAIN-SUFFIX,microzuji.com'
+  - 'DOMAIN-SUFFIX,micstatic.com'
   - 'DOMAIN-SUFFIX,midea-buy.com'
   - 'DOMAIN-SUFFIX,mideaepay.com'
   - 'DOMAIN-SUFFIX,miditools.net'
@@ -102392,6 +102393,7 @@ payload:
   - 'DOMAIN-SUFFIX,point-memory.com'
   - 'DOMAIN-SUFFIX,potalapalace.com'
   - 'DOMAIN-SUFFIX,powerbeijing.com'
+  - 'DOMAIN-SUFFIX,poweremarket.com'
   - 'DOMAIN-SUFFIX,powermaxcorp.com'
   - 'DOMAIN-SUFFIX,powerworldgd.com'
   - 'DOMAIN-SUFFIX,premedglobal.com'
@@ -105097,6 +105099,7 @@ payload:
   - 'DOMAIN-SUFFIX,lxhz-avionics.com'
   - 'DOMAIN-SUFFIX,lygxwmarathon.com'
   - 'DOMAIN-SUFFIX,lyhomestayinn.com'
+  - 'DOMAIN-SUFFIX,made-in-china.com'
   - 'DOMAIN-SUFFIX,maimemostatus.com'
   - 'DOMAIN-SUFFIX,majorprecious.com'
   - 'DOMAIN-SUFFIX,malaysia-mdac.com'
