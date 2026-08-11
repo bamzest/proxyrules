@@ -307,7 +307,7 @@ payload:
   - 'DOMAIN,edge.music-choice-play-chaina1.top.comcast.net'
   - 'DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net'
 
-  # DOMAIN-SUFFIX (111096 rules)
+  # DOMAIN-SUFFIX (111099 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -42656,6 +42656,7 @@ payload:
   - 'DOMAIN-SUFFIX,taxwen.com'
   - 'DOMAIN-SUFFIX,tbaas.tech'
   - 'DOMAIN-SUFFIX,tbankw.com'
+  - 'DOMAIN-SUFFIX,tbdesk.com'
   - 'DOMAIN-SUFFIX,tbjt18.com'
   - 'DOMAIN-SUFFIX,tbjtss.com'
   - 'DOMAIN-SUFFIX,tbkong.com'
@@ -68349,6 +68350,7 @@ payload:
   - 'DOMAIN-SUFFIX,ioiosafe.com'
   - 'DOMAIN-SUFFIX,ioneball.com'
   - 'DOMAIN-SUFFIX,iotachem.com'
+  - 'DOMAIN-SUFFIX,iotaskyt.com'
   - 'DOMAIN-SUFFIX,ioxunyun.com'
   - 'DOMAIN-SUFFIX,ip-guard.net'
   - 'DOMAIN-SUFFIX,ip777xxx.com'
@@ -80766,6 +80768,7 @@ payload:
   - 'DOMAIN-SUFFIX,ioe-times.com'
   - 'DOMAIN-SUFFIX,iosfengwo.com'
   - 'DOMAIN-SUFFIX,ioshacker.net'
+  - 'DOMAIN-SUFFIX,iotaskyty.com'
   - 'DOMAIN-SUFFIX,iotronic.tech'
   - 'DOMAIN-SUFFIX,iotrouter.com'
   - 'DOMAIN-SUFFIX,iotweixin.com'
