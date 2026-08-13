@@ -124,7 +124,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (111173 rules)
+# DOMAIN-SUFFIX (111180 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -26383,6 +26383,7 @@ DOMAIN-SUFFIX,190cai.com
 DOMAIN-SUFFIX,1937cn.com
 DOMAIN-SUFFIX,193839.com
 DOMAIN-SUFFIX,195155.com
+DOMAIN-SUFFIX,1958xy.com
 DOMAIN-SUFFIX,195idc.com
 DOMAIN-SUFFIX,197232.vip
 DOMAIN-SUFFIX,197784.com
@@ -36338,6 +36339,7 @@ DOMAIN-SUFFIX,jggame.net
 DOMAIN-SUFFIX,jgjapp.com
 DOMAIN-SUFFIX,jgscct.com
 DOMAIN-SUFFIX,jgsxfw.com
+DOMAIN-SUFFIX,jgtab.link
 DOMAIN-SUFFIX,jgyljt.com
 DOMAIN-SUFFIX,jh-uav.com
 DOMAIN-SUFFIX,jh0516.com
@@ -36550,6 +36552,7 @@ DOMAIN-SUFFIX,jkuntp.com
 DOMAIN-SUFFIX,jkxedu.com
 DOMAIN-SUFFIX,jkximg.com
 DOMAIN-SUFFIX,jkyule.com
+DOMAIN-SUFFIX,jkzlrs.com
 DOMAIN-SUFFIX,jl0435.com
 DOMAIN-SUFFIX,jlakes.org
 DOMAIN-SUFFIX,jlbhtc.com
@@ -42391,6 +42394,7 @@ DOMAIN-SUFFIX,sxycpc.com
 DOMAIN-SUFFIX,sxycrb.com
 DOMAIN-SUFFIX,sxycys.com
 DOMAIN-SUFFIX,sxygsj.com
+DOMAIN-SUFFIX,sxyygh.com
 DOMAIN-SUFFIX,sxzhyy.com
 DOMAIN-SUFFIX,sxzlyy.com
 DOMAIN-SUFFIX,sxzydj.com
@@ -44750,6 +44754,7 @@ DOMAIN-SUFFIX,xhnews.net
 DOMAIN-SUFFIX,xhrczp.com
 DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhsdzd.com
 DOMAIN-SUFFIX,xhsmlt.com
 DOMAIN-SUFFIX,xhsxmt.com
 DOMAIN-SUFFIX,xhsyqx.com
@@ -47695,6 +47700,7 @@ DOMAIN-SUFFIX,368mall.com
 DOMAIN-SUFFIX,3699wan.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
+DOMAIN-SUFFIX,36linkr.com
 DOMAIN-SUFFIX,371love.com
 DOMAIN-SUFFIX,3721520.com
 DOMAIN-SUFFIX,37game2.com
@@ -49320,6 +49326,7 @@ DOMAIN-SUFFIX,bkclouds.cc
 DOMAIN-SUFFIX,bkjk123.com
 DOMAIN-SUFFIX,bkjsemi.com
 DOMAIN-SUFFIX,bkrgame.com
+DOMAIN-SUFFIX,bkzhibo.com
 DOMAIN-SUFFIX,blackxl.org
 DOMAIN-SUFFIX,blazor.zone
 DOMAIN-SUFFIX,blbl.online
@@ -63989,7 +63996,6 @@ DOMAIN-SUFFIX,bakpower.com
 DOMAIN-SUFFIX,balimtoy.com
 DOMAIN-SUFFIX,ballpure.com
 DOMAIN-SUFFIX,bamaying.com
-DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,bananain.com
 DOMAIN-SUFFIX,banbao22.com
 DOMAIN-SUFFIX,banchuan.net
@@ -90550,6 +90556,7 @@ DOMAIN-SUFFIX,jusssports.com
 DOMAIN-SUFFIX,justmyblog.net
 DOMAIN-SUFFIX,jutengjiqi.com
 DOMAIN-SUFFIX,jutingshop.com
+DOMAIN-SUFFIX,juwinmedia.com
 DOMAIN-SUFFIX,juzhentech.com
 DOMAIN-SUFFIX,juzhiliang.com
 DOMAIN-SUFFIX,juzhongjoy.com

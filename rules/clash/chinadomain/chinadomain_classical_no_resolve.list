@@ -33,7 +33,7 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,chinacache
 
-# IP-CIDR (8265 rules)
+# IP-CIDR (8266 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
@@ -1831,6 +1831,7 @@ IP-CIDR,104.166.103.0/24,no-resolve
 IP-CIDR,104.192.110.0/24,no-resolve
 IP-CIDR,104.27.168.0/24,no-resolve
 IP-CIDR,106.0.0.0/24,no-resolve
+IP-CIDR,107.148.6.0/24,no-resolve
 IP-CIDR,107.149.9.0/24,no-resolve
 IP-CIDR,107.151.212.0/24,no-resolve
 IP-CIDR,107.153.91.0/24,no-resolve
@@ -1876,9 +1877,9 @@ IP-CIDR,138.252.118.0/24,no-resolve
 IP-CIDR,138.32.244.0/24,no-resolve
 IP-CIDR,139.138.230.0/24,no-resolve
 IP-CIDR,139.187.32.0/24,no-resolve
+IP-CIDR,14.238.116.0/24,no-resolve
 IP-CIDR,14.255.16.0/24,no-resolve
 IP-CIDR,14.255.238.0/24,no-resolve
-IP-CIDR,14.255.249.0/24,no-resolve
 IP-CIDR,14.255.254.0/24,no-resolve
 IP-CIDR,140.101.208.0/24,no-resolve
 IP-CIDR,140.242.223.0/24,no-resolve
@@ -1985,7 +1986,6 @@ IP-CIDR,165.99.4.0/24,no-resolve
 IP-CIDR,166.0.97.0/24,no-resolve
 IP-CIDR,166.1.139.0/24,no-resolve
 IP-CIDR,166.1.218.0/24,no-resolve
-IP-CIDR,166.1.232.0/24,no-resolve
 IP-CIDR,168.159.158.0/24,no-resolve
 IP-CIDR,168.222.18.0/24,no-resolve
 IP-CIDR,168.230.0.0/24,no-resolve
@@ -2987,6 +2987,7 @@ IP-CIDR,45.82.241.0/24,no-resolve
 IP-CIDR,45.87.53.0/24,no-resolve
 IP-CIDR,45.87.54.0/24,no-resolve
 IP-CIDR,45.9.11.0/24,no-resolve
+IP-CIDR,45.91.225.0/24,no-resolve
 IP-CIDR,46.151.182.0/24,no-resolve
 IP-CIDR,46.229.255.0/24,no-resolve
 IP-CIDR,49.128.0.0/24,no-resolve
