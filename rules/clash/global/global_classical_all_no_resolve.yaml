@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34729 rules)
+  # DOMAIN-SUFFIX (34732 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -567,6 +567,7 @@ payload:
   - 'DOMAIN-SUFFIX,rfi.my'
   - 'DOMAIN-SUFFIX,ria.ru'
   - 'DOMAIN-SUFFIX,rk.com'
+  - 'DOMAIN-SUFFIX,rsg.ms'
   - 'DOMAIN-SUFFIX,rsg.sc'
   - 'DOMAIN-SUFFIX,rsk.co'
   - 'DOMAIN-SUFFIX,rt.com'
@@ -5339,6 +5340,7 @@ payload:
   - 'DOMAIN-SUFFIX,sberpb.ru'
   - 'DOMAIN-SUFFIX,sbs.ac.uk'
   - 'DOMAIN-SUFFIX,sbu.ac.uk'
+  - 'DOMAIN-SUFFIX,sc-gw.com'
   - 'DOMAIN-SUFFIX,sc1.ac.uk'
   - 'DOMAIN-SUFFIX,scat.gold'
   - 'DOMAIN-SUFFIX,scc.ac.uk'
@@ -19066,6 +19068,7 @@ payload:
   - 'DOMAIN-SUFFIX,sbertroika.ru'
   - 'DOMAIN-SUFFIX,sbibankllc.ru'
   - 'DOMAIN-SUFFIX,sbti.unun.dev'
+  - 'DOMAIN-SUFFIX,sc-static.net'
   - 'DOMAIN-SUFFIX,sca-tolo.info'
   - 'DOMAIN-SUFFIX,scala-sbt.org'
   - 'DOMAIN-SUFFIX,scaleflex.com'
