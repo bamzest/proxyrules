@@ -123,7 +123,7 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,aboutbeautifulgallopinghorsesinthegreenpasture.online
 
-# DOMAIN-SUFFIX (124 rules)
+# DOMAIN-SUFFIX (123 rules)
 DOMAIN-SUFFIX,byr.pt
 DOMAIN-SUFFIX,msg.vg
 DOMAIN-SUFFIX,tju.pt
@@ -194,7 +194,6 @@ DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bibliotik.me
-DOMAIN-SUFFIX,blutopia.xyz
 DOMAIN-SUFFIX,eastgame.org
 DOMAIN-SUFFIX,empornium.me
 DOMAIN-SUFFIX,gfxpeers.net
@@ -249,11 +248,10 @@ DOMAIN-SUFFIX,madsrevolution.net
 DOMAIN-SUFFIX,extremlymtorrents.ws
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 
-# DOMAIN-KEYWORD (5 rules)
+# DOMAIN-KEYWORD (4 rules)
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce
 
 # IP-CIDR (3 rules)

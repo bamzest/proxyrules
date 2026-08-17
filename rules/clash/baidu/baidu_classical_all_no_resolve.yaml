@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (265 rules)
+  # DOMAIN-SUFFIX (263 rules)
   - 'DOMAIN-SUFFIX,91.com'
   - 'DOMAIN-SUFFIX,dwz.cn'
   - 'DOMAIN-SUFFIX,sg.work'
@@ -23,7 +23,6 @@ payload:
   - 'DOMAIN-SUFFIX,bceimg.cn'
   - 'DOMAIN-SUFFIX,bdbae.com'
   - 'DOMAIN-SUFFIX,bdimg.com'
-  - 'DOMAIN-SUFFIX,bdurl.net'
   - 'DOMAIN-SUFFIX,bdycdn.cn'
   - 'DOMAIN-SUFFIX,bdydns.cn'
   - 'DOMAIN-SUFFIX,dlnel.com'
@@ -118,7 +117,6 @@ payload:
   - 'DOMAIN-SUFFIX,baiduads.com'
   - 'DOMAIN-SUFFIX,baiduapp.com'
   - 'DOMAIN-SUFFIX,baidubce.com'
-  - 'DOMAIN-SUFFIX,baidubcr.com'
   - 'DOMAIN-SUFFIX,baidubos.com'
   - 'DOMAIN-SUFFIX,baiduhui.com'
   - 'DOMAIN-SUFFIX,baidupcs.com'

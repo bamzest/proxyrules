@@ -1,10 +1,4 @@
 payload:
-  - 'steampipe.akamaized.net'
-  - 'steamstore-a.akamaihd.net'
-  - 'steambroadcast.akamaized.net'
-  - 'steamcommunity-a.akamaihd.net'
-  - 'steamuserimages-a.akamaihd.net'
-  - 'steamusercontent-a.akamaihd.net'
   - '+.s.team'
   - '+.steam.tv'
   - '+.csgo.wmsj.cn'

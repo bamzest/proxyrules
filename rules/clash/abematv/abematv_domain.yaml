@@ -1,9 +1,4 @@
 payload:
-  - 'abematv.akamaized.net'
-  - 'vod-abematv.akamaized.net'
-  - 'ds-vod-abematv.akamaized.net'
-  - 'linear-abematv.akamaized.net'
-  - 'ds-linear-abematv.akamaized.net'
   - '+.abema.io'
   - '+.abema.tv'
   - '+.ameba.jp'

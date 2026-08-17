@@ -5,11 +5,10 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-KEYWORD (4 rules)
+  # DOMAIN-KEYWORD (3 rules)
   - 'DOMAIN-KEYWORD,spotify'
   - 'DOMAIN-KEYWORD,-spotify-'
   - 'DOMAIN-KEYWORD,spotify.com'
-  - 'DOMAIN-KEYWORD,-spotify-com'
 
   # IP-CIDR (2 rules)
   - 'IP-CIDR,104.154.127.126/32,no-resolve'
