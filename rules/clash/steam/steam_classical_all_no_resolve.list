@@ -3,6 +3,14 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN (6 rules)
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steamcommunity-a.akamaihd.net
+DOMAIN,steamuserimages-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+
 # DOMAIN-SUFFIX (55 rules)
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,steam.tv

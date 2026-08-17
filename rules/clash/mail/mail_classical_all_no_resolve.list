@@ -14,7 +14,8 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,apple.imap.mail.yahoo.com
 DOMAIN,apple.smtp.mail.yahoo.com
 
-# DOMAIN-SUFFIX (3 rules)
+# DOMAIN-SUFFIX (4 rules)
+DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,m.hotmail.com
 DOMAIN-SUFFIX,imap.yandex.com
 DOMAIN-SUFFIX,smtp.yandex.com

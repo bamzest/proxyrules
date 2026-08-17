@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (2508 rules)
+# DOMAIN-SUFFIX (2511 rules)
 DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,m1.run
@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,qymdb.cn
 DOMAIN-SUFFIX,rdgz.org
 DOMAIN-SUFFIX,sgurl.cn
 DOMAIN-SUFFIX,shurl.cn
+DOMAIN-SUFFIX,soso.com
 DOMAIN-SUFFIX,srmkp.cn
 DOMAIN-SUFFIX,syurl.cn
 DOMAIN-SUFFIX,tchy.net
@@ -287,6 +288,7 @@ DOMAIN-SUFFIX,qq.中国
 DOMAIN-SUFFIX,qqcfw.net
 DOMAIN-SUFFIX,qqimg.net
 DOMAIN-SUFFIX,qqmra.com
+DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,qymdb.com
 DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,rbxcdn.cn
@@ -672,6 +674,7 @@ DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hostacc.net
 DOMAIN-SUFFIX,huyagame.cn
 DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,imqq.com.cn
 DOMAIN-SUFFIX,imqq.net.cn
 DOMAIN-SUFFIX,imqq.org.cn

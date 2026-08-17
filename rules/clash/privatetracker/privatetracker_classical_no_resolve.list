@@ -4,10 +4,11 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (4 rules)
+# DOMAIN-KEYWORD (5 rules)
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,chdbits
 DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,announce
 
 # IP-CIDR (3 rules)

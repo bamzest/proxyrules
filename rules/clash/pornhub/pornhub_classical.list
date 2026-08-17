@@ -4,5 +4,8 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
+# DOMAIN-KEYWORD (1 rules)
+DOMAIN-KEYWORD,pornhub
+
 # PROCESS-NAME (1 rules)
 PROCESS-NAME,com.app.pornhub

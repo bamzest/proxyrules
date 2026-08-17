@@ -3,8 +3,9 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (12 rules)
+# DOMAIN-SUFFIX (13 rules)
 DOMAIN-SUFFIX,ts.la
+DOMAIN-SUFFIX,tesla.cn
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,tesla.com.cn
 DOMAIN-SUFFIX,teslazta.net

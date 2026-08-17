@@ -5,7 +5,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # IP-CIDR (22474 rules)
+  # IP-CIDR (22476 rules)
   - 'IP-CIDR,1.34.0.0/32,no-resolve'
   - 'IP-CIDR,1.46.60.1/32,no-resolve'
   - 'IP-CIDR,101.230.253.139/32,no-resolve'
@@ -2082,6 +2082,7 @@ payload:
   - 'IP-CIDR,103.8.223.0/24,no-resolve'
   - 'IP-CIDR,103.8.32.0/24,no-resolve'
   - 'IP-CIDR,103.8.33.0/24,no-resolve'
+  - 'IP-CIDR,103.81.120.0/24,no-resolve'
   - 'IP-CIDR,103.81.123.0/24,no-resolve'
   - 'IP-CIDR,103.81.183.0/24,no-resolve'
   - 'IP-CIDR,103.85.147.0/24,no-resolve'
@@ -2411,6 +2412,7 @@ payload:
   - 'IP-CIDR,115.182.95.0/24,no-resolve'
   - 'IP-CIDR,115.231.229.0/24,no-resolve'
   - 'IP-CIDR,115.238.197.0/24,no-resolve'
+  - 'IP-CIDR,115.24.240.0/24,no-resolve'
   - 'IP-CIDR,115.24.241.0/24,no-resolve'
   - 'IP-CIDR,115.25.208.0/24,no-resolve'
   - 'IP-CIDR,115.25.209.0/24,no-resolve'
@@ -5787,7 +5789,6 @@ payload:
   - 'IP-CIDR,45.82.241.0/24,no-resolve'
   - 'IP-CIDR,45.87.53.0/24,no-resolve'
   - 'IP-CIDR,45.87.54.0/24,no-resolve'
-  - 'IP-CIDR,45.91.225.0/24,no-resolve'
   - 'IP-CIDR,46.151.181.0/24,no-resolve'
   - 'IP-CIDR,46.151.182.0/24,no-resolve'
   - 'IP-CIDR,46.229.255.0/24,no-resolve'
@@ -17871,6 +17872,7 @@ payload:
   - 'IP-CIDR,219.158.48.0/20,no-resolve'
   - 'IP-CIDR,219.216.192.0/20,no-resolve'
   - 'IP-CIDR,219.217.80.0/20,no-resolve'
+  - 'IP-CIDR,219.218.128.0/20,no-resolve'
   - 'IP-CIDR,219.218.144.0/20,no-resolve'
   - 'IP-CIDR,219.218.16.0/20,no-resolve'
   - 'IP-CIDR,219.218.160.0/20,no-resolve'
@@ -24109,6 +24111,7 @@ payload:
   - 'IP-CIDR6,2001:da8:8f00::/48,no-resolve'
   - 'IP-CIDR6,2001:da8:900c::/48,no-resolve'
   - 'IP-CIDR6,2001:da8:9010::/48,no-resolve'
+  - 'IP-CIDR6,2001:da8:9012::/48,no-resolve'
   - 'IP-CIDR6,2001:da8:901e::/48,no-resolve'
   - 'IP-CIDR6,2001:da8:a001::/48,no-resolve'
   - 'IP-CIDR6,2001:da8:a002::/48,no-resolve'
@@ -24807,7 +24810,6 @@ payload:
   - 'IP-CIDR6,2001:da8:8028::/47,no-resolve'
   - 'IP-CIDR6,2001:da8:8032::/47,no-resolve'
   - 'IP-CIDR6,2001:da8:900e::/47,no-resolve'
-  - 'IP-CIDR6,2001:da8:9012::/47,no-resolve'
   - 'IP-CIDR6,2001:da8:a006::/47,no-resolve'
   - 'IP-CIDR6,2001:da8:a01e::/47,no-resolve'
   - 'IP-CIDR6,2001:da8:a020::/47,no-resolve'

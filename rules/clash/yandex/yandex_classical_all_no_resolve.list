@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,yandex.com.tr
 DOMAIN-SUFFIX,yandex.com.ua
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 
-# IP-CIDR (41 rules)
+# IP-CIDR (42 rules)
 IP-CIDR,141.8.174.0/24,no-resolve
 IP-CIDR,178.154.131.0/24,no-resolve
 IP-CIDR,185.32.187.0/24,no-resolve
@@ -75,6 +75,7 @@ IP-CIDR,178.154.192.0/19,no-resolve
 IP-CIDR,213.180.192.0/19,no-resolve
 IP-CIDR,87.250.224.0/19,no-resolve
 IP-CIDR,141.8.128.0/18,no-resolve
+IP-CIDR,178.154.128.0/18,no-resolve
 IP-CIDR,37.140.128.0/18,no-resolve
 IP-CIDR,37.9.64.0/18,no-resolve
 IP-CIDR,5.255.192.0/18,no-resolve

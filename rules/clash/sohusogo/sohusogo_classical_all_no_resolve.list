@@ -1,0 +1,16 @@
+# sohusogo - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+
+# DOMAIN-SUFFIX (10 rules)
+DOMAIN-SUFFIX,sogo.com
+DOMAIN-SUFFIX,sohu.com
+DOMAIN-SUFFIX,v-56.com
+DOMAIN-SUFFIX,sogou.com
+DOMAIN-SUFFIX,go2map.com
+DOMAIN-SUFFIX,sohucs.com
+DOMAIN-SUFFIX,sohuno.com
+DOMAIN-SUFFIX,sohurdc.com
+DOMAIN-SUFFIX,sogoucdn.com
+DOMAIN-SUFFIX,sohu-inc.com
