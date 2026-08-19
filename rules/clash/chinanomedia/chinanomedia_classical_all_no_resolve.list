@@ -111429,7 +111429,7 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 
-# IP-CIDR (8193 rules)
+# IP-CIDR (8195 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
 IP-CIDR,1.34.0.0/32,no-resolve
@@ -113250,6 +113250,7 @@ IP-CIDR,132.237.134.0/24,no-resolve
 IP-CIDR,135.84.255.0/24,no-resolve
 IP-CIDR,136.0.131.0/24,no-resolve
 IP-CIDR,136.0.133.0/24,no-resolve
+IP-CIDR,136.0.34.0/24,no-resolve
 IP-CIDR,137.59.59.0/24,no-resolve
 IP-CIDR,138.113.108.0/24,no-resolve
 IP-CIDR,138.113.151.0/24,no-resolve
@@ -113432,6 +113433,7 @@ IP-CIDR,192.163.11.0/24,no-resolve
 IP-CIDR,192.197.113.0/24,no-resolve
 IP-CIDR,192.23.191.0/24,no-resolve
 IP-CIDR,192.232.97.0/24,no-resolve
+IP-CIDR,192.51.173.0/24,no-resolve
 IP-CIDR,192.51.188.0/24,no-resolve
 IP-CIDR,192.55.40.0/24,no-resolve
 IP-CIDR,192.56.99.0/24,no-resolve
