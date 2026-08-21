@@ -3,36 +3,28 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (325 rules)
+# DOMAIN (296 rules)
 DOMAIN,a.xttv.top
 DOMAIN,c.pki.goog
 DOMAIN,gayotv.net
 DOMAIN,hls.cdn.ua
 DOMAIN,hmrz.wo.cn
-DOMAIN,i.dell.com
 DOMAIN,i.pki.goog
 DOMAIN,o.pki.goog
 DOMAIN,tl.gscm.tv
 DOMAIN,weixin.com
 DOMAIN,2mdn-cn.net
 DOMAIN,c.admob.com
-DOMAIN,dl.dell.com
 DOMAIN,m.567it.com
-DOMAIN,sm.dell.com
 DOMAIN,zb.dehua.tv
 DOMAIN,admob-cn.com
 DOMAIN,crl.pki.goog
 DOMAIN,csgo.wmsj.cn
-DOMAIN,dds.dell.com
-DOMAIN,fcs.dell.com
 DOMAIN,file.hhtv.cc
-DOMAIN,fta.dell.com
 DOMAIN,hls.kqed.org
 DOMAIN,live.hhtv.cc
-DOMAIN,www.dell.com
 DOMAIN,www.pxcc.com
 DOMAIN,zb.pzhgd.com
-DOMAIN,afcs.dell.com
 DOMAIN,auth.wosms.cn
 DOMAIN,crls.pki.goog
 DOMAIN,dota2.wmsj.cn
@@ -46,7 +38,6 @@ DOMAIN,ocsp.pki.goog
 DOMAIN,recaptcha.net
 DOMAIN,rtvcdn.com.au
 DOMAIN,seb.sason.top
-DOMAIN,snpi.dell.com
 DOMAIN,tv.jrsncn.com
 DOMAIN,tv.nknews.org
 DOMAIN,v1.one-tv.com
@@ -62,7 +53,6 @@ DOMAIN,live.gnrtv.com
 DOMAIN,lmt.scqstv.com
 DOMAIN,mdn.open.wo.cn
 DOMAIN,media.fantv.hk
-DOMAIN,nexus.dell.com
 DOMAIN,stream.zzgd.tv
 DOMAIN,tv.drs.hhtv.cc
 DOMAIN,vss.cbnmtv.com
@@ -75,21 +65,18 @@ DOMAIN,fm901.cityfm.tw
 DOMAIN,fm929.cityfm.tw
 DOMAIN,fm971.cityfm.tw
 DOMAIN,fm983.cityfm.tw
-DOMAIN,ftaapj.dell.com
 DOMAIN,kc.kexinshe.com
 DOMAIN,lb.streaming.sk
 DOMAIN,live.ntdimg.com
 DOMAIN,live.sccxtv.com
 DOMAIN,media.trrtv.com
 DOMAIN,play.scrstv.com
-DOMAIN,si.cdn.dell.com
 DOMAIN,slive.ytn.co.kr
 DOMAIN,stream.wbez.org
 DOMAIN,stream0.tv41.ru
 DOMAIN,www.cbsnews.com
 DOMAIN,156zy.suyunbo.tv
 DOMAIN,beacons.gvt2.com
-DOMAIN,ftaemea.dell.com
 DOMAIN,gonglchuangl.net
 DOMAIN,hls.qguiyang.com
 DOMAIN,hls.qxtv0763.com
@@ -102,14 +89,12 @@ DOMAIN,live2.ntdimg.com
 DOMAIN,ms3.yichuntv.com
 DOMAIN,play.sngdxsn.com
 DOMAIN,recaptcha-cn.net
-DOMAIN,snp.cdn.dell.com
 DOMAIN,st.dl.eccdnx.com
 DOMAIN,stream.dybtv.com
 DOMAIN,stream.xctv.news
 DOMAIN,stream.ysbtv.net
 DOMAIN,tv.cnbeijing.xyz
 DOMAIN,wowza.ner.gov.tw
-DOMAIN,www-csb.dell.com
 DOMAIN,www.libvideo.com
 DOMAIN,www.szmgiptv.com
 DOMAIN,zuikzy.win7i.com
@@ -141,7 +126,6 @@ DOMAIN,client.amplifi.com
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,doubleclick-cn.net
 DOMAIN,enrichgw.10010.com
-DOMAIN,ftasitapj.dell.com
 DOMAIN,gongyichuangyi.net
 DOMAIN,live.qinyangtv.com
 DOMAIN,log.cmpassport.com
@@ -154,9 +138,7 @@ DOMAIN,app-measurement.com
 DOMAIN,astro1.rastream.com
 DOMAIN,chaoan.chaoantv.com
 DOMAIN,dl.steam.clngaa.com
-DOMAIN,emoi-cncdn.bing.com
 DOMAIN,end-api.shallow.ink
-DOMAIN,gbxgateway.dell.com
 DOMAIN,jpts.sinovision.net
 DOMAIN,live.hnzzzzzdst.com
 DOMAIN,livecdn.fptplay.net
@@ -164,8 +146,6 @@ DOMAIN,log1.cmpassport.com
 DOMAIN,media.joycorp.co.kr
 DOMAIN,mobile.ccdntech.com
 DOMAIN,redirector.gvt1.com
-DOMAIN,scene7-cdn.dell.com
-DOMAIN,tp.louisvuitton.com
 DOMAIN,voa-lh.akamaihd.net
 DOMAIN,w3.wifijiangyin.com
 DOMAIN,6.mms.vlog.xuite.net
@@ -209,16 +189,13 @@ DOMAIN,download.microsoft.com
 DOMAIN,live.streamingfast.net
 DOMAIN,live.todaydunhuang.com
 DOMAIN,m3u8.file.leshantv.net
-DOMAIN,p.cdn.persaas.dell.com
 DOMAIN,qqlivepull.seedata.top
 DOMAIN,stream2.cprnetwork.org
-DOMAIN,supportassist.dell.com
 DOMAIN,update.crashlytics.com
 DOMAIN,wpc.124ce.sigmacdn.net
 DOMAIN,www.destinationurl.com
 DOMAIN,www.soundvideostar.com
 DOMAIN,developer.microsoft.com
-DOMAIN,gbxgateway-dev.dell.com
 DOMAIN,gpb-hls.streamguys1.com
 DOMAIN,hls-video01.cdnvideo.ru
 DOMAIN,httpdvb.slave.ttcatv.tv
@@ -246,15 +223,11 @@ DOMAIN,rfcmedia.streamguys1.com
 DOMAIN,rfimonde-lh.akamaihd.net
 DOMAIN,streamipcf.akamaized.net
 DOMAIN,cbsnewshd-lh.akamaihd.net
-DOMAIN,ea2cn-dev-outlet.dell.com
 DOMAIN,rthklive1-lh.akamaihd.net
 DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN,steamstatic.com.8686c.com
 DOMAIN,stream.superfm99-1.com.tw
 DOMAIN,app-analytics-services.com
-DOMAIN,clientperipherals.dell.com
-DOMAIN,customization-cdn.dell.com
-DOMAIN,ea2cn-prod-outlet.dell.com
 DOMAIN,kpbs-wowza.streamguys1.com
 DOMAIN,kwmu-flash.streamguys1.com
 DOMAIN,m3u8channel.wuxianyaan.com
@@ -288,7 +261,6 @@ DOMAIN,19183.live.streamtheworld.com
 DOMAIN,22283.live.streamtheworld.com
 DOMAIN,22393.live.streamtheworld.com
 DOMAIN,antvlive.ab5c6921.cdnviet.com
-DOMAIN,ea2cn-staging-outlet.dell.com
 DOMAIN,ksn-file.geoksn.kaspersky.com
 DOMAIN,ksn-info.geoksn.kaspersky.com
 DOMAIN,m3u8channel-bx.wuxianyaan.com
@@ -300,7 +272,6 @@ DOMAIN,necgokr2-724.acs.wecandeo.com
 DOMAIN,nhkw-zh-hlscomp.akamaized.net
 DOMAIN,steamcommunity-a.akamaihd.net
 DOMAIN,stream.houstonpublicmedia.org
-DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,amdlive.ctnd.com.edgesuite.net
 DOMAIN,ksn-cinfo.geoksn.kaspersky.com
 DOMAIN,ksn-tcert.geoksn.kaspersky.com
@@ -111937,7 +111908,7 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,chinacache
 
-# IP-CIDR (8206 rules)
+# IP-CIDR (8208 rules)
 IP-CIDR,0.0.0.0/32
 IP-CIDR,1.12.12.12/32
 IP-CIDR,1.245.74.5/32
@@ -113786,7 +113757,6 @@ IP-CIDR,14.255.254.0/24
 IP-CIDR,140.101.208.0/24
 IP-CIDR,140.242.223.0/24
 IP-CIDR,140.242.224.0/24
-IP-CIDR,141.11.50.0/24
 IP-CIDR,144.211.138.0/24
 IP-CIDR,144.211.80.0/24
 IP-CIDR,144.225.109.0/24
@@ -113827,7 +113797,6 @@ IP-CIDR,153.254.119.0/24
 IP-CIDR,154.17.148.0/24
 IP-CIDR,154.19.85.0/24
 IP-CIDR,154.209.251.0/24
-IP-CIDR,154.72.42.0/24
 IP-CIDR,154.72.44.0/24
 IP-CIDR,154.72.47.0/24
 IP-CIDR,154.84.180.0/24
@@ -114848,6 +114817,7 @@ IP-CIDR,45.81.34.0/24
 IP-CIDR,45.82.241.0/24
 IP-CIDR,45.87.53.0/24
 IP-CIDR,45.87.54.0/24
+IP-CIDR,45.91.139.0/24
 IP-CIDR,46.151.182.0/24
 IP-CIDR,46.229.255.0/24
 IP-CIDR,49.128.0.0/24
@@ -115309,6 +115279,7 @@ IP-CIDR,130.36.146.0/23
 IP-CIDR,138.113.236.0/23
 IP-CIDR,138.124.104.0/23
 IP-CIDR,138.252.72.0/23
+IP-CIDR,141.11.50.0/23
 IP-CIDR,144.36.146.0/23
 IP-CIDR,144.79.10.0/23
 IP-CIDR,144.79.4.0/23
@@ -115403,12 +115374,14 @@ IP-CIDR,161.248.92.0/23
 IP-CIDR,162.62.240.0/23
 IP-CIDR,163.128.254.0/23
 IP-CIDR,163.171.90.0/23
+IP-CIDR,163.223.72.0/23
 IP-CIDR,163.227.40.0/23
 IP-CIDR,163.61.178.0/23
 IP-CIDR,163.61.202.0/23
 IP-CIDR,163.61.214.0/23
 IP-CIDR,165.101.208.0/23
 IP-CIDR,166.0.100.0/23
+IP-CIDR,166.1.246.0/23
 IP-CIDR,167.167.212.0/23
 IP-CIDR,168.159.156.0/23
 IP-CIDR,17.127.128.0/23
