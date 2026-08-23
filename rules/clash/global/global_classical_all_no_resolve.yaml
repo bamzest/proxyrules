@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34744 rules)
+  # DOMAIN-SUFFIX (34748 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -4706,6 +4706,7 @@ payload:
   - 'DOMAIN-SUFFIX,kindle.in'
   - 'DOMAIN-SUFFIX,kindle.it'
   - 'DOMAIN-SUFFIX,kindle.jp'
+  - 'DOMAIN-SUFFIX,kiwix.org'
   - 'DOMAIN-SUFFIX,kk.stream'
   - 'DOMAIN-SUFFIX,kkbox.com'
   - 'DOMAIN-SUFFIX,kkiah.com'
@@ -15022,6 +15023,7 @@ payload:
   - 'DOMAIN-SUFFIX,mcdonalds.it'
   - 'DOMAIN-SUFFIX,mcdonalds.no'
   - 'DOMAIN-SUFFIX,mcdonalds.se'
+  - 'DOMAIN-SUFFIX,mceindex.com'
   - 'DOMAIN-SUFFIX,mcrouter.net'
   - 'DOMAIN-SUFFIX,mcrouter.org'
   - 'DOMAIN-SUFFIX,mdpjoin.buzz'
@@ -25093,6 +25095,7 @@ payload:
   - 'DOMAIN-SUFFIX,bravoerotica.com'
   - 'DOMAIN-SUFFIX,brazzers-xxx.net'
   - 'DOMAIN-SUFFIX,brentstart.ac.uk'
+  - 'DOMAIN-SUFFIX,briarproject.org'
   - 'DOMAIN-SUFFIX,bricoltech.ac.uk'
   - 'DOMAIN-SUFFIX,bridgwater.ac.uk'
   - 'DOMAIN-SUFFIX,bristoluwe.ac.uk'
@@ -25658,6 +25661,7 @@ payload:
   - 'DOMAIN-SUFFIX,hightopnikes.com'
   - 'DOMAIN-SUFFIX,hilostripper.com'
   - 'DOMAIN-SUFFIX,history-uk.ac.uk'
+  - 'DOMAIN-SUFFIX,historylines.net'
   - 'DOMAIN-SUFFIX,hiswifepussy.com'
   - 'DOMAIN-SUFFIX,hizbuttahrir.org'
   - 'DOMAIN-SUFFIX,hk.hao123img.com'
