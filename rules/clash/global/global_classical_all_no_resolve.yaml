@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34748 rules)
+  # DOMAIN-SUFFIX (34749 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -633,6 +633,7 @@ payload:
   - 'DOMAIN-SUFFIX,wp.com'
   - 'DOMAIN-SUFFIX,www.sb'
   - 'DOMAIN-SUFFIX,x.team'
+  - 'DOMAIN-SUFFIX,x86.fr'
   - 'DOMAIN-SUFFIX,xbx.lv'
   - 'DOMAIN-SUFFIX,xjp.cc'
   - 'DOMAIN-SUFFIX,xm.com'
@@ -4446,7 +4447,6 @@ payload:
   - 'DOMAIN-SUFFIX,hotpot.hk'
   - 'DOMAIN-SUFFIX,hotsrv.de'
   - 'DOMAIN-SUFFIX,hottg.com'
-  - 'DOMAIN-SUFFIX,hp-ww.com'
   - 'DOMAIN-SUFFIX,hpccp.com'
   - 'DOMAIN-SUFFIX,hpceo.com'
   - 'DOMAIN-SUFFIX,hpcmw.net'
@@ -24925,6 +24925,7 @@ payload:
   - 'DOMAIN-SUFFIX,aozorabank.co.jp'
   - 'DOMAIN-SUFFIX,apexprint.com.hk'
   - 'DOMAIN-SUFFIX,api.mixpanel.com'
+  - 'DOMAIN-SUFFIX,api.shuaiapi.com'
   - 'DOMAIN-SUFFIX,app-dynamics.com'
   - 'DOMAIN-SUFFIX,appdynamics.info'
   - 'DOMAIN-SUFFIX,apple-darwin.com'

@@ -36,7 +36,7 @@ DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,assets-priconne-redive-us.akamaized.net
 
-# DOMAIN-SUFFIX (17682 rules)
+# DOMAIN-SUFFIX (17684 rules)
 DOMAIN-SUFFIX,ar
 DOMAIN-SUFFIX,au
 DOMAIN-SUFFIX,bo
@@ -401,6 +401,7 @@ DOMAIN-SUFFIX,wha.la
 DOMAIN-SUFFIX,wn.com
 DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,x.team
+DOMAIN-SUFFIX,x86.fr
 DOMAIN-SUFFIX,xjp.cc
 DOMAIN-SUFFIX,xm.com
 DOMAIN-SUFFIX,xo.com
@@ -13627,6 +13628,7 @@ DOMAIN-SUFFIX,annas-archive.pk
 DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,aoaou.iillii.net
 DOMAIN-SUFFIX,api.mixpanel.com
+DOMAIN-SUFFIX,api.shuaiapi.com
 DOMAIN-SUFFIX,app-dynamics.com
 DOMAIN-SUFFIX,app.tutanota.com
 DOMAIN-SUFFIX,appdynamics.info
