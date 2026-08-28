@@ -10,9 +10,11 @@ payload:
   - 'DOMAIN-SUFFIX,tails.net'
   - 'DOMAIN-SUFFIX,multcloud.com'
 
-  # DOMAIN-KEYWORD (6 rules)
+  # DOMAIN-KEYWORD (8 rules)
   - 'DOMAIN-KEYWORD,osl'
+  - 'DOMAIN-KEYWORD,51cg'
   - 'DOMAIN-KEYWORD,javdb'
+  - 'DOMAIN-KEYWORD,missav'
   - 'DOMAIN-KEYWORD,hashkey'
   - 'DOMAIN-KEYWORD,jiuse.io'
   - 'DOMAIN-KEYWORD,linkedin'
