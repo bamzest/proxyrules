@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34753 rules)
+  # DOMAIN-SUFFIX (34757 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -2790,6 +2790,7 @@ payload:
   - 'DOMAIN-SUFFIX,re25.vip'
   - 'DOMAIN-SUFFIX,rea.tech'
   - 'DOMAIN-SUFFIX,redis.io'
+  - 'DOMAIN-SUFFIX,remna.st'
   - 'DOMAIN-SUFFIX,repo.new'
   - 'DOMAIN-SUFFIX,reurl.cc'
   - 'DOMAIN-SUFFIX,rgpub.io'
@@ -3047,6 +3048,7 @@ payload:
   - 'DOMAIN-SUFFIX,wogx.com'
   - 'DOMAIN-SUFFIX,wombo.ai'
   - 'DOMAIN-SUFFIX,wqyd.org'
+  - 'DOMAIN-SUFFIX,write.as'
   - 'DOMAIN-SUFFIX,wsj.jobs'
   - 'DOMAIN-SUFFIX,wtbn.org'
   - 'DOMAIN-SUFFIX,wwe9.com'
@@ -3313,6 +3315,7 @@ payload:
   - 'DOMAIN-SUFFIX,9anime.id'
   - 'DOMAIN-SUFFIX,9anime.to'
   - 'DOMAIN-SUFFIX,9anime.ws'
+  - 'DOMAIN-SUFFIX,9cao9.com'
   - 'DOMAIN-SUFFIX,a-bank.jp'
   - 'DOMAIN-SUFFIX,a7sex.com'
   - 'DOMAIN-SUFFIX,aadmv.com'
@@ -16157,6 +16160,7 @@ payload:
   - 'DOMAIN-SUFFIX,topchats.com'
   - 'DOMAIN-SUFFIX,topcoder.com'
   - 'DOMAIN-SUFFIX,topescort.nl'
+  - 'DOMAIN-SUFFIX,topexhib.net'
   - 'DOMAIN-SUFFIX,tophdsex.com'
   - 'DOMAIN-SUFFIX,topmanga.biz'
   - 'DOMAIN-SUFFIX,topobase.com'
