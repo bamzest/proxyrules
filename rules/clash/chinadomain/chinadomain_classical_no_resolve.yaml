@@ -34,7 +34,7 @@ payload:
   - 'DOMAIN-KEYWORD,.tmall.com'
   - 'DOMAIN-KEYWORD,chinacache'
 
-  # IP-CIDR (8264 rules)
+  # IP-CIDR (8263 rules)
   - 'IP-CIDR,0.0.0.0/32,no-resolve'
   - 'IP-CIDR,1.12.12.12/32,no-resolve'
   - 'IP-CIDR,1.245.74.5/32,no-resolve'
@@ -1739,7 +1739,6 @@ payload:
   - 'IP-CIDR,101.101.100.0/24,no-resolve'
   - 'IP-CIDR,101.102.102.0/24,no-resolve'
   - 'IP-CIDR,101.33.28.0/24,no-resolve'
-  - 'IP-CIDR,101.79.220.0/24,no-resolve'
   - 'IP-CIDR,102.141.200.0/24,no-resolve'
   - 'IP-CIDR,102.220.90.0/24,no-resolve'
   - 'IP-CIDR,102.38.229.0/24,no-resolve'
