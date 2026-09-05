@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34765 rules)
+  # DOMAIN-SUFFIX (34766 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -2562,6 +2562,7 @@ payload:
   - 'DOMAIN-SUFFIX,line.biz'
   - 'DOMAIN-SUFFIX,link.com'
   - 'DOMAIN-SUFFIX,linux.do'
+  - 'DOMAIN-SUFFIX,linux.sb'
   - 'DOMAIN-SUFFIX,live.com'
   - 'DOMAIN-SUFFIX,live.net'
   - 'DOMAIN-SUFFIX,lkcn.net'
