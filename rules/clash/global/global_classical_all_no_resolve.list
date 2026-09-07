@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34766 rules)
+# DOMAIN-SUFFIX (34772 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -1729,6 +1729,7 @@ DOMAIN-SUFFIX,zzdh.pw
 DOMAIN-SUFFIX,zzdh.ws
 DOMAIN-SUFFIX,0dzn.com
 DOMAIN-SUFFIX,0emm.com
+DOMAIN-SUFFIX,123av.me
 DOMAIN-SUFFIX,1337x.gd
 DOMAIN-SUFFIX,1337x.is
 DOMAIN-SUFFIX,1337x.st
@@ -3226,6 +3227,7 @@ DOMAIN-SUFFIX,100ke.org
 DOMAIN-SUFFIX,10bet.com
 DOMAIN-SUFFIX,114av.xyz
 DOMAIN-SUFFIX,11jav.com
+DOMAIN-SUFFIX,123av.com
 DOMAIN-SUFFIX,123bin.cc
 DOMAIN-SUFFIX,123rf.com
 DOMAIN-SUFFIX,12bet.com
@@ -13002,6 +13004,7 @@ DOMAIN-SUFFIX,wsjplus.com
 DOMAIN-SUFFIX,wsjshop.com
 DOMAIN-SUFFIX,wsjwine.com
 DOMAIN-SUFFIX,wspcr.ac.uk
+DOMAIN-SUFFIX,wtfpass.com
 DOMAIN-SUFFIX,wufi.org.tw
 DOMAIN-SUFFIX,wumashe.com
 DOMAIN-SUFFIX,wvlln.ac.uk
@@ -15692,6 +15695,7 @@ DOMAIN-SUFFIX,roloflix.com
 DOMAIN-SUFFIX,roslin.ac.uk
 DOMAIN-SUFFIX,roudao6.buzz
 DOMAIN-SUFFIX,roughman.net
+DOMAIN-SUFFIX,roushuwo.com
 DOMAIN-SUFFIX,rowett.ac.uk
 DOMAIN-SUFFIX,rsa-ls.ac.uk
 DOMAIN-SUFFIX,rsc-em.ac.uk
@@ -21775,6 +21779,7 @@ DOMAIN-SUFFIX,rnngroup.ac.uk
 DOMAIN-SUFFIX,roadblocks.com
 DOMAIN-SUFFIX,robloxlabs.com
 DOMAIN-SUFFIX,roborecall.com
+DOMAIN-SUFFIX,roc-taiwan.org
 DOMAIN-SUFFIX,rocket-inc.net
 DOMAIN-SUFFIX,rockettube.com
 DOMAIN-SUFFIX,rockylinux.org
@@ -28159,6 +28164,7 @@ DOMAIN-SUFFIX,swisssigngroup.ch
 DOMAIN-SUFFIX,sylfoundation.org
 DOMAIN-SUFFIX,t-technologies.ru
 DOMAIN-SUFFIX,taipeisociety.org
+DOMAIN-SUFFIX,taiwanembassy.org
 DOMAIN-SUFFIX,taiwanjobs.gov.tw
 DOMAIN-SUFFIX,taiwanjustice.com
 DOMAIN-SUFFIX,taiwanjustice.net

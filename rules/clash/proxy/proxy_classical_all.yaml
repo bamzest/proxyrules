@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17689 rules)
+  # DOMAIN-SUFFIX (17693 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -1105,6 +1105,7 @@ payload:
   - 'DOMAIN-SUFFIX,zoom.us'
   - 'DOMAIN-SUFFIX,0dzn.com'
   - 'DOMAIN-SUFFIX,0emm.com'
+  - 'DOMAIN-SUFFIX,123av.me'
   - 'DOMAIN-SUFFIX,1337x.to'
   - 'DOMAIN-SUFFIX,18acg.us'
   - 'DOMAIN-SUFFIX,18av.pro'
@@ -2099,6 +2100,7 @@ payload:
   - 'DOMAIN-SUFFIX,100ke.org'
   - 'DOMAIN-SUFFIX,10bet.com'
   - 'DOMAIN-SUFFIX,114av.xyz'
+  - 'DOMAIN-SUFFIX,123av.com'
   - 'DOMAIN-SUFFIX,123rf.com'
   - 'DOMAIN-SUFFIX,12bet.com'
   - 'DOMAIN-SUFFIX,12vpn.com'
@@ -7100,6 +7102,7 @@ payload:
   - 'DOMAIN-SUFFIX,wowporn.com'
   - 'DOMAIN-SUFFIX,wplace.live'
   - 'DOMAIN-SUFFIX,wrchina.org'
+  - 'DOMAIN-SUFFIX,wtfpass.com'
   - 'DOMAIN-SUFFIX,wufi.org.tw'
   - 'DOMAIN-SUFFIX,wvm0agb4.me'
   - 'DOMAIN-SUFFIX,wwwhost.biz'
@@ -8613,6 +8616,7 @@ payload:
   - 'DOMAIN-SUFFIX,rocketcdn.me'
   - 'DOMAIN-SUFFIX,roloflix.com'
   - 'DOMAIN-SUFFIX,roughman.net'
+  - 'DOMAIN-SUFFIX,roushuwo.com'
   - 'DOMAIN-SUFFIX,rtalabel.org'
   - 'DOMAIN-SUFFIX,rukoebxx.com'
   - 'DOMAIN-SUFFIX,rule34.world'
