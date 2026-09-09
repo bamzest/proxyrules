@@ -6,7 +6,7 @@
 # DOMAIN (1 rules)
 DOMAIN,netease.ugcvideoss.ourdvs.com
 
-# DOMAIN-SUFFIX (9 rules)
+# DOMAIN-SUFFIX (13 rules)
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,yun-app.net
 DOMAIN-SUFFIX,music.126.com
@@ -15,9 +15,13 @@ DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,hz.netease.com
 DOMAIN-SUFFIX,mam.netease.com
 DOMAIN-SUFFIX,api.iplay.163.com
+DOMAIN-SUFFIX,apm.music.163.com
+DOMAIN-SUFFIX,apm3.music.163.com
+DOMAIN-SUFFIX,interface.music.163.com
+DOMAIN-SUFFIX,interface3.music.163.com
 DOMAIN-SUFFIX,music.163.com.163jiasu.com
 
-# IP-CIDR (34 rules)
+# IP-CIDR (35 rules)
 IP-CIDR,101.71.154.241/32,no-resolve
 IP-CIDR,103.126.92.132/32,no-resolve
 IP-CIDR,103.126.92.133/32,no-resolve
@@ -41,6 +45,7 @@ IP-CIDR,47.100.127.239/32,no-resolve
 IP-CIDR,59.111.160.195/32,no-resolve
 IP-CIDR,59.111.160.197/32,no-resolve
 IP-CIDR,59.111.179.214/32,no-resolve
+IP-CIDR,59.111.181.155/32,no-resolve
 IP-CIDR,59.111.181.35/32,no-resolve
 IP-CIDR,59.111.181.38/32,no-resolve
 IP-CIDR,59.111.181.60/32,no-resolve

@@ -277,7 +277,7 @@ DOMAIN,aljazeera-eng-hd-live.hls.adaptive.level3.net
 DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
 DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 
-# DOMAIN-SUFFIX (110822 rules)
+# DOMAIN-SUFFIX (110823 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -94143,6 +94143,7 @@ DOMAIN-SUFFIX,yuanjisong.com
 DOMAIN-SUFFIX,yuanlin365.com
 DOMAIN-SUFFIX,yuanlvkeji.com
 DOMAIN-SUFFIX,yuanmadian.com
+DOMAIN-SUFFIX,yuanqidesk.com
 DOMAIN-SUFFIX,yuanqingsh.com
 DOMAIN-SUFFIX,yuanrenxue.com
 DOMAIN-SUFFIX,yuantutech.com

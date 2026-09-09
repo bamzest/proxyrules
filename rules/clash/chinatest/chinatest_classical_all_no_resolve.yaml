@@ -96,7 +96,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (110850 rules)
+  # DOMAIN-SUFFIX (110851 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -94098,6 +94098,7 @@ payload:
   - 'DOMAIN-SUFFIX,yuanlin365.com'
   - 'DOMAIN-SUFFIX,yuanlvkeji.com'
   - 'DOMAIN-SUFFIX,yuanmadian.com'
+  - 'DOMAIN-SUFFIX,yuanqidesk.com'
   - 'DOMAIN-SUFFIX,yuanqingsh.com'
   - 'DOMAIN-SUFFIX,yuanrenxue.com'
   - 'DOMAIN-SUFFIX,yuantutech.com'
