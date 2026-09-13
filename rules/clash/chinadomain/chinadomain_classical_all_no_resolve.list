@@ -301,7 +301,7 @@ DOMAIN,aljazeera-eng-hd-live.hls.adaptive.level3.net
 DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
 DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 
-# DOMAIN-SUFFIX (111293 rules)
+# DOMAIN-SUFFIX (111292 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -21830,7 +21830,6 @@ DOMAIN-SUFFIX,spibj.com
 DOMAIN-SUFFIX,spmcn.com
 DOMAIN-SUFFIX,spoto.net
 DOMAIN-SUFFIX,sprda.org
-DOMAIN-SUFFIX,spst2.com
 DOMAIN-SUFFIX,sptcc.com
 DOMAIN-SUFFIX,sq-ks.com
 DOMAIN-SUFFIX,sq521.com
@@ -111625,7 +111624,7 @@ DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 DOMAIN-KEYWORD,chinacache
 
-# IP-CIDR (8263 rules)
+# IP-CIDR (8265 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.12.12.12/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
@@ -114997,6 +114996,7 @@ IP-CIDR,138.252.118.0/23,no-resolve
 IP-CIDR,138.252.162.0/23,no-resolve
 IP-CIDR,138.252.72.0/23,no-resolve
 IP-CIDR,138.252.78.0/23,no-resolve
+IP-CIDR,143.20.70.0/23,no-resolve
 IP-CIDR,144.36.146.0/23,no-resolve
 IP-CIDR,144.79.10.0/23,no-resolve
 IP-CIDR,144.79.148.0/23,no-resolve
@@ -115483,6 +115483,7 @@ IP-CIDR,72.163.240.0/23,no-resolve
 IP-CIDR,74.122.26.0/23,no-resolve
 IP-CIDR,81.173.18.0/23,no-resolve
 IP-CIDR,82.38.46.0/23,no-resolve
+IP-CIDR,82.38.80.0/23,no-resolve
 IP-CIDR,1.1.4.0/22,no-resolve
 IP-CIDR,1.10.12.0/22,no-resolve
 IP-CIDR,1.2.4.0/22,no-resolve
