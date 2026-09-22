@@ -95,7 +95,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (110851 rules)
+# DOMAIN-SUFFIX (110860 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -15132,6 +15132,7 @@ DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnnsh.com
 DOMAIN-SUFFIX,fnrcw.com
+DOMAIN-SUFFIX,fnrrc.com
 DOMAIN-SUFFIX,fnyes.com
 DOMAIN-SUFFIX,fobmy.com
 DOMAIN-SUFFIX,focaj.com
@@ -22734,6 +22735,7 @@ DOMAIN-SUFFIX,ub-os.com
 DOMAIN-SUFFIX,ubccn.com
 DOMAIN-SUFFIX,ubesh.com
 DOMAIN-SUFFIX,uborn.net
+DOMAIN-SUFFIX,uboxs.com
 DOMAIN-SUFFIX,ubuuk.com
 DOMAIN-SUFFIX,uc108.com
 DOMAIN-SUFFIX,uc123.com
@@ -23099,6 +23101,7 @@ DOMAIN-SUFFIX,vvvdj.com
 DOMAIN-SUFFIX,vvvtt.com
 DOMAIN-SUFFIX,vvxue.com
 DOMAIN-SUFFIX,vw888.com
+DOMAIN-SUFFIX,vxhcm.com
 DOMAIN-SUFFIX,vxixi.com
 DOMAIN-SUFFIX,vxsnk.com
 DOMAIN-SUFFIX,vxuey.com
@@ -25597,6 +25600,7 @@ DOMAIN-SUFFIX,zuijh.net
 DOMAIN-SUFFIX,zuiku.com
 DOMAIN-SUFFIX,zuitu.com
 DOMAIN-SUFFIX,zuixu.com
+DOMAIN-SUFFIX,zuiyou.tv
 DOMAIN-SUFFIX,zulin.com
 DOMAIN-SUFFIX,zuo11.com
 DOMAIN-SUFFIX,zuogj.com
@@ -40470,6 +40474,7 @@ DOMAIN-SUFFIX,quanfs.com
 DOMAIN-SUFFIX,quanji.net
 DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,quchao.net
+DOMAIN-SUFFIX,qudian.com
 DOMAIN-SUFFIX,qudong.com
 DOMAIN-SUFFIX,quefan.com
 DOMAIN-SUFFIX,quegui.run
@@ -70206,6 +70211,7 @@ DOMAIN-SUFFIX,mcu-home.com
 DOMAIN-SUFFIX,mcwell66.com
 DOMAIN-SUFFIX,mczhihui.com
 DOMAIN-SUFFIX,mdbchina.com
+DOMAIN-SUFFIX,mddclass.com
 DOMAIN-SUFFIX,mdyuepai.com
 DOMAIN-SUFFIX,mebhaoya.com
 DOMAIN-SUFFIX,mechatim.com
@@ -86050,6 +86056,7 @@ DOMAIN-SUFFIX,yonyouccs.com
 DOMAIN-SUFFIX,yonyougov.com
 DOMAIN-SUFFIX,yorentown.com
 DOMAIN-SUFFIX,york-tech.com
+DOMAIN-SUFFIX,youbianku.com
 DOMAIN-SUFFIX,youbikecn.com
 DOMAIN-SUFFIX,youcaihua.net
 DOMAIN-SUFFIX,youcaiyun.com
@@ -99711,6 +99718,7 @@ DOMAIN-SUFFIX,zhongjukiln.com
 DOMAIN-SUFFIX,zhongkaiedu.com
 DOMAIN-SUFFIX,zhongkeguan.com
 DOMAIN-SUFFIX,zhonglianyx.com
+DOMAIN-SUFFIX,zhongliujie.com
 DOMAIN-SUFFIX,zhonglunnet.com
 DOMAIN-SUFFIX,zhongnakeji.com
 DOMAIN-SUFFIX,zhongqijiye.com
@@ -106759,6 +106767,7 @@ DOMAIN-SUFFIX,globalimporter.net
 DOMAIN-SUFFIX,globaltradecoo.com
 DOMAIN-SUFFIX,goldenbeechina.com
 DOMAIN-SUFFIX,goldlion-china.com
+DOMAIN-SUFFIX,gongniukaiguan.net
 DOMAIN-SUFFIX,gongyefengshan.com
 DOMAIN-SUFFIX,goodprogrammer.org
 DOMAIN-SUFFIX,goodstudydayup.com

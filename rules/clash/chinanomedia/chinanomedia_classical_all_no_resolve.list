@@ -277,7 +277,7 @@ DOMAIN,aljazeera-eng-hd-live.hls.adaptive.level3.net
 DOMAIN,edge.music-choice-play-chaina1.top.comcast.net
 DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net
 
-# DOMAIN-SUFFIX (110822 rules)
+# DOMAIN-SUFFIX (110831 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -15100,6 +15100,7 @@ DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnnsh.com
 DOMAIN-SUFFIX,fnrcw.com
+DOMAIN-SUFFIX,fnrrc.com
 DOMAIN-SUFFIX,fnyes.com
 DOMAIN-SUFFIX,fobmy.com
 DOMAIN-SUFFIX,focaj.com
@@ -22642,6 +22643,7 @@ DOMAIN-SUFFIX,ub-os.com
 DOMAIN-SUFFIX,ubccn.com
 DOMAIN-SUFFIX,ubesh.com
 DOMAIN-SUFFIX,uborn.net
+DOMAIN-SUFFIX,uboxs.com
 DOMAIN-SUFFIX,ubuuk.com
 DOMAIN-SUFFIX,uc108.com
 DOMAIN-SUFFIX,uc129.com
@@ -22996,6 +22998,7 @@ DOMAIN-SUFFIX,vvvdj.com
 DOMAIN-SUFFIX,vvvtt.com
 DOMAIN-SUFFIX,vvxue.com
 DOMAIN-SUFFIX,vw888.com
+DOMAIN-SUFFIX,vxhcm.com
 DOMAIN-SUFFIX,vxixi.com
 DOMAIN-SUFFIX,vxuey.com
 DOMAIN-SUFFIX,vzhou.net
@@ -25461,6 +25464,7 @@ DOMAIN-SUFFIX,zuijh.net
 DOMAIN-SUFFIX,zuiku.com
 DOMAIN-SUFFIX,zuitu.com
 DOMAIN-SUFFIX,zuixu.com
+DOMAIN-SUFFIX,zuiyou.tv
 DOMAIN-SUFFIX,zulin.com
 DOMAIN-SUFFIX,zuo11.com
 DOMAIN-SUFFIX,zuogj.com
@@ -40279,6 +40283,7 @@ DOMAIN-SUFFIX,quanji.net
 DOMAIN-SUFFIX,quanmin.tv
 DOMAIN-SUFFIX,quanup.com
 DOMAIN-SUFFIX,quchao.net
+DOMAIN-SUFFIX,qudian.com
 DOMAIN-SUFFIX,qudong.com
 DOMAIN-SUFFIX,quefan.com
 DOMAIN-SUFFIX,quegui.run
@@ -69966,6 +69971,7 @@ DOMAIN-SUFFIX,mcu-home.com
 DOMAIN-SUFFIX,mcwell66.com
 DOMAIN-SUFFIX,mczhihui.com
 DOMAIN-SUFFIX,mdbchina.com
+DOMAIN-SUFFIX,mddclass.com
 DOMAIN-SUFFIX,mdyuepai.com
 DOMAIN-SUFFIX,mebhaoya.com
 DOMAIN-SUFFIX,mechatim.com
@@ -85995,6 +86001,7 @@ DOMAIN-SUFFIX,yonyouccs.com
 DOMAIN-SUFFIX,yonyougov.com
 DOMAIN-SUFFIX,yorentown.com
 DOMAIN-SUFFIX,york-tech.com
+DOMAIN-SUFFIX,youbianku.com
 DOMAIN-SUFFIX,youbikecn.com
 DOMAIN-SUFFIX,youcaihua.net
 DOMAIN-SUFFIX,youcaiyun.com
@@ -99726,6 +99733,7 @@ DOMAIN-SUFFIX,zhongjukiln.com
 DOMAIN-SUFFIX,zhongkaiedu.com
 DOMAIN-SUFFIX,zhongkeguan.com
 DOMAIN-SUFFIX,zhonglianyx.com
+DOMAIN-SUFFIX,zhongliujie.com
 DOMAIN-SUFFIX,zhonglunnet.com
 DOMAIN-SUFFIX,zhongnakeji.com
 DOMAIN-SUFFIX,zhongqijiye.com
@@ -106846,6 +106854,7 @@ DOMAIN-SUFFIX,globalimporter.net
 DOMAIN-SUFFIX,globaltradecoo.com
 DOMAIN-SUFFIX,goldenbeechina.com
 DOMAIN-SUFFIX,goldlion-china.com
+DOMAIN-SUFFIX,gongniukaiguan.net
 DOMAIN-SUFFIX,gongyefengshan.com
 DOMAIN-SUFFIX,goodprogrammer.org
 DOMAIN-SUFFIX,goodstudydayup.com
@@ -111115,7 +111124,7 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,officecdn
 DOMAIN-KEYWORD,.tmall.com
 
-# IP-CIDR (8254 rules)
+# IP-CIDR (8255 rules)
 IP-CIDR,0.0.0.0/32,no-resolve
 IP-CIDR,1.245.74.5/32,no-resolve
 IP-CIDR,1.34.0.0/32,no-resolve
@@ -113000,6 +113009,7 @@ IP-CIDR,154.19.85.0/24,no-resolve
 IP-CIDR,154.209.251.0/24,no-resolve
 IP-CIDR,154.72.44.0/24,no-resolve
 IP-CIDR,154.72.47.0/24,no-resolve
+IP-CIDR,154.84.180.0/24,no-resolve
 IP-CIDR,156.107.170.0/24,no-resolve
 IP-CIDR,156.227.239.0/24,no-resolve
 IP-CIDR,156.232.9.0/24,no-resolve
@@ -114032,7 +114042,6 @@ IP-CIDR,62.3.6.0/24,no-resolve
 IP-CIDR,63.140.0.0/24,no-resolve
 IP-CIDR,63.140.3.0/24,no-resolve
 IP-CIDR,63.217.81.0/24,no-resolve
-IP-CIDR,64.96.4.0/24,no-resolve
 IP-CIDR,66.102.252.0/24,no-resolve
 IP-CIDR,66.119.149.0/24,no-resolve
 IP-CIDR,66.93.170.0/24,no-resolve
@@ -114960,6 +114969,7 @@ IP-CIDR,52.95.160.0/23,no-resolve
 IP-CIDR,61.29.254.0/23,no-resolve
 IP-CIDR,64.188.38.0/23,no-resolve
 IP-CIDR,64.188.44.0/23,no-resolve
+IP-CIDR,64.96.4.0/23,no-resolve
 IP-CIDR,66.102.254.0/23,no-resolve
 IP-CIDR,72.163.240.0/23,no-resolve
 IP-CIDR,74.122.26.0/23,no-resolve
@@ -119371,7 +119381,7 @@ IP-CIDR,59.192.0.0/10,no-resolve
 IP-CIDR,61.128.0.0/10,no-resolve
 IP-CIDR,8.128.0.0/10,no-resolve
 
-# IP-CIDR6 (4221 rules)
+# IP-CIDR6 (4218 rules)
 IP-CIDR6,::ffff:113.248.172.245/128,no-resolve
 IP-CIDR6,::ffff:114.235.96.186/128,no-resolve
 IP-CIDR6,::ffff:115.236.128.112/128,no-resolve
@@ -120784,7 +120794,6 @@ IP-CIDR6,2406:840:3::/48,no-resolve
 IP-CIDR6,2406:840:47::/48,no-resolve
 IP-CIDR6,2406:840:78::/48,no-resolve
 IP-CIDR6,2406:840:807::/48,no-resolve
-IP-CIDR6,2406:840:840::/48,no-resolve
 IP-CIDR6,2406:840:843::/48,no-resolve
 IP-CIDR6,2406:840:861::/48,no-resolve
 IP-CIDR6,2406:840:9981::/48,no-resolve
@@ -120971,6 +120980,7 @@ IP-CIDR6,2406:840:5882::/47,no-resolve
 IP-CIDR6,2406:840:5c02::/47,no-resolve
 IP-CIDR6,2406:840:7a::/47,no-resolve
 IP-CIDR6,2406:840:804::/47,no-resolve
+IP-CIDR6,2406:840:840::/47,no-resolve
 IP-CIDR6,2406:840:862::/47,no-resolve
 IP-CIDR6,2406:840:9982::/47,no-resolve
 IP-CIDR6,2406:840:999a::/47,no-resolve
@@ -121170,7 +121180,6 @@ IP-CIDR6,2406:840:810::/44,no-resolve
 IP-CIDR6,2406:840:850::/44,no-resolve
 IP-CIDR6,2406:840:870::/44,no-resolve
 IP-CIDR6,2406:840:890::/44,no-resolve
-IP-CIDR6,2406:840:9850::/44,no-resolve
 IP-CIDR6,2406:840:9ee0::/44,no-resolve
 IP-CIDR6,2406:840:a00::/44,no-resolve
 IP-CIDR6,2406:840:a20::/44,no-resolve
@@ -121235,7 +121244,6 @@ IP-CIDR6,2406:840:58a0::/43,no-resolve
 IP-CIDR6,2406:840:5c20::/43,no-resolve
 IP-CIDR6,2406:840:820::/43,no-resolve
 IP-CIDR6,2406:840:8a0::/43,no-resolve
-IP-CIDR6,2406:840:9860::/43,no-resolve
 IP-CIDR6,2406:840:99a0::/43,no-resolve
 IP-CIDR6,2406:840:9ec0::/43,no-resolve
 IP-CIDR6,2406:840:c20::/43,no-resolve
@@ -121283,7 +121291,6 @@ IP-CIDR6,2406:840:48c0::/42,no-resolve
 IP-CIDR6,2406:840:58c0::/42,no-resolve
 IP-CIDR6,2406:840:5c40::/42,no-resolve
 IP-CIDR6,2406:840:8c0::/42,no-resolve
-IP-CIDR6,2406:840:9800::/42,no-resolve
 IP-CIDR6,2406:840:99c0::/42,no-resolve
 IP-CIDR6,2406:840:9e80::/42,no-resolve
 IP-CIDR6,2406:840:a40::/42,no-resolve
@@ -121323,7 +121330,6 @@ IP-CIDR6,2406:840:1880::/41,no-resolve
 IP-CIDR6,2406:840:3880::/41,no-resolve
 IP-CIDR6,2406:840:5c80::/41,no-resolve
 IP-CIDR6,2406:840:80::/41,no-resolve
-IP-CIDR6,2406:840:9880::/41,no-resolve
 IP-CIDR6,2406:840:9900::/41,no-resolve
 IP-CIDR6,2406:840:9e00::/41,no-resolve
 IP-CIDR6,2406:840:a80::/41,no-resolve
@@ -121363,6 +121369,7 @@ IP-CIDR6,2406:840:4900::/40,no-resolve
 IP-CIDR6,2406:840:5900::/40,no-resolve
 IP-CIDR6,2406:840:5d00::/40,no-resolve
 IP-CIDR6,2406:840:900::/40,no-resolve
+IP-CIDR6,2406:840:9800::/40,no-resolve
 IP-CIDR6,2406:840:9f00::/40,no-resolve
 IP-CIDR6,2406:840:b00::/40,no-resolve
 IP-CIDR6,2406:840:d00::/40,no-resolve

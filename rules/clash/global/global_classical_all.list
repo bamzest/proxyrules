@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34777 rules)
+# DOMAIN-SUFFIX (34782 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -5533,6 +5533,7 @@ DOMAIN-SUFFIX,tenten.vn
 DOMAIN-SUFFIX,termly.io
 DOMAIN-SUFFIX,tesla.com
 DOMAIN-SUFFIX,tex.ac.uk
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tfhub.dev
 DOMAIN-SUFFIX,tg-me.com
 DOMAIN-SUFFIX,thawte.de
@@ -13823,6 +13824,7 @@ DOMAIN-SUFFIX,cmegroup.com
 DOMAIN-SUFFIX,cn-proxy.com
 DOMAIN-SUFFIX,code1984.com
 DOMAIN-SUFFIX,codeberg.org
+DOMAIN-SUFFIX,codebuff.com
 DOMAIN-SUFFIX,codeplex.com
 DOMAIN-SUFFIX,codeshare.io
 DOMAIN-SUFFIX,codespot.com
@@ -14227,6 +14229,7 @@ DOMAIN-SUFFIX,finish.co.za
 DOMAIN-SUFFIX,finishwin.be
 DOMAIN-SUFFIX,fiotolia.com
 DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.dev
 DOMAIN-SUFFIX,firestone.cl
 DOMAIN-SUFFIX,firetweet.io
 DOMAIN-SUFFIX,flclashx.app
@@ -14277,6 +14280,7 @@ DOMAIN-SUFFIX,free-sns.com
 DOMAIN-SUFFIX,free-ss.site
 DOMAIN-SUFFIX,free-ssh.com
 DOMAIN-SUFFIX,freealim.com
+DOMAIN-SUFFIX,freebuff.com
 DOMAIN-SUFFIX,freechal.com
 DOMAIN-SUFFIX,freeform.com
 DOMAIN-SUFFIX,freegpt.tech
@@ -34435,6 +34439,7 @@ DOMAIN-SUFFIX,educationlondonconnect.ac.uk
 DOMAIN-SUFFIX,educationpartnershipne.ac.uk
 DOMAIN-SUFFIX,everymantheatrearchive.ac.uk
 DOMAIN-SUFFIX,facebookmarketingpartner.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,gloucestershirecollege.ac.uk
 DOMAIN-SUFFIX,graduate-careers-wales.ac.uk
 DOMAIN-SUFFIX,graduate-jobs-in-wales.ac.uk
