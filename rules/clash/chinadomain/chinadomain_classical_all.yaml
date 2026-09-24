@@ -302,7 +302,7 @@ payload:
   - 'DOMAIN,edge.music-choice-play-chaina1.top.comcast.net'
   - 'DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net'
 
-  # DOMAIN-SUFFIX (111301 rules)
+  # DOMAIN-SUFFIX (111302 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -41701,6 +41701,7 @@ payload:
   - 'DOMAIN-SUFFIX,sjetdz.com'
   - 'DOMAIN-SUFFIX,sjf029.com'
   - 'DOMAIN-SUFFIX,sjfcdn.com'
+  - 'DOMAIN-SUFFIX,sjfls6.com'
   - 'DOMAIN-SUFFIX,sjfpro.com'
   - 'DOMAIN-SUFFIX,sjfzxm.com'
   - 'DOMAIN-SUFFIX,sjhcip.com'
@@ -111634,7 +111635,7 @@ payload:
   - 'DOMAIN-KEYWORD,.tmall.com'
   - 'DOMAIN-KEYWORD,chinacache'
 
-  # IP-CIDR (8266 rules)
+  # IP-CIDR (8264 rules)
   - 'IP-CIDR,0.0.0.0/32'
   - 'IP-CIDR,1.12.12.12/32'
   - 'IP-CIDR,1.245.74.5/32'
@@ -113475,7 +113476,6 @@ payload:
   - 'IP-CIDR,138.32.244.0/24'
   - 'IP-CIDR,139.138.230.0/24'
   - 'IP-CIDR,139.187.32.0/24'
-  - 'IP-CIDR,14.238.34.0/24'
   - 'IP-CIDR,14.255.16.0/24'
   - 'IP-CIDR,14.255.238.0/24'
   - 'IP-CIDR,14.255.249.0/24'
@@ -113524,7 +113524,6 @@ payload:
   - 'IP-CIDR,154.209.251.0/24'
   - 'IP-CIDR,154.72.44.0/24'
   - 'IP-CIDR,154.72.47.0/24'
-  - 'IP-CIDR,154.84.180.0/24'
   - 'IP-CIDR,156.107.170.0/24'
   - 'IP-CIDR,156.227.239.0/24'
   - 'IP-CIDR,156.232.9.0/24'
@@ -119902,7 +119901,7 @@ payload:
   - 'IP-CIDR,61.128.0.0/10'
   - 'IP-CIDR,8.128.0.0/10'
 
-  # IP-CIDR6 (4218 rules)
+  # IP-CIDR6 (4221 rules)
   - 'IP-CIDR6,::ffff:113.248.172.245/128'
   - 'IP-CIDR6,::ffff:114.235.96.186/128'
   - 'IP-CIDR6,::ffff:115.236.128.112/128'
@@ -121315,6 +121314,7 @@ payload:
   - 'IP-CIDR6,2406:840:47::/48'
   - 'IP-CIDR6,2406:840:78::/48'
   - 'IP-CIDR6,2406:840:807::/48'
+  - 'IP-CIDR6,2406:840:840::/48'
   - 'IP-CIDR6,2406:840:843::/48'
   - 'IP-CIDR6,2406:840:861::/48'
   - 'IP-CIDR6,2406:840:9981::/48'
@@ -121501,7 +121501,6 @@ payload:
   - 'IP-CIDR6,2406:840:5c02::/47'
   - 'IP-CIDR6,2406:840:7a::/47'
   - 'IP-CIDR6,2406:840:804::/47'
-  - 'IP-CIDR6,2406:840:840::/47'
   - 'IP-CIDR6,2406:840:862::/47'
   - 'IP-CIDR6,2406:840:9982::/47'
   - 'IP-CIDR6,2406:840:999a::/47'
@@ -121701,6 +121700,7 @@ payload:
   - 'IP-CIDR6,2406:840:850::/44'
   - 'IP-CIDR6,2406:840:870::/44'
   - 'IP-CIDR6,2406:840:890::/44'
+  - 'IP-CIDR6,2406:840:9850::/44'
   - 'IP-CIDR6,2406:840:9ee0::/44'
   - 'IP-CIDR6,2406:840:a00::/44'
   - 'IP-CIDR6,2406:840:a20::/44'
@@ -121765,6 +121765,7 @@ payload:
   - 'IP-CIDR6,2406:840:5c20::/43'
   - 'IP-CIDR6,2406:840:820::/43'
   - 'IP-CIDR6,2406:840:8a0::/43'
+  - 'IP-CIDR6,2406:840:9860::/43'
   - 'IP-CIDR6,2406:840:99a0::/43'
   - 'IP-CIDR6,2406:840:9ec0::/43'
   - 'IP-CIDR6,2406:840:c20::/43'
@@ -121812,6 +121813,7 @@ payload:
   - 'IP-CIDR6,2406:840:58c0::/42'
   - 'IP-CIDR6,2406:840:5c40::/42'
   - 'IP-CIDR6,2406:840:8c0::/42'
+  - 'IP-CIDR6,2406:840:9800::/42'
   - 'IP-CIDR6,2406:840:99c0::/42'
   - 'IP-CIDR6,2406:840:9e80::/42'
   - 'IP-CIDR6,2406:840:a40::/42'
@@ -121851,6 +121853,7 @@ payload:
   - 'IP-CIDR6,2406:840:3880::/41'
   - 'IP-CIDR6,2406:840:5c80::/41'
   - 'IP-CIDR6,2406:840:80::/41'
+  - 'IP-CIDR6,2406:840:9880::/41'
   - 'IP-CIDR6,2406:840:9900::/41'
   - 'IP-CIDR6,2406:840:9e00::/41'
   - 'IP-CIDR6,2406:840:a80::/41'
@@ -121890,7 +121893,6 @@ payload:
   - 'IP-CIDR6,2406:840:5900::/40'
   - 'IP-CIDR6,2406:840:5d00::/40'
   - 'IP-CIDR6,2406:840:900::/40'
-  - 'IP-CIDR6,2406:840:9800::/40'
   - 'IP-CIDR6,2406:840:9f00::/40'
   - 'IP-CIDR6,2406:840:b00::/40'
   - 'IP-CIDR6,2406:840:d00::/40'

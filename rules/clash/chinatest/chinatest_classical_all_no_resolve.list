@@ -95,7 +95,7 @@ DOMAIN,refresh-bkg.activation-v2.kaspersky.com
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
 
-# DOMAIN-SUFFIX (110860 rules)
+# DOMAIN-SUFFIX (110861 rules)
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,yun
@@ -41762,6 +41762,7 @@ DOMAIN-SUFFIX,sjdshd.com
 DOMAIN-SUFFIX,sjetdz.com
 DOMAIN-SUFFIX,sjf029.com
 DOMAIN-SUFFIX,sjfcdn.com
+DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjfpro.com
 DOMAIN-SUFFIX,sjfzxm.com
 DOMAIN-SUFFIX,sjhcip.com
