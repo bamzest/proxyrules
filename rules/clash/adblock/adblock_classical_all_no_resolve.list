@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27210 rules)
+# DOMAIN (27211 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -22675,6 +22675,7 @@ DOMAIN,ad.log.kukuplay.com
 DOMAIN,ad.qn.img-space.com
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.valuecalling.com
+DOMAIN,adashx.m.taobao.com
 DOMAIN,adashx.ut.youku.com
 DOMAIN,adbsc.flyermobi.com
 DOMAIN,adcentriconline.com
