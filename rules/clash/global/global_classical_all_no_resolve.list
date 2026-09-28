@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34783 rules)
+# DOMAIN-SUFFIX (34785 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -5745,6 +5745,7 @@ DOMAIN-SUFFIX,vanish.ru
 DOMAIN-SUFFIX,vanish.se
 DOMAIN-SUFFIX,vanish.si
 DOMAIN-SUFFIX,vanish.sk
+DOMAIN-SUFFIX,vava8.com
 DOMAIN-SUFFIX,vbcdn.com
 DOMAIN-SUFFIX,vbcdn.net
 DOMAIN-SUFFIX,vdoav.com
@@ -22977,6 +22978,7 @@ DOMAIN-SUFFIX,bygpp1207.world
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byzantium.ac.uk
 DOMAIN-SUFFIX,c-spanvideo.org
+DOMAIN-SUFFIX,c.go-mpulse.net
 DOMAIN-SUFFIX,caacentre.ac.uk
 DOMAIN-SUFFIX,calebelston.com
 DOMAIN-SUFFIX,callersbane.com
@@ -34974,7 +34976,7 @@ DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,.pinterest.
 
-# IP-CIDR (112 rules)
+# IP-CIDR (115 rules)
 IP-CIDR,120.232.181.162/32,no-resolve
 IP-CIDR,120.241.147.226/32,no-resolve
 IP-CIDR,120.253.253.226/32,no-resolve
@@ -35015,6 +35017,8 @@ IP-CIDR,119.235.235.0/24,no-resolve
 IP-CIDR,125.6.146.0/24,no-resolve
 IP-CIDR,125.6.149.0/24,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
+IP-CIDR,13.251.24.0/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,185.76.151.0/24,no-resolve
 IP-CIDR,203.104.103.0/24,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
@@ -35024,6 +35028,7 @@ IP-CIDR,203.208.50.0/24,no-resolve
 IP-CIDR,101.32.118.0/23,no-resolve
 IP-CIDR,119.235.232.0/23,no-resolve
 IP-CIDR,119.235.236.0/23,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,203.208.40.0/23,no-resolve
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,103.2.28.0/22,no-resolve

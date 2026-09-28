@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17696 rules)
+  # DOMAIN-SUFFIX (17699 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -3088,6 +3088,7 @@ payload:
   - 'DOMAIN-SUFFIX,qidian.ca'
   - 'DOMAIN-SUFFIX,qinav.com'
   - 'DOMAIN-SUFFIX,qmzdd.com'
+  - 'DOMAIN-SUFFIX,qobuz.com'
   - 'DOMAIN-SUFFIX,qorno.com'
   - 'DOMAIN-SUFFIX,quora.com'
   - 'DOMAIN-SUFFIX,quran.com'
@@ -3324,6 +3325,7 @@ payload:
   - 'DOMAIN-SUFFIX,v7hds.com'
   - 'DOMAIN-SUFFIX,vagina.nl'
   - 'DOMAIN-SUFFIX,vanemu.cn'
+  - 'DOMAIN-SUFFIX,vava8.com'
   - 'DOMAIN-SUFFIX,vdoav.com'
   - 'DOMAIN-SUFFIX,venmo.com'
   - 'DOMAIN-SUFFIX,venmo.net'
@@ -12583,6 +12585,7 @@ payload:
   - 'DOMAIN-SUFFIX,buypass-ssl.com'
   - 'DOMAIN-SUFFIX,byteoversea.com'
   - 'DOMAIN-SUFFIX,c-spanvideo.org'
+  - 'DOMAIN-SUFFIX,c.go-mpulse.net'
   - 'DOMAIN-SUFFIX,calebelston.com'
   - 'DOMAIN-SUFFIX,camwhoreshd.com'
   - 'DOMAIN-SUFFIX,canon-se.com.tw'
@@ -17765,7 +17768,7 @@ payload:
   - 'DOMAIN-KEYWORD,instagram'
   - 'DOMAIN-KEYWORD,appledaily'
 
-  # IP-CIDR (431 rules)
+  # IP-CIDR (434 rules)
   - 'IP-CIDR,108.168.254.65/32,no-resolve'
   - 'IP-CIDR,108.168.255.224/32,no-resolve'
   - 'IP-CIDR,108.168.255.227/32,no-resolve'
@@ -17905,7 +17908,9 @@ payload:
   - 'IP-CIDR,125.6.146.0/24,no-resolve'
   - 'IP-CIDR,125.6.149.0/24,no-resolve'
   - 'IP-CIDR,125.6.190.0/24,no-resolve'
+  - 'IP-CIDR,13.251.24.0/24,no-resolve'
   - 'IP-CIDR,13.251.24.157/24,no-resolve'
+  - 'IP-CIDR,13.251.41.0/24,no-resolve'
   - 'IP-CIDR,13.251.41.203/24,no-resolve'
   - 'IP-CIDR,141.8.174.0/24,no-resolve'
   - 'IP-CIDR,147.92.128.0/24,no-resolve'
@@ -18020,6 +18025,7 @@ payload:
   - 'IP-CIDR,125.209.250.0/23,no-resolve'
   - 'IP-CIDR,125.209.252.0/23,no-resolve'
   - 'IP-CIDR,125.209.254.0/23,no-resolve'
+  - 'IP-CIDR,17.252.156.0/23,no-resolve'
   - 'IP-CIDR,175.158.10.0/23,no-resolve'
   - 'IP-CIDR,182.162.92.0/23,no-resolve'
   - 'IP-CIDR,203.104.156.0/23,no-resolve'

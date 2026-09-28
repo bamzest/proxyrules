@@ -18,6 +18,7 @@ az668014.vo.msecnd.net
 location.microsoft.com
 clubhouse.pubnubapi.com
 steampipe.akamaized.net
+github-api.arkoselabs.com
 login.microsoftonline.com
 steamstore-a.akamaihd.net
 amp-api.podcasts.apple.com
@@ -72,6 +73,7 @@ steamusercontent-a.akamaihd.net
 +.gfx.ms
 +.go.com
 +.goo.gl
++.google
 +.ift.tt
 +.img.ly
 +.ipn.li
@@ -230,6 +232,7 @@ steamusercontent-a.akamaihd.net
 +.gabia.net
 +.gfw.press
 +.ggpht.com
++.github.ai
 +.github.io
 +.gitlab.io
 +.hackmd.io
@@ -674,9 +677,11 @@ steamusercontent-a.akamaihd.net
 +.flexibits.com
 +.flipboard.com
 +.ftchinese.com
++.github.career
 +.githubapp.com
 +.goodreads.com
 +.googleapis.cn
++.googlezip.net
 +.gosetsuden.jp
 +.hockeyapp.net
 +.homedepot.com
@@ -918,6 +923,7 @@ steamusercontent-a.akamaihd.net
 +.dropboxstatic.com
 +.foreignpolicy.com
 +.freeopenproxy.com
++.githubsupport.com
 +.independent.co.uk
 +.instructables.com
 +.joinclubhouse.com

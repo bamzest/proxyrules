@@ -34,7 +34,7 @@ DOMAIN-KEYWORD,dlercloud
 DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,appledaily
 
-# IP-CIDR (431 rules)
+# IP-CIDR (434 rules)
 IP-CIDR,108.168.254.65/32,no-resolve
 IP-CIDR,108.168.255.224/32,no-resolve
 IP-CIDR,108.168.255.227/32,no-resolve
@@ -174,7 +174,9 @@ IP-CIDR,125.209.253.0/24,no-resolve
 IP-CIDR,125.6.146.0/24,no-resolve
 IP-CIDR,125.6.149.0/24,no-resolve
 IP-CIDR,125.6.190.0/24,no-resolve
+IP-CIDR,13.251.24.0/24,no-resolve
 IP-CIDR,13.251.24.157/24,no-resolve
+IP-CIDR,13.251.41.0/24,no-resolve
 IP-CIDR,13.251.41.203/24,no-resolve
 IP-CIDR,141.8.174.0/24,no-resolve
 IP-CIDR,147.92.128.0/24,no-resolve
@@ -289,6 +291,7 @@ IP-CIDR,125.209.246.0/23,no-resolve
 IP-CIDR,125.209.250.0/23,no-resolve
 IP-CIDR,125.209.252.0/23,no-resolve
 IP-CIDR,125.209.254.0/23,no-resolve
+IP-CIDR,17.252.156.0/23,no-resolve
 IP-CIDR,175.158.10.0/23,no-resolve
 IP-CIDR,182.162.92.0/23,no-resolve
 IP-CIDR,203.104.156.0/23,no-resolve
