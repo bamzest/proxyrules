@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (27211 rules)
+  # DOMAIN (27215 rules)
   - 'DOMAIN,4u.pl'
   - 'DOMAIN,ad.gt'
   - 'DOMAIN,dd.ma'
@@ -23407,6 +23407,7 @@ payload:
   - 'DOMAIN,xinshengchuanmei.cn'
   - 'DOMAIN,xladapi.izuiyou.com'
   - 'DOMAIN,xmaterial.tu.qq.com'
+  - 'DOMAIN,xpis-xcdn.youku.com'
   - 'DOMAIN,xy.nullrefexcep.com'
   - 'DOMAIN,yaolu.yuedu.163.com'
   - 'DOMAIN,yk-ssp.ad.youku.com'
@@ -25378,6 +25379,7 @@ payload:
   - 'DOMAIN,performancerevenues.com'
   - 'DOMAIN,platform.foursquare.com'
   - 'DOMAIN,portantreadedagree.info'
+  - 'DOMAIN,pre-xpis-xcdn.youku.com'
   - 'DOMAIN,presence.teams.live.com'
   - 'DOMAIN,providence.voxmedia.com'
   - 'DOMAIN,purchase.centrobill.com'
@@ -25474,6 +25476,8 @@ payload:
   - 'DOMAIN,www.thesparkmachine.com'
   - 'DOMAIN,www.yuanchengxiezuo.com'
   - 'DOMAIN,www15t.j8inn1zektoe.com'
+  - 'DOMAIN,xpis-mob-xcdn.youku.com'
+  - 'DOMAIN,xpis-tel-xcdn.youku.com'
   - 'DOMAIN,xpornstarsckc.ddns.name'
   - 'DOMAIN,y9ji.getnewsupdate.info'
   - 'DOMAIN,yacafrr.bailingcloud.cn'
