@@ -29,7 +29,7 @@ payload:
   - 'DOMAIN,openapi-quote.longbridge.com'
   - 'DOMAIN,openapi-trade.longbridge.com'
 
-  # DOMAIN-SUFFIX (80 rules)
+  # DOMAIN-SUFFIX (84 rules)
   - 'DOMAIN-SUFFIX,futu.cn'
   - 'DOMAIN-SUFFIX,futu.com'
   - 'DOMAIN-SUFFIX,futu.link'
@@ -56,6 +56,7 @@ payload:
   - 'DOMAIN-SUFFIX,moomoo.com'
   - 'DOMAIN-SUFFIX,qtlcdn.com'
   - 'DOMAIN-SUFFIX,schwab.com'
+  - 'DOMAIN-SUFFIX,tigrdw.com'
   - 'DOMAIN-SUFFIX,futuapi.com'
   - 'DOMAIN-SUFFIX,futubull.cn'
   - 'DOMAIN-SUFFIX,futufin.com'
@@ -79,6 +80,7 @@ payload:
   - 'DOMAIN-SUFFIX,longbridge.sg'
   - 'DOMAIN-SUFFIX,schwab.com.cn'
   - 'DOMAIN-SUFFIX,schwab.com.hk'
+  - 'DOMAIN-SUFFIX,skytigris.com'
   - 'DOMAIN-SUFFIX,futuniuniu.com'
   - 'DOMAIN-SUFFIX,futustatic.com'
   - 'DOMAIN-SUFFIX,longbridge.app'
@@ -98,6 +100,7 @@ payload:
   - 'DOMAIN-SUFFIX,tigerbrokers.net'
   - 'DOMAIN-SUFFIX,tigerfintech.com'
   - 'DOMAIN-SUFFIX,zhijianfengyi.cn'
+  - 'DOMAIN-SUFFIX,itigergrowtha.com'
   - 'DOMAIN-SUFFIX,longbridge.global'
   - 'DOMAIN-SUFFIX,longbridgeapp.com'
   - 'DOMAIN-SUFFIX,moomootrustee.com'
@@ -105,6 +108,7 @@ payload:
   - 'DOMAIN-SUFFIX,zhijianfengyi.com'
   - 'DOMAIN-SUFFIX,api.moomoobull.com'
   - 'DOMAIN-SUFFIX,cdn.futustatic.com'
+  - 'DOMAIN-SUFFIX,tigerbrokers.com.hk'
   - 'DOMAIN-SUFFIX,interactivebrokers.com'
   - 'DOMAIN-SUFFIX,snowballsecurities.com'
   - 'DOMAIN-SUFFIX,interactivebrokers.com.hk'
