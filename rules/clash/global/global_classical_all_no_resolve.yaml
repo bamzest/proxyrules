@@ -149,7 +149,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34785 rules)
+  # DOMAIN-SUFFIX (34790 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -1316,6 +1316,7 @@ payload:
   - 'DOMAIN-SUFFIX,muji.eu'
   - 'DOMAIN-SUFFIX,muji.tw'
   - 'DOMAIN-SUFFIX,muji.us'
+  - 'DOMAIN-SUFFIX,muse.ai'
   - 'DOMAIN-SUFFIX,muzu.tv'
   - 'DOMAIN-SUFFIX,mvk.com'
   - 'DOMAIN-SUFFIX,myds.me'
@@ -7466,6 +7467,7 @@ payload:
   - 'DOMAIN-SUFFIX,hst.net.tw'
   - 'DOMAIN-SUFFIX,hstern.net'
   - 'DOMAIN-SUFFIX,ht3200.top'
+  - 'DOMAIN-SUFFIX,huarun.win'
   - 'DOMAIN-SUFFIX,hudson.org'
   - 'DOMAIN-SUFFIX,hugesex.tv'
   - 'DOMAIN-SUFFIX,hugoroy.eu'
@@ -11917,6 +11919,7 @@ payload:
   - 'DOMAIN-SUFFIX,open.com.hk'
   - 'DOMAIN-SUFFIX,openamt.com'
   - 'DOMAIN-SUFFIX,openclaw.ai'
+  - 'DOMAIN-SUFFIX,opencode.ai'
   - 'DOMAIN-SUFFIX,opendns.com'
   - 'DOMAIN-SUFFIX,openjsf.org'
   - 'DOMAIN-SUFFIX,openssl.org'
@@ -14320,6 +14323,7 @@ payload:
   - 'DOMAIN-SUFFIX,fuskator.com'
   - 'DOMAIN-SUFFIX,futuesop.com'
   - 'DOMAIN-SUFFIX,future-cs.ru'
+  - 'DOMAIN-SUFFIX,fuyin116.com'
   - 'DOMAIN-SUFFIX,fuzokudx.com'
   - 'DOMAIN-SUFFIX,fxplus.ac.uk'
   - 'DOMAIN-SUFFIX,fzdshare.net'
@@ -15071,6 +15075,7 @@ payload:
   - 'DOMAIN-SUFFIX,merops.ac.uk'
   - 'DOMAIN-SUFFIX,merton.ac.uk'
   - 'DOMAIN-SUFFIX,met-nude.com'
+  - 'DOMAIN-SUFFIX,metaaivm.com'
   - 'DOMAIN-SUFFIX,metacafe.com'
   - 'DOMAIN-SUFFIX,metacpan.org'
   - 'DOMAIN-SUFFIX,metaporn.com'

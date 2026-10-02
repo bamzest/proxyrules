@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17699 rules)
+  # DOMAIN-SUFFIX (17701 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -847,6 +847,7 @@ payload:
   - 'DOMAIN-SUFFIX,moon.fm'
   - 'DOMAIN-SUFFIX,moov.hk'
   - 'DOMAIN-SUFFIX,msn.com'
+  - 'DOMAIN-SUFFIX,muse.ai'
   - 'DOMAIN-SUFFIX,muzu.tv'
   - 'DOMAIN-SUFFIX,mvk.com'
   - 'DOMAIN-SUFFIX,myjs.tw'
@@ -7838,6 +7839,7 @@ payload:
   - 'DOMAIN-SUFFIX,furrybar.com'
   - 'DOMAIN-SUFFIX,fuskator.com'
   - 'DOMAIN-SUFFIX,futuesop.com'
+  - 'DOMAIN-SUFFIX,fuyin116.com'
   - 'DOMAIN-SUFFIX,fuzokudx.com'
   - 'DOMAIN-SUFFIX,fzdshare.net'
   - 'DOMAIN-SUFFIX,g1d1goob.xyz'
