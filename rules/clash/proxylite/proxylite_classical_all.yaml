@@ -39,7 +39,7 @@ payload:
   - 'DOMAIN,steamuserimages-a.akamaihd.net'
   - 'DOMAIN,steamusercontent-a.akamaihd.net'
 
-  # DOMAIN-SUFFIX (947 rules)
+  # DOMAIN-SUFFIX (949 rules)
   - 'DOMAIN-SUFFIX,eu'
   - 'DOMAIN-SUFFIX,hk'
   - 'DOMAIN-SUFFIX,jp'
@@ -889,6 +889,7 @@ payload:
   - 'DOMAIN-SUFFIX,unblocksites.co'
   - 'DOMAIN-SUFFIX,venturebeat.com'
   - 'DOMAIN-SUFFIX,web2project.net'
+  - 'DOMAIN-SUFFIX,wikispecies.org'
   - 'DOMAIN-SUFFIX,wikiversity.org'
   - 'DOMAIN-SUFFIX,xvideos-cdn.com'
   - 'DOMAIN-SUFFIX,ycombinator.com'
@@ -949,6 +950,7 @@ payload:
   - 'DOMAIN-SUFFIX,uhdwallpapers.org'
   - 'DOMAIN-SUFFIX,valvesoftware.com'
   - 'DOMAIN-SUFFIX,visibletweets.com'
+  - 'DOMAIN-SUFFIX,wikifunctions.org'
   - 'DOMAIN-SUFFIX,blogsmithmedia.com'
   - 'DOMAIN-SUFFIX,content.office.net'
   - 'DOMAIN-SUFFIX,foreignaffairs.com'

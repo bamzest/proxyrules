@@ -37,7 +37,7 @@ payload:
   - 'DOMAIN,litvfreemobile-hichannel.cdn.hinet.net'
   - 'DOMAIN,assets-priconne-redive-us.akamaized.net'
 
-  # DOMAIN-SUFFIX (17701 rules)
+  # DOMAIN-SUFFIX (17704 rules)
   - 'DOMAIN-SUFFIX,ar'
   - 'DOMAIN-SUFFIX,au'
   - 'DOMAIN-SUFFIX,bo'
@@ -8965,6 +8965,7 @@ payload:
   - 'DOMAIN-SUFFIX,waikeung.org'
   - 'DOMAIN-SUFFIX,wailaike.net'
   - 'DOMAIN-SUFFIX,waiwaier.com'
+  - 'DOMAIN-SUFFIX,wallhaven.cc'
   - 'DOMAIN-SUFFIX,wallmama.com'
   - 'DOMAIN-SUFFIX,wallsttv.com'
   - 'DOMAIN-SUFFIX,wankizer.com'
@@ -13530,6 +13531,7 @@ payload:
   - 'DOMAIN-SUFFIX,whatbrowser.org'
   - 'DOMAIN-SUFFIX,whyfacebook.com'
   - 'DOMAIN-SUFFIX,wikilivres.info'
+  - 'DOMAIN-SUFFIX,wikispecies.org'
   - 'DOMAIN-SUFFIX,wikiversity.org'
   - 'DOMAIN-SUFFIX,wildcamporn.com'
   - 'DOMAIN-SUFFIX,williamhill.com'
@@ -15354,6 +15356,7 @@ payload:
   - 'DOMAIN-SUFFIX,whengirlsplay.com'
   - 'DOMAIN-SUFFIX,whereiswerner.com'
   - 'DOMAIN-SUFFIX,whychooseview.com'
+  - 'DOMAIN-SUFFIX,wikifunctions.org'
   - 'DOMAIN-SUFFIX,wikiunblocked.org'
   - 'DOMAIN-SUFFIX,wirelessreach.com'
   - 'DOMAIN-SUFFIX,wise-research.com'

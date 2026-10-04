@@ -10,7 +10,7 @@ payload:
   - 'DOMAIN,p16-tiktokcdn-com.akamaized.net'
   - 'DOMAIN,lf16-effectcdn.byteeffecttos-g.com'
 
-  # DOMAIN-SUFFIX (398 rules)
+  # DOMAIN-SUFFIX (399 rules)
   - 'DOMAIN-SUFFIX,bcy.net'
   - 'DOMAIN-SUFFIX,dou.top'
   - 'DOMAIN-SUFFIX,trae.ai'
@@ -95,6 +95,7 @@ payload:
   - 'DOMAIN-SUFFIX,byteapk.com'
   - 'DOMAIN-SUFFIX,bytecdn.com'
   - 'DOMAIN-SUFFIX,bytedns.net'
+  - 'DOMAIN-SUFFIX,bytehwm.com'
   - 'DOMAIN-SUFFIX,byteimg.com'
   - 'DOMAIN-SUFFIX,bytelove.cn'
   - 'DOMAIN-SUFFIX,bytescm.com'
