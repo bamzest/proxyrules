@@ -12893,7 +12893,7 @@ payload:
   # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,-tiktokcdn-com'
 
-  # IP-CIDR (321 rules)
+  # IP-CIDR (320 rules)
   - 'IP-CIDR,101.32.104.4/32'
   - 'IP-CIDR,101.32.104.41/32'
   - 'IP-CIDR,101.32.104.56/32'
@@ -13213,7 +13213,6 @@ payload:
   - 'IP-CIDR,119.176.0.0/12'
   - 'IP-CIDR,47.80.0.0/12'
   - 'IP-CIDR,8.208.0.0/12'
-  - 'IP-CIDR,125.64.107.13/11'
   - 'IP-CIDR,8.128.0.0/10'
 
   # IP-CIDR6 (9 rules)
