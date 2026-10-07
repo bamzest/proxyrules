@@ -7,7 +7,7 @@
 # DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,github
 
-# IP-CIDR (5830 rules)
+# IP-CIDR (5833 rules)
 IP-CIDR,100.62.132.232/32,no-resolve
 IP-CIDR,100.62.139.158/32,no-resolve
 IP-CIDR,13.107.5.93/32,no-resolve
@@ -1331,6 +1331,9 @@ IP-CIDR,9.129.58.144/28,no-resolve
 IP-CIDR,9.129.58.48/28,no-resolve
 IP-CIDR,9.129.67.128/28,no-resolve
 IP-CIDR,9.129.67.144/28,no-resolve
+IP-CIDR,9.234.106.48/28,no-resolve
+IP-CIDR,9.234.98.160/28,no-resolve
+IP-CIDR,9.234.98.176/28,no-resolve
 IP-CIDR,94.245.123.144/28,no-resolve
 IP-CIDR,94.245.123.176/28,no-resolve
 IP-CIDR,104.44.88.0/27,no-resolve
