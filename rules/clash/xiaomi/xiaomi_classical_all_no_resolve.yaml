@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN-SUFFIX (150 rules)
+  # DOMAIN-SUFFIX (151 rules)
   - 'DOMAIN-SUFFIX,mi.cn'
   - 'DOMAIN-SUFFIX,mi.com'
   - 'DOMAIN-SUFFIX,mi0.cc'
@@ -108,6 +108,7 @@ payload:
   - 'DOMAIN-SUFFIX,youpin.com.cn'
   - 'DOMAIN-SUFFIX,addatachain.cn'
   - 'DOMAIN-SUFFIX,xiaoaiscan.net'
+  - 'DOMAIN-SUFFIX,xiaomiauto.com'
   - 'DOMAIN-SUFFIX,xiaomicorp.com'
   - 'DOMAIN-SUFFIX,xiaomicorp.net'
   - 'DOMAIN-SUFFIX,xiaomimimo.com'

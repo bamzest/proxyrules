@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (150 rules)
+# DOMAIN-SUFFIX (151 rules)
 DOMAIN-SUFFIX,mi.cn
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,mi0.cc
@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,xiaomiinc.net
 DOMAIN-SUFFIX,youpin.com.cn
 DOMAIN-SUFFIX,addatachain.cn
 DOMAIN-SUFFIX,xiaoaiscan.net
+DOMAIN-SUFFIX,xiaomiauto.com
 DOMAIN-SUFFIX,xiaomicorp.com
 DOMAIN-SUFFIX,xiaomicorp.net
 DOMAIN-SUFFIX,xiaomimimo.com
