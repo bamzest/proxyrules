@@ -3,7 +3,7 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# IP-CIDR (14580 rules)
+# IP-CIDR (14579 rules)
 IP-CIDR,1.34.0.0/32
 IP-CIDR,1.46.60.1/32
 IP-CIDR,101.230.253.139/32
@@ -4833,7 +4833,6 @@ IP-CIDR,103.144.136.0/23
 IP-CIDR,103.144.148.0/23
 IP-CIDR,103.144.158.0/23
 IP-CIDR,103.144.240.0/23
-IP-CIDR,103.144.244.0/23
 IP-CIDR,103.144.40.0/23
 IP-CIDR,103.144.52.0/23
 IP-CIDR,103.144.66.0/23

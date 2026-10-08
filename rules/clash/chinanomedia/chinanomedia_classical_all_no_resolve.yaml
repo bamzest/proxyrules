@@ -111319,7 +111319,7 @@ payload:
   - 'DOMAIN-KEYWORD,officecdn'
   - 'DOMAIN-KEYWORD,.tmall.com'
 
-  # IP-CIDR (8252 rules)
+  # IP-CIDR (8250 rules)
   - 'IP-CIDR,0.0.0.0/32,no-resolve'
   - 'IP-CIDR,1.245.74.5/32,no-resolve'
   - 'IP-CIDR,1.34.0.0/32,no-resolve'
@@ -113207,7 +113207,6 @@ payload:
   - 'IP-CIDR,156.107.170.0/24,no-resolve'
   - 'IP-CIDR,156.227.239.0/24,no-resolve'
   - 'IP-CIDR,156.232.9.0/24,no-resolve'
-  - 'IP-CIDR,156.239.237.0/24,no-resolve'
   - 'IP-CIDR,156.251.161.0/24,no-resolve'
   - 'IP-CIDR,156.251.179.0/24,no-resolve'
   - 'IP-CIDR,156.59.114.0/24,no-resolve'
@@ -113285,7 +113284,6 @@ payload:
   - 'IP-CIDR,173.44.6.0/24,no-resolve'
   - 'IP-CIDR,174.35.117.0/24,no-resolve'
   - 'IP-CIDR,175.45.176.0/24,no-resolve'
-  - 'IP-CIDR,175.45.179.0/24,no-resolve'
   - 'IP-CIDR,176.56.38.0/24,no-resolve'
   - 'IP-CIDR,178.236.232.0/24,no-resolve'
   - 'IP-CIDR,178.236.234.0/24,no-resolve'
@@ -114344,7 +114342,6 @@ payload:
   - 'IP-CIDR,103.144.148.0/23,no-resolve'
   - 'IP-CIDR,103.144.158.0/23,no-resolve'
   - 'IP-CIDR,103.144.240.0/23,no-resolve'
-  - 'IP-CIDR,103.144.244.0/23,no-resolve'
   - 'IP-CIDR,103.144.40.0/23,no-resolve'
   - 'IP-CIDR,103.144.52.0/23,no-resolve'
   - 'IP-CIDR,103.144.66.0/23,no-resolve'
@@ -114852,6 +114849,7 @@ payload:
   - 'IP-CIDR,173.44.26.0/23,no-resolve'
   - 'IP-CIDR,173.44.4.0/23,no-resolve'
   - 'IP-CIDR,174.35.58.0/23,no-resolve'
+  - 'IP-CIDR,175.45.178.0/23,no-resolve'
   - 'IP-CIDR,180.92.176.0/23,no-resolve'
   - 'IP-CIDR,182.160.60.0/23,no-resolve'
   - 'IP-CIDR,183.91.48.0/23,no-resolve'
