@@ -148,7 +148,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34821 rules)
+# DOMAIN-SUFFIX (34824 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -4835,6 +4835,7 @@ DOMAIN-SUFFIX,mcc.ac.uk
 DOMAIN-SUFFIX,mcfog.com
 DOMAIN-SUFFIX,mdx.ac.uk
 DOMAIN-SUFFIX,mebank.ir
+DOMAIN-SUFFIX,megaad.nz
 DOMAIN-SUFFIX,melon.com
 DOMAIN-SUFFIX,memri.org
 DOMAIN-SUFFIX,men18.net
@@ -5202,7 +5203,6 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,proxy.org
 DOMAIN-SUFFIX,proxz.com
 DOMAIN-SUFFIX,prozz.net
-DOMAIN-SUFFIX,prts.plus
 DOMAIN-SUFFIX,psa.ac.uk
 DOMAIN-SUFFIX,psbank.ru
 DOMAIN-SUFFIX,psc.ac.uk
@@ -7940,6 +7940,8 @@ DOMAIN-SUFFIX,meetav.com
 DOMAIN-SUFFIX,meetup.com
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,megafon.ru
+DOMAIN-SUFFIX,megapay.nz
+DOMAIN-SUFFIX,megas4.com
 DOMAIN-SUFFIX,megasrv.de
 DOMAIN-SUFFIX,megogo.net
 DOMAIN-SUFFIX,meguso.com
@@ -12644,6 +12646,7 @@ DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,tpmde.ac.uk
 DOMAIN-SUFFIX,tradeup.com
 DOMAIN-SUFFIX,trans.ac.uk
+DOMAIN-SUFFIX,transfer.it
 DOMAIN-SUFFIX,travelex.be
 DOMAIN-SUFFIX,travelex.bh
 DOMAIN-SUFFIX,travelex.ca
