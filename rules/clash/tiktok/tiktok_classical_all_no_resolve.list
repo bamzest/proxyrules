@@ -9,7 +9,7 @@ DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 
-# DOMAIN-SUFFIX (25 rules)
+# DOMAIN-SUFFIX (28 rules)
 DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,muscdn.com
@@ -23,9 +23,11 @@ DOMAIN-SUFFIX,tiktokd.net
 DOMAIN-SUFFIX,tiktokd.org
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,capcutapi.us
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,sgpstatp.com
+DOMAIN-SUFFIX,capcutapi.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN-SUFFIX,ttwebview.com
@@ -33,6 +35,7 @@ DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,byteintlapi.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,tiktokmusic.app
+DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,bytegecko-i18n.com
 
