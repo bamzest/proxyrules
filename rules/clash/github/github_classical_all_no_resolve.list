@@ -156,7 +156,7 @@ DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
 # DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,github
 
-# IP-CIDR (5833 rules)
+# IP-CIDR (5835 rules)
 IP-CIDR,100.62.132.232/32,no-resolve
 IP-CIDR,100.62.139.158/32,no-resolve
 IP-CIDR,13.107.5.93/32,no-resolve
@@ -3135,6 +3135,8 @@ IP-CIDR,23.102.203.0/24,no-resolve
 IP-CIDR,23.98.45.0/24,no-resolve
 IP-CIDR,23.98.46.0/24,no-resolve
 IP-CIDR,23.98.47.0/24,no-resolve
+IP-CIDR,3.41.210.0/24,no-resolve
+IP-CIDR,3.42.157.0/24,no-resolve
 IP-CIDR,40.107.1.0/24,no-resolve
 IP-CIDR,40.107.194.0/24,no-resolve
 IP-CIDR,40.107.195.0/24,no-resolve
