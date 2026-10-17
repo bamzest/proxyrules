@@ -147,7 +147,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34911 rules)
+# DOMAIN-SUFFIX (34917 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -2840,6 +2840,7 @@ DOMAIN-SUFFIX,sacom.hk
 DOMAIN-SUFFIX,sans.edu
 DOMAIN-SUFFIX,sb24.com
 DOMAIN-SUFFIX,sbank.ir
+DOMAIN-SUFFIX,scea.com
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,scoop.sh
 DOMAIN-SUFFIX,searx.me
@@ -9747,6 +9748,7 @@ DOMAIN-SUFFIX,6e8xr2gk.me
 DOMAIN-SUFFIX,6parker.com
 DOMAIN-SUFFIX,720video.tv
 DOMAIN-SUFFIX,77maott.com
+DOMAIN-SUFFIX,7x24hrs.com
 DOMAIN-SUFFIX,81tower.com
 DOMAIN-SUFFIX,9001700.com
 DOMAIN-SUFFIX,91dasai.com
@@ -12505,6 +12507,7 @@ DOMAIN-SUFFIX,sony.com.ni
 DOMAIN-SUFFIX,sony.com.pa
 DOMAIN-SUFFIX,sony.com.pe
 DOMAIN-SUFFIX,sony.com.ph
+DOMAIN-SUFFIX,sony.com.py
 DOMAIN-SUFFIX,sony.com.sg
 DOMAIN-SUFFIX,sony.com.sv
 DOMAIN-SUFFIX,sony.com.tr
@@ -13776,6 +13779,7 @@ DOMAIN-SUFFIX,brooks.ac.uk
 DOMAIN-SUFFIX,brunel.ac.uk
 DOMAIN-SUFFIX,bs-awh.ne.jp
 DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsxm1213.pro
 DOMAIN-SUFFIX,btcbank.bank
@@ -26551,6 +26555,7 @@ DOMAIN-SUFFIX,somanylolies.com
 DOMAIN-SUFFIX,sonorousporn.com
 DOMAIN-SUFFIX,sony-semicon.com
 DOMAIN-SUFFIX,sonyclassics.com
+DOMAIN-SUFFIX,sonymusic.com.hk
 DOMAIN-SUFFIX,sonypictures.com
 DOMAIN-SUFFIX,soundcloud.cloud
 DOMAIN-SUFFIX,southdevon.ac.uk
@@ -30791,6 +30796,7 @@ DOMAIN-SUFFIX,softwarebychuck.com
 DOMAIN-SUFFIX,solidaritetibet.org
 DOMAIN-SUFFIX,solostudioksale.com
 DOMAIN-SUFFIX,solutionstation.com
+DOMAIN-SUFFIX,sonyinteractive.com
 DOMAIN-SUFFIX,soundsoftware.ac.uk
 DOMAIN-SUFFIX,sourcingforebay.net
 DOMAIN-SUFFIX,southcoastdtp.ac.uk
