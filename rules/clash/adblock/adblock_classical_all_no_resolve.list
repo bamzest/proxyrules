@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (27213 rules)
+# DOMAIN (27212 rules)
 DOMAIN,4u.pl
 DOMAIN,ad.gt
 DOMAIN,dd.ma
@@ -26205,7 +26205,6 @@ DOMAIN,eekro.cruisingsmallship.com
 DOMAIN,eetho.cruisingsmallship.com
 DOMAIN,eventtracker.videostrip.com
 DOMAIN,ff1c0cc5.api.splkmobile.com
-DOMAIN,free-aos-cdn-image.amap.com
 DOMAIN,free-website-statistics.com
 DOMAIN,galeriaseroticas.xpg.com.br
 DOMAIN,game-advertising-online.com
@@ -27218,7 +27217,7 @@ DOMAIN,97b1c56132dfcdd90f93-0c5c8388c0a5897e648f883e2c86dc72.r54.cf5.rackcdn.com
 DOMAIN,huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com
 DOMAIN,huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com
 
-# DOMAIN-SUFFIX (295295 rules)
+# DOMAIN-SUFFIX (295294 rules)
 DOMAIN-SUFFIX,a.ki
 DOMAIN-SUFFIX,4o.cc
 DOMAIN-SUFFIX,4u.pl
@@ -87889,7 +87888,6 @@ DOMAIN-SUFFIX,v-t.topya.com
 DOMAIN-SUFFIX,v.l.youku.com
 DOMAIN-SUFFIX,v.myvoleo.com
 DOMAIN-SUFFIX,v.shopify.com
-DOMAIN-SUFFIX,v.smtcdns.com
 DOMAIN-SUFFIX,v.strosin.biz
 DOMAIN-SUFFIX,v.voloalto.eu
 DOMAIN-SUFFIX,v.voltmail.io
