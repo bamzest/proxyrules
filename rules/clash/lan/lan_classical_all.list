@@ -3,14 +3,16 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN (7 rules)
+# DOMAIN (9 rules)
 DOMAIN,asusrouter.com
 DOMAIN,router.asus.com
 DOMAIN,local.adguard.org
 DOMAIN,oasisauth.h3c.com
 DOMAIN,www.asusrouter.com
+DOMAIN,localhost.weixin.qq.com
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com
+DOMAIN,localhost.work.weixin.qq.com
 
 # DOMAIN-SUFFIX (115 rules)
 DOMAIN-SUFFIX,p.to

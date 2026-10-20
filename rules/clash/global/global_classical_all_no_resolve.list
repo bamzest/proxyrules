@@ -147,7 +147,7 @@ DOMAIN,addons.mozilla.org // Firefox Add-ons HTTP 451
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 
-# DOMAIN-SUFFIX (34917 rules)
+# DOMAIN-SUFFIX (34933 rules)
 DOMAIN-SUFFIX,d.pr
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,g.co
@@ -775,6 +775,7 @@ DOMAIN-SUFFIX,bcex.ca
 DOMAIN-SUFFIX,bdn.dev
 DOMAIN-SUFFIX,beru.ru
 DOMAIN-SUFFIX,bfsh.hk
+DOMAIN-SUFFIX,bget.ru
 DOMAIN-SUFFIX,bgme.me
 DOMAIN-SUFFIX,big.one
 DOMAIN-SUFFIX,bild.de
@@ -1961,6 +1962,7 @@ DOMAIN-SUFFIX,bbkz.com
 DOMAIN-SUFFIX,bdsm.com
 DOMAIN-SUFFIX,bebo.com
 DOMAIN-SUFFIX,beeg.com
+DOMAIN-SUFFIX,beget.de
 DOMAIN-SUFFIX,beget.ru
 DOMAIN-SUFFIX,beric.me
 DOMAIN-SUFFIX,bfnn.org
@@ -2875,6 +2877,7 @@ DOMAIN-SUFFIX,sony.biz
 DOMAIN-SUFFIX,sony.net
 DOMAIN-SUFFIX,sora.com
 DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,sprut.io
 DOMAIN-SUFFIX,squ1.com
 DOMAIN-SUFFIX,sshs.xyz
 DOMAIN-SUFFIX,sspro.ml
@@ -3605,7 +3608,9 @@ DOMAIN-SUFFIX,beats1.tv
 DOMAIN-SUFFIX,beddit.tv
 DOMAIN-SUFFIX,beeg.rest
 DOMAIN-SUFFIX,beejp.net
+DOMAIN-SUFFIX,beget.app
 DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.pro
 DOMAIN-SUFFIX,bei.ac.uk
 DOMAIN-SUFFIX,bejav.net
 DOMAIN-SUFFIX,bell.wiki
@@ -6453,6 +6458,7 @@ DOMAIN-SUFFIX,beescrm.ru
 DOMAIN-SUFFIX,beevpn.com
 DOMAIN-SUFFIX,befuck.com
 DOMAIN-SUFFIX,befuck.net
+DOMAIN-SUFFIX,beget.tech
 DOMAIN-SUFFIX,beibao.com
 DOMAIN-SUFFIX,bell.ac.uk
 DOMAIN-SUFFIX,bellesa.co
@@ -8383,6 +8389,7 @@ DOMAIN-SUFFIX,ontrac.com
 DOMAIN-SUFFIX,ooyala.com
 DOMAIN-SUFFIX,op7979.com
 DOMAIN-SUFFIX,open.ac.uk
+DOMAIN-SUFFIX,openai.org
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,opendn.xyz
@@ -8565,6 +8572,7 @@ DOMAIN-SUFFIX,puffin.com
 DOMAIN-SUFFIX,pugpig.com
 DOMAIN-SUFFIX,pure18.com
 DOMAIN-SUFFIX,pururin.to
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,pvzgw2.com
 DOMAIN-SUFFIX,pwmnet.com
 DOMAIN-SUFFIX,pyhapp.com
@@ -10069,11 +10077,13 @@ DOMAIN-SUFFIX,beatsep.net
 DOMAIN-SUFFIX,beatsua.com
 DOMAIN-SUFFIX,beepool.com
 DOMAIN-SUFFIX,beepool.org
+DOMAIN-SUFFIX,beget.cloud
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,beirc.ac.uk
 DOMAIN-SUFFIX,bemix.ac.uk
 DOMAIN-SUFFIX,bemywife.cc
 DOMAIN-SUFFIX,bentobox.tv
+DOMAIN-SUFFIX,beserver.ru
 DOMAIN-SUFFIX,bestbhy.com
 DOMAIN-SUFFIX,bestbim.com
 DOMAIN-SUFFIX,bestbuy.com
@@ -12781,6 +12791,7 @@ DOMAIN-SUFFIX,txcloud.net
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,typepad.com
+DOMAIN-SUFFIX,typesafe.ai
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ucanews.com
 DOMAIN-SUFFIX,ucisa.ac.uk
@@ -13969,6 +13980,7 @@ DOMAIN-SUFFIX,cuinc.oen.tw
 DOMAIN-SUFFIX,culham.ac.uk
 DOMAIN-SUFFIX,cuntwars.com
 DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,cursorvm.com
 DOMAIN-SUFFIX,custhelp.com
 DOMAIN-SUFFIX,cyberctm.com
 DOMAIN-SUFFIX,cztv117.shop
@@ -16258,6 +16270,7 @@ DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
 DOMAIN-SUFFIX,tildacdn.net
 DOMAIN-SUFFIX,timerbank.ru
+DOMAIN-SUFFIX,timeweb.tech
 DOMAIN-SUFFIX,timtales.com
 DOMAIN-SUFFIX,tinc-vpn.org
 DOMAIN-SUFFIX,tinychat.com
@@ -17114,6 +17127,7 @@ DOMAIN-SUFFIX,beatsneon.com
 DOMAIN-SUFFIX,beatsodre.com
 DOMAIN-SUFFIX,bedford.ac.uk
 DOMAIN-SUFFIX,bedsacl.ac.uk
+DOMAIN-SUFFIX,beget.hosting
 DOMAIN-SUFFIX,beijingzx.org
 DOMAIN-SUFFIX,bellotube.com
 DOMAIN-SUFFIX,bellsouth.net
@@ -19223,6 +19237,7 @@ DOMAIN-SUFFIX,scentro.ac.uk
 DOMAIN-SUFFIX,schwab.com.cn
 DOMAIN-SUFFIX,schwab.com.hk
 DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwabcdn.com
 DOMAIN-SUFFIX,sci-hub.it.nf
 DOMAIN-SUFFIX,scitation.org
 DOMAIN-SUFFIX,scitech.ac.uk
@@ -20223,6 +20238,7 @@ DOMAIN-SUFFIX,beatshopuk.com
 DOMAIN-SUFFIX,beatsmusic.com
 DOMAIN-SUFFIX,beatspills.com
 DOMAIN-SUFFIX,beatssales.com
+DOMAIN-SUFFIX,begetcdn.cloud
 DOMAIN-SUFFIX,behindkink.com
 DOMAIN-SUFFIX,bekijkporno.nl
 DOMAIN-SUFFIX,bellebound.com
@@ -22904,7 +22920,6 @@ DOMAIN-SUFFIX,asianxxxjoy.com
 DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,askfacebook.net
 DOMAIN-SUFFIX,askfacebook.org
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,assetsadobe.com
 DOMAIN-SUFFIX,astrogrid.ac.uk
 DOMAIN-SUFFIX,astronomy.ac.uk
@@ -24689,6 +24704,7 @@ DOMAIN-SUFFIX,tibetoffice.org
 DOMAIN-SUFFIX,tibetonline.com
 DOMAIN-SUFFIX,tibetwrites.org
 DOMAIN-SUFFIX,tigerbrokers.nz
+DOMAIN-SUFFIX,timewebcloud.kz
 DOMAIN-SUFFIX,tire-cadcam.com
 DOMAIN-SUFFIX,titsandtugs.com
 DOMAIN-SUFFIX,tlcbexley.ac.uk
@@ -30283,7 +30299,6 @@ DOMAIN-SUFFIX,firstpelvicexam.com
 DOMAIN-SUFFIX,fiscalstudies.ac.uk
 DOMAIN-SUFFIX,flagrasamadores.net
 DOMAIN-SUFFIX,flecheinthepeche.fr
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,foampositeshoes.com
 DOMAIN-SUFFIX,footwear-cadcam.com
@@ -32557,6 +32572,7 @@ DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN-SUFFIX,wroxton-college.ac.uk
 DOMAIN-SUFFIX,www-bestbuystores.com
 DOMAIN-SUFFIX,xn--3et96bj49ahpq.com
+DOMAIN-SUFFIX,xn--90aefb9d.xn--p1ai
 DOMAIN-SUFFIX,xn--9iqy04a7fi01l.com
 DOMAIN-SUFFIX,xn--czq75pvv1aj5c.org
 DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
