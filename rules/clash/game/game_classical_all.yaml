@@ -15,7 +15,7 @@ payload:
   - 'DOMAIN,cloudsync-prod.s3.amazonaws.com'
   - 'DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net'
 
-  # DOMAIN-SUFFIX (563 rules)
+  # DOMAIN-SUFFIX (566 rules)
   - 'DOMAIN-SUFFIX,op.gg'
   - 'DOMAIN-SUFFIX,ea.com'
   - 'DOMAIN-SUFFIX,pvp.tv'
@@ -43,6 +43,7 @@ payload:
   - 'DOMAIN-SUFFIX,xbox.com'
   - 'DOMAIN-SUFFIX,xbox.org'
   - 'DOMAIN-SUFFIX,crysis.jp'
+  - 'DOMAIN-SUFFIX,dota2.com'
   - 'DOMAIN-SUFFIX,garena.my'
   - 'DOMAIN-SUFFIX,garena.ph'
   - 'DOMAIN-SUFFIX,garena.sg'
@@ -57,6 +58,7 @@ payload:
   - 'DOMAIN-SUFFIX,swtor.com'
   - 'DOMAIN-SUFFIX,swtor.net'
   - 'DOMAIN-SUFFIX,uplay.com'
+  - 'DOMAIN-SUFFIX,valve.net'
   - 'DOMAIN-SUFFIX,wii-u.com'
   - 'DOMAIN-SUFFIX,wiivc.net'
   - 'DOMAIN-SUFFIX,amiibo.com'
@@ -435,6 +437,7 @@ payload:
   - 'DOMAIN-SUFFIX,plantsvszombies2.com'
   - 'DOMAIN-SUFFIX,st.dl.bscstorage.net'
   - 'DOMAIN-SUFFIX,steam.eca.qtlglb.com'
+  - 'DOMAIN-SUFFIX,steamconnecttest.com'
   - 'DOMAIN-SUFFIX,steamusercontent.com'
   - 'DOMAIN-SUFFIX,supermariogalaxy.com'
   - 'DOMAIN-SUFFIX,teamneedforspeed.com'
@@ -586,7 +589,7 @@ payload:
   - 'DOMAIN-KEYWORD,steambroadcast'
   - 'DOMAIN-KEYWORD,steamuserimages'
 
-  # IP-CIDR (46 rules)
+  # IP-CIDR (58 rules)
   - 'IP-CIDR,103.4.114.233/32'
   - 'IP-CIDR,103.4.115.248/32'
   - 'IP-CIDR,13.210.25.233/32'
@@ -632,4 +635,16 @@ payload:
   - 'IP-CIDR,54.207.168.84/32'
   - 'IP-CIDR,54.248.64.192/32'
   - 'IP-CIDR,54.94.196.47/32'
+  - 'IP-CIDR,103.28.54.0/24'
+  - 'IP-CIDR,146.66.152.0/24'
+  - 'IP-CIDR,146.66.155.0/24'
+  - 'IP-CIDR,205.196.6.0/24'
+  - 'IP-CIDR,45.121.184.0/24'
+  - 'IP-CIDR,103.10.124.0/23'
+  - 'IP-CIDR,185.25.180.0/22'
+  - 'IP-CIDR,192.69.96.0/22'
+  - 'IP-CIDR,208.64.200.0/22'
+  - 'IP-CIDR,208.78.164.0/22'
+  - 'IP-CIDR,162.254.192.0/21'
+  - 'IP-CIDR,155.133.224.0/19'
   - 'IP-CIDR,35.192.0.0/12'

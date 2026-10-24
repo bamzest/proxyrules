@@ -12,9 +12,11 @@ payload:
   - 'DOMAIN,steamuserimages-a.akamaihd.net'
   - 'DOMAIN,steamusercontent-a.akamaihd.net'
 
-  # DOMAIN-SUFFIX (55 rules)
+  # DOMAIN-SUFFIX (58 rules)
   - 'DOMAIN-SUFFIX,s.team'
   - 'DOMAIN-SUFFIX,steam.tv'
+  - 'DOMAIN-SUFFIX,dota2.com'
+  - 'DOMAIN-SUFFIX,valve.net'
   - 'DOMAIN-SUFFIX,csgo.wmsj.cn'
   - 'DOMAIN-SUFFIX,steamstat.us'
   - 'DOMAIN-SUFFIX,dota2.wmsj.cn'
@@ -42,6 +44,7 @@ payload:
   - 'DOMAIN-SUFFIX,steam.ru.qtlglb.com'
   - 'DOMAIN-SUFFIX,st.dl.bscstorage.net'
   - 'DOMAIN-SUFFIX,steam.eca.qtlglb.com'
+  - 'DOMAIN-SUFFIX,steamconnecttest.com'
   - 'DOMAIN-SUFFIX,steamusercontent.com'
   - 'DOMAIN-SUFFIX,st.dl.pinyuncloud.com'
   - 'DOMAIN-SUFFIX,steam.apac.qtlglb.com'
@@ -73,3 +76,17 @@ payload:
   - 'DOMAIN-KEYWORD,steamstore'
   - 'DOMAIN-KEYWORD,steambroadcast'
   - 'DOMAIN-KEYWORD,steamuserimages'
+
+  # IP-CIDR (12 rules)
+  - 'IP-CIDR,103.28.54.0/24,no-resolve'
+  - 'IP-CIDR,146.66.152.0/24,no-resolve'
+  - 'IP-CIDR,146.66.155.0/24,no-resolve'
+  - 'IP-CIDR,205.196.6.0/24,no-resolve'
+  - 'IP-CIDR,45.121.184.0/24,no-resolve'
+  - 'IP-CIDR,103.10.124.0/23,no-resolve'
+  - 'IP-CIDR,185.25.180.0/22,no-resolve'
+  - 'IP-CIDR,192.69.96.0/22,no-resolve'
+  - 'IP-CIDR,208.64.200.0/22,no-resolve'
+  - 'IP-CIDR,208.78.164.0/22,no-resolve'
+  - 'IP-CIDR,162.254.192.0/21,no-resolve'
+  - 'IP-CIDR,155.133.224.0/19,no-resolve'

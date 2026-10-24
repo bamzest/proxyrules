@@ -10,7 +10,7 @@ DOMAIN-KEYWORD,steamstore
 DOMAIN-KEYWORD,steambroadcast
 DOMAIN-KEYWORD,steamuserimages
 
-# IP-CIDR (46 rules)
+# IP-CIDR (58 rules)
 IP-CIDR,103.4.114.233/32,no-resolve
 IP-CIDR,103.4.115.248/32,no-resolve
 IP-CIDR,13.210.25.233/32,no-resolve
@@ -56,4 +56,16 @@ IP-CIDR,54.207.107.12/32,no-resolve
 IP-CIDR,54.207.168.84/32,no-resolve
 IP-CIDR,54.248.64.192/32,no-resolve
 IP-CIDR,54.94.196.47/32,no-resolve
+IP-CIDR,103.28.54.0/24,no-resolve
+IP-CIDR,146.66.152.0/24,no-resolve
+IP-CIDR,146.66.155.0/24,no-resolve
+IP-CIDR,205.196.6.0/24,no-resolve
+IP-CIDR,45.121.184.0/24,no-resolve
+IP-CIDR,103.10.124.0/23,no-resolve
+IP-CIDR,185.25.180.0/22,no-resolve
+IP-CIDR,192.69.96.0/22,no-resolve
+IP-CIDR,208.64.200.0/22,no-resolve
+IP-CIDR,208.78.164.0/22,no-resolve
+IP-CIDR,162.254.192.0/21,no-resolve
+IP-CIDR,155.133.224.0/19,no-resolve
 IP-CIDR,35.192.0.0/12,no-resolve
