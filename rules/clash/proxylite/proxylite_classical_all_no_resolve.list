@@ -38,7 +38,7 @@ DOMAIN,self.events.data.microsoft.com
 DOMAIN,steamuserimages-a.akamaihd.net
 DOMAIN,steamusercontent-a.akamaihd.net
 
-# DOMAIN-SUFFIX (949 rules)
+# DOMAIN-SUFFIX (960 rules)
 DOMAIN-SUFFIX,eu
 DOMAIN-SUFFIX,hk
 DOMAIN-SUFFIX,jp
@@ -439,6 +439,7 @@ DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,behance.net
+DOMAIN-SUFFIX,bikaios.xyz
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,bintray.com
 DOMAIN-SUFFIX,bithumb.com
@@ -484,6 +485,7 @@ DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,owltail.com
 DOMAIN-SUFFIX,paoluz.link
 DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pica-id.com
 DOMAIN-SUFFIX,pinboard.in
 DOMAIN-SUFFIX,podbean.com
 DOMAIN-SUFFIX,pokemon.com
@@ -547,6 +549,7 @@ DOMAIN-SUFFIX,anaconda.com
 DOMAIN-SUFFIX,ancsconf.org
 DOMAIN-SUFFIX,archives.gov
 DOMAIN-SUFFIX,bandcamp.com
+DOMAIN-SUFFIX,bidobido.xyz
 DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitshare.com
@@ -562,13 +565,16 @@ DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,dditscdn.com
 DOMAIN-SUFFIX,deadline.com
+DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dribbble.com
+DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,evernote.com
+DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,fastmail.com
 DOMAIN-SUFFIX,fbaddins.com
@@ -625,6 +631,7 @@ DOMAIN-SUFFIX,teddysun.com
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,tinychat.com
+DOMAIN-SUFFIX,tipatipa.xyz
 DOMAIN-SUFFIX,togetter.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tutanota.com
@@ -637,6 +644,7 @@ DOMAIN-SUFFIX,videomega.tv
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,webfreer.com
 DOMAIN-SUFFIX,websnapr.com
+DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikiwand.com
@@ -763,6 +771,7 @@ DOMAIN-SUFFIX,appshopper.com
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,bbtoystore.com
+DOMAIN-SUFFIX,bikawebapp.com
 DOMAIN-SUFFIX,buzzsprout.com
 DOMAIN-SUFFIX,cdn.angruo.com
 DOMAIN-SUFFIX,chaturbate.com
@@ -786,10 +795,12 @@ DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,howtoforge.com
+DOMAIN-SUFFIX,huakacomic.com
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,livejasmin.com
 DOMAIN-SUFFIX,livestream.com
 DOMAIN-SUFFIX,macromedia.com
+DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,netdna-cdn.com
