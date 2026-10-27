@@ -9,7 +9,7 @@ DOMAIN,lf16-pkgcdn.pitaya-clientai.com
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,lf16-effectcdn.byteeffecttos-g.com
 
-# DOMAIN-SUFFIX (428 rules)
+# DOMAIN-SUFFIX (429 rules)
 DOMAIN-SUFFIX,bcy.net
 DOMAIN-SUFFIX,dou.top
 DOMAIN-SUFFIX,trae.ai
@@ -340,6 +340,7 @@ DOMAIN-SUFFIX,bytedanceoss.net
 DOMAIN-SUFFIX,bytedancevod.com
 DOMAIN-SUFFIX,bytesmanager.com
 DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,capcutcdn-us.com
 DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,dongchediapp.com

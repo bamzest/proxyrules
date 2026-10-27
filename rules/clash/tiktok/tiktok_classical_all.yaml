@@ -10,7 +10,7 @@ payload:
   - 'DOMAIN,p16-tiktokcdn-com.akamaized.net'
   - 'DOMAIN,lf16-effectcdn.byteeffecttos-g.com'
 
-  # DOMAIN-SUFFIX (28 rules)
+  # DOMAIN-SUFFIX (29 rules)
   - 'DOMAIN-SUFFIX,trae.ai'
   - 'DOMAIN-SUFFIX,capcut.com'
   - 'DOMAIN-SUFFIX,muscdn.com'
@@ -36,6 +36,7 @@ payload:
   - 'DOMAIN-SUFFIX,byteintlapi.com'
   - 'DOMAIN-SUFFIX,byteoversea.com'
   - 'DOMAIN-SUFFIX,tiktokmusic.app'
+  - 'DOMAIN-SUFFIX,capcutcdn-us.com'
   - 'DOMAIN-SUFFIX,capcutstatic.com'
   - 'DOMAIN-SUFFIX,tiktokcdn-us.com'
   - 'DOMAIN-SUFFIX,bytegecko-i18n.com'

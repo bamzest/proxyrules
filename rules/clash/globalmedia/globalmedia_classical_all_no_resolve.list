@@ -92,7 +92,7 @@ DOMAIN,images-daznservices-com.cdn.ampproject.org
 DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 DOMAIN,7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com
 
-# DOMAIN-SUFFIX (1443 rules)
+# DOMAIN-SUFFIX (1444 rules)
 DOMAIN-SUFFIX,bbc
 DOMAIN-SUFFIX,cbs
 DOMAIN-SUFFIX,fox
@@ -1069,6 +1069,7 @@ DOMAIN-SUFFIX,applenews.berlin
 DOMAIN-SUFFIX,appletvapp.apple
 DOMAIN-SUFFIX,bbcverticals.com
 DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,capcutcdn-us.com
 DOMAIN-SUFFIX,capcutstatic.com
 DOMAIN-SUFFIX,daznservices.com
 DOMAIN-SUFFIX,dengeamerika.com

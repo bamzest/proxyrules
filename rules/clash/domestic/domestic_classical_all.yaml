@@ -63,7 +63,7 @@ payload:
   - 'DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com'
   - 'DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com'
 
-  # DOMAIN-SUFFIX (12854 rules)
+  # DOMAIN-SUFFIX (12855 rules)
   - 'DOMAIN-SUFFIX,3.cn'
   - 'DOMAIN-SUFFIX,6.cn'
   - 'DOMAIN-SUFFIX,f.cx'
@@ -10808,6 +10808,7 @@ payload:
   - 'DOMAIN-SUFFIX,caocaojourney.cc'
   - 'DOMAIN-SUFFIX,caocaoproduct.cc'
   - 'DOMAIN-SUFFIX,caocaoservice.cc'
+  - 'DOMAIN-SUFFIX,capcutcdn-us.com'
   - 'DOMAIN-SUFFIX,capcutstatic.com'
   - 'DOMAIN-SUFFIX,cdnhwcibv122.com'
   - 'DOMAIN-SUFFIX,cfmeutencent.com'
