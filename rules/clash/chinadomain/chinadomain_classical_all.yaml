@@ -304,7 +304,7 @@ payload:
   - 'DOMAIN,edge.music-choice-play-chaina1.top.comcast.net'
   - 'DOMAIN,sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net'
 
-  # DOMAIN-SUFFIX (110446 rules)
+  # DOMAIN-SUFFIX (110448 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -68762,6 +68762,7 @@ payload:
   - 'DOMAIN-SUFFIX,kakadown.com'
   - 'DOMAIN-SUFFIX,kakalili.com'
   - 'DOMAIN-SUFFIX,kakamobi.com'
+  - 'DOMAIN-SUFFIX,kakaxing.com'
   - 'DOMAIN-SUFFIX,kalading.com'
   - 'DOMAIN-SUFFIX,kalefans.com'
   - 'DOMAIN-SUFFIX,kalifang.com'
@@ -88768,6 +88769,7 @@ payload:
   - 'DOMAIN-SUFFIX,fibercrops.com'
   - 'DOMAIN-SUFFIX,fifaschool.com'
   - 'DOMAIN-SUFFIX,filcochina.com'
+  - 'DOMAIN-SUFFIX,filmorigin.com'
   - 'DOMAIN-SUFFIX,finaltheory.me'
   - 'DOMAIN-SUFFIX,finance365.com'
   - 'DOMAIN-SUFFIX,findlawimg.com'
@@ -110781,7 +110783,7 @@ payload:
   - 'DOMAIN-KEYWORD,.tmall.com'
   - 'DOMAIN-KEYWORD,chinacache'
 
-  # IP-CIDR (8263 rules)
+  # IP-CIDR (8262 rules)
   - 'IP-CIDR,0.0.0.0/32'
   - 'IP-CIDR,1.12.12.12/32'
   - 'IP-CIDR,1.245.74.5/32'
@@ -112670,7 +112672,6 @@ payload:
   - 'IP-CIDR,154.209.251.0/24'
   - 'IP-CIDR,154.72.44.0/24'
   - 'IP-CIDR,154.72.47.0/24'
-  - 'IP-CIDR,154.84.180.0/24'
   - 'IP-CIDR,156.107.170.0/24'
   - 'IP-CIDR,156.227.20.0/24'
   - 'IP-CIDR,156.227.239.0/24'
@@ -112754,7 +112755,6 @@ payload:
   - 'IP-CIDR,173.44.2.0/24'
   - 'IP-CIDR,173.44.6.0/24'
   - 'IP-CIDR,174.35.117.0/24'
-  - 'IP-CIDR,175.45.179.0/24'
   - 'IP-CIDR,176.56.38.0/24'
   - 'IP-CIDR,178.236.232.0/24'
   - 'IP-CIDR,178.236.234.0/24'
@@ -114325,6 +114325,7 @@ payload:
   - 'IP-CIDR,173.44.26.0/23'
   - 'IP-CIDR,173.44.4.0/23'
   - 'IP-CIDR,174.35.58.0/23'
+  - 'IP-CIDR,175.45.178.0/23'
   - 'IP-CIDR,180.92.176.0/23'
   - 'IP-CIDR,182.160.60.0/23'
   - 'IP-CIDR,183.91.48.0/23'

@@ -98,7 +98,7 @@ payload:
   - 'DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net'
   - 'DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com'
 
-  # DOMAIN-SUFFIX (109935 rules)
+  # DOMAIN-SUFFIX (109937 rules)
   - 'DOMAIN-SUFFIX,cn'
   - 'DOMAIN-SUFFIX,ms'
   - 'DOMAIN-SUFFIX,yun'
@@ -68759,6 +68759,7 @@ payload:
   - 'DOMAIN-SUFFIX,kakadown.com'
   - 'DOMAIN-SUFFIX,kakalili.com'
   - 'DOMAIN-SUFFIX,kakamobi.com'
+  - 'DOMAIN-SUFFIX,kakaxing.com'
   - 'DOMAIN-SUFFIX,kalading.com'
   - 'DOMAIN-SUFFIX,kalefans.com'
   - 'DOMAIN-SUFFIX,kalifang.com'
@@ -88396,6 +88397,7 @@ payload:
   - 'DOMAIN-SUFFIX,fibercrops.com'
   - 'DOMAIN-SUFFIX,fifaschool.com'
   - 'DOMAIN-SUFFIX,filcochina.com'
+  - 'DOMAIN-SUFFIX,filmorigin.com'
   - 'DOMAIN-SUFFIX,finaltheory.me'
   - 'DOMAIN-SUFFIX,finance365.com'
   - 'DOMAIN-SUFFIX,findlawimg.com'

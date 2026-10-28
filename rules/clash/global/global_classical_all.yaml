@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (142 rules)
+  # DOMAIN (144 rules)
   - 'DOMAIN,rss.owo.nz'
   - 'DOMAIN,i.jeded.com'
   - 'DOMAIN,lab.skk.moe'
@@ -117,7 +117,9 @@ payload:
   - 'DOMAIN,medone-education.thieme.com'
   - 'DOMAIN,ocsp.int-x3.letsencrypt.org'
   - 'DOMAIN,d3c33hcgiwev3.cloudfront.net'
+  - 'DOMAIN,dc.services.visualstudio.com'
   - 'DOMAIN,github.global.ssl.fastly.net'
+  - 'DOMAIN,rt.services.visualstudio.com'
   - 'DOMAIN,standchartbank.sc.omtrdc.net'
   - 'DOMAIN,standchartbank.tt.omtrdc.net'
   - 'DOMAIN,vsmarketplacebadge.apphb.com'
@@ -148,7 +150,7 @@ payload:
   - 'DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net'
   - 'DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com'
 
-  # DOMAIN-SUFFIX (34994 rules)
+  # DOMAIN-SUFFIX (35003 rules)
   - 'DOMAIN-SUFFIX,d.pr'
   - 'DOMAIN-SUFFIX,g.ai'
   - 'DOMAIN-SUFFIX,g.co'
@@ -838,6 +840,7 @@ payload:
   - 'DOMAIN-SUFFIX,dabr.eu'
   - 'DOMAIN-SUFFIX,dabr.me'
   - 'DOMAIN-SUFFIX,dahl.su'
+  - 'DOMAIN-SUFFIX,dash.ai'
   - 'DOMAIN-SUFFIX,ddex.io'
   - 'DOMAIN-SUFFIX,deck.ly'
   - 'DOMAIN-SUFFIX,del.com'
@@ -10612,6 +10615,7 @@ payload:
   - 'DOMAIN-SUFFIX,dnsvisa.com'
   - 'DOMAIN-SUFFIX,dnvodcdn.me'
   - 'DOMAIN-SUFFIX,dobendan.de'
+  - 'DOMAIN-SUFFIX,docsend.com'
   - 'DOMAIN-SUFFIX,dogfart.com'
   - 'DOMAIN-SUFFIX,dojindb.net'
   - 'DOMAIN-SUFFIX,dolf.org.hk'
@@ -14649,6 +14653,7 @@ payload:
   - 'DOMAIN-SUFFIX,hedata.ac.uk'
   - 'DOMAIN-SUFFIX,hediip.ac.uk'
   - 'DOMAIN-SUFFIX,heijidi.life'
+  - 'DOMAIN-SUFFIX,hellofax.com'
   - 'DOMAIN-SUFFIX,hellotxt.com'
   - 'DOMAIN-SUFFIX,hendon.ac.uk'
   - 'DOMAIN-SUFFIX,henley.ac.uk'
@@ -18155,6 +18160,7 @@ payload:
   - 'DOMAIN-SUFFIX,hegre-art.com'
   - 'DOMAIN-SUFFIX,heiliao88.com'
   - 'DOMAIN-SUFFIX,hellomoto.com'
+  - 'DOMAIN-SUFFIX,hellosign.com'
   - 'DOMAIN-SUFFIX,hellporno.com'
   - 'DOMAIN-SUFFIX,helpshift.com'
   - 'DOMAIN-SUFFIX,hentai-ani.me'
@@ -18510,6 +18516,7 @@ payload:
   - 'DOMAIN-SUFFIX,lianjiajr.net'
   - 'DOMAIN-SUFFIX,liberapay.com'
   - 'DOMAIN-SUFFIX,liberapay.org'
+  - 'DOMAIN-SUFFIX,librewolf.dev'
   - 'DOMAIN-SUFFIX,librewolf.net'
   - 'DOMAIN-SUFFIX,lidecheng.com'
   - 'DOMAIN-SUFFIX,lifearc.ac.uk'
@@ -23370,6 +23377,7 @@ payload:
   - 'DOMAIN-SUFFIX,dreprobeats.com'
   - 'DOMAIN-SUFFIX,dropbox-dns.com'
   - 'DOMAIN-SUFFIX,dropboxmail.com'
+  - 'DOMAIN-SUFFIX,dropboxteam.com'
   - 'DOMAIN-SUFFIX,dtci.technology'
   - 'DOMAIN-SUFFIX,dudleycol.ac.uk'
   - 'DOMAIN-SUFFIX,dunstable.ac.uk'
@@ -25073,6 +25081,7 @@ payload:
   - 'DOMAIN-SUFFIX,actofunion.ac.uk'
   - 'DOMAIN-SUFFIX,adacollege.ac.uk'
   - 'DOMAIN-SUFFIX,adaptivecards.io'
+  - 'DOMAIN-SUFFIX,addtodropbox.com'
   - 'DOMAIN-SUFFIX,adguard-mail.com'
   - 'DOMAIN-SUFFIX,adidas-group.com'
   - 'DOMAIN-SUFFIX,adidasboxing.com'
@@ -25559,6 +25568,7 @@ payload:
   - 'DOMAIN-SUFFIX,drebeatspill.com'
   - 'DOMAIN-SUFFIX,drebeatssite.com'
   - 'DOMAIN-SUFFIX,dropboxforum.com'
+  - 'DOMAIN-SUFFIX,dropboxlegal.com'
   - 'DOMAIN-SUFFIX,drsunacademy.com'
   - 'DOMAIN-SUFFIX,dt-toolkit.ac.uk'
   - 'DOMAIN-SUFFIX,dtc-online.ac.uk'
@@ -32222,6 +32232,7 @@ payload:
   - 'DOMAIN-SUFFIX,drdreheadphonekey.com'
   - 'DOMAIN-SUFFIX,drdreprobeatssale.com'
   - 'DOMAIN-SUFFIX,drebeatsforsaleus.com'
+  - 'DOMAIN-SUFFIX,dropboxexperiment.com'
   - 'DOMAIN-SUFFIX,drunkenstepfather.com'
   - 'DOMAIN-SUFFIX,dubai-escort-list.com'
   - 'DOMAIN-SUFFIX,dynamicdialects.ac.uk'
