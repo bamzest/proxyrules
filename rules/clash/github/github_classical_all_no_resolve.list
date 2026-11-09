@@ -276,7 +276,7 @@ DOMAIN-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net
 # DOMAIN-KEYWORD (1 rules)
 DOMAIN-KEYWORD,github
 
-# IP-CIDR (5991 rules)
+# IP-CIDR (5996 rules)
 IP-CIDR,100.62.132.232/32,no-resolve
 IP-CIDR,100.62.139.158/32,no-resolve
 IP-CIDR,13.107.5.93/32,no-resolve
@@ -1273,6 +1273,8 @@ IP-CIDR,20.227.146.16/28,no-resolve
 IP-CIDR,20.227.146.224/28,no-resolve
 IP-CIDR,20.227.146.240/28,no-resolve
 IP-CIDR,20.227.147.64/28,no-resolve
+IP-CIDR,20.26.58.32/28,no-resolve
+IP-CIDR,20.26.68.64/28,no-resolve
 IP-CIDR,20.27.101.128/28,no-resolve
 IP-CIDR,20.27.163.208/28,no-resolve
 IP-CIDR,20.3.226.144/28,no-resolve
@@ -1325,6 +1327,8 @@ IP-CIDR,4.155.12.0/28,no-resolve
 IP-CIDR,4.155.240.32/28,no-resolve
 IP-CIDR,4.155.45.96/28,no-resolve
 IP-CIDR,4.155.74.48/28,no-resolve
+IP-CIDR,4.159.108.160/28,no-resolve
+IP-CIDR,4.159.197.192/28,no-resolve
 IP-CIDR,4.180.183.240/28,no-resolve
 IP-CIDR,4.186.157.192/28,no-resolve
 IP-CIDR,4.187.247.160/28,no-resolve
@@ -1372,6 +1376,7 @@ IP-CIDR,4.234.135.160/28,no-resolve
 IP-CIDR,4.234.135.48/28,no-resolve
 IP-CIDR,4.234.197.192/28,no-resolve
 IP-CIDR,4.234.199.224/28,no-resolve
+IP-CIDR,4.234.31.32/28,no-resolve
 IP-CIDR,4.236.95.112/28,no-resolve
 IP-CIDR,4.240.18.224/28,no-resolve
 IP-CIDR,4.240.19.128/28,no-resolve
