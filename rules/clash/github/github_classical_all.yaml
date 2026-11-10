@@ -4,7 +4,7 @@
 # Rules are optimized and sorted for best performance
 payload:
 
-  # DOMAIN (226 rules)
+  # DOMAIN (233 rules)
   - 'DOMAIN,ghcr.io'
   - 'DOMAIN,github.com'
   - 'DOMAIN,api.github.com'
@@ -52,6 +52,7 @@ payload:
   - 'DOMAIN,productionresultssa8.blob.core.windows.net'
   - 'DOMAIN,productionresultssa9.blob.core.windows.net'
   - 'DOMAIN,github-registry-files.githubusercontent.com'
+  - 'DOMAIN,production-copilot-host.webpubsub.azure.com'
   - 'DOMAIN,productionresultssa10.blob.core.windows.net'
   - 'DOMAIN,productionresultssa11.blob.core.windows.net'
   - 'DOMAIN,productionresultssa12.blob.core.windows.net'
@@ -224,6 +225,12 @@ payload:
   - 'DOMAIN,pipelinesghubeus26.actions.githubusercontent.com'
   - 'DOMAIN,pipelinesproxwus31.actions.githubusercontent.com'
   - 'DOMAIN,pipelinesproxwus32.actions.githubusercontent.com'
+  - 'DOMAIN,production-copilot-host-westus.webpubsub.azure.com'
+  - 'DOMAIN,production-copilot-host-westus3.webpubsub.azure.com'
+  - 'DOMAIN,production-copilot-host-eastasia.webpubsub.azure.com'
+  - 'DOMAIN,production-copilot-host-centralus.webpubsub.azure.com'
+  - 'DOMAIN,production-copilot-host-austriaeast.webpubsub.azure.com'
+  - 'DOMAIN,production-copilot-host-centralus-02.webpubsub.azure.com'
   - 'DOMAIN,run-actions-1-azure-eastus.actions.githubusercontent.com'
   - 'DOMAIN,run-actions-2-azure-eastus.actions.githubusercontent.com'
   - 'DOMAIN,run-actions-3-azure-eastus.actions.githubusercontent.com'
