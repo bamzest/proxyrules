@@ -1,0 +1,11 @@
+# hearthstone - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # IP-CIDR (4 rules)
+  - 'IP-CIDR,182.162.132.1/32,no-resolve'
+  - 'IP-CIDR,185.60.112.157/32,no-resolve'
+  - 'IP-CIDR,185.60.112.158/32,no-resolve'
+  - 'IP-CIDR,24.105.30.129/32,no-resolve'

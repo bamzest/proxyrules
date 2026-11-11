@@ -8,7 +8,7 @@ payload:
   # DOMAIN-KEYWORD (1 rules)
   - 'DOMAIN-KEYWORD,github'
 
-  # IP-CIDR (5996 rules)
+  # IP-CIDR (5991 rules)
   - 'IP-CIDR,100.62.132.232/32,no-resolve'
   - 'IP-CIDR,100.62.139.158/32,no-resolve'
   - 'IP-CIDR,13.107.5.93/32,no-resolve'
@@ -56,11 +56,6 @@ payload:
   - 'IP-CIDR,20.200.245.247/32,no-resolve'
   - 'IP-CIDR,20.200.245.248/32,no-resolve'
   - 'IP-CIDR,20.200.245.249/32,no-resolve'
-  - 'IP-CIDR,20.201.28.144/32,no-resolve'
-  - 'IP-CIDR,20.201.28.148/32,no-resolve'
-  - 'IP-CIDR,20.201.28.151/32,no-resolve'
-  - 'IP-CIDR,20.201.28.152/32,no-resolve'
-  - 'IP-CIDR,20.201.28.153/32,no-resolve'
   - 'IP-CIDR,20.205.243.160/32,no-resolve'
   - 'IP-CIDR,20.205.243.161/32,no-resolve'
   - 'IP-CIDR,20.205.243.164/32,no-resolve'

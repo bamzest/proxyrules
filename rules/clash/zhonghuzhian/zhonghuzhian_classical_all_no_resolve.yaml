@@ -1,0 +1,12 @@
+# zhonghuzhian - Classical Format (All Rules)
+# Includes all rule types
+# IP-CIDR rules include 'no-resolve' parameter
+# Rules are optimized and sorted for best performance
+payload:
+
+  # DOMAIN-SUFFIX (5 rules)
+  - 'DOMAIN-SUFFIX,zjjh.org.cn'
+  - 'DOMAIN-SUFFIX,lapsn.com.cn'
+  - 'DOMAIN-SUFFIX,zxbigdata.cn'
+  - 'DOMAIN-SUFFIX,zhdatasec.com'
+  - 'DOMAIN-SUFFIX,mobileservice.cn'
