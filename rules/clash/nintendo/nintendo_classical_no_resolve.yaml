@@ -4,6 +4,4 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-
-  # IP-CIDR (1 rules)
-  - 'IP-CIDR,35.192.0.0/12,no-resolve'
+  # 无规则内容，自动生成占位

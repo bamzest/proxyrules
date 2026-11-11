@@ -4,6 +4,4 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 payload:
-
-  # IP-ASN (1 rules)
-  - 'IP-ASN,132203,no-resolve'
+  # 无规则内容，自动生成占位
