@@ -270,6 +270,7 @@ payload:
   - '+.vscode-webview.net'
   - '+.githubhackathon.com'
   - '+.githubusercontent.com'
+  - '+.wps.githubcopilot.com'
   - '+.actions.githubusercontent.com'
   - '+.github-cloud.s3.amazonaws.com'
   - '+.github-avatars.oss-cn-hongkong.aliyuncs.com'

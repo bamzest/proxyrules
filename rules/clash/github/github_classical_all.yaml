@@ -241,7 +241,7 @@ payload:
   - 'DOMAIN,hosted-compute-request-orchestrator-prod-iad-01.githubapp.com'
   - 'DOMAIN,hosted-compute-request-orchestrator-prod-iad-02.githubapp.com'
 
-  # DOMAIN-SUFFIX (40 rules)
+  # DOMAIN-SUFFIX (41 rules)
   - 'DOMAIN-SUFFIX,git.io'
   - 'DOMAIN-SUFFIX,atom.io'
   - 'DOMAIN-SUFFIX,ghcr.io'
@@ -278,6 +278,7 @@ payload:
   - 'DOMAIN-SUFFIX,vscode-webview.net'
   - 'DOMAIN-SUFFIX,githubhackathon.com'
   - 'DOMAIN-SUFFIX,githubusercontent.com'
+  - 'DOMAIN-SUFFIX,wps.githubcopilot.com'
   - 'DOMAIN-SUFFIX,actions.githubusercontent.com'
   - 'DOMAIN-SUFFIX,github-cloud.s3.amazonaws.com'
   - 'DOMAIN-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com'
