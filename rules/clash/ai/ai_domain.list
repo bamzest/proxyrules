@@ -13,7 +13,10 @@ api.githubcopilot.com
 apple-relay.apple.com
 notebooklm.google.com
 gateway.ai.cloudflare.com
+notebooklm-pa.googleapis.com
 openaiapi-site.azureedge.net
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 alkalicore-pa.clients6.google.com
 generativelanguage.googleapis.com
 copilot-proxy.githubusercontent.com
@@ -22,6 +25,7 @@ openaicomproductionae4b.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 +.x.ai
 +.ai.com
++.clau.de
 +.dify.ai
 +.meta.ai
 +.poe.com

@@ -3,7 +3,7 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-SUFFIX (564 rules)
+# DOMAIN-SUFFIX (567 rules)
 DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,86.cc
 DOMAIN-SUFFIX,8ox.cn
@@ -147,6 +147,7 @@ DOMAIN-SUFFIX,mobgi.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,mxpnl.com
+DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,qiyou.com
 DOMAIN-SUFFIX,qxxys.com
 DOMAIN-SUFFIX,rlcdn.com
@@ -538,6 +539,7 @@ DOMAIN-SUFFIX,iperceptions.com
 DOMAIN-SUFFIX,leadboltapps.net
 DOMAIN-SUFFIX,mobilityware.com
 DOMAIN-SUFFIX,networkbench.com
+DOMAIN-SUFFIX,openxmarket.asia
 DOMAIN-SUFFIX,propellerads.com
 DOMAIN-SUFFIX,social-touch.com
 DOMAIN-SUFFIX,thoughtleadr.com
@@ -560,6 +562,7 @@ DOMAIN-SUFFIX,gridsumdissector.cn
 DOMAIN-SUFFIX,millennialmedia.com
 DOMAIN-SUFFIX,mobileadtrading.com
 DOMAIN-SUFFIX,nylalobghyhirgh.com
+DOMAIN-SUFFIX,openxenterprise.com
 DOMAIN-SUFFIX,steelhousemedia.com
 DOMAIN-SUFFIX,effectivemeasure.com
 DOMAIN-SUFFIX,effectivemeasure.net
@@ -569,9 +572,8 @@ DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,navi.gd.chinamobile.com
 DOMAIN-SUFFIX,customer-security.online
 
-# DOMAIN-KEYWORD (24 rules)
+# DOMAIN-KEYWORD (23 rules)
 DOMAIN-KEYWORD,domob
-DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,adsage
 DOMAIN-KEYWORD,omgmta

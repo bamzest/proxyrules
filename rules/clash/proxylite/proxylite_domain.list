@@ -1,18 +1,28 @@
 api.msn.com
 lab.skk.moe
+api.groq.com
 tv.apple.com
+ai.google.dev
 api.waqi.info
 aqi.aqicn.org
 wego.here.com
 assets.msn.com
+bard.google.com
 books.apple.com
+sydney.bing.com
+api.together.xyz
+console.groq.com
+gemini.google.com
 addons.mozilla.org
 search.yahoo.co.jp
+aistudio.google.com
 assets1.xboxlive.com
 assets2.xboxlive.com
 beta.music.apple.com
+api.githubcopilot.com
 cdp.cloud.unity3d.com
 copilot.microsoft.com
+notebooklm.google.com
 az416426.vo.msecnd.net
 az668014.vo.msecnd.net
 location.microsoft.com
@@ -23,6 +33,7 @@ login.microsoftonline.com
 steamstore-a.akamaihd.net
 amp-api.podcasts.apple.com
 ocsp.int-x3.letsencrypt.org
+notebooklm-pa.googleapis.com
 steambroadcast.akamaized.net
 d1q6f0aelx0por.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
@@ -30,7 +41,11 @@ d36jcksde1wxzq.cloudfront.net
 steamcommunity-a.akamaihd.net
 self.events.data.microsoft.com
 steamuserimages-a.akamaihd.net
+geminiweb-pa.clients.google.com
 steamusercontent-a.akamaihd.net
+geminiweb-pa.clients6.google.com
+generativelanguage.googleapis.com
+copilot-proxy.githubusercontent.com
 +.eu
 +.hk
 +.jp
@@ -45,6 +60,7 @@ steamusercontent-a.akamaihd.net
 +.t.co
 +.t.me
 +.v.gd
++.x.ai
 +.x.co
 +.c.gle
 +.cl.ly
@@ -102,6 +118,7 @@ steamusercontent-a.akamaihd.net
 +.bit.com
 +.box.com
 +.box.net
++.clau.de
 +.clyp.it
 +.cnn.com
 +.disq.us
@@ -117,6 +134,7 @@ steamusercontent-a.akamaihd.net
 +.line.me
 +.mega.io
 +.mega.nz
++.meta.ai
 +.moon.fm
 +.nih.gov
 +.nimg.jp
@@ -163,6 +181,7 @@ steamusercontent-a.akamaihd.net
 +.fb.watch
 +.fzlm.net
 +.gongm.in
++.grok.com
 +.gvt0.com
 +.gvt1.com
 +.gvt2.com
@@ -184,6 +203,7 @@ steamusercontent-a.akamaihd.net
 +.paste.ee
 +.prfct.co
 +.scmp.com
++.sora.com
 +.t66y.com
 +.time.com
 +.tmblr.co
@@ -206,6 +226,7 @@ steamusercontent-a.akamaihd.net
 +.ahcdn.com
 +.amazon.co
 +.anchor.fm
++.auth0.com
 +.avgle.com
 +.axios.com
 +.badoo.com
@@ -218,6 +239,7 @@ steamusercontent-a.akamaihd.net
 +.claude.ai
 +.clien.net
 +.conoha.jp
++.cursor.sh
 +.danilo.to
 +.dayone.me
 +.dmm.co.jp
@@ -235,6 +257,7 @@ steamusercontent-a.akamaihd.net
 +.github.ai
 +.github.io
 +.gitlab.io
++.grazie.ai
 +.hackmd.io
 +.huobi.com
 +.icntv.xyz
@@ -265,6 +288,7 @@ steamusercontent-a.akamaihd.net
 +.pximg.net
 +.quora.com
 +.sb-cd.com
++.sentry.io
 +.slack.com
 +.spike.com
 +.spring.io
@@ -329,8 +353,10 @@ steamusercontent-a.akamaihd.net
 +.castbox.fm
 +.census.gov
 +.change.org
++.claude.com
 +.cna.com.tw
 +.crisp.chat
++.cursor.com
 +.cygames.jp
 +.daolan.net
 +.discord.co
@@ -368,6 +394,7 @@ steamusercontent-a.akamaihd.net
 +.matrix.org
 +.medium.com
 +.mega.co.nz
++.mistral.ai
 +.modmyi.com
 +.neowin.net
 +.nhncorp.jp
@@ -394,6 +421,7 @@ steamusercontent-a.akamaihd.net
 +.sndcdn.com
 +.spiegel.de
 +.spring.net
++.stripe.com
 +.tabtter.jp
 +.telegra.ph
 +.telesco.pe
@@ -441,6 +469,7 @@ steamusercontent-a.akamaihd.net
 +.blogspot.hk
 +.blogspot.jp
 +.blubrry.com
++.chatgpt.com
 +.cmail19.com
 +.discord.com
 +.dropbox.com
@@ -460,6 +489,7 @@ steamusercontent-a.akamaihd.net
 +.hoyolab.com
 +.i-cable.com
 +.ingress.com
++.intercom.io
 +.ixquick.com
 +.kakao.co.kr
 +.lithium.com
@@ -534,6 +564,7 @@ steamusercontent-a.akamaihd.net
 +.abpchina.org
 +.adobedtm.com
 +.aerisapi.com
++.ai.azure.com
 +.airtable.com
 +.akamaihd.net
 +.amazon.co.jp
@@ -576,6 +607,7 @@ steamusercontent-a.akamaihd.net
 +.gravatar.com
 +.huffpost.com
 +.imtoken.fans
++.jetbrains.ai
 +.justpaste.it
 +.kakaocdn.net
 +.kenengba.com
@@ -696,6 +728,7 @@ steamusercontent-a.akamaihd.net
 +.hootsuite.com
 +.hoyoverse.com
 +.id.heroku.com
++.identrust.com
 +.imageshack.us
 +.inoreader.com
 +.instagram.com
@@ -718,11 +751,13 @@ steamusercontent-a.akamaihd.net
 +.netmarble.com
 +.newyorker.com
 +.nextmedia.com
++.oaistatic.com
 +.oculuscdn.com
 +.omnigroup.com
 +.paddleapi.com
 +.parallels.com
 +.pdfexpert.com
++.perplexity.ai
 +.picacomic.com
 +.pinterest.com
 +.proxifier.com
@@ -843,6 +878,7 @@ steamusercontent-a.akamaihd.net
 +.android-x86.org
 +.api.termius.com
 +.api.tiktokv.com
++.bard.google.com
 +.bitcointalk.org
 +.cdn.segment.com
 +.compose-spec.io
@@ -855,6 +891,7 @@ steamusercontent-a.akamaihd.net
 +.getpricetag.com
 +.goodreaders.com
 +.gunsamerica.com
++.intercomcdn.com
 +.istockphoto.com
 +.justgetflux.com
 +.lightboxcdn.com
@@ -901,6 +938,7 @@ steamusercontent-a.akamaihd.net
 +.culturalspot.org
 +.culturedcode.com
 +.encyclopedia.com
++.featuregates.org
 +.getfoxyproxy.org
 +.ghostnoteapp.com
 +.githubassets.com
@@ -935,12 +973,14 @@ steamusercontent-a.akamaihd.net
 +.dropboxstatic.com
 +.foreignpolicy.com
 +.freeopenproxy.com
++.gemini.google.com
 +.githubsupport.com
 +.independent.co.uk
 +.instructables.com
 +.joinclubhouse.com
 +.livefilestore.com
 +.mvnrepository.com
++.notebooklm.google
 +.onedrive.live.com
 +.puffinbrowser.com
 +.sidelinesnews.com
@@ -957,6 +997,7 @@ steamusercontent-a.akamaihd.net
 +.content.office.net
 +.foreignaffairs.com
 +.gate.hockeyapp.net
++.oaiusercontent.com
 +.pornhubpremium.com
 +.smartmailcloud.com
 +.steamcommunity.com
@@ -980,14 +1021,23 @@ steamusercontent-a.akamaihd.net
 +.youtube-nocookie.com
 +.anthonycalzadilla.com
 +.chinadigitaltimes.net
++.claudeusercontent.com
++.copilot.microsoft.com
++.events.statsigapi.net
 +.githubusercontent.com
++.makersuite.google.com
++.notebooklm.google.com
 +.oxfordscholarship.com
 +.cloud.cupronickel.goog
 +.dropboxusercontent.com
 +.playstationnetwork.com
 +.spoprod-a.akamaihd.net
++.copilot.cloud.microsoft
++.grazie.aws.intellij.net
 +.wikimediafoundation.org
 +.skydrive.wns.windows.com
 +.challenges.cloudflare.com
++.client-api.arkoselabs.com
 +.microsoftpersonalcontent.com
++.openaiapi-site.azureedge.net
 +.streaming.mediaservices.windows.net

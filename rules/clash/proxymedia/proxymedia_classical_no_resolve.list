@@ -4,14 +4,12 @@
 # IP-CIDR rules include 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (24 rules)
+# DOMAIN-KEYWORD (21 rules)
 DOMAIN-KEYWORD,nivod
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,bbcfmt
-DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,japonx
 DOMAIN-KEYWORD,olevod
-DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,japronx
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
@@ -19,7 +17,6 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,-spotify-
-DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,avoddashs
 DOMAIN-KEYWORD,hbogoasia
 DOMAIN-KEYWORD,tiktokcdn

@@ -4,9 +4,8 @@
 # IP-CIDR rules exclude 'no-resolve' parameter
 # Rules are optimized and sorted for best performance
 
-# DOMAIN-KEYWORD (24 rules)
+# DOMAIN-KEYWORD (23 rules)
 DOMAIN-KEYWORD,domob
-DOMAIN-KEYWORD,openx
 DOMAIN-KEYWORD,socdm
 DOMAIN-KEYWORD,adsage
 DOMAIN-KEYWORD,omgmta

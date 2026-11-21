@@ -1,10 +1,13 @@
 +.gcr.io
 +.quay.io
 +.cups.org
++.neon.com
 +.docker.io
++.figma.com
 +.gitlab.io
 +.jetbra.in
 +.maven.org
++.npmjs.com
 +.spring.io
 +.swift.org
 +.unpkg.com
@@ -14,6 +17,7 @@
 +.elastic.co
 +.gitlab.com
 +.jitpack.io
++.linear.app
 +.medium.com
 +.openai.com
 +.python.org
@@ -21,6 +25,7 @@
 +.redhat.com
 +.spring.net
 +.swiftui.cn
++.vercel.com
 +.webkit.org
 +.carekit.org
 +.elastic.com
